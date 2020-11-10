@@ -1,0 +1,659 @@
+{
+    "ifid": "6AFD5651-DBE2-450D-B0E2-44AB39BC71FC",
+    "name": "Game Off 2020 Outline",
+    "startNode": 1,
+    "creator": "Twine",
+    "creatorVersion": "2.3.9",
+    "format": "Harlowe",
+    "time": "2020-11-06T23:09:21.560Z",
+    "passages": [
+        {
+            "pid": 1,
+            "name": "Logging On",
+            "text": "<p>The player logs on, potentially playing a short \"boot up scene\" with sound effects (Think Windows boot up and the classic dial-up hum) and is brought to a web portal.</p>\n<p><%= links['3e6565c1b7cadac2d6377c0f57f6c37278280d43'] %> \n<%= links['80978ab303ee34e8d1915192389d0a789a1a8726'] %>\n<%= links['93dae7244249d006211c48d327557ec824438bac'] %> \n<%= links['f50a6e59fa4a61ddb8119860513a449c38b34a62'] %> \n<%= links['b4561f5b91e78d1da940a2b1d5485dcc62d05bb2'] %> </p>\n",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "3e6565c1b7cadac2d6377c0f57f6c37278280d43",
+                    "label": "Home Scape",
+                    "passageId": 3
+                },
+                {
+                    "id": "80978ab303ee34e8d1915192389d0a789a1a8726",
+                    "label": "Game Blast",
+                    "passageId": 4
+                },
+                {
+                    "id": "93dae7244249d006211c48d327557ec824438bac",
+                    "label": "Cool Zone",
+                    "passageId": 2
+                },
+                {
+                    "id": "f50a6e59fa4a61ddb8119860513a449c38b34a62",
+                    "label": "Email",
+                    "passageId": 5
+                },
+                {
+                    "id": "b4561f5b91e78d1da940a2b1d5485dcc62d05bb2",
+                    "label": "File Wire",
+                    "passageId": 6
+                }
+            ]
+        },
+        {
+            "pid": 2,
+            "name": "Cool Zone",
+            "text": "<p>The player checks their social media/messenger feed.</p>\n",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": []
+        },
+        {
+            "pid": 3,
+            "name": "Home Scape",
+            "text": "<p>The player checks their homepage featuring various news stories and clickbait articles.</p>\n",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": []
+        },
+        {
+            "pid": 4,
+            "name": "Game Blast",
+            "text": "The player signs into their video game forum account and checks some threads.",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "3ef651269a4dc063631f0c5b9be4c3ccbacc7cf2",
+                    "label": "Game Blast Chat 1",
+                    "passageId": 7
+                }
+            ]
+        },
+        {
+            "pid": 5,
+            "name": "Email",
+            "text": "<p>The player checks their email.</p>\n",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": []
+        },
+        {
+            "pid": 6,
+            "name": "File Wire",
+            "text": "<p>The player downloads illicitly obtained media files.</p>\n",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": []
+        },
+        {
+            "pid": 7,
+            "name": "Game Blast Chat 1",
+            "text": "What's the best NEXT GEN console? I've been thinking of retiring my old Direct Box and upgrading to something else. Thanks!",
+            "tags": [
+                {
+                    "user": "xXxsNiPeM@sTeRxXx:"
+                }
+            ],
+            "links": [
+                {
+                    "id": "9cdb955353450ad4f4806c2ad0eb966a51e7301c",
+                    "label": "SnideCooper's Reply",
+                    "passageId": 8
+                }
+            ]
+        },
+        {
+            "pid": 8,
+            "name": "SnideCooper's Reply",
+            "text": "Tony Play Box. That's the best console if you say it isn't, you have worms for brains.",
+            "tags": [
+                {
+                    "user": "SnideCooper"
+                }
+            ],
+            "links": [
+                {
+                    "id": "bb8a84f4d0b0334b218371c9e7357b2b1dd41861",
+                    "label": "Calm Reply GB1",
+                    "passageId": 9
+                },
+                {
+                    "id": "d96119bb9cdfdd1fd7f917af57d5ea2777ce2680",
+                    "label": "Angry Reply GB1",
+                    "passageId": 10
+                },
+                {
+                    "id": "b2262f2f92f4ed44df95314c71e165a4d265fd77",
+                    "label": "Sarcastic Reply GB1",
+                    "passageId": 11
+                },
+                {
+                    "id": "865da7261f7adde5817141d7de834a8833f24fe2",
+                    "label": "Ignore GB1",
+                    "passageId": 12
+                }
+            ]
+        },
+        {
+            "pid": 9,
+            "name": "Calm Reply GB1",
+            "text": "<p>You: I respect SnideCooper's opinion, but I personally prefer the entertainment and value you get with the Funtendo Y!",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "e77d3705837fb17ccc84b485d05a85678ca219e5",
+                    "label": "SnideCooper's Reply GB1",
+                    "passageId": 13
+                }
+            ]
+        },
+        {
+            "pid": 10,
+            "name": "Angry Reply GB1",
+            "text": "You: Well, the original, maybe, but the newest model, Tony Play Box 3 has next to no games. Phaze and Knick 2 are not worth $599.99, let alone their own $60 price tag",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "c014447492b14240936d7d1473350e5ba764faa3",
+                    "label": "SnideCooper's Reply GB1",
+                    "passageId": 13
+                }
+            ]
+        },
+        {
+            "pid": 11,
+            "name": "Sarcastic Reply GB1",
+            "text": "I also like to pay $600 for a paper weight.",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "f33e4fda244430c05560e8600e78d01befb3507c",
+                    "label": "SnideCooper's Reply GB1",
+                    "passageId": 13
+                }
+            ]
+        },
+        {
+            "pid": 12,
+            "name": "Ignore GB1",
+            "text": "Waveracer2099: I think the Tony Game Box 3 and the Funtendo Y both have their merits! The Tony Game Box 3 has the potential for high definition gaming and media experiences that we just haven't seen before, but the Funtendo Y is bursting at the seams with creativity. I think it's worth grabbing either, OP, or even both consoles if you're working a second job, lol.</p>\n<p>+1 Productivity</p>\n<p>(A message will show up from Waveracer2099 shortly after, for all intents and purposes, this conversation \"continues\" in )</p>\n<p><%= links['f2cd1943ad6e66aa8ffb7280dfc8c298b26fb323'] %></p>\n",
+            "tags": [
+                {
+                    "user": "Waveracer2099"
+                }
+            ],
+            "links": [
+                {
+                    "id": "f2cd1943ad6e66aa8ffb7280dfc8c298b26fb323",
+                    "label": "Waveracer2099's Cool Zone Message",
+                    "passageId": 17
+                }
+            ]
+        },
+        {
+            "pid": 13,
+            "name": "SnideCooper's Reply GB1",
+            "text": "You're only saying that because you're a Funtendrone.",
+            "tags": [
+                {
+                    "user": "SnideCooper"
+                }
+            ],
+            "links": [
+                {
+                    "id": "617833db148f8e613332f0d7fcfe9ab108f87b89",
+                    "label": "Calm Reply GB2",
+                    "passageId": 14
+                },
+                {
+                    "id": "96fc70a731b17a20ea6831890d43d82c44791c7a",
+                    "label": "Angry Reply GB2",
+                    "passageId": 15
+                },
+                {
+                    "id": "277f0f187d2a9a120cc3773cd31afd0a0e16a496",
+                    "label": "Sarcastic Reply GB2",
+                    "passageId": 16
+                },
+                {
+                    "id": "51a7b715e33e0056a800c5165c89ed8ecbc11d95",
+                    "label": "Ignore GB1",
+                    "passageId": 12
+                }
+            ]
+        },
+        {
+            "pid": 14,
+            "name": "Calm Reply GB2",
+            "text": "<p>You: Haha, we prefer Funtendo Fans or Fantendos. Okay, no, that second one is pretty bad.</p>\n<p>+1 Fame</p>\n<p><%= links['1948246db796b3ba0eaa85d643434286be879d50'] %> </p>\n",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "1948246db796b3ba0eaa85d643434286be879d50",
+                    "label": "SnideCooper's Reply GB3",
+                    "passageId": 18
+                }
+            ]
+        },
+        {
+            "pid": 15,
+            "name": "Angry Reply GB2",
+            "text": "I'm only saying that because I like to play games that aren't shit.",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "59e5189acb22da72d3a41d6f844ee9ee103a48aa",
+                    "label": "SnideCooper's Reply GB3",
+                    "passageId": 18
+                }
+            ]
+        },
+        {
+            "pid": 16,
+            "name": "Sarcastic Reply GB2",
+            "text": "You: I'm the drone, yet you're the one producing an automated response.",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "0b49544e251eec0217508c9883ea59a35ecd20e6",
+                    "label": "SnideCooper's Reply GB3",
+                    "passageId": 18
+                }
+            ]
+        },
+        {
+            "pid": 17,
+            "name": "Waveracer2099's Cool Zone Message",
+            "text": "<p>Double-click this passage to edit it.</p>\n",
+            "tags": [
+                {
+                    "user": "Waveracer2099"
+                }
+            ],
+            "links": []
+        },
+        {
+            "pid": 18,
+            "name": "SnideCooper's Reply GB3",
+            "text": "Go play Superb Guys 1937 (Which hasn't even been good in years) and I will play my games which actually require an IQ to understand",
+            "tags": [
+                {
+                    "user": "SnideCooper"
+                }
+            ],
+            "links": [
+                {
+                    "id": "50515968aeed576e885222a73b619ce1939355fa",
+                    "label": "Angry/Sarcastic Reply GB3",
+                    "passageId": 19
+                },
+                {
+                    "id": "c4287816ce980d3a3849359e302f15c624307d67",
+                    "label": "Calm Reply GB3",
+                    "passageId": 20
+                },
+                {
+                    "id": "a0a5177b5cea0406a4b4ea1e31e78c8a08bdadbc",
+                    "label": "Ignore GB1",
+                    "passageId": 12
+                }
+            ]
+        },
+        {
+            "pid": 19,
+            "name": "Angry/Sarcastic Reply GB3",
+            "text": "Yeah, a low IQ.",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "029d68ab4616306ac4bd7671dcfbdd082a2fbca4",
+                    "label": "SnideCooper's Reply GB4",
+                    "passageId": 21
+                }
+            ]
+        },
+        {
+            "pid": 20,
+            "name": "Calm Reply GB3",
+            "text": "You: Have you tried New Superb Guys Universe? It's genuinely really good and I think you might like it!",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "c06010524ecd60b2a62a7ad6ecc29ba429818e42",
+                    "label": "SnideCooper's Reply GB7",
+                    "passageId": 22
+                }
+            ]
+        },
+        {
+            "pid": 21,
+            "name": "SnideCooper's Reply GB4",
+            "text": "When was the last time they even made a new IP? 20 years ago?",
+            "tags": [
+                {
+                    "user": "SnideCooper"
+                }
+            ],
+            "links": [
+                {
+                    "id": "bd97bc5ca0ae17a4a2db0a7a6eef6c32907d5602",
+                    "label": "Calm Reply GB4",
+                    "passageId": 23
+                },
+                {
+                    "id": "60581c0001f4424ecdfc363ad0dc754c797d1dae",
+                    "label": "Angry Reply GB4",
+                    "passageId": 24
+                },
+                {
+                    "id": "b5dc437ea11d6644e7cd62312811f94e40139c6d",
+                    "label": "Sarcastic Reply GB4",
+                    "passageId": 25
+                },
+                {
+                    "id": "6a5bd36364102f1750ce822394dd4921c32720c6",
+                    "label": "Ignore GB1",
+                    "passageId": 12
+                }
+            ]
+        },
+        {
+            "pid": 22,
+            "name": "SnideCooper's Reply GB7",
+            "text": "Superb Guys wasn't even as good a Wack Wallaby.",
+            "tags": [
+                {
+                    "user": "SnideCooper"
+                }
+            ],
+            "links": [
+                {
+                    "id": "4ab8d3743586c5fa9fb93b5988f7336a0a9f640c",
+                    "label": "Calm Reply GB7",
+                    "passageId": 31
+                },
+                {
+                    "id": "6c7f760368de7a184d0834a08cae150c4db32d58",
+                    "label": "Angry/Sarcastic Reply GB7",
+                    "passageId": 32
+                },
+                {
+                    "id": "b7b1cdba09eb71f8026caffab49f4de2a892997a",
+                    "label": "Ignore GB2",
+                    "passageId": 29
+                }
+            ]
+        },
+        {
+            "pid": 23,
+            "name": "Calm Reply GB4",
+            "text": "Brain Bug and Funtendogs were HUGE on the Funtendo GS! Not to mention the slightly more obscure hits like Fire Heart Pep Squad and Father III.",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "3de988c3fd045709d2aeff8571a9250513e4b2bf",
+                    "label": "SnideCooper's Reply GB5",
+                    "passageId": 26
+                }
+            ]
+        },
+        {
+            "pid": 24,
+            "name": "Angry Reply GB4",
+            "text": "I see you are COMPLETELY ignoring the Funtendo GS.",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "7bd6b2bc1f7e00974959b5d6d8b7fd71374c2951",
+                    "label": "SnideCooper's Reply GB5",
+                    "passageId": 26
+                }
+            ]
+        },
+        {
+            "pid": 25,
+            "name": "Sarcastic Reply GB4",
+            "text": "You don't really need to make eight new IP's a month when you have actually good ones to begin with.",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "f941bb1202568288e19d09ca9c9e9aab7eabdd6f",
+                    "label": "SnideCooper's Reply GB7",
+                    "passageId": 22
+                }
+            ]
+        },
+        {
+            "pid": 26,
+            "name": "SnideCooper's Reply GB5",
+            "text": "My little sister has one of those, it's literally for babies and grandmas",
+            "tags": [
+                {
+                    "user": "SnideCooper"
+                }
+            ],
+            "links": [
+                {
+                    "id": "edc7ffef6de2ae13ddeb950f6a2876b93b2d7fec",
+                    "label": "Calm Reply GB5",
+                    "passageId": 27
+                },
+                {
+                    "id": "49eb6029b25c7e2c9293ee08432c17c714a55aeb",
+                    "label": "Angry/Sarcastic Reply GB5",
+                    "passageId": 28
+                },
+                {
+                    "id": "ed4fd8a43db9f1638276b9ecbab17e97b02dbb78",
+                    "label": "Ignore GB2",
+                    "passageId": 29
+                }
+            ]
+        },
+        {
+            "pid": 27,
+            "name": "Calm Reply GB5",
+            "text": "If your sister ever wants to play Superb Guys with me, my Friend Code is 5346 8050 4311!",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "7ba47b155c115cdd322a89f344895e1de7afcfa5",
+                    "label": "Waveracer2099's Cool Zone Message",
+                    "passageId": 17
+                }
+            ]
+        },
+        {
+            "pid": 28,
+            "name": "Angry/Sarcastic Reply GB5",
+            "text": "Surprised you're related to someone whose brain isn't cnacer. Figured it was genetic.",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "40551b12ad669fdc636a4d1fc84f60ca9daa27f1",
+                    "label": "SnideCooper's Reply GB7",
+                    "passageId": 22
+                }
+            ]
+        },
+        {
+            "pid": 29,
+            "name": "Ignore GB2",
+            "text": "<p>(Upon ending your conversation with them, SnideCooper emails you, as your email is available as part of your public profile)</p>\n<p>+1 Productivity</p>\n<p><%= links['1ceb3532393fbbf26a2cc2294065a9f0f218bd9a'] %></p>\n",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "1ceb3532393fbbf26a2cc2294065a9f0f218bd9a",
+                    "label": "SnideCooper's Email",
+                    "passageId": 30
+                }
+            ]
+        },
+        {
+            "pid": 30,
+            "name": "SnideCooper's Email",
+            "text": "<p>Double-click this passage to edit it.</p>\n",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": []
+        },
+        {
+            "pid": 31,
+            "name": "Calm Reply GB7",
+            "text": "How is Wack Wallaby these days?",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "885dded2abf658dfce3e2aa628032079a41ea2ad",
+                    "label": "SnideCooper's Reply GB8",
+                    "passageId": 34
+                }
+            ]
+        },
+        {
+            "pid": 32,
+            "name": "Angry/Sarcastic Reply GB7",
+            "text": "<p>You: Why don't you go wack your wallaby?</p>\n<p>+1 Fame\n-2 Productivity</p>\n<p><%= links['1a187af53b23ebe9552e2ce1290aed566e266bbc'] %></p>\n",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "1a187af53b23ebe9552e2ce1290aed566e266bbc",
+                    "label": "Banned Message GB1",
+                    "passageId": 33
+                }
+            ]
+        },
+        {
+            "pid": 33,
+            "name": "Banned Message GB1",
+            "text": "<p>Admin: You have been banned from this forum for two weeks for poor behavior.</p>\n<p>(You recieve an email from SnideCooper as your email is a part of your public profile)</p>\n<p><%= links['ea826a938efa439426fe04f8ec4e8025cb66ed5c'] %> </p>\n",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "ea826a938efa439426fe04f8ec4e8025cb66ed5c",
+                    "label": "SnideCooper's Email Banned Alt",
+                    "passageId": 35
+                }
+            ]
+        },
+        {
+            "pid": 34,
+            "name": "SnideCooper's Reply GB8",
+            "text": "<p>SnideCooper: Last year's remake was a best seller, DUMBASS!</p>\n<p>(You recieve an email from SnideCooper as your email is on your public profile)</p>\n<p><%= links['3c607348fcb3d63697127a9e0832fce42bc55f11'] %></p>\n",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "3c607348fcb3d63697127a9e0832fce42bc55f11",
+                    "label": "SnideCooper's Email Banned Alt",
+                    "passageId": 35
+                }
+            ]
+        },
+        {
+            "pid": 35,
+            "name": "SnideCooper's Email Banned Alt",
+            "text": "<p>Double-click this passage to edit it.</p>\n",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": []
+        }
+    ]
+}
