@@ -1,17 +1,24 @@
 ﻿
 using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class FileWireViruses : MonoBehaviour
 {
     public GameObject errorMessage;
 
+    private List<Text> texts;
+    private List<string> originalStrings;
+
     public Transform browserCanvas;
-    // Start is called before the first frame update
-   //void Start()
-   //{
-   //    
-   //}
+   //Start is called before the first frame update
+   void Start()
+   {
+       texts = new List<Text>();
+       originalStrings = new List<string>();
+   }
 
    //// Update is called once per frame
    //void Update()
@@ -38,4 +45,34 @@ public class FileWireViruses : MonoBehaviour
     {
         GameObject.Destroy(go);
     }
+
+
+
+
+   public void TextBlender()
+   {
+       ScrambleStrings(GatherText());
+   }
+
+   private List<Text> GatherText()
+   {
+       var textComponents = new List<Text>();
+       textComponents = Resources.FindObjectsOfTypeAll<Text>().ToList();
+       return textComponents;
+   }
+
+   private void ScrambleStrings(List<Text> textComponents)
+   {
+       foreach (var textComponent in textComponents)
+       {
+           texts.Add(textComponent);
+           var text = textComponent.text;
+           originalStrings.Add(text);
+           textComponent.text = text.Scramble();
+           
+       }
+   }
+   
+
+   
 }
