@@ -506,7 +506,7 @@ MonoBehaviour:
   m_Elasticity: 0.1
   m_Inertia: 1
   m_DecelerationRate: 0.135
-  m_ScrollSensitivity: 1
+  m_ScrollSensitivity: 15
   m_Viewport: {fileID: 1521684063}
   m_HorizontalScrollbar: {fileID: 0}
   m_VerticalScrollbar: {fileID: 504089479}
@@ -937,6 +937,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   start: Game Blast Chat 1
   end: 
+  characterToReplyTo: snidecooper
   forumPost: {fileID: 8784043262922973277, guid: 6582ffe993f03b649ac46f9614fa61c6,
     type: 3}
   forumReply: {fileID: 6390952960725660329, guid: 45bbbf2c3e8758e4bac5a9dfe91b1714,
@@ -944,6 +945,11 @@ MonoBehaviour:
   forumBoard: {fileID: 902646484}
   replyButton: {fileID: 8540872763096774961, guid: 54a93379e36c2e94eb86381e485e7f79,
     type: 3}
+  avatars:
+  - {fileID: 2800000, guid: d580fd5b227eda149a8b10f593657378, type: 3}
+  - {fileID: 2800000, guid: 25149ed83c2798b4b82226959e4ef43f, type: 3}
+  - {fileID: 2800000, guid: 323da2dd3eedf6743a8aedf9e463f335, type: 3}
+  - {fileID: 2800000, guid: 3934f61547b928040b91be95f3728869, type: 3}
 --- !u!1 &1521684062
 GameObject:
   m_ObjectHideFlags: 0
