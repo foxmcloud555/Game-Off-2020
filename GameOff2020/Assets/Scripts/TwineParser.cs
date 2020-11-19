@@ -13,18 +13,6 @@ public class TwineParser : MonoBehaviour
     public TextAsset storyFile;
 
     public List<StoryNode> storyNodes;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-      
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
     public void parseJSON()
     {
@@ -63,6 +51,7 @@ public class TwineParser : MonoBehaviour
         public string text;
         public string username;
         public List<StoryLink> links;
+        public bool isConversationEnd;
     }
 
     public struct StoryLink

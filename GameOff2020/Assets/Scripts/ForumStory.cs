@@ -11,12 +11,15 @@ using UnityEngine.UI;
 public class ForumStory : MonoBehaviour
 {
     public string start;
-    public string end;
+    public string[] end;
+    public string characterToReplyTo;
 
     public GameObject forumPost;
     public GameObject forumReply;
     public GameObject forumBoard;
     public GameObject replyButton;
+
+    [Header("User Avatars")] public Texture2D[] avatars;
 
     private double timer = 0;
     private TwineParser.StoryNode currentNode;
@@ -30,6 +33,7 @@ public class ForumStory : MonoBehaviour
         twine.parseJSON();
         _nodes = twine.storyNodes;
         var startNode = _nodes.First(n => n.name == start);
+        
         currentNode = startNode;
         CreatePost(startNode);
     }
@@ -37,8 +41,11 @@ public class ForumStory : MonoBehaviour
     public void CreatePost(TwineParser.StoryNode node)
     {
         var post = Instantiate(forumPost, forumBoard.transform);
-        var text = post.GetComponentInChildren<Text>();
+        var text = post.transform.GetChild(1).GetComponent<Text>();
         text.text = node.text;
+        var avatar = post.GetComponentInChildren<RawImage>();
+        avatar.texture = avatars.FirstOrDefault(a => String.Equals(a.name, node.username, StringComparison.CurrentCultureIgnoreCase));
+        avatar.GetComponentInChildren<Text>().text = node.username;
     }
     
     public void CreateReply()
@@ -73,11 +80,15 @@ public class ForumStory : MonoBehaviour
 
     private void Update()
     {
+        //if (expr)
+        {
+            
+        }
         timer += 0.01;
         if (timer > 10 && nextPostReady)
         {
             
-            if (currentNode.username != "SnideCooper")
+            if (!String.Equals(currentNode.username, characterToReplyTo, StringComparison.CurrentCultureIgnoreCase))
             {
                 ProgressConvo(); 
             }
