@@ -1,1 +1,3032 @@
-{"ifid":"6AFD5651-DBE2-450D-B0E2-44AB39BC71FC","name":"Game Off 2020 Act 1","startNode":1,"creator":"Twine","creatorVersion":"2.3.9","format":"Harlowe","time":"2020-11-17T21:38:00.167Z","passages":[{"pid":1,"name":"Logging On","text":"<p>The player logs on, potentially playing a short \"boot up scene\" with sound effects (Think Windows boot up and the classic dial-up hum) and is brought to a web portal.</p>\n<p><%= links['3e6565c1b7cadac2d6377c0f57f6c37278280d43'] %> \n<%= links['80978ab303ee34e8d1915192389d0a789a1a8726'] %>\n<%= links['93dae7244249d006211c48d327557ec824438bac'] %> \n<%= links['f50a6e59fa4a61ddb8119860513a449c38b34a62'] %> \n<%= links['590b74e65bc522eb1f2c1c444f54291692cf853d'] %> </p>\n","tags":[],"links":[{"id":"3e6565c1b7cadac2d6377c0f57f6c37278280d43","label":"Home Scape","passageId":3},{"id":"80978ab303ee34e8d1915192389d0a789a1a8726","label":"Game Blast","passageId":4},{"id":"93dae7244249d006211c48d327557ec824438bac","label":"Cool Zone","passageId":2},{"id":"f50a6e59fa4a61ddb8119860513a449c38b34a62","label":"Email","passageId":5},{"id":"590b74e65bc522eb1f2c1c444f54291692cf853d","label":"Luna Wire","passageId":6}]},{"pid":2,"name":"Cool Zone","text":"<p>The player checks their favorite social media style website.</p>\n<p><%= links['d6406114ecf62703b63af5b48d7c64cac36855b8'] %> \n<%= links['2d62786091d33c20fc25fcf1dfff1985170e0c55'] %>\n<%= links['009a1ed9f7b8c0a8655abf383fcb67add966dc22'] %> \n<%= links['1805ffd6773697c4c1f500a3cfa0cbab6a3b3091'] %> \n<%= links['f9c75bf03b920488904d4141b55de7b25d609bdd'] %> \n<%= links['20c42f95d4bf808f20399f69fd507d396502406a'] %> \n<%= links['e9839518a20ebcccd6842204322221a221b2b63a'] %> </p>\n","tags":[],"links":[{"id":"d6406114ecf62703b63af5b48d7c64cac36855b8","label":"PINNED: Cool Zone Rules","passageId":49},{"id":"2d62786091d33c20fc25fcf1dfff1985170e0c55","label":"I Will Clean Your Carpet (NO Questions asked)","passageId":50},{"id":"009a1ed9f7b8c0a8655abf383fcb67add966dc22","label":"It's Fine to Bathe in Barbecue Sauce","passageId":51},{"id":"1805ffd6773697c4c1f500a3cfa0cbab6a3b3091","label":"This map shows which states it's legal to own an alligator","passageId":55},{"id":"f9c75bf03b920488904d4141b55de7b25d609bdd","label":"FUNNY COMIC WITH ARTIFACTS","passageId":56},{"id":"20c42f95d4bf808f20399f69fd507d396502406a","label":"The Latest Space Force Movie SUCKED","passageId":57},{"id":"e9839518a20ebcccd6842204322221a221b2b63a","label":"Dragon Fist X Episode 142 Discussion","passageId":58}]},{"pid":3,"name":"Home Scape","text":"<p>The player checks their homepage featuring various news stories and clickbait articles.</p>\n<p><%= links['e15f5b979e6f17de4ab53164ca67b2cce7aca293'] %> \n<%= links['9c6f0259ae011edf16b2f66e9d5cfc6c051d8da3'] %> \n<%= links['4e8d2bce08badbcb1932132949b92b136e11d013'] %> \n<%= links['5da7f209918dbeac7e6ba2396466cd781684f745'] %></p>\n","tags":[],"links":[{"id":"e15f5b979e6f17de4ab53164ca67b2cce7aca293","label":"Austrian PM Grilled","passageId":36},{"id":"9c6f0259ae011edf16b2f66e9d5cfc6c051d8da3","label":"Celebrity Power Couple Calls it Quits","passageId":37},{"id":"4e8d2bce08badbcb1932132949b92b136e11d013","label":"Find Online Psychics (SPONSORED)","passageId":38},{"id":"5da7f209918dbeac7e6ba2396466cd781684f745","label":"Lunar Eclipse Tonight","passageId":152}]},{"pid":4,"name":"Game Blast","text":"<p>The player signs into their video game forum account and checks some threads.</p>\n<p><%= links['b059e553de836766936d86a74afc9fe2df3a7737'] %>\n<%= links['87c8186e87f7884f4832d27e1d18edd0094310ab'] %> \n<%= links['5ee6b67cf035d3b02e6d13b17fe621858445e74d'] %></p>\n","tags":[],"links":[{"id":"b059e553de836766936d86a74afc9fe2df3a7737","label":"Remember that moon game?","passageId":142},{"id":"87c8186e87f7884f4832d27e1d18edd0094310ab","label":"Best NEXT GEN console!?","passageId":7},{"id":"5ee6b67cf035d3b02e6d13b17fe621858445e74d","label":"How do you beat Grab Grappler in Gonzo: Year of the Blade?","passageId":143}]},{"pid":5,"name":"Email","text":"<p><%= links['762732565cdc92cbce151538f1a97c0b8bfecb4d'] %>\n<%= links['6ff3f6af310afbac25662c04ef57cec8aeb8b7ba'] %>\n<%= links['4e32ea44b489f4ca4044d3bae48587c6a20e624c'] %>\n<%= links['02cb546a41d913736405ea66e98deedb6a3a8a46'] %></p>\n","tags":[],"links":[{"id":"762732565cdc92cbce151538f1a97c0b8bfecb4d","label":"Bank of Hong Kong","passageId":136},{"id":"6ff3f6af310afbac25662c04ef57cec8aeb8b7ba","label":"Seed Corn Starting From $129 a Bag","passageId":137},{"id":"4e32ea44b489f4ca4044d3bae48587c6a20e624c","label":"Hey","passageId":138},{"id":"02cb546a41d913736405ea66e98deedb6a3a8a46","label":"Matches in Your Area","passageId":139}]},{"pid":6,"name":"Luna Wire","text":"<p>The player downloads illicitly obtained media files.</p>\n","tags":[],"links":[]},{"pid":7,"name":"Best NEXT GEN console!?","text":"<p>What's the best NEXT GEN console? I've been thinking of retiring my old Direct Box and upgrading to something else. Thanks!\n<%= links['9cdb955353450ad4f4806c2ad0eb966a51e7301c'] %></p>\n","tags":["xXxsNiPeM@sTeRxXx","Start"],"links":[{"id":"9cdb955353450ad4f4806c2ad0eb966a51e7301c","label":"SnideCooper's Reply","passageId":8}]},{"pid":8,"name":"SnideCooper's Reply","text":"<p>Tony Play Box. That's the best console if you say it isn't, you have worms for brains.</p>\n<p><%= links['bb8a84f4d0b0334b218371c9e7357b2b1dd41861'] %>\n<%= links['d96119bb9cdfdd1fd7f917af57d5ea2777ce2680'] %>\n<%= links['b2262f2f92f4ed44df95314c71e165a4d265fd77'] %>\n<%= links['865da7261f7adde5817141d7de834a8833f24fe2'] %></p>\n","tags":["SnideCooper"],"links":[{"id":"bb8a84f4d0b0334b218371c9e7357b2b1dd41861","label":"Calm Reply GB1","passageId":9},{"id":"d96119bb9cdfdd1fd7f917af57d5ea2777ce2680","label":"Angry Reply GB1","passageId":10},{"id":"b2262f2f92f4ed44df95314c71e165a4d265fd77","label":"Sarcastic Reply GB1","passageId":11},{"id":"865da7261f7adde5817141d7de834a8833f24fe2","label":"Ignore GB1","passageId":12}]},{"pid":9,"name":"Calm Reply GB1","text":"<p>I respect SnideCooper's opinion, but I personally prefer the entertainment and value you get with the Funtendo Y!</p>\n<p><%= links['e77d3705837fb17ccc84b485d05a85678ca219e5'] %></p>\n","tags":["You","+1-Fame"],"links":[{"id":"e77d3705837fb17ccc84b485d05a85678ca219e5","label":"SnideCooper's Reply GB1","passageId":13}]},{"pid":10,"name":"Angry Reply GB1","text":"<p>Well, the original, maybe, but the newest model, Tony Play Box 3 has next to no games. Phaze and Knick 2 are not worth $599.99, let alone their own $60 price tag.\n<%= links['c014447492b14240936d7d1473350e5ba764faa3'] %> </p>\n","tags":["You","-1-Productivity","+1-Confidence"],"links":[{"id":"c014447492b14240936d7d1473350e5ba764faa3","label":"SnideCooper's Reply GB1","passageId":13}]},{"pid":11,"name":"Sarcastic Reply GB1","text":"<p>I also like to pay $600 for a paper weight.\n<%= links['f33e4fda244430c05560e8600e78d01befb3507c'] %> </p>\n","tags":["You","+1-Fame","+1-Confidence","-1-Productivity"],"links":[{"id":"f33e4fda244430c05560e8600e78d01befb3507c","label":"SnideCooper's Reply GB1","passageId":13}]},{"pid":12,"name":"Ignore GB1","text":"<p>I think the Tony Game Box 3 and the Funtendo Y both have their merits! The Tony Game Box 3 has the potential for high definition gaming and media experiences that we just haven't seen before, but the Funtendo Y is bursting at the seams with creativity. I think it's worth grabbing either, OP, or even both consoles if you're working a second job, lol.</p>\n<p><%= links['cba279efb1bbc67bce2c5157f87bdd0f652d576d'] %></p>\n","tags":["Waveracer2099","+1-Productivity","End","+1-SnideGood"],"links":[{"id":"cba279efb1bbc67bce2c5157f87bdd0f652d576d","label":"Waveracer2099's Email","passageId":17}]},{"pid":13,"name":"SnideCooper's Reply GB1","text":"<p>SnideCooper: You're only saying that because you're a Funtendrone.\n<%= links['617833db148f8e613332f0d7fcfe9ab108f87b89'] %>\n<%= links['96fc70a731b17a20ea6831890d43d82c44791c7a'] %>\n<%= links['277f0f187d2a9a120cc3773cd31afd0a0e16a496'] %>\n<%= links['51a7b715e33e0056a800c5165c89ed8ecbc11d95'] %></p>\n","tags":["SnideCooper"],"links":[{"id":"617833db148f8e613332f0d7fcfe9ab108f87b89","label":"Calm Reply GB2","passageId":14},{"id":"96fc70a731b17a20ea6831890d43d82c44791c7a","label":"Angry Reply GB2","passageId":15},{"id":"277f0f187d2a9a120cc3773cd31afd0a0e16a496","label":"Sarcastic Reply GB2","passageId":16},{"id":"51a7b715e33e0056a800c5165c89ed8ecbc11d95","label":"Ignore GB1","passageId":12}]},{"pid":14,"name":"Calm Reply GB2","text":"<p>Haha, we prefer Funtendo Fans or Fantendos. Okay, no, that second one is pretty bad.</p>\n<p><%= links['1948246db796b3ba0eaa85d643434286be879d50'] %> </p>\n","tags":["You","+1-Fame"],"links":[{"id":"1948246db796b3ba0eaa85d643434286be879d50","label":"SnideCooper's Reply GB3","passageId":18}]},{"pid":15,"name":"Angry Reply GB2","text":"<p>I'm only saying that because I like to play games that aren't shit.</p>\n<p><%= links['59e5189acb22da72d3a41d6f844ee9ee103a48aa'] %></p>\n","tags":["You","+1-Confidence","-1-Productivity"],"links":[{"id":"59e5189acb22da72d3a41d6f844ee9ee103a48aa","label":"SnideCooper's Reply GB3","passageId":18}]},{"pid":16,"name":"Sarcastic Reply GB2","text":"<p>I'm the drone, yet you're the one producing an automated response.</p>\n<p><%= links['0b49544e251eec0217508c9883ea59a35ecd20e6'] %> </p>\n","tags":["You","+1-Fame","+1-Confidence","-1-Productivity"],"links":[{"id":"0b49544e251eec0217508c9883ea59a35ecd20e6","label":"SnideCooper's Reply GB3","passageId":18}]},{"pid":17,"name":"Waveracer2099's Email","text":"<p>Hey, sorry about Snide Cooper. He's always like this. Sometimes he goes too far and we get a reprieve from him for a week after the mods drop the banhammer. He sent me this weird link, though. Have you seen anything like this?</p>\n<p><%= links['1177610df3320078f8707a151588cdb635211994'] %></p>\n","tags":["Waveracer2099"],"links":[{"id":"1177610df3320078f8707a151588cdb635211994","label":"The Forbidden Website","passageId":141}]},{"pid":18,"name":"SnideCooper's Reply GB3","text":"<p>Go play Superb Guys 1937 (Which hasn't even been good in years) and I will play my games which actually require an IQ to understand.</p>\n<p><%= links['50515968aeed576e885222a73b619ce1939355fa'] %>\n<%= links['c4287816ce980d3a3849359e302f15c624307d67'] %>\n<%= links['a0a5177b5cea0406a4b4ea1e31e78c8a08bdadbc'] %></p>\n","tags":["SnideCooper"],"links":[{"id":"50515968aeed576e885222a73b619ce1939355fa","label":"Angry/Sarcastic Reply GB3","passageId":19},{"id":"c4287816ce980d3a3849359e302f15c624307d67","label":"Calm Reply GB3","passageId":20},{"id":"a0a5177b5cea0406a4b4ea1e31e78c8a08bdadbc","label":"Ignore GB1","passageId":12}]},{"pid":19,"name":"Angry/Sarcastic Reply GB3","text":"<p>Yeah, a low IQ.</p>\n<p><%= links['029d68ab4616306ac4bd7671dcfbdd082a2fbca4'] %></p>\n","tags":["You","+1-Fame","+1-Confidence","-2-Productivity"],"links":[{"id":"029d68ab4616306ac4bd7671dcfbdd082a2fbca4","label":"SnideCooper's Reply GB4","passageId":21}]},{"pid":20,"name":"Calm Reply GB3","text":"<p>Have you tried New Superb Guys Universe? It's genuinely really good and I think you might like it!</p>\n<p><%= links['c06010524ecd60b2a62a7ad6ecc29ba429818e42'] %></p>\n","tags":["You"],"links":[{"id":"c06010524ecd60b2a62a7ad6ecc29ba429818e42","label":"SnideCooper's Reply GB7","passageId":22}]},{"pid":21,"name":"SnideCooper's Reply GB4","text":"<p>When was the last time they even made a new IP? 20 years ago?</p>\n<p><%= links['bd97bc5ca0ae17a4a2db0a7a6eef6c32907d5602'] %>\n<%= links['60581c0001f4424ecdfc363ad0dc754c797d1dae'] %>\n<%= links['b5dc437ea11d6644e7cd62312811f94e40139c6d'] %>\n<%= links['6a5bd36364102f1750ce822394dd4921c32720c6'] %></p>\n","tags":["SnideCooper"],"links":[{"id":"bd97bc5ca0ae17a4a2db0a7a6eef6c32907d5602","label":"Calm Reply GB4","passageId":23},{"id":"60581c0001f4424ecdfc363ad0dc754c797d1dae","label":"Angry Reply GB4","passageId":24},{"id":"b5dc437ea11d6644e7cd62312811f94e40139c6d","label":"Sarcastic Reply GB4","passageId":25},{"id":"6a5bd36364102f1750ce822394dd4921c32720c6","label":"Ignore GB1","passageId":12}]},{"pid":22,"name":"SnideCooper's Reply GB7","text":"<p>Superb Guys wasn't even as good a Wack Wallaby.</p>\n<p><%= links['4ab8d3743586c5fa9fb93b5988f7336a0a9f640c'] %>\n<%= links['6c7f760368de7a184d0834a08cae150c4db32d58'] %>\n<%= links['b7b1cdba09eb71f8026caffab49f4de2a892997a'] %></p>\n","tags":["SnideCooper"],"links":[{"id":"4ab8d3743586c5fa9fb93b5988f7336a0a9f640c","label":"Calm Reply GB7","passageId":31},{"id":"6c7f760368de7a184d0834a08cae150c4db32d58","label":"Angry/Sarcastic Reply GB7","passageId":32},{"id":"b7b1cdba09eb71f8026caffab49f4de2a892997a","label":"Ignore GB2","passageId":29}]},{"pid":23,"name":"Calm Reply GB4","text":"<p>Brain Bug and Funtendogs were HUGE on the Funtendo GS! Not to mention the slightly more obscure hits like Fire Heart Pep Squad and Father III.</p>\n<p><%= links['3de988c3fd045709d2aeff8571a9250513e4b2bf'] %></p>\n","tags":["You","+1-Fame","-1-Productivity"],"links":[{"id":"3de988c3fd045709d2aeff8571a9250513e4b2bf","label":"SnideCooper's Reply GB5","passageId":26}]},{"pid":24,"name":"Angry Reply GB4","text":"<p>I see you are COMPLETELY ignoring the Funtendo GS.</p>\n<p><%= links['7bd6b2bc1f7e00974959b5d6d8b7fd71374c2951'] %> </p>\n","tags":["You","+1-Confidence","-1-Productivity"],"links":[{"id":"7bd6b2bc1f7e00974959b5d6d8b7fd71374c2951","label":"SnideCooper's Reply GB5","passageId":26}]},{"pid":25,"name":"Sarcastic Reply GB4","text":"<p>You don't really need to make eight new IP's a month when you have actually good ones to begin with.</p>\n<p><%= links['f941bb1202568288e19d09ca9c9e9aab7eabdd6f'] %></p>\n","tags":["You","+1-Confidence","-1-Productivity"],"links":[{"id":"f941bb1202568288e19d09ca9c9e9aab7eabdd6f","label":"SnideCooper's Reply GB7","passageId":22}]},{"pid":26,"name":"SnideCooper's Reply GB5","text":"<p>My little sister has one of those, it's literally for babies and grandmas</p>\n<p><%= links['edc7ffef6de2ae13ddeb950f6a2876b93b2d7fec'] %>\n<%= links['49eb6029b25c7e2c9293ee08432c17c714a55aeb'] %>\n<%= links['ed4fd8a43db9f1638276b9ecbab17e97b02dbb78'] %></p>\n","tags":["SnideCooper"],"links":[{"id":"edc7ffef6de2ae13ddeb950f6a2876b93b2d7fec","label":"Calm Reply GB5","passageId":27},{"id":"49eb6029b25c7e2c9293ee08432c17c714a55aeb","label":"Angry/Sarcastic Reply GB5","passageId":28},{"id":"ed4fd8a43db9f1638276b9ecbab17e97b02dbb78","label":"Ignore GB2","passageId":29}]},{"pid":27,"name":"Calm Reply GB5","text":"<p>If your sister ever wants to play Superb Guys with me, my Friend Code is 5346 8050 4311!</p>\n<p><%= links['6136e5b16c75f6a869ebdd6422b973f930219418'] %> </p>\n","tags":["You","+1-Fame","+1-Happiness","End","+1-SnideGood"],"links":[{"id":"6136e5b16c75f6a869ebdd6422b973f930219418","label":"Waveracer2099's Email","passageId":17}]},{"pid":28,"name":"Angry/Sarcastic Reply GB5","text":"<p>Surprised you're related to someone whose brain isn't cnacer. Figured it was genetic.</p>\n<p><%= links['40551b12ad669fdc636a4d1fc84f60ca9daa27f1'] %> </p>\n","tags":["You","-1-Fame","-1-Productivity"],"links":[{"id":"40551b12ad669fdc636a4d1fc84f60ca9daa27f1","label":"SnideCooper's Reply GB7","passageId":22}]},{"pid":29,"name":"Ignore GB2","text":"<p>(Upon ending your conversation with them, SnideCooper emails you, as your email is available as part of your public profile)</p>\n<p><%= links['1ceb3532393fbbf26a2cc2294065a9f0f218bd9a'] %></p>\n","tags":["You","+1-Productivity","End","+1-SnideBad"],"links":[{"id":"1ceb3532393fbbf26a2cc2294065a9f0f218bd9a","label":"SnideCooper's Email","passageId":30}]},{"pid":30,"name":"SnideCooper's Email","text":"<p>I can't believe you ran off from our conversation like a coward. Proof that you KNOW the Tony Game Box 3 is the superior game console. Go here if you want to experience a REAL console:</p>\n<p><%= links['d7670b8eed7cb214f86081a46a575be867020480'] %></p>\n","tags":["SnideCooper"],"links":[{"id":"d7670b8eed7cb214f86081a46a575be867020480","label":"The Forbidden Website","passageId":141}]},{"pid":31,"name":"Calm Reply GB7","text":"<p>How is Wack Wallaby these days?</p>\n<p><%= links['885dded2abf658dfce3e2aa628032079a41ea2ad'] %></p>\n","tags":["You","-1-Productivity"],"links":[{"id":"885dded2abf658dfce3e2aa628032079a41ea2ad","label":"SnideCooper's Reply GB8","passageId":34}]},{"pid":32,"name":"Angry/Sarcastic Reply GB7","text":"<p>Why don't you go wack your wallaby?</p>\n<p><%= links['1a187af53b23ebe9552e2ce1290aed566e266bbc'] %></p>\n","tags":["You","+1-Fame","-2-Productivity"],"links":[{"id":"1a187af53b23ebe9552e2ce1290aed566e266bbc","label":"Banned Message GB1","passageId":33}]},{"pid":33,"name":"Banned Message GB1","text":"<p>You have been banned from this forum for two weeks for poor behavior.</p>\n<p><%= links['ea826a938efa439426fe04f8ec4e8025cb66ed5c'] %> </p>\n","tags":["Game-Blast-Admin","End","+1-SnideBad"],"links":[{"id":"ea826a938efa439426fe04f8ec4e8025cb66ed5c","label":"SnideCooper's Email Banned Alt","passageId":35}]},{"pid":34,"name":"SnideCooper's Reply GB8","text":"<p>Last year's remake was a best seller, DUMBASS!</p>\n<p><%= links['3c607348fcb3d63697127a9e0832fce42bc55f11'] %></p>\n","tags":["SnideCooper","End","+1-SnideBad"],"links":[{"id":"3c607348fcb3d63697127a9e0832fce42bc55f11","label":"SnideCooper's Email Banned Alt","passageId":35}]},{"pid":35,"name":"SnideCooper's Email Banned Alt","text":"<p>I can't believe you got me banned! If it wasn't for your Funtendo whining, I wouldn't have lost my posting privledges. This is so stupid. I hope you got banned too. If you did, I guess you can keep posting here:</p>\n<p><%= links['941623069569a104eaa5b2ca58b138e3b9cae131'] %> </p>\n","tags":["SnideCooper"],"links":[{"id":"941623069569a104eaa5b2ca58b138e3b9cae131","label":"The Forbidden Website","passageId":141}]},{"pid":36,"name":"Austrian PM Grilled","text":"<p>This European leader's new sandwich that you can eat! When people think food, they don't usually think of Austria, but one Austrian leader is here to prove of us wrong. The sandwich, dubbed the Tafelspitz Brote by locals, is a boiled beef extravaganza that wants to invite you to its party. When asked about growing tensions between Austria and its neighboring countries, the PM had this to say, \"You have not lived until you have had Tafelspitz from the homeland. I have made it far easier for the people to enjoy this delicacy with this sandwich!\"</p>\n<p>Celebrity chef, Ricardo Geurbeau chimed in with his take on the Austrian leader's new edible delight, \"I think it's an outrage that this man continues to ignore the growing tensions in the political landscape. Last month's UN commissary meeting should have shown him just how pressing these issues are, yet here we see him ignore them once again. The silk trade embargo has been crushing Austria's economy and nothing has been done.\"</p>\n<p>If you'd like to make the PM's Tafelspitz Brote at home, click the link below!</p>\n<p><%= links['4367c924eb14cbdbee2db9affa57492743cee1b5'] %>\n<%= links['0495962255f2837da47ff44d9889f06be4f1a90e'] %>\n<%= links['d1a600c2aa703e97087ade527f379dc1a03f94a7'] %></p>\n","tags":["Home-Scape-Press","Start"],"links":[{"id":"4367c924eb14cbdbee2db9affa57492743cee1b5","label":"Austrian PM Grilled Comments","passageId":39},{"id":"0495962255f2837da47ff44d9889f06be4f1a90e","label":"Tafelspitz Brote Recipe","passageId":40},{"id":"d1a600c2aa703e97087ade527f379dc1a03f94a7","label":"Home Scape","passageId":3}]},{"pid":37,"name":"Celebrity Power Couple Calls it Quits","text":"<p>It's Hollywood heartbreak for Jinko, the fan-coined term for the relationship between movie star, Laura Jini, and extreme sports skater, Kole Ferguson. Announced at a national press conference in Belarus, the two have decided to split up over creative and romantic differences. They had been in the European country filming 20th Century Fox's new Point Break sequel, Point Breakup. Some believe that this split is actually research for the upcoming film.</p>\n<p>During the press conference's Q&A session, Kole Ferguson said the new film would be \"Tight.\" while Laura Jini refused to comment on the status of the reportedly troubled production. More on this story as it develops...</p>\n<p><%= links['e3a902eade1aeb94faf031612e7f205b92ebca17'] %>\n<%= links['72c90ca0ac027862137738a1c4edbe45c6d554bb'] %>\n<%= links['155fa3cf84411dca724ecdebde23273a6cfc15ca'] %></p>\n","tags":["Start","Home-Scape-Press"],"links":[{"id":"e3a902eade1aeb94faf031612e7f205b92ebca17","label":"Celebrity Power Couple Calls it Quits Comments","passageId":45},{"id":"72c90ca0ac027862137738a1c4edbe45c6d554bb","label":"Clickable Foot Powder Ad","passageId":46},{"id":"155fa3cf84411dca724ecdebde23273a6cfc15ca","label":"Home Scape","passageId":3}]},{"pid":38,"name":"Find Online Psychics (SPONSORED)","text":"<p>Are you searching for something? Someone? Even beyond our physical realm? Well, we can help you find a psychic in LOCAL STRING ERROR to make these problems a thing of the past, by looking towards the future.</p>\n<p>As a Home Scape reader, you qualify for a SPECIAL LIMITED TIME OFFER! You can get one psychic screening for FREE! Act now, our psychics see this once in a lifetime deal fading fast!</p>\n<p><%= links['e380dc0ea7fc41fa884dca060f89b79e2da87a87'] %>\n<%= links['78e578d2807e6e72cba1c314bc83f5b6974fea1f'] %></p>\n","tags":["Online-Psychics-United","Start"],"links":[{"id":"e380dc0ea7fc41fa884dca060f89b79e2da87a87","label":"SPECIAL LIMITED TIME OFFER","passageId":47},{"id":"78e578d2807e6e72cba1c314bc83f5b6974fea1f","label":"Home Scape","passageId":3}]},{"pid":39,"name":"Austrian PM Grilled Comments","text":"<p>OMG! I Have Made This Recipe And It Is DELICIOUS! Compliments To The Chef!</p>\n<p><%= links['cf46c73b70f086a7261780caa410ebd31740e22f'] %> </p>\n","tags":["Jill-Stevenson"],"links":[{"id":"cf46c73b70f086a7261780caa410ebd31740e22f","label":"Austrian PM Grilled Comments Part 2","passageId":74}]},{"pid":40,"name":"Tafelspitz Brote Recipe","text":"<p>For Tafelspitz:</p>\n<p>4 lb. roast \n2 lb. beef marrow bones\n3 large carrots\n3 moderately sized turnips\n1 celery stalk\n1 large red onion\n2 bayleaves\n10 peppercorns\n5 juniper berries\nDash of salt\n1/4 cup chives\n8 oz. sour cream\n4 tbsp. fresh horseradish\n1 cup whipping cream</p>\n<p>For Brote:</p>\n<p>42g fresh yeast (42g),\n2 tbsp. salt\n2 tbsp. sugar\n760ml buttermilk\n1 lb. flour\n200g soy seeds</p>\n<p>Chop all tafelspitz ingredients and place in a large saucer.</p>\n<p>Boil for 2 hours and let sit.</p>\n<p>Dissolve brote ingredients together and mix. Fill into pan and bake for 1 hour.</p>\n<p>Open the baked brote once cooled and place tafelspitz in accordingly.</p>\n<p><%= links['ce566273d4e1cfe77283ff79a301119081bc7d3c'] %> </p>\n","tags":["+1-Productivity"],"links":[{"id":"ce566273d4e1cfe77283ff79a301119081bc7d3c","label":"Home Scape","passageId":3}]},{"pid":41,"name":"Work From Home Link","text":"<p>LOCAL STRING ERROR Mom Makes $5,000 a Week!</p>\n<p>Karen Smith of LOCAL STRING ERROR never would've guessed she'd be working at home until she filled out this easy form! She soon learned the secret to succeeding in this economy and provide for her family by working from her own home.</p>\n<p>\"Since obtaining my Household Income Package, I make about $5,000-$7,000 a week using the web. It is more than enough that I was able to quit my previous employment unit. The best thing is that I only must work 10-12 work hours in a single week and family time is now.\"</p>\n<p>For Kelly, jobs on the internet have always been a huge financial crisis. Kelly has struggled for several offices online for months, losing his job in an economic crisis. Karen Smith works from home every day earning $ 850 a day. Others report earning up to $ 1,000 a day from computers.</p>\n<p>Obtain your Household Income Package here!</p>\n<p><%= links['b61800cf0785a8e0d5730231575ae2842c6e7a11'] %></p>\n<p><%= links['55285c295200ab8c7901b6d2a35c56dc1e5ec054'] %></p>\n","tags":["+1-Confidence","-1-Productivity"],"links":[{"id":"b61800cf0785a8e0d5730231575ae2842c6e7a11","label":"Order Household Income Package","passageId":42},{"id":"55285c295200ab8c7901b6d2a35c56dc1e5ec054","label":"Try to Go Back to Home Scape","passageId":43}]},{"pid":42,"name":"Order Household Income Package","text":"<p>Thank you for ordering Household Income Package! Your item will be delivered in 6-8 weeks! Please check your email for confirmation. Many secrets of money will soon be yours!</p>\n<p><%= links['79ef649a71ae0dafd01afba044dc0b941661f17a'] %></p>\n","tags":["+1-Virus","+1-Confidence","End","+1-HouseholdIncomeYES"],"links":[{"id":"79ef649a71ae0dafd01afba044dc0b941661f17a","label":"Household Income Package Confirmation Email","passageId":44}]},{"pid":43,"name":"Try to Go Back to Home Scape","text":"<p>(The player attempts to go back to Home Scape, but the player is bombarded by pop ups and must close them out. Once they are all closed, the player can return to Home Scape but now have a virus)</p>\n<p><%= links['a5a3bdb7eb76842a618485531641f0aa65fc63cc'] %></p>\n","tags":["+1-Virus","-1-Confidence","-1-Productivity","-1-Happiness","End","+1-HouseholdIncomeNO"],"links":[{"id":"a5a3bdb7eb76842a618485531641f0aa65fc63cc","label":"Home Scape","passageId":3}]},{"pid":44,"name":"Household Income Package Confirmation Email","text":"<p>Now you can work from home and earn a regular constant income with $1300 a day! Click here to get started:</p>\n<p><%= links['eeec9a2c9a78a00ecc6beeefc33a227991cf5fb1'] %> </p>\n","tags":["Household-Income-Association"],"links":[{"id":"eeec9a2c9a78a00ecc6beeefc33a227991cf5fb1","label":"The Forbidden Website","passageId":141}]},{"pid":45,"name":"Celebrity Power Couple Calls it Quits Comments","text":"<p>NO WAY IS THIS TRUE! It HAS to be a hoax! They are the number one couple in hollywood and my relationship goals FOR LIFE!</p>\n<p><%= links['9f1ee82b86f714f405269375d3fb976e0384f0cb'] %> </p>\n","tags":["Jinko4Evah5"],"links":[{"id":"9f1ee82b86f714f405269375d3fb976e0384f0cb","label":"Celebrity Power Couple Calls it Quits Comments Part 2","passageId":75}]},{"pid":46,"name":"Clickable Foot Powder Ad","text":"<p>Get your feet fresh with new LANCE Foot Powder. Women will be swimming at your feet! BUY NOW!</p>\n<p><%= links['8ce953c8f8e5e067d7cf0cb3ec13ddcffe342841'] %> </p>\n","tags":[],"links":[{"id":"8ce953c8f8e5e067d7cf0cb3ec13ddcffe342841","label":"Home Scape","passageId":3}]},{"pid":47,"name":"SPECIAL LIMITED TIME OFFER","text":"<p>A redemption email for your SPECIAL LIMITED TIME OFFER has been sent to you! Please check your spam folder as many of our important correspondence has been mistaken flagged as spam.</p>\n<p><%= links['86ed93c9228d5b6a63a37a3c93e9121cd49d6370'] %></p>\n","tags":["Online-Psychics-United","End","+1-PsychicReading"],"links":[{"id":"86ed93c9228d5b6a63a37a3c93e9121cd49d6370","label":"SPECIAL LIMITED TIME OFFER email","passageId":48}]},{"pid":48,"name":"SPECIAL LIMITED TIME OFFER email","text":"<p>You have qualified for a FREE psychic reading. Beware, for what you find may not be for the faint of heart. Click through now if you're ready for revelations beyond your mortal comprehension:</p>\n<p><%= links['50bb50d068f0867753fd2e2ba5a5d5f9e6a26c44'] %> </p>\n","tags":["Online-Psychics-United"],"links":[{"id":"50bb50d068f0867753fd2e2ba5a5d5f9e6a26c44","label":"The Forbidden Website","passageId":141}]},{"pid":49,"name":"PINNED: Cool Zone Rules","text":"<p>Rule 1: No Flame Wars. Y'all remember how we lost 4Spot because things got out of hand and someone called the feds on another user.</p>\n<p>Rule 2: No reposts. Stop stealing each other's content. Only steal content that has not yet been posted here.</p>\n<p>Rule 3: Keep NSFW to the NSFW boards. Seriously, if you need the password, DM the admin.</p>\n<p>Rule 4: Do not DDOS! DDOS attacks on other sites are fine, but don't DDOS Cool Zone.</p>\n<p>Rule 5: Be cool.</p>\n<p><%= links['6b4f17efafb483414727998d4f4a8b3d29107903'] %> </p>\n","tags":["Cool-Zone-Admin"],"links":[{"id":"6b4f17efafb483414727998d4f4a8b3d29107903","label":"Cool Zone","passageId":2}]},{"pid":50,"name":"I Will Clean Your Carpet (NO Questions asked)","text":"<p>Very experienced. Will do it. No tools needed.</p>\n<p><%= links['cebf598d6b592769456ff7ae4265b167ba023a71'] %> </p>\n","tags":["Start","CarpetL0ver"],"links":[{"id":"cebf598d6b592769456ff7ae4265b167ba023a71","label":"I Will Clean Your Carpet (NO Questions asked) P2","passageId":79}]},{"pid":51,"name":"It's Fine to Bathe in Barbecue Sauce","text":"<p>The acid helps you get cleaner than water does.\n<%= links['773daeb1d117125f5af2ce26648aa3c67098c23b'] %> </p>\n","tags":["BBQburner","Start"],"links":[{"id":"773daeb1d117125f5af2ce26648aa3c67098c23b","label":"BBQ P2","passageId":87}]},{"pid":52,"name":"Nice Reply BBQ1","text":"<p>Never thought of this. I'll keep it in mind when I'm in a sticky situation.</p>\n<p><%= links['e93ed392f82a9f979e7642080f183f5a57aca3f5'] %></p>\n","tags":["You","-1-Fame","+1-Happiness","+1-BBQGood"],"links":[{"id":"e93ed392f82a9f979e7642080f183f5a57aca3f5","label":"BBQ P6","passageId":59}]},{"pid":53,"name":"Mean Reply BBQ1","text":"<p>You don't go on many dates, do you, OP?</p>\n<p><%= links['209b84e420fcebd12dba6e47f88d71071f518c16'] %></p>\n","tags":["You","+1-Fame","-1-Productivity","+1-BBQBad"],"links":[{"id":"209b84e420fcebd12dba6e47f88d71071f518c16","label":"BBQ P6","passageId":59}]},{"pid":54,"name":"Sarcastic Reply BBQ1","text":"<p>I know who I'm having over for Memorial Day.</p>\n<p><%= links['91b90e8a4f57b1b76687634efcc3d3843ac4911a'] %></p>\n","tags":["You","+1-Fame","+1-Confidence","-1-Productivity","+1-BBQGood"],"links":[{"id":"91b90e8a4f57b1b76687634efcc3d3843ac4911a","label":"BBQ P6","passageId":59}]},{"pid":55,"name":"This map shows which states it's legal to own an alligator","text":"<p>(Map of US depicting where you can own alligators)</p>\n<p>>tfw you live in Nebraska</p>\n<p><%= links['a0cbc46f83322082288239495bd6133cb3bacd94'] %> </p>\n","tags":["DonkDonkey","Start"],"links":[{"id":"a0cbc46f83322082288239495bd6133cb3bacd94","label":"Alligator P2","passageId":94}]},{"pid":56,"name":"FUNNY COMIC WITH ARTIFACTS","text":"<p>Double-click this passage to edit it.</p>\n","tags":["Start"],"links":[]},{"pid":57,"name":"The Latest Space Force Movie SUCKED","text":"<p>Lucas George has clearly lost it at this point. I grew up with the original three Space Force movies, like all true fans did, and I can't believe he's spat on the legacy of those movies.</p>\n<p>>Queen Azalea gets bored and dies\n>Skyhopper kills his best friend Jars cause evil\n>45 minutes watching a filibuster\n>need to read three books to understand opening crawl\n>only explains half the mysteries\n>effects not as good as Ring Lords\n>$6 a ticket</p>\n<p><%= links['3eb0547b27adf8813ea7465e44fae8bfdea40fee'] %>\n<%= links['bbc2c417acf321dac27d7cc5dd15be6d5d183cd6'] %>\n<%= links['518ced37c49c8a8ec82ffef8ba6b13e04ae5bbd7'] %>\n<%= links['5fbc784a7ab283501f84c9782e6f4b8c47681e5f'] %></p>\n","tags":["DarkVandee","Start"],"links":[{"id":"3eb0547b27adf8813ea7465e44fae8bfdea40fee","label":"Calm Reply SF1","passageId":66},{"id":"bbc2c417acf321dac27d7cc5dd15be6d5d183cd6","label":"Angry Reply SF1","passageId":67},{"id":"518ced37c49c8a8ec82ffef8ba6b13e04ae5bbd7","label":"Sarcastic Reply SF1","passageId":68},{"id":"5fbc784a7ab283501f84c9782e6f4b8c47681e5f","label":"Cool Zone","passageId":2}]},{"pid":58,"name":"Dragon Fist X Episode 142 Discussion","text":"<p>Part 33 of the epic battle with Fridge. Could not believe Wukong already used his Soul Blast and it DIDN'T WORK! Anyway, find the Luna Wire link for the episode below:</p>\n<p><%= links['0144953830da2bd1299c7c552e47505c3bf836dc'] %>\n<%= links['fb7b75e3959acf216698b7e9654d1e15bcdaf1bd'] %></p>\n","tags":["Start","ZZJ-Wukong"],"links":[{"id":"0144953830da2bd1299c7c552e47505c3bf836dc","label":"Luna Wire","passageId":6},{"id":"fb7b75e3959acf216698b7e9654d1e15bcdaf1bd","label":"Dragon Fist P2","passageId":128}]},{"pid":59,"name":"BBQ P6","text":"<p>I swear to god, you people will believe anything that's posted here.</p>\n<p><%= links['fa73e2ca784876a3f9762a703bec57b42cc5bbab'] %> </p>\n","tags":["DonkDonker"],"links":[{"id":"fa73e2ca784876a3f9762a703bec57b42cc5bbab","label":"BBQ P7","passageId":91}]},{"pid":60,"name":"Nice Reply GTR","text":"<p>I love alligators.</p>\n<p><%= links['11887d373de7370e5f8cf48b267a9e165ca5957a'] %></p>\n","tags":["You"],"links":[{"id":"11887d373de7370e5f8cf48b267a9e165ca5957a","label":"Nice Alligator","passageId":63}]},{"pid":61,"name":"Mean Reply GTR","text":"<p>I hate alligators.</p>\n<p><%= links['c42ba582eea8ba8ae1a7c7c2949e2ca6997801a1'] %></p>\n","tags":["You"],"links":[{"id":"c42ba582eea8ba8ae1a7c7c2949e2ca6997801a1","label":"Mean Alligator","passageId":64}]},{"pid":62,"name":"Sarcastic Reply GTR","text":"<p>Alligators? moar liek alli lator</p>\n<p><%= links['6f093a60f95e2fef66a01c73d18e00da998138d4'] %></p>\n","tags":["You"],"links":[{"id":"6f093a60f95e2fef66a01c73d18e00da998138d4","label":"Mean Alligator","passageId":64}]},{"pid":63,"name":"Nice Alligator","text":"<p>I loooooooove alligators!</p>\n<p><%= links['16b545408bea36aef495acc8fef3abd6972b049e'] %></p>\n","tags":["PhreshPrince"],"links":[{"id":"16b545408bea36aef495acc8fef3abd6972b049e","label":"Nice Alligator P2","passageId":100}]},{"pid":64,"name":"Mean Alligator","text":"<p>GTFO, gatorh80r</p>\n<p><%= links['bf7f642a003e4954b87ff78c4a4b8f910effd5ff'] %></p>\n","tags":["HaloHalo"],"links":[{"id":"bf7f642a003e4954b87ff78c4a4b8f910effd5ff","label":"Mean Alligator 2","passageId":102}]},{"pid":65,"name":"gatorh80r email","text":"<p>Here's a website for gatorh80rs like you!</p>\n<p><%= links['b61c6a0b3fcec9f25caafbc33a56fc4be0a39a6f'] %> </p>\n","tags":["DID0D0"],"links":[{"id":"b61c6a0b3fcec9f25caafbc33a56fc4be0a39a6f","label":"The Forbidden Website","passageId":141}]},{"pid":66,"name":"Calm Reply SF1","text":"<p>I think what all of us fans need to accept is that these new movies are for a younger generation. I'm pretty sure lots of kids enjoy them!</p>\n<p><%= links['e790cec6c7af115d1905f24dd4a99e3059d88a13'] %></p>\n","tags":["You","+1-Confidence"],"links":[{"id":"e790cec6c7af115d1905f24dd4a99e3059d88a13","label":"DarkVandee SF1","passageId":69}]},{"pid":67,"name":"Angry Reply SF1","text":"<p>Wow, you call yourself a \"true fan\", but there are SO MANY mistakes in your post. First off, Queen Azalea's death represented the death of The Federal Democracy. It's basic symbolism. The same goes for Jars, that's Skyhopper turning his back to his past and become Dark Vande (Which you've misspelled in your username because of course you have).</p>\n<p>And I'm sorry, but if you didn't get the filibuster scene, then you just lack basic cinematic literacy. Guess there weren't enough explosions in that part for you (Only the one at the end). That whole portion of the movie is the key to the ENTIRE saga, including the originals!</p>\n<p><%= links['69372c3105da3603917bf94b848323f9a2dcf655'] %></p>\n","tags":["You","+2-Confidence","-1-Productivity"],"links":[{"id":"69372c3105da3603917bf94b848323f9a2dcf655","label":"DarkVandee SF3","passageId":73}]},{"pid":68,"name":"Sarcastic Reply SF1","text":"<p>I also like to spend my free time whining about children's movies.</p>\n<p><%= links['27b93d0f29d0ad1253d47fead86774f8fe1a2826'] %> </p>\n","tags":["You","-1-Fame","-1-Productivity"],"links":[{"id":"27b93d0f29d0ad1253d47fead86774f8fe1a2826","label":"DarkVandee SF1","passageId":69}]},{"pid":69,"name":"DarkVandee SF1","text":"<p>The original movies weren't for kids. They were sophisticated epics for adults.</p>\n<p><%= links['56048d7bf18d1ae59a0cc16968ec24a7cd9c568a'] %>\n<%= links['05f669e1fc778e5480affc05a621c94a0150975d'] %>\n<%= links['94b851476eab183f6ddef1d9566ee51462cb77d7'] %>\n<%= links['a9b0137fcd838706de05460d5b958624c5aff66f'] %></p>\n","tags":["DarkVandee"],"links":[{"id":"56048d7bf18d1ae59a0cc16968ec24a7cd9c568a","label":"Calm Reply SF2","passageId":70},{"id":"05f669e1fc778e5480affc05a621c94a0150975d","label":"Angry Reply SF2","passageId":71},{"id":"94b851476eab183f6ddef1d9566ee51462cb77d7","label":"Sarcastic Reply SF2","passageId":72},{"id":"a9b0137fcd838706de05460d5b958624c5aff66f","label":"Cool Zone","passageId":2}]},{"pid":70,"name":"Calm Reply SF2","text":"<p>It's okay to like stuff for kids! I'm a big Funtendo fan, and I'm glad they still make their stuff with kids in mind.</p>\n<p><%= links['2f17b4e1fca71eab893ce96ae4701ed712e64039'] %></p>\n","tags":["You","-1-Fame","+1-Confidence"],"links":[{"id":"2f17b4e1fca71eab893ce96ae4701ed712e64039","label":"DarkVandeeSF4","passageId":106}]},{"pid":71,"name":"Angry Reply SF2","text":"<p>I like them, but they're baby movies for babies.</p>\n<p><%= links['08233af2dc4f0d834f99776dd3ed81da76efe549'] %> </p>\n","tags":["You","-2-Fame"],"links":[{"id":"08233af2dc4f0d834f99776dd3ed81da76efe549","label":"DarkVandeeSF4","passageId":106}]},{"pid":72,"name":"Sarcastic Reply SF2","text":"<p>Same-tier of sprawling epic as the sagas of Care Hares and My Miniature Equine.</p>\n<p><%= links['0affb02a86e24369218f27f6a113d17c4df3086f'] %> </p>\n","tags":["You","+2-Fame"],"links":[{"id":"0affb02a86e24369218f27f6a113d17c4df3086f","label":"DarkVandeeSF4","passageId":106}]},{"pid":73,"name":"DarkVandee SF3","text":"<p>How can Queen Azalea even die if her daughter Countess Paella says they formed the New Militia together? Someone should've gotten fired for that blunder.</p>\n<p><%= links['dfddfcb630a3f694e0eb4ed3b4ab5c66e9609091'] %>\n<%= links['9c132b8fe2a567ab05d043dd5157a36c170948f9'] %>\n<%= links['8e30e64c1425c7852df661053bb8a82c5b85d2c8'] %>\n<%= links['93592a5c53484ab56464663a72503673730c62a5'] %></p>\n","tags":["DarkVandee"],"links":[{"id":"dfddfcb630a3f694e0eb4ed3b4ab5c66e9609091","label":"Calm Reply SF3","passageId":120},{"id":"9c132b8fe2a567ab05d043dd5157a36c170948f9","label":"Angry Reply SF3","passageId":121},{"id":"8e30e64c1425c7852df661053bb8a82c5b85d2c8","label":"Sarcastic Reply SF3","passageId":122},{"id":"93592a5c53484ab56464663a72503673730c62a5","label":"Cool Zone","passageId":2}]},{"pid":74,"name":"Austrian PM Grilled Comments Part 2","text":"<p>You can make $5,000 a week working from home! Click HERE now!</p>\n<p><%= links['e60c9e48f528b6971da08c230bb38ae879c9b5ed'] %> \n<%= links['ce4aa538a15a98f88903bb443794b15d3726f00c'] %></p>\n","tags":["Amelia-Heart"],"links":[{"id":"e60c9e48f528b6971da08c230bb38ae879c9b5ed","label":"Home Scape","passageId":3},{"id":"ce4aa538a15a98f88903bb443794b15d3726f00c","label":"Work From Home Link","passageId":41}]},{"pid":75,"name":"Celebrity Power Couple Calls it Quits Comments Part 2","text":"<p>I hope this leads them to CANCEL Point Breakup. Sick of these hollywood liberals turing kickass movies into chick flicks.</p>\n<p><%= links['0a8e13b30baec9c083670c3a35125f889104ce2d'] %> </p>\n","tags":["Chuck-Gurden"],"links":[{"id":"0a8e13b30baec9c083670c3a35125f889104ce2d","label":"Celebrity Power Couple Calls it Quits Comments Part 3","passageId":76}]},{"pid":76,"name":"Celebrity Power Couple Calls it Quits Comments Part 3","text":"<p>You can make $5,000 a week working from home! Click HERE now!</p>\n<p><%= links['1231d57a810a0ff3f03bfb3631ec662210aafa7c'] %> \n<%= links['b76ab239f0531d431b73a8a50deb1f5c34b0b1f8'] %> </p>\n","tags":["Amelia-Heart"],"links":[{"id":"1231d57a810a0ff3f03bfb3631ec662210aafa7c","label":"Home Scape","passageId":3},{"id":"b76ab239f0531d431b73a8a50deb1f5c34b0b1f8","label":"Work From Home Link","passageId":41}]},{"pid":77,"name":"I Will Clean Your Carpet (NO Questions asked) P4","text":"<p>No tools needed.</p>\n<p><%= links['66652ec3c39f3050e94e33eedabcc9028fbf1667'] %></p>\n","tags":["CarpetL0ver"],"links":[{"id":"66652ec3c39f3050e94e33eedabcc9028fbf1667","label":"I Will Clean Your Carpet (NO Questions asked) P5","passageId":82}]},{"pid":78,"name":"I Will Clean Your Carpet (NO Questions asked) P3","text":"<p>So, you just going to show up at my place and bring your own vaccuum?</p>\n<p><%= links['1d8346e0a9a831dc6bd2de22f7ce9937ccc57b43'] %></p>\n","tags":["FunkyHippo"],"links":[{"id":"1d8346e0a9a831dc6bd2de22f7ce9937ccc57b43","label":"I Will Clean Your Carpet (NO Questions asked) P4","passageId":77}]},{"pid":79,"name":"I Will Clean Your Carpet (NO Questions asked) P2","text":"<p>I have a question.</p>\n<p><%= links['43450abe5427caac46b0fe4a79199e9c244e5965'] %></p>\n","tags":["StickyFingers"],"links":[{"id":"43450abe5427caac46b0fe4a79199e9c244e5965","label":"I Will Clean Your Carpet (NO Questions asked) P3","passageId":78}]},{"pid":80,"name":"I Will Clean Your Carpet (NO Questions asked) P7","text":"<p>I have another question.</p>\n<p><%= links['5b15818e4257029ac0b73f0e9cd572dff8e8c3eb'] %></p>\n","tags":["StickyFingers"],"links":[{"id":"5b15818e4257029ac0b73f0e9cd572dff8e8c3eb","label":"I Will Clean Your Carpet (NO Questions asked) P8","passageId":83}]},{"pid":81,"name":"I Will Clean Your Carpet (NO Questions asked) P6","text":"<p>Oh my god, this is that guy that said he sucks dirt.</p>\n<p><%= links['3a3f96b7618317f5dc0ae4dc26a1f86b67ba949a'] %></p>\n","tags":["DaddyKong"],"links":[{"id":"3a3f96b7618317f5dc0ae4dc26a1f86b67ba949a","label":"I Will Clean Your Carpet (NO Questions asked) P7","passageId":80}]},{"pid":82,"name":"I Will Clean Your Carpet (NO Questions asked) P5","text":"<p>Oooookay.</p>\n<p><%= links['0ad56be7367e2fdcd0df133db81f86d49fdd20ef'] %></p>\n","tags":["FunkyHippo"],"links":[{"id":"0ad56be7367e2fdcd0df133db81f86d49fdd20ef","label":"I Will Clean Your Carpet (NO Questions asked) P6","passageId":81}]},{"pid":83,"name":"I Will Clean Your Carpet (NO Questions asked) P8","text":"<p>OP?\n<%= links['57db40e8a97471ff86ea837df5803122e2e708d2'] %></p>\n","tags":["StickyFingers"],"links":[{"id":"57db40e8a97471ff86ea837df5803122e2e708d2","label":"I Will Clean Your Carpet (NO Questions asked) P9","passageId":84}]},{"pid":84,"name":"I Will Clean Your Carpet (NO Questions asked) P9","text":"<p>K, guess my carpet is staying dirty.</p>\n<p><%= links['5f9f1bde4157b4e1a87b3bafa2e9617ebf0a306d'] %></p>\n","tags":["StickyFingers"],"links":[{"id":"5f9f1bde4157b4e1a87b3bafa2e9617ebf0a306d","label":"I Will Clean Your Carpet (NO Questions asked) P10","passageId":85}]},{"pid":85,"name":"I Will Clean Your Carpet (NO Questions asked) P10","text":"<p>DM me.</p>\n<p><%= links['415cacd901baf5d529b3189a361e3a3ef7ae9eb4'] %></p>\n","tags":["CarpetL0ver"],"links":[{"id":"415cacd901baf5d529b3189a361e3a3ef7ae9eb4","label":"I Will Clean Your Carpet (NO Questions asked) P11","passageId":86}]},{"pid":86,"name":"I Will Clean Your Carpet (NO Questions asked) P11","text":"<p>(This thread is now closed)</p>\n<p><%= links['e2a4ee54fb784d0a862995ad60850aeda3a6f000'] %></p>\n","tags":["End","Cool-Zone-Admin"],"links":[{"id":"e2a4ee54fb784d0a862995ad60850aeda3a6f000","label":"Cool Zone","passageId":2}]},{"pid":87,"name":"BBQ P2","text":"<p>Great for porking.</p>\n<p><%= links['02b9128c154054c4349ec057aaea940c98ac5e42'] %> </p>\n","tags":["Anon"],"links":[{"id":"02b9128c154054c4349ec057aaea940c98ac5e42","label":"BBQ P3","passageId":88}]},{"pid":88,"name":"BBQ P3","text":"<p>This is a troll, right? No one does this.</p>\n<p><%= links['dfff66b3ae5e0c314717a7eaf3ce68e6015ff9a7'] %> </p>\n","tags":["NarutoSasuke69"],"links":[{"id":"dfff66b3ae5e0c314717a7eaf3ce68e6015ff9a7","label":"BBQ P4","passageId":89}]},{"pid":89,"name":"BBQ P4","text":"<p>I did it once when the city shut down my water and I have NEVER looked back. Trust me.</p>\n<p><%= links['eb5a1a56b7761abaaf32e4638f5aa4687a196266'] %> </p>\n","tags":["BBQburner"],"links":[{"id":"eb5a1a56b7761abaaf32e4638f5aa4687a196266","label":"BBQ P5","passageId":90}]},{"pid":90,"name":"BBQ P5","text":"<p>Sweet Baby Ray's Obsession for Men</p>\n<p><%= links['d0ca776dbbf4ebb93375e809f869528a8a605425'] %>\n<%= links['eaac770e2de61dd6494138942d1c524fa4303912'] %>\n<%= links['12fa27d8c1ddfcb3506dc3f456e723cd572dba6e'] %>\n<%= links['d3302ebb21b1f58f7c81d1a8f4b8c5eac943d527'] %> (This is Ignore)</p>\n","tags":["HonkYourBeefus"],"links":[{"id":"d0ca776dbbf4ebb93375e809f869528a8a605425","label":"Nice Reply BBQ1","passageId":52},{"id":"eaac770e2de61dd6494138942d1c524fa4303912","label":"Mean Reply BBQ1","passageId":53},{"id":"12fa27d8c1ddfcb3506dc3f456e723cd572dba6e","label":"Sarcastic Reply BBQ1","passageId":54},{"id":"d3302ebb21b1f58f7c81d1a8f4b8c5eac943d527","label":"Cool Zone","passageId":2}]},{"pid":91,"name":"BBQ P7","text":"<p>OP, I feel you, I once used mayo instead of shampoo and didn't realize until I was already at school.</p>\n<p><%= links['d1e052eb70b8d3fff0526235b0ffb44788039715'] %></p>\n","tags":["SonicSlam44"],"links":[{"id":"d1e052eb70b8d3fff0526235b0ffb44788039715","label":"BBQ P8","passageId":92}]},{"pid":92,"name":"BBQ P8","text":"<p>SonicSlam44, that is COMPLETELY different and really gross. BBQ is actually good for your skin and much better than most over the counter cleaning products.</p>\n<p><%= links['f66fc6a6506d9e26589d08ef325005971f5fe855'] %> </p>\n","tags":["BBQburner"],"links":[{"id":"f66fc6a6506d9e26589d08ef325005971f5fe855","label":"BBQ P9","passageId":93}]},{"pid":93,"name":"BBQ P9","text":"<p>lol</p>\n<p><%= links['8d57c7a900b61f685a1a9e94577a49cc3b6b5eff'] %> </p>\n","tags":["End","Spheriot"],"links":[{"id":"8d57c7a900b61f685a1a9e94577a49cc3b6b5eff","label":"Cool Zone","passageId":2}]},{"pid":94,"name":"Alligator P2","text":"<p>Mississippi Gator Gang rise up</p>\n<p><%= links['6866387efe3ce44e34604a0051dc092927ec0d2f'] %> </p>\n","tags":["HaloHalo"],"links":[{"id":"6866387efe3ce44e34604a0051dc092927ec0d2f","label":"Alligator P3","passageId":95}]},{"pid":95,"name":"Alligator P3","text":"<p>So, do they, like, sell these at pet stores or what?</p>\n<p><%= links['5443d9b554307b30a9abfc1623f2a3db8af959c7'] %> </p>\n","tags":["PhreshPrince"],"links":[{"id":"5443d9b554307b30a9abfc1623f2a3db8af959c7","label":"Alligator P4","passageId":96}]},{"pid":96,"name":"Alligator P4","text":"<p>Yah, brah, just ring up Petsmart and they'll hook you right up.</p>\n<p><%= links['ca3df63dfb07270f8c05cd8fb1ec81aa46cc07b8'] %></p>\n","tags":["DID0D0"],"links":[{"id":"ca3df63dfb07270f8c05cd8fb1ec81aa46cc07b8","label":"Alligator P5","passageId":97}]},{"pid":97,"name":"Alligator P5","text":"<p>I own three gators and they're a lot to take care of, but I love 'em. I go through A LOT of baked beans.</p>\n<p><%= links['7f306de02fe108e1f226f097d9ae2be097010f88'] %> </p>\n","tags":["FunPackage"],"links":[{"id":"7f306de02fe108e1f226f097d9ae2be097010f88","label":"Alligator P6","passageId":98}]},{"pid":98,"name":"Alligator P6","text":"<p>Wait, FunPackage, legit?</p>\n<p><%= links['bf1aec1d794fc2ad1839f4f0f5f476c22824ccf9'] %> </p>\n","tags":["HaloHalo"],"links":[{"id":"bf1aec1d794fc2ad1839f4f0f5f476c22824ccf9","label":"Alligator P7","passageId":99}]},{"pid":99,"name":"Alligator P7","text":"<p>Lol, yeah, they're my babies (PICTURE OF THREE ALLIGATORS HERE)</p>\n<p><%= links['72a8c0f74a24d425fd2bcba27fb5d38d6e0ff9a9'] %>\n<%= links['6ddc2af6894f4e240a824b4715d9cf36b9ab6167'] %>\n<%= links['244978b0ed4b3d0974a733a57c1eb93e7e5258ad'] %>\n<%= links['14695ba293a2e2c1d31f19483423df27020ab1b2'] %></p>\n","tags":["FunPackage"],"links":[{"id":"72a8c0f74a24d425fd2bcba27fb5d38d6e0ff9a9","label":"Nice Reply GTR","passageId":60},{"id":"6ddc2af6894f4e240a824b4715d9cf36b9ab6167","label":"Mean Reply GTR","passageId":61},{"id":"244978b0ed4b3d0974a733a57c1eb93e7e5258ad","label":"Sarcastic Reply GTR","passageId":62},{"id":"14695ba293a2e2c1d31f19483423df27020ab1b2","label":"Cool Zone","passageId":2}]},{"pid":100,"name":"Nice Alligator P2","text":"<p>(Cute alligator GIF)</p>\n<p><%= links['6af9a150e067860deb2ed880458c838aad2da7dc'] %></p>\n","tags":["DID0D0"],"links":[{"id":"6af9a150e067860deb2ed880458c838aad2da7dc","label":"Nice Alligator P3","passageId":101}]},{"pid":101,"name":"Nice Alligator P3","text":"<p>(Another alligator pic)</p>\n<p><%= links['0ef8a1fb3036fb32b74299b1e81b6f769ad69424'] %></p>\n","tags":["FunPackage","+1-Fame","+2-Happiness","End","+1-AlligatorGood"],"links":[{"id":"0ef8a1fb3036fb32b74299b1e81b6f769ad69424","label":"Cool Zone","passageId":2}]},{"pid":102,"name":"Mean Alligator 2","text":"<p>gatorh80r</p>\n<p><%= links['b92514b8997b4b4485d4c9f62dddacd37efbb90c'] %></p>\n","tags":["FunPackage"],"links":[{"id":"b92514b8997b4b4485d4c9f62dddacd37efbb90c","label":"Mean Alligator 3","passageId":103}]},{"pid":103,"name":"Mean Alligator 3","text":"<p>gatorh80r</p>\n<p><%= links['ffb9b4d91072dfaa434b759de34eb3efe0b7963a'] %></p>\n","tags":["PhreshPrince"],"links":[{"id":"ffb9b4d91072dfaa434b759de34eb3efe0b7963a","label":"Mean Alligator 4","passageId":104}]},{"pid":104,"name":"Mean Alligator 4","text":"<p>gatorh80r</p>\n<p><%= links['87eedaaacd6f3cd68ab41eb488429b970807da0f'] %></p>\n","tags":["DID0D0"],"links":[{"id":"87eedaaacd6f3cd68ab41eb488429b970807da0f","label":"Mean Alligator 5","passageId":105}]},{"pid":105,"name":"Mean Alligator 5","text":"<p>(Why would you ever hate alligators?)</p>\n<p><%= links['9154f1e6dd4ba0b7cc78450cc3b4d92efa24ae0b'] %></p>\n","tags":["-3-Fame","-1-Happiness","End","+1-AlligatorBad"],"links":[{"id":"9154f1e6dd4ba0b7cc78450cc3b4d92efa24ae0b","label":"gatorh80r email","passageId":65}]},{"pid":106,"name":"DarkVandeeSF4","text":"<p>piss off, piss baby</p>\n<p><%= links['02af5a3130138a7bb9d9ee4482e775d622d0fd50'] %>\n<%= links['68b1ff59f8f31ba5c5706514eefd6a1075ee9c70'] %>\n<%= links['2c3562fad01937fc6635dd2b87b891bb36883374'] %>\n<%= links['0509d0a657d827ed5f6ec21fabb2e2c831b88395'] %></p>\n","tags":["DarkVandee"],"links":[{"id":"02af5a3130138a7bb9d9ee4482e775d622d0fd50","label":"Calm Reply SF4","passageId":107},{"id":"68b1ff59f8f31ba5c5706514eefd6a1075ee9c70","label":"Angry Reply SF6","passageId":110},{"id":"2c3562fad01937fc6635dd2b87b891bb36883374","label":"Sarcastic Reply SF6","passageId":111},{"id":"0509d0a657d827ed5f6ec21fabb2e2c831b88395","label":"Cool Zone","passageId":2}]},{"pid":107,"name":"Calm Reply SF4","text":"<p>Maybe you should log off for a bit?</p>\n<p><%= links['734b120106cb1b693ebd69ce07ac19e483a97307'] %></p>\n","tags":["You","+1-Confidence"],"links":[{"id":"734b120106cb1b693ebd69ce07ac19e483a97307","label":"DarkVandee SF5","passageId":108}]},{"pid":108,"name":"DarkVandee SF5","text":"<p>Maybe you should piss off for a bit?</p>\n<p><%= links['77a6362ce0df6ae8024e4431b1142b21f62b4596'] %>\n<%= links['1abef346960c3886d0ebd4e977f258caed4bb2b7'] %>\n<%= links['2e461f5b36f404cfab636accaab359ea40eb71ef'] %>\n<%= links['80d9e759d707cdf2dbc5b13b7987d92e921fc615'] %></p>\n","tags":["DarkVandee"],"links":[{"id":"77a6362ce0df6ae8024e4431b1142b21f62b4596","label":"Calm Reply SF6","passageId":109},{"id":"1abef346960c3886d0ebd4e977f258caed4bb2b7","label":"Angry Reply SF6","passageId":110},{"id":"2e461f5b36f404cfab636accaab359ea40eb71ef","label":"Sarcastic Reply SF6","passageId":111},{"id":"80d9e759d707cdf2dbc5b13b7987d92e921fc615","label":"Ignore SF6","passageId":112}]},{"pid":109,"name":"Calm Reply SF6","text":"<p>I'm going to end this here, but if you really want to talk about The Space Force Saga, you should really grow up a bit and learn to have actual conversations.</p>\n<p><%= links['5966272c43d3e8ec06cea15027fcd6f7829e1de9'] %></p>\n","tags":["You","+1-Confidence","-1-Fame","+1-Productivity","+1-VandeeGood"],"links":[{"id":"5966272c43d3e8ec06cea15027fcd6f7829e1de9","label":"Ignore SF6","passageId":112}]},{"pid":110,"name":"Angry Reply SF6","text":"<p>Yeah, I'll piss off when you realize you're too much of a dumbass to understand a bunch of kids movies.</p>\n<p><%= links['0c680088f740b220067d52082152ce8a18db4a16'] %></p>\n","tags":["-1-Productivity","You"],"links":[{"id":"0c680088f740b220067d52082152ce8a18db4a16","label":"DarkVandee SF6","passageId":115}]},{"pid":111,"name":"Sarcastic Reply SF6","text":"<p>Yeah, I can feel the brain cells slipping by the second.</p>\n<p><%= links['795ed5ff8f1ed3279e4d9a45aec91dec48f2607c'] %> </p>\n","tags":["You","+1-Fame"],"links":[{"id":"795ed5ff8f1ed3279e4d9a45aec91dec48f2607c","label":"Ignore SF6","passageId":112}]},{"pid":112,"name":"Ignore SF6","text":"<p>That's what I thought piss wanker.</p>\n<p><%= links['f57398707a3071357792a23d8de2cd4b6afb8585'] %></p>\n","tags":["DarkVandee"],"links":[{"id":"f57398707a3071357792a23d8de2cd4b6afb8585","label":"Ignore SF7","passageId":113}]},{"pid":113,"name":"Ignore SF7","text":"<p>Yeah, wank that piss.</p>\n<p><%= links['e39146e2748c8ffebab84df199226828f10cdc47'] %></p>\n","tags":["DarkVandee"],"links":[{"id":"e39146e2748c8ffebab84df199226828f10cdc47","label":"Ignore SF8","passageId":114}]},{"pid":114,"name":"Ignore SF8","text":"<p>Lol, what, are you like, 12?</p>\n<p><%= links['3640a3fa4732711dbaa9ea5eee6814df4e3caa6e'] %></p>\n","tags":["SlootDog","+2-Confidence","+1-Productivity","End","+1-VandeeGood"],"links":[{"id":"3640a3fa4732711dbaa9ea5eee6814df4e3caa6e","label":"DarkVandee Email","passageId":119}]},{"pid":115,"name":"DarkVandee SF6","text":"<p>THEY ARENT GODDAMN KIDS MOVIES</p>\n<p><%= links['b06576b7136ed4137c6f8518ef5047450f957c1c'] %></p>\n","tags":["DarkVandee"],"links":[{"id":"b06576b7136ed4137c6f8518ef5047450f957c1c","label":"Reply SF6","passageId":116}]},{"pid":116,"name":"Reply SF6","text":"<p>\"Space Force is a film for 12 year olds.\" - Lucas George</p>\n<p>Link: <%= links['8653bca77045a3fcd254848485afee9303b74d31'] %></p>\n","tags":["You","+1-Confidence","-1-Productivity"],"links":[{"id":"8653bca77045a3fcd254848485afee9303b74d31","label":"Lucas George Tells All","passageId":117}]},{"pid":117,"name":"Lucas George Tells All","text":"<p>In Anaheim, CA, the year's largest gathering of geeks, nerds, and fans of a good time at the movies took place. Space Force Fest 5 brought together this collection of enthusiasts to celebrate the latest release in the Space Force series. We sat down to speak with the one and only, Lucas George, creator of the Space Force Saga.</p>\n<p>Home Scape: Thanks for taking time out of your busy schedule to sit with us, Luke. Can we call you Luke?</p>\n<p>Lucas George: You shouldn't.</p>\n<p>Home Scape: Alright, Luke! First question, what do you have to say to fans who think these new Space Force movies aren't as good as the originals?</p>\n<p>Lucas George: I think they can be safely ignored.</p>\n<p>Home Scape: Ignored? Your most loyal fans?</p>\n<p>Lucas George: Space Force is a film for 12 year olds. Those are my most loyal fans, not sweaty 30-year olds whose only bathing soap is an unopened bottle of Jars Bath Bubbles.</p>\n<p>Home Scape: Some people would say that the most recent films are too political for children. What do you have to say to that?</p>\n<p>Lucas George: I think politics have been too childish for adults.</p>\n<p>Home Scape: Before you go, can I ask you about the rumored sequel trilogy to the original Space Force trilogy? Any plans on making those?</p>\n<p>Lucas George: Why would I tell you that?</p>\n<p>Home Scape: Thanks, Luke!</p>\n<p><%= links['a67933096941cc2fd5b97d18dc57414db788ca4b'] %></p>\n","tags":["Home-Scape-Press"],"links":[{"id":"a67933096941cc2fd5b97d18dc57414db788ca4b","label":"Back to Cool Zone","passageId":118}]},{"pid":118,"name":"Back to Cool Zone","text":"<p>I see you've suddenly gone silent.</p>\n<p><%= links['35990008d495a8d0efa956151c27e7050a5b7aee'] %></p>\n","tags":["You","+2-Confidence","End","+1-VandeeBad"],"links":[{"id":"35990008d495a8d0efa956151c27e7050a5b7aee","label":"DarkVandee Email","passageId":119}]},{"pid":119,"name":"DarkVandee Email","text":"<p>I can't believe someone who supposedly likes Space Force can be so wrong on everything about it. Read this to get the REAL story on Space Force: </p>\n<p><%= links['5030f33a2b85b8c32f13b6517209e9dc99171819'] %> </p>\n","tags":["DarkVandee"],"links":[{"id":"5030f33a2b85b8c32f13b6517209e9dc99171819","label":"The Forbidden Website","passageId":141}]},{"pid":120,"name":"Calm Reply SF3","text":"<p>There's a lot of stuff in the Space Force series that's contradicted by whatever came out next. That one is an easy hand wave as \"They built it together in spirit. Paella working from the legacy of her mother.\"</p>\n<p><%= links['d34745644b32d318913d095a815d57b9c48f6faa'] %></p>\n","tags":["You","+1-Fame"],"links":[{"id":"d34745644b32d318913d095a815d57b9c48f6faa","label":"DarkVandee SF8","passageId":123}]},{"pid":121,"name":"Angry Reply SF3","text":"<p>That was in a video game! Video games aren't canon.</p>\n<p><%= links['6cc9f18a36d852011d91957743e1cf700a111fa6'] %></p>\n","tags":["You","-2-Fame"],"links":[{"id":"6cc9f18a36d852011d91957743e1cf700a111fa6","label":"DarkVandee SF8","passageId":123}]},{"pid":122,"name":"Sarcastic Reply SF3","text":"<p>How can all those explosions cause sound if they're in space?</p>\n<p><%= links['f149ca92dd9cdfed13570ef7b8cd2b18e51c4558'] %> </p>\n","tags":["You","-1-Fame","+1-Confidence"],"links":[{"id":"f149ca92dd9cdfed13570ef7b8cd2b18e51c4558","label":"DarkVandee SF8","passageId":123}]},{"pid":123,"name":"DarkVandee SF8","text":"<p>It's dismissive garbage like that that's ruining the Space Force fandom.</p>\n<p><%= links['a2f32f7147813690c1268b4b8dd5733bb359c17e'] %>\n<%= links['764a94c7f887497f68324ea7a11145ddd5446d36'] %>\n<%= links['0d6a881fef6a3251c67e96e9a909fb58bf7b2da0'] %>\n<%= links['dc3c3af6833fdf88f5ce73154d8f5f8d93b62b63'] %> </p>\n","tags":["DarkVandee"],"links":[{"id":"a2f32f7147813690c1268b4b8dd5733bb359c17e","label":"Calm Reply SF6","passageId":109},{"id":"764a94c7f887497f68324ea7a11145ddd5446d36","label":"Angry Reply SF8","passageId":124},{"id":"0d6a881fef6a3251c67e96e9a909fb58bf7b2da0","label":"Sarcastic Reply SF6","passageId":111},{"id":"dc3c3af6833fdf88f5ce73154d8f5f8d93b62b63","label":"Ignore SF6","passageId":112}]},{"pid":124,"name":"Angry Reply SF8","text":"<p>And it's dumbasses like you who think that ressurecting Supreme Lord Cheev is the pinnacle of storytelling that are ruining the Space Force Extended Universe.</p>\n<p><%= links['16505140db80b642728cf47df348b5bf12763f77'] %></p>\n","tags":["You","+1-Fame","-1-Productivity"],"links":[{"id":"16505140db80b642728cf47df348b5bf12763f77","label":"DarkVandee SF9","passageId":125}]},{"pid":125,"name":"DarkVandee SF9","text":"<p>All of the Extended Universe is perfect, unlike Lucas George's recent disasters.</p>\n<p><%= links['565f43ad9b58d63558a548517bb9d94658f2223a'] %>\n<%= links['3f1761cea502d9b1d47757cc90f84ed63b5095ff'] %>\n<%= links['169bcff5dc3060ef48d935bf4c7db275104204b7'] %>\n<%= links['f1ef034f5ed8bb14dcbbf1515dabe4199d2a486b'] %></p>\n","tags":["DarkVandee"],"links":[{"id":"565f43ad9b58d63558a548517bb9d94658f2223a","label":"Calm Reply SF6","passageId":109},{"id":"3f1761cea502d9b1d47757cc90f84ed63b5095ff","label":"Angry Reply SF9","passageId":126},{"id":"169bcff5dc3060ef48d935bf4c7db275104204b7","label":"Sarcastic Reply SF6","passageId":111},{"id":"f1ef034f5ed8bb14dcbbf1515dabe4199d2a486b","label":"Ignore SF9","passageId":127}]},{"pid":126,"name":"Angry Reply SF9","text":"<p>Yeah, the Space Force Easter Special starring Jaxx Rabbit the Bunny Bounty Hunter was perfection.</p>\n<p><%= links['8219775dd79b87ca2f9f03350672ba421d5b46d7'] %></p>\n","tags":["You","+1-Fame"],"links":[{"id":"8219775dd79b87ca2f9f03350672ba421d5b46d7","label":"Back to Cool Zone","passageId":118}]},{"pid":127,"name":"Ignore SF9","text":"<p><%= links['9f652f1c91d938af484f71bc78b9f5034a66066e'] %> </p>\n","tags":["End","+1-VandeeBad"],"links":[{"id":"9f652f1c91d938af484f71bc78b9f5034a66066e","label":"DarkVandee Email","passageId":119}]},{"pid":128,"name":"Dragon Fist P2","text":"<p>Episode was really well written but Toy-A cannot animate for shit.</p>\n<p><%= links['b705020901d517d19e3c008c339748d7f233818b'] %></p>\n","tags":["MaximumPower"],"links":[{"id":"b705020901d517d19e3c008c339748d7f233818b","label":"Dragon Fist P3","passageId":129}]},{"pid":129,"name":"Dragon Fist P3","text":"<p>Can't believe how much they're stretching this out. The fight ended in the manga two years ago. I want to see the Cyber Mutant Saga animated!</p>\n<p><%= links['883044f741c7abaa98d1fe4bb43f6e12c7f6bec5'] %></p>\n","tags":["FunkyHippo"],"links":[{"id":"883044f741c7abaa98d1fe4bb43f6e12c7f6bec5","label":"Dragon Fist P4","passageId":130}]},{"pid":130,"name":"Dragon Fist P4","text":"<p>Did Faruta come back to life yet? Wake we when that happens and not a second sooner.</p>\n<p><%= links['0402dfcb696ee2684ebd5c3ea74f029f5a3eb096'] %></p>\n","tags":["FarutaFan223"],"links":[{"id":"0402dfcb696ee2684ebd5c3ea74f029f5a3eb096","label":"Dragon Fist P5","passageId":131}]},{"pid":131,"name":"Dragon Fist P5","text":"<p>American cartoons are better than this Japanimation shit.</p>\n<p><%= links['d9920e702d1c542d0a4f3886bafcea47de821c95'] %></p>\n","tags":["NedNeddnNeddy"],"links":[{"id":"d9920e702d1c542d0a4f3886bafcea47de821c95","label":"Dragon Fist P6","passageId":132}]},{"pid":132,"name":"Dragon Fist P6","text":"<p>Obvious troll is obvious.</p>\n<p><%= links['90da4eee2586bf8d2e8ab749abac3f2fc1e063a1'] %></p>\n","tags":["MaximumPower"],"links":[{"id":"90da4eee2586bf8d2e8ab749abac3f2fc1e063a1","label":"Dragon Fist P7","passageId":133}]},{"pid":133,"name":"Dragon Fist P7","text":"<p>Anyone know where I can download Dragon Fist hentai?</p>\n<p><%= links['1bc418360095a24e81bc167a4b9ab74ec68c03d6'] %></p>\n","tags":["PantsuParty"],"links":[{"id":"1bc418360095a24e81bc167a4b9ab74ec68c03d6","label":"Dragon Fist P8","passageId":134}]},{"pid":134,"name":"Dragon Fist P8","text":"<p>Hentai is against my Christian beliefs.</p>\n<p><%= links['63faa33673a3bbfd3c3b7205d4f9188b6b413f5c'] %></p>\n","tags":["ZZJ-Wukong"],"links":[{"id":"63faa33673a3bbfd3c3b7205d4f9188b6b413f5c","label":"Dragon Fist P9","passageId":135}]},{"pid":135,"name":"Dragon Fist P9","text":"<p>PantsuParty, you can find Dragon Fist hentai at Luna Wire.</p>\n<p><%= links['7425edf8bd52a18080b8b47d8ecac77d6ef6f041'] %>\n<%= links['d77a3525d105aedf4ae5def73243b37c7eae09ab'] %></p>\n","tags":["FunkyHippo","End"],"links":[{"id":"7425edf8bd52a18080b8b47d8ecac77d6ef6f041","label":"Luna Wire","passageId":6},{"id":"d77a3525d105aedf4ae5def73243b37c7eae09ab","label":"Cool Zone","passageId":2}]},{"pid":136,"name":"Bank of Hong Kong","text":"<p>My name is Diana. I work with the Bank of Hong Kong. I have an interesting deal of 2,000,00$ for us. We both share the funds at 50% each in a matter of weeks. Please grant me the benefit of the doubt and reply for details.</p>\n<p><%= links['959b1d7887461227e22c0393dd709b7fd01f7da1'] %></p>\n","tags":[],"links":[{"id":"959b1d7887461227e22c0393dd709b7fd01f7da1","label":"Email","passageId":5}]},{"pid":137,"name":"Seed Corn Starting From $129 a Bag","text":"<p>Minimize input cost and maximize yield potential with our non-GMO seed corn.</p>\n<p><%= links['4c1f6712728f23545717dd42213c90c997450f00'] %></p>\n","tags":[],"links":[{"id":"4c1f6712728f23545717dd42213c90c997450f00","label":"Email","passageId":5}]},{"pid":138,"name":"Hey","text":"<p>Melanie here, just emailing you to tell you I can't hang out this weekend. The dog is vomitting EVERYWHERE and we need to take them to the vet. He's probably fine. I think he got into the leftover bacon...</p>\n<p><%= links['dc9a0c45a6d2e8bf7ae285dc966c5c3c4f8d8f03'] %></p>\n","tags":[],"links":[{"id":"dc9a0c45a6d2e8bf7ae285dc966c5c3c4f8d8f03","label":"Email","passageId":5}]},{"pid":139,"name":"Matches in Your Area","text":"<p>Find singles in your area with this one weird tip! Click here to order now!</p>\n<p><%= links['b050a7e89734dfe0e6dc6ac3c98f35119ce85915'] %></p>\n","tags":[],"links":[{"id":"b050a7e89734dfe0e6dc6ac3c98f35119ce85915","label":"Singles Ad","passageId":140}]},{"pid":140,"name":"Singles Ad","text":"<p>(Constant pop-ups start appearing and the player gets a virus)</p>\n<p><%= links['f3b9111594e159f2ddff5067b1d4922efd3f4467'] %></p>\n","tags":["+1-Virus"],"links":[{"id":"f3b9111594e159f2ddff5067b1d4922efd3f4467","label":"Email","passageId":5}]},{"pid":141,"name":"The Forbidden Website","text":"<p>BEGIN ACT 2</p>\n","tags":["End"],"links":[]},{"pid":142,"name":"Remember that moon game?","text":"<p>Do y'all remember that game where you have, like, a week to stop the moon from falling? That game was freaky.</p>\n<p><%= links['629af6f9375f99a81b240a6bc8d7c7490c79c4aa'] %></p>\n","tags":["CrossButtonSquare","Begin"],"links":[{"id":"629af6f9375f99a81b240a6bc8d7c7490c79c4aa","label":"Moon Game P2","passageId":147}]},{"pid":143,"name":"How do you beat Grab Grappler in Gonzo: Year of the Blade?","text":"<p>I'm stuck trying to beat this large crab monster, and having serious trouble. Any tips?</p>\n<p><%= links['a851f4841f0ebc62eddeeec01d9c36f330a3bcfb'] %></p>\n","tags":["the_last_samurai","Start"],"links":[{"id":"a851f4841f0ebc62eddeeec01d9c36f330a3bcfb","label":"Gonzo P2","passageId":144}]},{"pid":144,"name":"Gonzo P2","text":"<p>You know how crabs sidestep? Try that.</p>\n<p><%= links['b6135b4c0c9f4e3ac9aa2cdfb99fc9bceff010d0'] %></p>\n","tags":["waveracer2099"],"links":[{"id":"b6135b4c0c9f4e3ac9aa2cdfb99fc9bceff010d0","label":"Gonzo P3","passageId":145}]},{"pid":145,"name":"Gonzo P3","text":"<p>Have you tried consulting a history book? I heard everything in that game is historically accurate.</p>\n<p><%= links['b3c55115004db1c03fa7f42c4a6b5cdac49a6e9f'] %></p>\n","tags":["StarFresh"],"links":[{"id":"b3c55115004db1c03fa7f42c4a6b5cdac49a6e9f","label":"Gonzo P4","passageId":146}]},{"pid":146,"name":"Gonzo P4","text":"<p>Thanks, sidestepping worked!</p>\n<p><%= links['2f1ce57421dfa793fbd16b90b74ef7d51e234fb4'] %></p>\n","tags":["the_last_samurai","End"],"links":[{"id":"2f1ce57421dfa793fbd16b90b74ef7d51e234fb4","label":"Game Blast","passageId":4}]},{"pid":147,"name":"Moon Game P2","text":"<p>It was even less than a week! That game had me sooooo stressed. I would always fail on day three and just gave up eventually.</p>\n<p><%= links['a1ba168cb090b20e2444fd722bb1235dbec75297'] %></p>\n","tags":["DoubleMintGum"],"links":[{"id":"a1ba168cb090b20e2444fd722bb1235dbec75297","label":"Moon Game P3","passageId":148}]},{"pid":148,"name":"Moon Game P3","text":"<p>You know you can travel back in time to the first day at anytime right, DoubleMintGum?</p>\n<p><%= links['ee7ca72539bdb0e071da1453d68d59e1bb4b6475'] %></p>\n","tags":["waveracer2099"],"links":[{"id":"ee7ca72539bdb0e071da1453d68d59e1bb4b6475","label":"Moon Game P4","passageId":149}]},{"pid":149,"name":"Moon Game P4","text":"<p>My mind is blown.</p>\n<p><%= links['e2db21881e9c814da4ba07e7e2330fdf38139ce0'] %></p>\n","tags":["DoubleMintGame"],"links":[{"id":"e2db21881e9c814da4ba07e7e2330fdf38139ce0","label":"Moon Game P5","passageId":150}]},{"pid":150,"name":"Moon Game P5","text":"<p>That game was super deep. You know it was about grief and loss and stuff?</p>\n<p><%= links['5bea1347922db2aaa5f85f955ccd7d018b19f02b'] %></p>\n","tags":["SnowbodyKnows"],"links":[{"id":"5bea1347922db2aaa5f85f955ccd7d018b19f02b","label":"Moon Game P6","passageId":151}]},{"pid":151,"name":"Moon Game P6","text":"<p>Mind double blown!</p>\n<p><%= links['2934c0551f651c5783307eaa8adc4688a9e264eb'] %></p>\n","tags":["DoubleMintGum","End"],"links":[{"id":"2934c0551f651c5783307eaa8adc4688a9e264eb","label":"Game Blast","passageId":4}]},{"pid":152,"name":"Lunar Eclipse Tonight","text":"<p>Get your telescopes out because tonight is a once in a lifetime skygazing oppurtunity! Look to the sky this evening and you'll see a blood red gleam coming from everyone's favorite lunar construct. The moon will be totally eclipsing the sun tonight. Scientists believe there's nothing to worry about regarding tonight's occurance, so feel free to look as you please!</p>\n<p><%= links['766ccb5c97cfcf48ba7109c2d2b4e9f3e1c7ff4e'] %></p>\n","tags":["Home-Scape-Press","Start","End"],"links":[{"id":"766ccb5c97cfcf48ba7109c2d2b4e9f3e1c7ff4e","label":"Home Scape","passageId":3}]}]}
+{
+    "ifid": "6AFD5651-DBE2-450D-B0E2-44AB39BC71FC",
+    "name": "Game Off 2020 Act 1",
+    "startNode": 1,
+    "creator": "Twine",
+    "creatorVersion": "2.3.9",
+    "format": "Harlowe",
+    "time": "2020-11-17T21:38:00.167Z",
+    "passages": [
+        {
+            "pid": 1,
+            "name": "Logging On",
+            "text": "The player logs on, potentially playing a short \"boot up scene\" with sound effects (Think Windows boot up and the classic dial-up hum) and is brought to a web portal.",
+            "tags": [
+                {}
+            ],
+            "links": [
+                {
+                    "id": "3e6565c1b7cadac2d6377c0f57f6c37278280d43",
+                    "label": "Home Scape",
+                    "passageId": 3
+                },
+                {
+                    "id": "80978ab303ee34e8d1915192389d0a789a1a8726",
+                    "label": "Game Blast",
+                    "passageId": 4
+                },
+                {
+                    "id": "93dae7244249d006211c48d327557ec824438bac",
+                    "label": "Cool Zone",
+                    "passageId": 2
+                },
+                {
+                    "id": "f50a6e59fa4a61ddb8119860513a449c38b34a62",
+                    "label": "Email",
+                    "passageId": 5
+                },
+                {
+                    "id": "590b74e65bc522eb1f2c1c444f54291692cf853d",
+                    "label": "Luna Wire",
+                    "passageId": 6
+                }
+            ]
+        },
+        {
+            "pid": 2,
+            "name": "Cool Zone",
+            "text": "The player checks their favorite social media style website.",
+            "tags": [
+                {}
+            ],
+            "links": [
+                {
+                    "id": "d6406114ecf62703b63af5b48d7c64cac36855b8",
+                    "label": "PINNED: Cool Zone Rules",
+                    "passageId": 49
+                },
+                {
+                    "id": "2d62786091d33c20fc25fcf1dfff1985170e0c55",
+                    "label": "I Will Clean Your Carpet (NO Questions asked)",
+                    "passageId": 50
+                },
+                {
+                    "id": "009a1ed9f7b8c0a8655abf383fcb67add966dc22",
+                    "label": "It's Fine to Bathe in Barbecue Sauce",
+                    "passageId": 51
+                },
+                {
+                    "id": "1805ffd6773697c4c1f500a3cfa0cbab6a3b3091",
+                    "label": "This map shows which states it's legal to own an alligator",
+                    "passageId": 55
+                },
+                {
+                    "id": "f9c75bf03b920488904d4141b55de7b25d609bdd",
+                    "label": "FUNNY COMIC WITH ARTIFACTS",
+                    "passageId": 56
+                },
+                {
+                    "id": "20c42f95d4bf808f20399f69fd507d396502406a",
+                    "label": "The Latest Space Force Movie SUCKED",
+                    "passageId": 57
+                },
+                {
+                    "id": "e9839518a20ebcccd6842204322221a221b2b63a",
+                    "label": "Dragon Fist X Episode 142 Discussion",
+                    "passageId": 58
+                }
+            ]
+        },
+        {
+            "pid": 3,
+            "name": "Home Scape",
+            "text": "The player checks their homepage featuring various news stories and clickbait articles.",
+            "tags": [
+                {}
+            ],
+            "links": [
+                {
+                    "id": "e15f5b979e6f17de4ab53164ca67b2cce7aca293",
+                    "label": "Austrian PM Grilled",
+                    "passageId": 36
+                },
+                {
+                    "id": "9c6f0259ae011edf16b2f66e9d5cfc6c051d8da3",
+                    "label": "Celebrity Power Couple Calls it Quits",
+                    "passageId": 37
+                },
+                {
+                    "id": "4e8d2bce08badbcb1932132949b92b136e11d013",
+                    "label": "Find Online Psychics (SPONSORED)",
+                    "passageId": 38
+                },
+                {
+                    "id": "5da7f209918dbeac7e6ba2396466cd781684f745",
+                    "label": "Lunar Eclipse Tonight",
+                    "passageId": 152
+                }
+            ]
+        },
+        {
+            "pid": 4,
+            "name": "Game Blast",
+            "text": "The player signs into their video game forum account and checks some threads.",
+            "tags": [
+                {}
+            ],
+            "links": [
+                {
+                    "id": "b059e553de836766936d86a74afc9fe2df3a7737",
+                    "label": "Remember that moon game?",
+                    "passageId": 142
+                },
+                {
+                    "id": "87c8186e87f7884f4832d27e1d18edd0094310ab",
+                    "label": "Best NEXT GEN console!?",
+                    "passageId": 7
+                },
+                {
+                    "id": "5ee6b67cf035d3b02e6d13b17fe621858445e74d",
+                    "label": "How do you beat Grab Grappler in Gonzo: Year of the Blade?",
+                    "passageId": 143
+                }
+            ]
+        },
+        {
+            "pid": 5,
+            "name": "Email",
+            "text": "",
+            "tags": [
+                {}
+            ],
+            "links": [
+                {
+                    "id": "762732565cdc92cbce151538f1a97c0b8bfecb4d",
+                    "label": "Bank of Hong Kong",
+                    "passageId": 136
+                },
+                {
+                    "id": "6ff3f6af310afbac25662c04ef57cec8aeb8b7ba",
+                    "label": "Seed Corn Starting From $129 a Bag",
+                    "passageId": 137
+                },
+                {
+                    "id": "4e32ea44b489f4ca4044d3bae48587c6a20e624c",
+                    "label": "Hey",
+                    "passageId": 138
+                },
+                {
+                    "id": "02cb546a41d913736405ea66e98deedb6a3a8a46",
+                    "label": "Matches in Your Area",
+                    "passageId": 139
+                }
+            ]
+        },
+        {
+            "pid": 6,
+            "name": "Luna Wire",
+            "text": "The player downloads illicitly obtained media files.",
+            "tags": [
+                {}
+            ],
+            "links": []
+        },
+        {
+            "pid": 7,
+            "name": "Best NEXT GEN console!?",
+            "text": "What's the best NEXT GEN console? I've been thinking of retiring my old Direct Box and upgrading to something else. Thanks!",
+            "tags": [
+                {
+                    "user": "xXxsNiPeM@sTeRxXx",
+                    "trigger": "start"
+                }
+            ],
+            "links": [
+                {
+                    "id": "9cdb955353450ad4f4806c2ad0eb966a51e7301c",
+                    "label": "SnideCooper's Reply",
+                    "passageId": 8
+                }
+            ]
+        },
+        {
+            "pid": 8,
+            "name": "SnideCooper's Reply",
+            "text": "Tony Play Box. That's the best console if you say it isn't, you have worms for brains.",
+            "tags": [
+                {
+                    "user": "SnideCooper"
+                }
+            ],
+            "links": [
+                {
+                    "id": "bb8a84f4d0b0334b218371c9e7357b2b1dd41861",
+                    "label": "Calm Reply GB1",
+                    "passageId": 9
+                },
+                {
+                    "id": "d96119bb9cdfdd1fd7f917af57d5ea2777ce2680",
+                    "label": "Angry Reply GB1",
+                    "passageId": 10
+                },
+                {
+                    "id": "b2262f2f92f4ed44df95314c71e165a4d265fd77",
+                    "label": "Sarcastic Reply GB1",
+                    "passageId": 11
+                },
+                {
+                    "id": "865da7261f7adde5817141d7de834a8833f24fe2",
+                    "label": "Ignore GB1",
+                    "passageId": 12
+                }
+            ]
+        },
+        {
+            "pid": 9,
+            "name": "Calm Reply GB1",
+            "text": "I respect SnideCooper's opinion, but I personally prefer the entertainment and value you get with the Funtendo Y!",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": 1
+                }
+            ],
+            "links": [
+                {
+                    "id": "e77d3705837fb17ccc84b485d05a85678ca219e5",
+                    "label": "SnideCooper's Reply GB1",
+                    "passageId": 13
+                }
+            ]
+        },
+        {
+            "pid": 10,
+            "name": "Angry Reply GB1",
+            "text": "Well, the original, maybe, but the newest model, Tony Play Box 3 has next to no games. Phaze and Knick 2 are not worth $599.99, let alone their own $60 price tag.",
+            "tags": [
+                {
+                    "user": "player",
+                    "productivity": -1,
+                    "confidence": 1
+                }
+            ],
+            "links": [
+                {
+                    "id": "c014447492b14240936d7d1473350e5ba764faa3",
+                    "label": "SnideCooper's Reply GB1",
+                    "passageId": 13
+                }
+            ]
+        },
+        {
+            "pid": 11,
+            "name": "Sarcastic Reply GB1",
+            "text": "I also like to pay $600 for a paper weight.",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": 1,
+                    "confidence": 1,
+                    "productivity": -1
+                }
+            ],
+            "links": [
+                {
+                    "id": "f33e4fda244430c05560e8600e78d01befb3507c",
+                    "label": "SnideCooper's Reply GB1",
+                    "passageId": 13
+                }
+            ]
+        },
+        {
+            "pid": 12,
+            "name": "Ignore GB1",
+            "text": "I think the Tony Game Box 3 and the Funtendo Y both have their merits! The Tony Game Box 3 has the potential for high definition gaming and media experiences that we just haven't seen before, but the Funtendo Y is bursting at the seams with creativity. I think it's worth grabbing either, OP, or even both consoles if you're working a second job, lol.",
+            "tags": [
+                {
+                    "user": "Waveracer2099",
+                    "productivity": 1,
+                    "trigger": "end",
+                    "storyVariable": "SnideGood"
+                }
+            ],
+            "links": [
+                {
+                    "id": "cba279efb1bbc67bce2c5157f87bdd0f652d576d",
+                    "label": "Waveracer2099's Email",
+                    "passageId": 17
+                }
+            ]
+        },
+        {
+            "pid": 13,
+            "name": "SnideCooper's Reply GB1",
+            "text": "You're only saying that because you're a Funtendrone.",
+            "tags": [
+                {
+                    "user": "SnideCooper"
+                }
+            ],
+            "links": [
+                {
+                    "id": "617833db148f8e613332f0d7fcfe9ab108f87b89",
+                    "label": "Calm Reply GB2",
+                    "passageId": 14
+                },
+                {
+                    "id": "96fc70a731b17a20ea6831890d43d82c44791c7a",
+                    "label": "Angry Reply GB2",
+                    "passageId": 15
+                },
+                {
+                    "id": "277f0f187d2a9a120cc3773cd31afd0a0e16a496",
+                    "label": "Sarcastic Reply GB2",
+                    "passageId": 16
+                },
+                {
+                    "id": "51a7b715e33e0056a800c5165c89ed8ecbc11d95",
+                    "label": "Ignore GB1",
+                    "passageId": 12
+                }
+            ]
+        },
+        {
+            "pid": 14,
+            "name": "Calm Reply GB2",
+            "text": "Haha, we prefer Funtendo Fans or Fantendos. Okay, no, that second one is pretty bad.",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": 1
+                }
+            ],
+            "links": [
+                {
+                    "id": "1948246db796b3ba0eaa85d643434286be879d50",
+                    "label": "SnideCooper's Reply GB3",
+                    "passageId": 18
+                }
+            ]
+        },
+        {
+            "pid": 15,
+            "name": "Angry Reply GB2",
+            "text": "I'm only saying that because I like to play games that aren't shit.",
+            "tags": [
+                {
+                    "user": "player",
+                    "confidence": 1,
+                    "productivity": -1
+                }
+            ],
+            "links": [
+                {
+                    "id": "59e5189acb22da72d3a41d6f844ee9ee103a48aa",
+                    "label": "SnideCooper's Reply GB3",
+                    "passageId": 18
+                }
+            ]
+        },
+        {
+            "pid": 16,
+            "name": "Sarcastic Reply GB2",
+            "text": "I'm the drone, yet you're the one producing an automated response.",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": 1,
+                    "confidence": 1,
+                    "productivity": -1
+                }
+            ],
+            "links": [
+                {
+                    "id": "0b49544e251eec0217508c9883ea59a35ecd20e6",
+                    "label": "SnideCooper's Reply GB3",
+                    "passageId": 18
+                }
+            ]
+        },
+        {
+            "pid": 17,
+            "name": "Waveracer2099's Email",
+            "text": "Hey, sorry about Snide Cooper. He's always like this. Sometimes he goes too far and we get a reprieve from him for a week after the mods drop the banhammer. He sent me this weird link, though. Have you seen anything like this?",
+            "tags": [
+                {
+                    "user": "Waveracer2099"
+                }
+            ],
+            "links": [
+                {
+                    "id": "1177610df3320078f8707a151588cdb635211994",
+                    "label": "The Forbidden Website",
+                    "passageId": 141
+                }
+            ]
+        },
+        {
+            "pid": 18,
+            "name": "SnideCooper's Reply GB3",
+            "text": "Go play Superb Guys 1937 (Which hasn't even been good in years) and I will play my games which actually require an IQ to understand.",
+            "tags": [
+                {
+                    "user": "SnideCooper"
+                }
+            ],
+            "links": [
+                {
+                    "id": "50515968aeed576e885222a73b619ce1939355fa",
+                    "label": "Angry/Sarcastic Reply GB3",
+                    "passageId": 19
+                },
+                {
+                    "id": "c4287816ce980d3a3849359e302f15c624307d67",
+                    "label": "Calm Reply GB3",
+                    "passageId": 20
+                },
+                {
+                    "id": "a0a5177b5cea0406a4b4ea1e31e78c8a08bdadbc",
+                    "label": "Ignore GB1",
+                    "passageId": 12
+                }
+            ]
+        },
+        {
+            "pid": 19,
+            "name": "Angry/Sarcastic Reply GB3",
+            "text": "Yeah, a low IQ.",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": 1,
+                    "confidence": 1,
+                    "productivity": -2
+                }
+            ],
+            "links": [
+                {
+                    "id": "029d68ab4616306ac4bd7671dcfbdd082a2fbca4",
+                    "label": "SnideCooper's Reply GB4",
+                    "passageId": 21
+                }
+            ]
+        },
+        {
+            "pid": 20,
+            "name": "Calm Reply GB3",
+            "text": "Have you tried New Superb Guys Universe? It's genuinely really good and I think you might like it!",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "c06010524ecd60b2a62a7ad6ecc29ba429818e42",
+                    "label": "SnideCooper's Reply GB7",
+                    "passageId": 22
+                }
+            ]
+        },
+        {
+            "pid": 21,
+            "name": "SnideCooper's Reply GB4",
+            "text": "When was the last time they even made a new IP? 20 years ago?",
+            "tags": [
+                {
+                    "user": "SnideCooper"
+                }
+            ],
+            "links": [
+                {
+                    "id": "bd97bc5ca0ae17a4a2db0a7a6eef6c32907d5602",
+                    "label": "Calm Reply GB4",
+                    "passageId": 23
+                },
+                {
+                    "id": "60581c0001f4424ecdfc363ad0dc754c797d1dae",
+                    "label": "Angry Reply GB4",
+                    "passageId": 24
+                },
+                {
+                    "id": "b5dc437ea11d6644e7cd62312811f94e40139c6d",
+                    "label": "Sarcastic Reply GB4",
+                    "passageId": 25
+                },
+                {
+                    "id": "6a5bd36364102f1750ce822394dd4921c32720c6",
+                    "label": "Ignore GB1",
+                    "passageId": 12
+                }
+            ]
+        },
+        {
+            "pid": 22,
+            "name": "SnideCooper's Reply GB7",
+            "text": "Superb Guys wasn't even as good a Wack Wallaby.",
+            "tags": [
+                {
+                    "user": "SnideCooper"
+                }
+            ],
+            "links": [
+                {
+                    "id": "4ab8d3743586c5fa9fb93b5988f7336a0a9f640c",
+                    "label": "Calm Reply GB7",
+                    "passageId": 31
+                },
+                {
+                    "id": "6c7f760368de7a184d0834a08cae150c4db32d58",
+                    "label": "Angry/Sarcastic Reply GB7",
+                    "passageId": 32
+                },
+                {
+                    "id": "b7b1cdba09eb71f8026caffab49f4de2a892997a",
+                    "label": "Ignore GB2",
+                    "passageId": 29
+                }
+            ]
+        },
+        {
+            "pid": 23,
+            "name": "Calm Reply GB4",
+            "text": "Brain Bug and Funtendogs were HUGE on the Funtendo GS! Not to mention the slightly more obscure hits like Fire Heart Pep Squad and Father III.",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": 1,
+                    "productivity": -1
+                }
+            ],
+            "links": [
+                {
+                    "id": "3de988c3fd045709d2aeff8571a9250513e4b2bf",
+                    "label": "SnideCooper's Reply GB5",
+                    "passageId": 26
+                }
+            ]
+        },
+        {
+            "pid": 24,
+            "name": "Angry Reply GB4",
+            "text": "I see you are COMPLETELY ignoring the Funtendo GS.",
+            "tags": [
+                {
+                    "user": "player",
+                    "confidence": 1,
+                    "productivity": -1
+                }
+            ],
+            "links": [
+                {
+                    "id": "7bd6b2bc1f7e00974959b5d6d8b7fd71374c2951",
+                    "label": "SnideCooper's Reply GB5",
+                    "passageId": 26
+                }
+            ]
+        },
+        {
+            "pid": 25,
+            "name": "Sarcastic Reply GB4",
+            "text": "You don't really need to make eight new IP's a month when you have actually good ones to begin with.",
+            "tags": [
+                {
+                    "user": "player",
+                    "confidence": 1,
+                    "productivity": -1
+                }
+            ],
+            "links": [
+                {
+                    "id": "f941bb1202568288e19d09ca9c9e9aab7eabdd6f",
+                    "label": "SnideCooper's Reply GB7",
+                    "passageId": 22
+                }
+            ]
+        },
+        {
+            "pid": 26,
+            "name": "SnideCooper's Reply GB5",
+            "text": "My little sister has one of those, it's literally for babies and grandmas",
+            "tags": [
+                {
+                    "user": "SnideCooper"
+                }
+            ],
+            "links": [
+                {
+                    "id": "edc7ffef6de2ae13ddeb950f6a2876b93b2d7fec",
+                    "label": "Calm Reply GB5",
+                    "passageId": 27
+                },
+                {
+                    "id": "49eb6029b25c7e2c9293ee08432c17c714a55aeb",
+                    "label": "Angry/Sarcastic Reply GB5",
+                    "passageId": 28
+                },
+                {
+                    "id": "ed4fd8a43db9f1638276b9ecbab17e97b02dbb78",
+                    "label": "Ignore GB2",
+                    "passageId": 29
+                }
+            ]
+        },
+        {
+            "pid": 27,
+            "name": "Calm Reply GB5",
+            "text": "If your sister ever wants to play Superb Guys with me, my Friend Code is 5346 8050 4311!",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": 1,
+                    "happiness": 1,
+                    "trigger": "end",
+                    "storyVariable": "SnideGood"
+                }
+            ],
+            "links": [
+                {
+                    "id": "6136e5b16c75f6a869ebdd6422b973f930219418",
+                    "label": "Waveracer2099's Email",
+                    "passageId": 17
+                }
+            ]
+        },
+        {
+            "pid": 28,
+            "name": "Angry/Sarcastic Reply GB5",
+            "text": "Surprised you're related to someone whose brain isn't cancer. Figured it was genetic.",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": -1,
+                    "productivity": -1
+                }
+            ],
+            "links": [
+                {
+                    "id": "40551b12ad669fdc636a4d1fc84f60ca9daa27f1",
+                    "label": "SnideCooper's Reply GB7",
+                    "passageId": 22
+                }
+            ]
+        },
+        {
+            "pid": 29,
+            "name": "Ignore GB2",
+            "text": "(Upon ending your conversation with them, SnideCooper emails you, as your email is available as part of your public profile)",
+            "tags": [
+                {
+                    "user": "player",
+                    "productivity": 1,
+                    "trigger": "end",
+                    "storyVariable":"SnideBad"
+                }
+            ],
+            "links": [
+                {
+                    "id": "1ceb3532393fbbf26a2cc2294065a9f0f218bd9a",
+                    "label": "SnideCooper's Email",
+                    "passageId": 30
+                }
+            ]
+        },
+        {
+            "pid": 30,
+            "name": "SnideCooper's Email",
+            "text": "I can't believe you ran off from our conversation like a coward. Proof that you KNOW the Tony Game Box 3 is the superior game console. Go here if you want to experience a REAL console:",
+            "tags": [
+                {
+                    "user": "SnideCooper"
+                }
+            ],
+            "links": [
+                {
+                    "id": "d7670b8eed7cb214f86081a46a575be867020480",
+                    "label": "The Forbidden Website",
+                    "passageId": 141
+                }
+            ]
+        },
+        {
+            "pid": 31,
+            "name": "Calm Reply GB7",
+            "text": "How is Wack Wallaby these days?",
+            "tags": [
+                {
+                    "user": "player",
+                    "productivity": -1
+                }
+            ],
+            "links": [
+                {
+                    "id": "885dded2abf658dfce3e2aa628032079a41ea2ad",
+                    "label": "SnideCooper's Reply GB8",
+                    "passageId": 34
+                }
+            ]
+        },
+        {
+            "pid": 32,
+            "name": "Angry/Sarcastic Reply GB7",
+            "text": "Why don't you go wack your wallaby?",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": 1,
+                    "productivity": -2
+                }
+            ],
+            "links": [
+                {
+                    "id": "1a187af53b23ebe9552e2ce1290aed566e266bbc",
+                    "label": "Banned Message GB1",
+                    "passageId": 33
+                }
+            ]
+        },
+        {
+            "pid": 33,
+            "name": "Banned Message GB1",
+            "text": "You have been banned from this forum for two weeks for poor behavior.",
+            "tags": [
+                {
+                    "user": "Game-Blast-Admin",
+                    "trigger": "end",
+                    "storyVariable":"SnideBad"
+                }
+            ],
+            "links": [
+                {
+                    "id": "ea826a938efa439426fe04f8ec4e8025cb66ed5c",
+                    "label": "SnideCooper's Email Banned Alt",
+                    "passageId": 35
+                }
+            ]
+        },
+        {
+            "pid": 34,
+            "name": "SnideCooper's Reply GB8",
+            "text": "Last year's remake was a best seller, DUMBASS!",
+            "tags": [
+                {
+                    "user": "SnideCooper",
+                    "trigger": "end",
+                    "storyVariable":"SnideBad"
+                }
+            ],
+            "links": [
+                {
+                    "id": "3c607348fcb3d63697127a9e0832fce42bc55f11",
+                    "label": "SnideCooper's Email Banned Alt",
+                    "passageId": 35
+                }
+            ]
+        },
+        {
+            "pid": 35,
+            "name": "SnideCooper's Email Banned Alt",
+            "text": "I can't believe you got me banned! If it wasn't for your Funtendo whining, I wouldn't have lost my posting privileges. This is so stupid. I hope you got banned too. If you did, I guess you can keep posting here:",
+            "tags": [
+                {
+                    "user": "SnideCooper"
+                }
+            ],
+            "links": [
+                {
+                    "id": "941623069569a104eaa5b2ca58b138e3b9cae131",
+                    "label": "The Forbidden Website",
+                    "passageId": 141
+                }
+            ]
+        },
+        {
+            "pid": 36,
+            "name": "Austrian PM Grilled",
+            "text": "This European leader's new sandwich that you can eat! When people think food, they don't usually think of Austria, but one Austrian leader is here to prove of us wrong. The sandwich, dubbed the Tafelspitz Brote by locals, is a boiled beef extravaganza that wants to invite you to its party. When asked about growing tensions between Austria and its neighboring countries, the PM had this to say, \"You have not lived until you have had Tafelspitz from the homeland. I have made it far easier for the people to enjoy this delicacy with this sandwich!\"Celebrity chef, Ricardo Geurbeau chimed in with his take on the Austrian leader's new edible delight, \"I think it's an outrage that this man continues to ignore the growing tensions in the political landscape. Last month's UN commissary meeting should have shown him just how pressing these issues are, yet here we see him ignore them once again. The silk trade embargo has been crushing Austria's economy and nothing has been done.\"If you'd like to make the PM's Tafelspitz Brote at home, click the link below!",
+            "tags": [
+                {
+                    "user": "Home-Scape-Press",
+                    "trigger": "start"
+                }
+            ],
+            "links": [
+                {
+                    "id": "4367c924eb14cbdbee2db9affa57492743cee1b5",
+                    "label": "Austrian PM Grilled Comments",
+                    "passageId": 39
+                },
+                {
+                    "id": "0495962255f2837da47ff44d9889f06be4f1a90e",
+                    "label": "Tafelspitz Brote Recipe",
+                    "passageId": 40
+                },
+                {
+                    "id": "d1a600c2aa703e97087ade527f379dc1a03f94a7",
+                    "label": "Home Scape",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 37,
+            "name": "Celebrity Power Couple Calls it Quits",
+            "text": "It's Hollywood heartbreak for Jinko, the fan-coined term for the relationship between movie star, Laura Jini, and extreme sports skater, Kole Ferguson. Announced at a national press conference in Belarus, the two have decided to split up over creative and romantic differences. They had been in the European country filming 20th Century Fox's new Point Break sequel, Point Breakup. Some believe that this split is actually research for the upcoming film.During the press conference's Q&A session, Kole Ferguson said the new film would be \"Tight.\" while Laura Jini refused to comment on the status of the reportedly troubled production. More on this story as it develops...",
+            "tags": [
+                {
+                    "trigger": "start",
+                    "user": "Home-Scape-Press"
+                }
+            ],
+            "links": [
+                {
+                    "id": "e3a902eade1aeb94faf031612e7f205b92ebca17",
+                    "label": "Celebrity Power Couple Calls it Quits Comments",
+                    "passageId": 45
+                },
+                {
+                    "id": "72c90ca0ac027862137738a1c4edbe45c6d554bb",
+                    "label": "Clickable Foot Powder Ad",
+                    "passageId": 46
+                },
+                {
+                    "id": "155fa3cf84411dca724ecdebde23273a6cfc15ca",
+                    "label": "Home Scape",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 38,
+            "name": "Find Online Psychics (SPONSORED)",
+            "text": "Are you searching for something? Someone? Even beyond our physical realm? Well, we can help you find a psychic in LOCAL STRING ERROR to make these problems a thing of the past, by looking towards the future.As a Home Scape reader, you qualify for a SPECIAL LIMITED TIME OFFER! You can get one psychic screening for FREE! Act now, our psychics see this once in a lifetime deal fading fast!",
+            "tags": [
+                {
+                    "user": "Online-Psychics-United",
+                    "trigger": "start"
+                }
+            ],
+            "links": [
+                {
+                    "id": "e380dc0ea7fc41fa884dca060f89b79e2da87a87",
+                    "label": "SPECIAL LIMITED TIME OFFER",
+                    "passageId": 47
+                },
+                {
+                    "id": "78e578d2807e6e72cba1c314bc83f5b6974fea1f",
+                    "label": "Home Scape",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 39,
+            "name": "Austrian PM Grilled Comments",
+            "text": "OMG! I Have Made This Recipe And It Is DELICIOUS! Compliments To The Chef!",
+            "tags": [
+                {
+                    "user": "Jill Stevenson"
+                }
+            ],
+            "links": [
+                {
+                    "id": "cf46c73b70f086a7261780caa410ebd31740e22f",
+                    "label": "Austrian PM Grilled Comments Part 2",
+                    "passageId": 74
+                }
+            ]
+        },
+        {
+            "pid": 40,
+            "name": "Tafelspitz Brote Recipe",
+            "text": "For Tafelspitz:4 lb. roast 2 lb. beef marrow bones3 large carrots3 moderately sized turnips1 celery stalk1 large red onion2 bayleaves10 peppercorns5 juniper berriesDash of salt1/4 cup chives8 oz. sour cream4 tbsp. fresh horseradish1 cup whipping creamFor Brote:42g fresh yeast (42g),2 tbsp. salt2 tbsp. sugar760ml buttermilk1 lb. flour200g soy seedsChop all tafelspitz ingredients and place in a large saucer.Boil for 2 hours and let sit.Dissolve brote ingredients together and mix. Fill into pan and bake for 1 hour.Open the baked brote once cooled and place tafelspitz in accordingly.",
+            "tags": [
+                {
+                    "productivity": 1
+                }
+            ],
+            "links": [
+                {
+                    "id": "ce566273d4e1cfe77283ff79a301119081bc7d3c",
+                    "label": "Home Scape",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 41,
+            "name": "Work From Home Link",
+            "text": "LOCAL STRING ERROR Mom Makes $5,000 a Week!Karen Smith of LOCAL STRING ERROR never would've guessed she'd be working at home until she filled out this easy form! She soon learned the secret to succeeding in this economy and provide for her family by working from her own home.\"Since obtaining my Household Income Package, I make about $5,000-$7,000 a week using the web. It is more than enough that I was able to quit my previous employment unit. The best thing is that I only must work 10-12 work hours in a single week and family time is now.\"For Kelly, jobs on the internet have always been a huge financial crisis. Kelly has struggled for several offices online for months, losing his job in an economic crisis. Karen Smith works from home every day earning $ 850 a day. Others report earning up to $ 1,000 a day from computers.Obtain your Household Income Package here!",
+            "tags": [
+                {
+                    "confidence": 1,
+                    "productivity": -1
+                }
+            ],
+            "links": [
+                {
+                    "id": "b61800cf0785a8e0d5730231575ae2842c6e7a11",
+                    "label": "Order Household Income Package",
+                    "passageId": 42
+                },
+                {
+                    "id": "55285c295200ab8c7901b6d2a35c56dc1e5ec054",
+                    "label": "Try to Go Back to Home Scape",
+                    "passageId": 43
+                }
+            ]
+        },
+        {
+            "pid": 42,
+            "name": "Order Household Income Package",
+            "text": "Thank you for ordering Household Income Package! Your item will be delivered in 6-8 weeks! Please check your email for confirmation. Many secrets of money will soon be yours!",
+            "tags": [
+                {
+                    "virus":  "scramble",
+                    "confidence": 1,
+                    "trigger": "end",
+                    "storyVariable": "HouseholdIncomeYES"
+                }
+            ],
+            "links": [
+                {
+                    "id": "79ef649a71ae0dafd01afba044dc0b941661f17a",
+                    "label": "Household Income Package Confirmation Email",
+                    "passageId": 44
+                }
+            ]
+        },
+        {
+            "pid": 43,
+            "name": "Try to Go Back to Home Scape",
+            "text": "(The player attempts to go back to Home Scape, but the player is bombarded by pop ups and must close them out. Once they are all closed, the player can return to Home Scape but now have a virus)",
+            "tags": [
+                {
+                    "virus": "scramble",
+                    "confidence": -1,
+                    "productivity": -1,
+                    "happiness": -1,
+                    "trigger": "end",
+                    "storyVariable":"HouseholdIncomeNO"
+                }
+            ],
+            "links": [
+                {
+                    "id": "a5a3bdb7eb76842a618485531641f0aa65fc63cc",
+                    "label": "Home Scape",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 44,
+            "name": "Household Income Package Confirmation Email",
+            "text": "Now you can work from home and earn a regular constant income with $1300 a day! Click here to get started:",
+            "tags": [
+                {
+                    "user": "Household-Income-Association"
+                }
+            ],
+            "links": [
+                {
+                    "id": "eeec9a2c9a78a00ecc6beeefc33a227991cf5fb1",
+                    "label": "The Forbidden Website",
+                    "passageId": 141
+                }
+            ]
+        },
+        {
+            "pid": 45,
+            "name": "Celebrity Power Couple Calls it Quits Comments",
+            "text": "NO WAY IS THIS TRUE! It HAS to be a hoax! They are the number one couple in hollywood and my relationship goals FOR LIFE!",
+            "tags": [
+                {
+                    "user": "Jinko4Evah5"
+                }
+            ],
+            "links": [
+                {
+                    "id": "9f1ee82b86f714f405269375d3fb976e0384f0cb",
+                    "label": "Celebrity Power Couple Calls it Quits Comments Part 2",
+                    "passageId": 75
+                }
+            ]
+        },
+        {
+            "pid": 46,
+            "name": "Clickable Foot Powder Ad",
+            "text": "Get your feet fresh with new LANCE Foot Powder. Women will be swimming at your feet! BUY NOW!",
+            "tags": [
+                {
+                  "user": "LANCE Foot Power"
+                }
+            ],
+            "links": [
+                {
+                    "id": "8ce953c8f8e5e067d7cf0cb3ec13ddcffe342841",
+                    "label": "Home Scape",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 47,
+            "name": "SPECIAL LIMITED TIME OFFER",
+            "text": "A redemption email for your SPECIAL LIMITED TIME OFFER has been sent to you! Please check your spam folder as many of our important correspondence has been mistaken flagged as spam.",
+            "tags": [
+                {
+                    "user": "Online-Psychics-United",
+                    "trigger": "end",
+                    "storyVariable": "PsychicReading"
+                }
+            ],
+            "links": [
+                {
+                    "id": "86ed93c9228d5b6a63a37a3c93e9121cd49d6370",
+                    "label": "SPECIAL LIMITED TIME OFFER email",
+                    "passageId": 48
+                }
+            ]
+        },
+        {
+            "pid": 48,
+            "name": "SPECIAL LIMITED TIME OFFER email",
+            "text": "You have qualified for a FREE psychic reading. Beware, for what you find may not be for the faint of heart. Click through now if you're ready for revelations beyond your mortal comprehension:",
+            "tags": [
+                {
+                    "user": "Online-Psychics-United"
+                }
+            ],
+            "links": [
+                {
+                    "id": "50bb50d068f0867753fd2e2ba5a5d5f9e6a26c44",
+                    "label": "The Forbidden Website",
+                    "passageId": 141
+                }
+            ]
+        },
+        {
+            "pid": 49,
+            "name": "PINNED: Cool Zone Rules",
+            "text": "Rule 1: No Flame Wars. Y'all remember how we lost 4Spot because things got out of hand and someone called the feds on another user.Rule 2: No reposts. Stop stealing each other's content. Only steal content that has not yet been posted here.Rule 3: Keep NSFW to the NSFW boards. Seriously, if you need the password, DM the admin.Rule 4: Do not DDOS! DDOS attacks on other sites are fine, but don't DDOS Cool Zone.Rule 5: Be cool.",
+            "tags": [
+                {
+                    "user": "Cool Zone Admin"
+                }
+            ],
+            "links": [
+                {
+                    "id": "6b4f17efafb483414727998d4f4a8b3d29107903",
+                    "label": "Cool Zone",
+                    "passageId": 2
+                }
+            ]
+        },
+        {
+            "pid": 50,
+            "name": "I Will Clean Your Carpet (NO Questions asked)",
+            "text": "Very experienced. Will do it. No tools needed.",
+            "tags": [
+                {
+                    "trigger": "start",
+                    "user": "CarpetL0ver"
+                }
+            ],
+            "links": [
+                {
+                    "id": "cebf598d6b592769456ff7ae4265b167ba023a71",
+                    "label": "I Will Clean Your Carpet (NO Questions asked) P2",
+                    "passageId": 79
+                }
+            ]
+        },
+        {
+            "pid": 51,
+            "name": "It's Fine to Bathe in Barbecue Sauce",
+            "text": "The acid helps you get cleaner than water does.",
+            "tags": [
+                {
+                    "user": "BBQburner",
+                    "trigger": "start"
+                }
+            ],
+            "links": [
+                {
+                    "id": "773daeb1d117125f5af2ce26648aa3c67098c23b",
+                    "label": "BBQ P2",
+                    "passageId": 87
+                }
+            ]
+        },
+        {
+            "pid": 52,
+            "name": "Nice Reply BBQ1",
+            "text": "Never thought of this. I'll keep it in mind when I'm in a sticky situation.",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": -1,
+                    "happiness": 1,
+                    "storyVariable": "BBQGood"
+                }
+            ],
+            "links": [
+                {
+                    "id": "e93ed392f82a9f979e7642080f183f5a57aca3f5",
+                    "label": "BBQ P6",
+                    "passageId": 59
+                }
+            ]
+        },
+        {
+            "pid": 53,
+            "name": "Mean Reply BBQ1",
+            "text": "You don't go on many dates, do you, OP?",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": 1,
+                    "productivity": -1,
+                    "storyVariable": "BBQBad"
+                }
+            ],
+            "links": [
+                {
+                    "id": "209b84e420fcebd12dba6e47f88d71071f518c16",
+                    "label": "BBQ P6",
+                    "passageId": 59
+                }
+            ]
+        },
+        {
+            "pid": 54,
+            "name": "Sarcastic Reply BBQ1",
+            "text": "I know who I'm having over for Memorial Day.",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": 1,
+                    "confidence": 1,
+                    "productivity": -1,
+                    "storyVariable": "BBQGood"
+                }
+            ],
+            "links": [
+                {
+                    "id": "91b90e8a4f57b1b76687634efcc3d3843ac4911a",
+                    "label": "BBQ P6",
+                    "passageId": 59
+                }
+            ]
+        },
+        {
+            "pid": 55,
+            "name": "This map shows which states it's legal to own an alligator",
+            "text": "(Map of US depicting where you can own alligators)>tfw you live in Nebraska",
+            "tags": [
+                {
+                    "user": "DonkDonker",
+                    "trigger": "start"
+                }
+            ],
+            "links": [
+                {
+                    "id": "a0cbc46f83322082288239495bd6133cb3bacd94",
+                    "label": "Alligator P2",
+                    "passageId": 94
+                }
+            ]
+        },
+        {
+            "pid": 56,
+            "name": "FUNNY COMIC WITH ARTIFACTS",
+            "text": "Double-click this passage to edit it.",
+            "tags": [
+                {
+                    "trigger": "start"
+                }
+            ],
+            "links": []
+        },
+        {
+            "pid": 57,
+            "name": "The Latest Space Force Movie SUCKED",
+            "text": "Lucas George has clearly lost it at this point. I grew up with the original three Space Force movies, like all true fans did, and I can't believe he's spat on the legacy of those movies.>Queen Azalea gets bored and dies>Skyhopper kills his best friend Jars cause evil>45 minutes watching a filibuster>need to read three books to understand opening crawl>only explains half the mysteries>effects not as good as Ring Lords>$6 a ticket",
+            "tags": [
+                {
+                    "user": "DarkVandee",
+                    "trigger": "start"
+                }
+            ],
+            "links": [
+                {
+                    "id": "3eb0547b27adf8813ea7465e44fae8bfdea40fee",
+                    "label": "Calm Reply SF1",
+                    "passageId": 66
+                },
+                {
+                    "id": "bbc2c417acf321dac27d7cc5dd15be6d5d183cd6",
+                    "label": "Angry Reply SF1",
+                    "passageId": 67
+                },
+                {
+                    "id": "518ced37c49c8a8ec82ffef8ba6b13e04ae5bbd7",
+                    "label": "Sarcastic Reply SF1",
+                    "passageId": 68
+                },
+                {
+                    "id": "5fbc784a7ab283501f84c9782e6f4b8c47681e5f",
+                    "label": "Cool Zone",
+                    "passageId": 2
+                }
+            ]
+        },
+        {
+            "pid": 58,
+            "name": "Dragon Fist X Episode 142 Discussion",
+            "text": "Part 33 of the epic battle with Fridge. Could not believe Wukong already used his Soul Blast and it DIDN'T WORK! Anyway, find the Luna Wire link for the episode below:",
+            "tags": [
+                {
+                    "trigger": "start",
+                    "user": "ZZJ Wukong"
+                }
+            ],
+            "links": [
+                {
+                    "id": "0144953830da2bd1299c7c552e47505c3bf836dc",
+                    "label": "Luna Wire",
+                    "passageId": 6
+                },
+                {
+                    "id": "fb7b75e3959acf216698b7e9654d1e15bcdaf1bd",
+                    "label": "Dragon Fist P2",
+                    "passageId": 128
+                }
+            ]
+        },
+        {
+            "pid": 59,
+            "name": "BBQ P6",
+            "text": "I swear to god, you people will believe anything that's posted here.",
+            "tags": [
+                {
+                    "user": "DonkDonker"
+                }
+            ],
+            "links": [
+                {
+                    "id": "fa73e2ca784876a3f9762a703bec57b42cc5bbab",
+                    "label": "BBQ P7",
+                    "passageId": 91
+                }
+            ]
+        },
+        {
+            "pid": 60,
+            "name": "Nice Reply GTR",
+            "text": "I love alligators.",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "11887d373de7370e5f8cf48b267a9e165ca5957a",
+                    "label": "Nice Alligator",
+                    "passageId": 63
+                }
+            ]
+        },
+        {
+            "pid": 61,
+            "name": "Mean Reply GTR",
+            "text": "I hate alligators.",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "c42ba582eea8ba8ae1a7c7c2949e2ca6997801a1",
+                    "label": "Mean Alligator",
+                    "passageId": 64
+                }
+            ]
+        },
+        {
+            "pid": 62,
+            "name": "Sarcastic Reply GTR",
+            "text": "Alligators? moar liek alli lator",
+            "tags": [
+                {
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "6f093a60f95e2fef66a01c73d18e00da998138d4",
+                    "label": "Mean Alligator",
+                    "passageId": 64
+                }
+            ]
+        },
+        {
+            "pid": 63,
+            "name": "Nice Alligator",
+            "text": "I loooooooove alligators!",
+            "tags": [
+                {
+                    "user": "PhreshPrince"
+                }
+            ],
+            "links": [
+                {
+                    "id": "16b545408bea36aef495acc8fef3abd6972b049e",
+                    "label": "Nice Alligator P2",
+                    "passageId": 100
+                }
+            ]
+        },
+        {
+            "pid": 64,
+            "name": "Mean Alligator",
+            "text": "GTFO, gatorh80r",
+            "tags": [
+                {
+                    "user": "HaloHalo"
+                }
+            ],
+            "links": [
+                {
+                    "id": "bf7f642a003e4954b87ff78c4a4b8f910effd5ff",
+                    "label": "Mean Alligator 2",
+                    "passageId": 102
+                }
+            ]
+        },
+        {
+            "pid": 65,
+            "name": "gatorh80r email",
+            "text": "Here's a website for gatorh80rs like you!",
+            "tags": [
+                {
+                    "user": "DID0D0"
+                }
+            ],
+            "links": [
+                {
+                    "id": "b61c6a0b3fcec9f25caafbc33a56fc4be0a39a6f",
+                    "label": "The Forbidden Website",
+                    "passageId": 141
+                }
+            ]
+        },
+        {
+            "pid": 66,
+            "name": "Calm Reply SF1",
+            "text": "I think what all of us fans need to accept is that these new movies are for a younger generation. I'm pretty sure lots of kids enjoy them!",
+            "tags": [
+                {
+                    "user": "player",
+                    "confidence": 1
+                }
+            ],
+            "links": [
+                {
+                    "id": "e790cec6c7af115d1905f24dd4a99e3059d88a13",
+                    "label": "DarkVandee SF1",
+                    "passageId": 69
+                }
+            ]
+        },
+        {
+            "pid": 67,
+            "name": "Angry Reply SF1",
+            "text": "Wow, you call yourself a \"true fan\", but there are SO MANY mistakes in your post. First off, Queen Azalea's death represented the death of The Federal Democracy. It's basic symbolism. The same goes for Jars, that's Skyhopper turning his back to his past and become Dark Vande (Which you've misspelled in your username because of course you have).And I'm sorry, but if you didn't get the filibuster scene, then you just lack basic cinematic literacy. Guess there weren't enough explosions in that part for you (Only the one at the end). That whole portion of the movie is the key to the ENTIRE saga, including the originals!",
+            "tags": [
+                {
+                    "user": "player",
+                    "confidence": 2,
+                    "productivity": -1
+                }
+            ],
+            "links": [
+                {
+                    "id": "69372c3105da3603917bf94b848323f9a2dcf655",
+                    "label": "DarkVandee SF3",
+                    "passageId": 73
+                }
+            ]
+        },
+        {
+            "pid": 68,
+            "name": "Sarcastic Reply SF1",
+            "text": "I also like to spend my free time whining about children's movies.",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": -1,
+                    "productivity": -1
+                }
+            ],
+            "links": [
+                {
+                    "id": "27b93d0f29d0ad1253d47fead86774f8fe1a2826",
+                    "label": "DarkVandee SF1",
+                    "passageId": 69
+                }
+            ]
+        },
+        {
+            "pid": 69,
+            "name": "DarkVandee SF1",
+            "text": "The original movies weren't for kids. They were sophisticated epics for adults.",
+            "tags": [
+                {
+                    "user": "DarkVandee"
+                }
+            ],
+            "links": [
+                {
+                    "id": "56048d7bf18d1ae59a0cc16968ec24a7cd9c568a",
+                    "label": "Calm Reply SF2",
+                    "passageId": 70
+                },
+                {
+                    "id": "05f669e1fc778e5480affc05a621c94a0150975d",
+                    "label": "Angry Reply SF2",
+                    "passageId": 71
+                },
+                {
+                    "id": "94b851476eab183f6ddef1d9566ee51462cb77d7",
+                    "label": "Sarcastic Reply SF2",
+                    "passageId": 72
+                },
+                {
+                    "id": "a9b0137fcd838706de05460d5b958624c5aff66f",
+                    "label": "Cool Zone",
+                    "passageId": 2
+                }
+            ]
+        },
+        {
+            "pid": 70,
+            "name": "Calm Reply SF2",
+            "text": "It's okay to like stuff for kids! I'm a big Funtendo fan, and I'm glad they still make their stuff with kids in mind.",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": -1,
+                    "confidence": 1
+                }
+            ],
+            "links": [
+                {
+                    "id": "2f17b4e1fca71eab893ce96ae4701ed712e64039",
+                    "label": "DarkVandeeSF4",
+                    "passageId": 106
+                }
+            ]
+        },
+        {
+            "pid": 71,
+            "name": "Angry Reply SF2",
+            "text": "I like them, but they're baby movies for babies.",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": -2
+                }
+            ],
+            "links": [
+                {
+                    "id": "08233af2dc4f0d834f99776dd3ed81da76efe549",
+                    "label": "DarkVandeeSF4",
+                    "passageId": 106
+                }
+            ]
+        },
+        {
+            "pid": 72,
+            "name": "Sarcastic Reply SF2",
+            "text": "Same-tier of sprawling epic as the sagas of Care Hares and My Miniature Equine.",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": 2
+                }
+            ],
+            "links": [
+                {
+                    "id": "0affb02a86e24369218f27f6a113d17c4df3086f",
+                    "label": "DarkVandeeSF4",
+                    "passageId": 106
+                }
+            ]
+        },
+        {
+            "pid": 73,
+            "name": "DarkVandee SF3",
+            "text": "How can Queen Azalea even die if her daughter Countess Paella says they formed the New Militia together? Someone should've gotten fired for that blunder.",
+            "tags": [
+                {
+                    "user": "DarkVandee"
+                }
+            ],
+            "links": [
+                {
+                    "id": "dfddfcb630a3f694e0eb4ed3b4ab5c66e9609091",
+                    "label": "Calm Reply SF3",
+                    "passageId": 120
+                },
+                {
+                    "id": "9c132b8fe2a567ab05d043dd5157a36c170948f9",
+                    "label": "Angry Reply SF3",
+                    "passageId": 121
+                },
+                {
+                    "id": "8e30e64c1425c7852df661053bb8a82c5b85d2c8",
+                    "label": "Sarcastic Reply SF3",
+                    "passageId": 122
+                },
+                {
+                    "id": "93592a5c53484ab56464663a72503673730c62a5",
+                    "label": "Cool Zone",
+                    "passageId": 2
+                }
+            ]
+        },
+        {
+            "pid": 74,
+            "name": "Austrian PM Grilled Comments Part 2",
+            "text": "You can make $5,000 a week working from home! Click HERE now!",
+            "tags": [
+                {
+                    "user": "Amelia Heart"
+                }
+            ],
+            "links": [
+                {
+                    "id": "e60c9e48f528b6971da08c230bb38ae879c9b5ed",
+                    "label": "Home Scape",
+                    "passageId": 3
+                },
+                {
+                    "id": "ce4aa538a15a98f88903bb443794b15d3726f00c",
+                    "label": "Work From Home Link",
+                    "passageId": 41
+                }
+            ]
+        },
+        {
+            "pid": 75,
+            "name": "Celebrity Power Couple Calls it Quits Comments Part 2",
+            "text": "I hope this leads them to CANCEL Point Breakup. Sick of these hollywood liberals turing kickass movies into chick flicks.",
+            "tags": [
+                {
+                    "user": "Chuck-Gurden"
+                }
+            ],
+            "links": [
+                {
+                    "id": "0a8e13b30baec9c083670c3a35125f889104ce2d",
+                    "label": "Celebrity Power Couple Calls it Quits Comments Part 3",
+                    "passageId": 76
+                }
+            ]
+        },
+        {
+            "pid": 76,
+            "name": "Celebrity Power Couple Calls it Quits Comments Part 3",
+            "text": "You can make $5,000 a week working from home! Click HERE now!",
+            "tags": [
+                {
+                    "user": "Amelia-Heart"
+                }
+            ],
+            "links": [
+                {
+                    "id": "1231d57a810a0ff3f03bfb3631ec662210aafa7c",
+                    "label": "Home Scape",
+                    "passageId": 3
+                },
+                {
+                    "id": "b76ab239f0531d431b73a8a50deb1f5c34b0b1f8",
+                    "label": "Work From Home Link",
+                    "passageId": 41
+                }
+            ]
+        },
+        {
+            "pid": 77,
+            "name": "I Will Clean Your Carpet (NO Questions asked) P4",
+            "text": "No tools needed.",
+            "tags": [
+                {
+                    "user": "CarpetL0ver"
+                }
+            ],
+            "links": [
+                {
+                    "id": "66652ec3c39f3050e94e33eedabcc9028fbf1667",
+                    "label": "I Will Clean Your Carpet (NO Questions asked) P5",
+                    "passageId": 82
+                }
+            ]
+        },
+        {
+            "pid": 78,
+            "name": "I Will Clean Your Carpet (NO Questions asked) P3",
+            "text": "So, you just going to show up at my place and bring your own vacuum?",
+            "tags": [
+                {
+                    "user": "FunkyHippo"
+                }
+            ],
+            "links": [
+                {
+                    "id": "1d8346e0a9a831dc6bd2de22f7ce9937ccc57b43",
+                    "label": "I Will Clean Your Carpet (NO Questions asked) P4",
+                    "passageId": 77
+                }
+            ]
+        },
+        {
+            "pid": 79,
+            "name": "I Will Clean Your Carpet (NO Questions asked) P2",
+            "text": "I have a question.",
+            "tags": [
+                {
+                    "user": "StickyFingers"
+                }
+            ],
+            "links": [
+                {
+                    "id": "43450abe5427caac46b0fe4a79199e9c244e5965",
+                    "label": "I Will Clean Your Carpet (NO Questions asked) P3",
+                    "passageId": 78
+                }
+            ]
+        },
+        {
+            "pid": 80,
+            "name": "I Will Clean Your Carpet (NO Questions asked) P7",
+            "text": "I have another question.",
+            "tags": [
+                {
+                    "user": "StickyFingers"
+                }
+            ],
+            "links": [
+                {
+                    "id": "5b15818e4257029ac0b73f0e9cd572dff8e8c3eb",
+                    "label": "I Will Clean Your Carpet (NO Questions asked) P8",
+                    "passageId": 83
+                }
+            ]
+        },
+        {
+            "pid": 81,
+            "name": "I Will Clean Your Carpet (NO Questions asked) P6",
+            "text": "Oh my god, this is that guy that said he sucks dirt.",
+            "tags": [
+                {
+                    "user": "DaddyKong"
+                }
+            ],
+            "links": [
+                {
+                    "id": "3a3f96b7618317f5dc0ae4dc26a1f86b67ba949a",
+                    "label": "I Will Clean Your Carpet (NO Questions asked) P7",
+                    "passageId": 80
+                }
+            ]
+        },
+        {
+            "pid": 82,
+            "name": "I Will Clean Your Carpet (NO Questions asked) P5",
+            "text": "Oooookay.",
+            "tags": [
+                {
+                    "user": "FunkyHippo"
+                }
+            ],
+            "links": [
+                {
+                    "id": "0ad56be7367e2fdcd0df133db81f86d49fdd20ef",
+                    "label": "I Will Clean Your Carpet (NO Questions asked) P6",
+                    "passageId": 81
+                }
+            ]
+        },
+        {
+            "pid": 83,
+            "name": "I Will Clean Your Carpet (NO Questions asked) P8",
+            "text": "OP?",
+            "tags": [
+                {
+                    "user": "StickyFingers"
+                }
+            ],
+            "links": [
+                {
+                    "id": "57db40e8a97471ff86ea837df5803122e2e708d2",
+                    "label": "I Will Clean Your Carpet (NO Questions asked) P9",
+                    "passageId": 84
+                }
+            ]
+        },
+        {
+            "pid": 84,
+            "name": "I Will Clean Your Carpet (NO Questions asked) P9",
+            "text": "K, guess my carpet is staying dirty.",
+            "tags": [
+                {
+                    "user": "StickyFingers"
+                }
+            ],
+            "links": [
+                {
+                    "id": "5f9f1bde4157b4e1a87b3bafa2e9617ebf0a306d",
+                    "label": "I Will Clean Your Carpet (NO Questions asked) P10",
+                    "passageId": 85
+                }
+            ]
+        },
+        {
+            "pid": 85,
+            "name": "I Will Clean Your Carpet (NO Questions asked) P10",
+            "text": "DM me.",
+            "tags": [
+                {
+                    "user": "CarpetL0ver"
+                }
+            ],
+            "links": [
+                {
+                    "id": "415cacd901baf5d529b3189a361e3a3ef7ae9eb4",
+                    "label": "I Will Clean Your Carpet (NO Questions asked) P11",
+                    "passageId": 86
+                }
+            ]
+        },
+        {
+            "pid": 86,
+            "name": "I Will Clean Your Carpet (NO Questions asked) P11",
+            "text": "(This thread is now closed)",
+            "tags": [
+                {
+                    "trigger": "end",
+                    "user": "Cool Zone Admin"
+                }
+            ],
+            "links": [
+                {
+                    "id": "e2a4ee54fb784d0a862995ad60850aeda3a6f000",
+                    "label": "Cool Zone",
+                    "passageId": 2
+                }
+            ]
+        },
+        {
+            "pid": 87,
+            "name": "BBQ P2",
+            "text": "Great for porking.",
+            "tags": [
+                {
+                    "user": "Anon"
+                }
+            ],
+            "links": [
+                {
+                    "id": "02b9128c154054c4349ec057aaea940c98ac5e42",
+                    "label": "BBQ P3",
+                    "passageId": 88
+                }
+            ]
+        },
+        {
+            "pid": 88,
+            "name": "BBQ P3",
+            "text": "This is a troll, right? No one does this.",
+            "tags": [
+                {
+                    "user": "NarutoSasuke69"
+                }
+            ],
+            "links": [
+                {
+                    "id": "dfff66b3ae5e0c314717a7eaf3ce68e6015ff9a7",
+                    "label": "BBQ P4",
+                    "passageId": 89
+                }
+            ]
+        },
+        {
+            "pid": 89,
+            "name": "BBQ P4",
+            "text": "I did it once when the city shut down my water and I have NEVER looked back. Trust me.",
+            "tags": [
+                {
+                    "user": "BBQburner"
+                }
+            ],
+            "links": [
+                {
+                    "id": "eb5a1a56b7761abaaf32e4638f5aa4687a196266",
+                    "label": "BBQ P5",
+                    "passageId": 90
+                }
+            ]
+        },
+        {
+            "pid": 90,
+            "name": "BBQ P5",
+            "text": "Sweet Baby Ray's Obsession for Men",
+            "tags": [
+                {
+                    "user": "HonkYourBeefus"
+                }
+            ],
+            "links": [
+                {
+                    "id": "d0ca776dbbf4ebb93375e809f869528a8a605425",
+                    "label": "Nice Reply BBQ1",
+                    "passageId": 52
+                },
+                {
+                    "id": "eaac770e2de61dd6494138942d1c524fa4303912",
+                    "label": "Mean Reply BBQ1",
+                    "passageId": 53
+                },
+                {
+                    "id": "12fa27d8c1ddfcb3506dc3f456e723cd572dba6e",
+                    "label": "Sarcastic Reply BBQ1",
+                    "passageId": 54
+                },
+                {
+                    "id": "d3302ebb21b1f58f7c81d1a8f4b8c5eac943d527",
+                    "label": "Cool Zone",
+                    "passageId": 2
+                }
+            ]
+        },
+        {
+            "pid": 91,
+            "name": "BBQ P7",
+            "text": "OP, I feel you, I once used mayo instead of shampoo and didn't realize until I was already at school.",
+            "tags": [
+                {
+                    "user": "SonicSlam44"
+                }
+            ],
+            "links": [
+                {
+                    "id": "d1e052eb70b8d3fff0526235b0ffb44788039715",
+                    "label": "BBQ P8",
+                    "passageId": 92
+                }
+            ]
+        },
+        {
+            "pid": 92,
+            "name": "BBQ P8",
+            "text": "SonicSlam44, that is COMPLETELY different and really gross. BBQ is actually good for your skin and much better than most over the counter cleaning products.",
+            "tags": [
+                {
+                    "user": "BBQburner"
+                }
+            ],
+            "links": [
+                {
+                    "id": "f66fc6a6506d9e26589d08ef325005971f5fe855",
+                    "label": "BBQ P9",
+                    "passageId": 93
+                }
+            ]
+        },
+        {
+            "pid": 93,
+            "name": "BBQ P9",
+            "text": "lol",
+            "tags": [
+                {
+                    "trigger": "end",
+                    "user": "Spheriot"
+                }
+            ],
+            "links": [
+                {
+                    "id": "8d57c7a900b61f685a1a9e94577a49cc3b6b5eff",
+                    "label": "Cool Zone",
+                    "passageId": 2
+                }
+            ]
+        },
+        {
+            "pid": 94,
+            "name": "Alligator P2",
+            "text": "Mississippi Gator Gang rise up",
+            "tags": [
+                {
+                    "user": "HaloHalo"
+                }
+            ],
+            "links": [
+                {
+                    "id": "6866387efe3ce44e34604a0051dc092927ec0d2f",
+                    "label": "Alligator P3",
+                    "passageId": 95
+                }
+            ]
+        },
+        {
+            "pid": 95,
+            "name": "Alligator P3",
+            "text": "So, do they, like, sell these at pet stores or what?",
+            "tags": [
+                {
+                    "user": "PhreshPrince"
+                }
+            ],
+            "links": [
+                {
+                    "id": "5443d9b554307b30a9abfc1623f2a3db8af959c7",
+                    "label": "Alligator P4",
+                    "passageId": 96
+                }
+            ]
+        },
+        {
+            "pid": 96,
+            "name": "Alligator P4",
+            "text": "Yah, brah, just ring up Petsmart and they'll hook you right up.",
+            "tags": [
+                {
+                    "user": "DID0D0"
+                }
+            ],
+            "links": [
+                {
+                    "id": "ca3df63dfb07270f8c05cd8fb1ec81aa46cc07b8",
+                    "label": "Alligator P5",
+                    "passageId": 97
+                }
+            ]
+        },
+        {
+            "pid": 97,
+            "name": "Alligator P5",
+            "text": "I own three gators and they're a lot to take care of, but I love 'em. I go through A LOT of baked beans.",
+            "tags": [
+                {
+                    "user": "FunPackage"
+                }
+            ],
+            "links": [
+                {
+                    "id": "7f306de02fe108e1f226f097d9ae2be097010f88",
+                    "label": "Alligator P6",
+                    "passageId": 98
+                }
+            ]
+        },
+        {
+            "pid": 98,
+            "name": "Alligator P6",
+            "text": "Wait, FunPackage, legit?",
+            "tags": [
+                {
+                    "user": "HaloHalo"
+                }
+            ],
+            "links": [
+                {
+                    "id": "bf1aec1d794fc2ad1839f4f0f5f476c22824ccf9",
+                    "label": "Alligator P7",
+                    "passageId": 99
+                }
+            ]
+        },
+        {
+            "pid": 99,
+            "name": "Alligator P7",
+            "text": "Lol, yeah, they're my babies (PICTURE OF THREE ALLIGATORS HERE)",
+            "tags": [
+                {
+                    "user": "FunPackage"
+                }
+            ],
+            "links": [
+                {
+                    "id": "72a8c0f74a24d425fd2bcba27fb5d38d6e0ff9a9",
+                    "label": "Nice Reply GTR",
+                    "passageId": 60
+                },
+                {
+                    "id": "6ddc2af6894f4e240a824b4715d9cf36b9ab6167",
+                    "label": "Mean Reply GTR",
+                    "passageId": 61
+                },
+                {
+                    "id": "244978b0ed4b3d0974a733a57c1eb93e7e5258ad",
+                    "label": "Sarcastic Reply GTR",
+                    "passageId": 62
+                },
+                {
+                    "id": "14695ba293a2e2c1d31f19483423df27020ab1b2",
+                    "label": "Cool Zone",
+                    "passageId": 2
+                }
+            ]
+        },
+        {
+            "pid": 100,
+            "name": "Nice Alligator P2",
+            "text": "(Cute alligator GIF)",
+            "tags": [
+                {
+                    "user": "DID0D0"
+                }
+            ],
+            "links": [
+                {
+                    "id": "6af9a150e067860deb2ed880458c838aad2da7dc",
+                    "label": "Nice Alligator P3",
+                    "passageId": 101
+                }
+            ]
+        },
+        {
+            "pid": 101,
+            "name": "Nice Alligator P3",
+            "text": "(Another alligator pic)",
+            "tags": [
+                {
+                    "user": "FunPackage",
+                    "fame": 1,
+                    "happiness":  2,
+                    "trigger": "end",
+                    "storyVariable": "AlligatorGood"
+                }
+            ],
+            "links": [
+                {
+                    "id": "0ef8a1fb3036fb32b74299b1e81b6f769ad69424",
+                    "label": "Cool Zone",
+                    "passageId": 2
+                }
+            ]
+        },
+        {
+            "pid": 102,
+            "name": "Mean Alligator 2",
+            "text": "gatorh80r",
+            "tags": [
+                {
+                    "user": "FunPackage"
+                }
+            ],
+            "links": [
+                {
+                    "id": "b92514b8997b4b4485d4c9f62dddacd37efbb90c",
+                    "label": "Mean Alligator 3",
+                    "passageId": 103
+                }
+            ]
+        },
+        {
+            "pid": 103,
+            "name": "Mean Alligator 3",
+            "text": "gatorh80r",
+            "tags": [
+                {
+                    "user": "PhreshPrince"
+                }
+            ],
+            "links": [
+                {
+                    "id": "ffb9b4d91072dfaa434b759de34eb3efe0b7963a",
+                    "label": "Mean Alligator 4",
+                    "passageId": 104
+                }
+            ]
+        },
+        {
+            "pid": 104,
+            "name": "Mean Alligator 4",
+            "text": "gatorh80r",
+            "tags": [
+                {
+                    "user": "DID0D0"
+                }
+            ],
+            "links": [
+                {
+                    "id": "87eedaaacd6f3cd68ab41eb488429b970807da0f",
+                    "label": "Mean Alligator 5",
+                    "passageId": 105
+                }
+            ]
+        },
+        {
+            "pid": 105,
+            "name": "Mean Alligator 5",
+            "text": "(Why would you ever hate alligators?)",
+            "tags": [
+                {
+                    "fame":  -3,
+                    "happiness":  -1,
+                    "trigger": "end",
+                    "storyVariable": "AlligatorBad"
+                }
+            ],
+            "links": [
+                {
+                    "id": "9154f1e6dd4ba0b7cc78450cc3b4d92efa24ae0b",
+                    "label": "gatorh80r email",
+                    "passageId": 65
+                }
+            ]
+        },
+        {
+            "pid": 106,
+            "name": "DarkVandeeSF4",
+            "text": "piss off, piss baby",
+            "tags": [
+                {
+                    "user": "DarkVandee"
+                }
+            ],
+            "links": [
+                {
+                    "id": "02af5a3130138a7bb9d9ee4482e775d622d0fd50",
+                    "label": "Calm Reply SF4",
+                    "passageId": 107
+                },
+                {
+                    "id": "68b1ff59f8f31ba5c5706514eefd6a1075ee9c70",
+                    "label": "Angry Reply SF6",
+                    "passageId": 110
+                },
+                {
+                    "id": "2c3562fad01937fc6635dd2b87b891bb36883374",
+                    "label": "Sarcastic Reply SF6",
+                    "passageId": 111
+                },
+                {
+                    "id": "0509d0a657d827ed5f6ec21fabb2e2c831b88395",
+                    "label": "Cool Zone",
+                    "passageId": 2
+                }
+            ]
+        },
+        {
+            "pid": 107,
+            "name": "Calm Reply SF4",
+            "text": "Maybe you should log off for a bit?",
+            "tags": [
+                {
+                    "user": "player",
+                    "confidence": 1
+                }
+            ],
+            "links": [
+                {
+                    "id": "734b120106cb1b693ebd69ce07ac19e483a97307",
+                    "label": "DarkVandee SF5",
+                    "passageId": 108
+                }
+            ]
+        },
+        {
+            "pid": 108,
+            "name": "DarkVandee SF5",
+            "text": "Maybe you should piss off for a bit?",
+            "tags": [
+                {
+                    "user": "DarkVandee"
+                }
+            ],
+            "links": [
+                {
+                    "id": "77a6362ce0df6ae8024e4431b1142b21f62b4596",
+                    "label": "Calm Reply SF6",
+                    "passageId": 109
+                },
+                {
+                    "id": "1abef346960c3886d0ebd4e977f258caed4bb2b7",
+                    "label": "Angry Reply SF6",
+                    "passageId": 110
+                },
+                {
+                    "id": "2e461f5b36f404cfab636accaab359ea40eb71ef",
+                    "label": "Sarcastic Reply SF6",
+                    "passageId": 111
+                },
+                {
+                    "id": "80d9e759d707cdf2dbc5b13b7987d92e921fc615",
+                    "label": "Ignore SF6",
+                    "passageId": 112
+                }
+            ]
+        },
+        {
+            "pid": 109,
+            "name": "Calm Reply SF6",
+            "text": "I'm going to end this here, but if you really want to talk about The Space Force Saga, you should really grow up a bit and learn to have actual conversations.",
+            "tags": [
+                {
+                    "user": "player",
+                    "confidence": 1,
+                    "fame": -1,
+                    "productivity": 1,
+                    "storyVariable": "VandeeGood"
+                }
+            ],
+            "links": [
+                {
+                    "id": "5966272c43d3e8ec06cea15027fcd6f7829e1de9",
+                    "label": "Ignore SF6",
+                    "passageId": 112
+                }
+            ]
+        },
+        {
+            "pid": 110,
+            "name": "Angry Reply SF6",
+            "text": "Yeah, I'll piss off when you realize you're too much of a dumbass to understand a bunch of kids movies.",
+            "tags": [
+                {
+                    "productivity": -1,
+                    "user": "player"
+                }
+            ],
+            "links": [
+                {
+                    "id": "0c680088f740b220067d52082152ce8a18db4a16",
+                    "label": "DarkVandee SF6",
+                    "passageId": 115
+                }
+            ]
+        },
+        {
+            "pid": 111,
+            "name": "Sarcastic Reply SF6",
+            "text": "Yeah, I can feel the brain cells slipping by the second.",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": 1
+                }
+            ],
+            "links": [
+                {
+                    "id": "795ed5ff8f1ed3279e4d9a45aec91dec48f2607c",
+                    "label": "Ignore SF6",
+                    "passageId": 112
+                }
+            ]
+        },
+        {
+            "pid": 112,
+            "name": "Ignore SF6",
+            "text": "That's what I thought piss wanker.",
+            "tags": [
+                {
+                    "user": "DarkVandee"
+                }
+            ],
+            "links": [
+                {
+                    "id": "f57398707a3071357792a23d8de2cd4b6afb8585",
+                    "label": "Ignore SF7",
+                    "passageId": 113
+                }
+            ]
+        },
+        {
+            "pid": 113,
+            "name": "Ignore SF7",
+            "text": "Yeah, wank that piss.",
+            "tags": [
+                {
+                    "user": "DarkVandee"
+                }
+            ],
+            "links": [
+                {
+                    "id": "e39146e2748c8ffebab84df199226828f10cdc47",
+                    "label": "Ignore SF8",
+                    "passageId": 114
+                }
+            ]
+        },
+        {
+            "pid": 114,
+            "name": "Ignore SF8",
+            "text": "Lol, what, are you like, 12?",
+            "tags": [
+                {
+                    "user": "SlootDog",
+                    "confidence":  2,
+                    "productivity": 1,
+                    "trigger": "end",
+                    "storyVariable": "VandeeGood"
+                }
+            ],
+            "links": [
+                {
+                    "id": "3640a3fa4732711dbaa9ea5eee6814df4e3caa6e",
+                    "label": "DarkVandee Email",
+                    "passageId": 119
+                }
+            ]
+        },
+        {
+            "pid": 115,
+            "name": "DarkVandee SF6",
+            "text": "THEY ARENT GODDAMN KIDS MOVIES",
+            "tags": [
+                {
+                    "user": "DarkVandee"
+                }
+            ],
+            "links": [
+                {
+                    "id": "b06576b7136ed4137c6f8518ef5047450f957c1c",
+                    "label": "Reply SF6",
+                    "passageId": 116
+                }
+            ]
+        },
+        {
+            "pid": 116,
+            "name": "Reply SF6",
+            "text": "\"Space Force is a film for 12 year olds.\" - Lucas George Link: ",
+            "tags": [
+                {
+                    "user": "player",
+                    "confidence": 1,
+                    "productivity": -1
+                }
+            ],
+            "links": [
+                {
+                    "id": "8653bca77045a3fcd254848485afee9303b74d31",
+                    "label": "Lucas George Tells All",
+                    "passageId": 117
+                }
+            ]
+        },
+        {
+            "pid": 117,
+            "name": "Lucas George Tells All",
+            "text": "In Anaheim, CA, the year's largest gathering of geeks, nerds, and fans of a good time at the movies took place. Space Force Fest 5 brought together this collection of enthusiasts to celebrate the latest release in the Space Force series. We sat down to speak with the one and only, Lucas George, creator of the Space Force Saga.Home Scape: Thanks for taking time out of your busy schedule to sit with us, Luke. Can we call you Luke?Lucas George: You shouldn't.Home Scape: Alright, Luke! First question, what do you have to say to fans who think these new Space Force movies aren't as good as the originals?Lucas George: I think they can be safely ignored.Home Scape: Ignored? Your most loyal fans?Lucas George: Space Force is a film for 12 year olds. Those are my most loyal fans, not sweaty 30-year olds whose only bathing soap is an unopened bottle of Jars Bath Bubbles.Home Scape: Some people would say that the most recent films are too political for children. What do you have to say to that?Lucas George: I think politics have been too childish for adults.Home Scape: Before you go, can I ask you about the rumored sequel trilogy to the original Space Force trilogy? Any plans on making those?Lucas George: Why would I tell you that?Home Scape: Thanks, Luke!",
+            "tags": [
+                {
+                    "user": "Home-Scape-Press"
+                }
+            ],
+            "links": [
+                {
+                    "id": "a67933096941cc2fd5b97d18dc57414db788ca4b",
+                    "label": "Back to Cool Zone",
+                    "passageId": 118
+                }
+            ]
+        },
+        {
+            "pid": 118,
+            "name": "Back to Cool Zone",
+            "text": "I see you've suddenly gone silent.",
+            "tags": [
+                {
+                    "user": "player",
+                    "confidence":  2,
+                    "trigger": "end",
+                    "storyVariable": "VandeeBad"
+                }
+            ],
+            "links": [
+                {
+                    "id": "35990008d495a8d0efa956151c27e7050a5b7aee",
+                    "label": "DarkVandee Email",
+                    "passageId": 119
+                }
+            ]
+        },
+        {
+            "pid": 119,
+            "name": "DarkVandee Email",
+            "text": "I can't believe someone who supposedly likes Space Force can be so wrong on everything about it. Read this to get the REAL story on Space Force: ",
+            "tags": [
+                {
+                    "user": "DarkVandee"
+                }
+            ],
+            "links": [
+                {
+                    "id": "5030f33a2b85b8c32f13b6517209e9dc99171819",
+                    "label": "The Forbidden Website",
+                    "passageId": 141
+                }
+            ]
+        },
+        {
+            "pid": 120,
+            "name": "Calm Reply SF3",
+            "text": "There's a lot of stuff in the Space Force series that's contradicted by whatever came out next. That one is an easy hand wave as \"They built it together in spirit. Paella working from the legacy of her mother.\"",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": 1
+                }
+            ],
+            "links": [
+                {
+                    "id": "d34745644b32d318913d095a815d57b9c48f6faa",
+                    "label": "DarkVandee SF8",
+                    "passageId": 123
+                }
+            ]
+        },
+        {
+            "pid": 121,
+            "name": "Angry Reply SF3",
+            "text": "That was in a video game! Video games aren't canon.",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": -2
+                }
+            ],
+            "links": [
+                {
+                    "id": "6cc9f18a36d852011d91957743e1cf700a111fa6",
+                    "label": "DarkVandee SF8",
+                    "passageId": 123
+                }
+            ]
+        },
+        {
+            "pid": 122,
+            "name": "Sarcastic Reply SF3",
+            "text": "How can all those explosions cause sound if they're in space?",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": -1,
+                    "confidence": 1
+                }
+            ],
+            "links": [
+                {
+                    "id": "f149ca92dd9cdfed13570ef7b8cd2b18e51c4558",
+                    "label": "DarkVandee SF8",
+                    "passageId": 123
+                }
+            ]
+        },
+        {
+            "pid": 123,
+            "name": "DarkVandee SF8",
+            "text": "It's dismissive garbage like that that's ruining the Space Force fandom.",
+            "tags": [
+                {
+                    "user": "DarkVandee"
+                }
+            ],
+            "links": [
+                {
+                    "id": "a2f32f7147813690c1268b4b8dd5733bb359c17e",
+                    "label": "Calm Reply SF6",
+                    "passageId": 109
+                },
+                {
+                    "id": "764a94c7f887497f68324ea7a11145ddd5446d36",
+                    "label": "Angry Reply SF8",
+                    "passageId": 124
+                },
+                {
+                    "id": "0d6a881fef6a3251c67e96e9a909fb58bf7b2da0",
+                    "label": "Sarcastic Reply SF6",
+                    "passageId": 111
+                },
+                {
+                    "id": "dc3c3af6833fdf88f5ce73154d8f5f8d93b62b63",
+                    "label": "Ignore SF6",
+                    "passageId": 112
+                }
+            ]
+        },
+        {
+            "pid": 124,
+            "name": "Angry Reply SF8",
+            "text": "And it's dumbasses like you who think that resurrecting Supreme Lord Cheev is the pinnacle of storytelling that are ruining the Space Force Extended Universe.",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": 1,
+                    "productivity": -1
+                }
+            ],
+            "links": [
+                {
+                    "id": "16505140db80b642728cf47df348b5bf12763f77",
+                    "label": "DarkVandee SF9",
+                    "passageId": 125
+                }
+            ]
+        },
+        {
+            "pid": 125,
+            "name": "DarkVandee SF9",
+            "text": "All of the Extended Universe is perfect, unlike Lucas George's recent disasters.",
+            "tags": [
+                {
+                    "user": "DarkVandee"
+                }
+            ],
+            "links": [
+                {
+                    "id": "565f43ad9b58d63558a548517bb9d94658f2223a",
+                    "label": "Calm Reply SF6",
+                    "passageId": 109
+                },
+                {
+                    "id": "3f1761cea502d9b1d47757cc90f84ed63b5095ff",
+                    "label": "Angry Reply SF9",
+                    "passageId": 126
+                },
+                {
+                    "id": "169bcff5dc3060ef48d935bf4c7db275104204b7",
+                    "label": "Sarcastic Reply SF6",
+                    "passageId": 111
+                },
+                {
+                    "id": "f1ef034f5ed8bb14dcbbf1515dabe4199d2a486b",
+                    "label": "Ignore SF9",
+                    "passageId": 127
+                }
+            ]
+        },
+        {
+            "pid": 126,
+            "name": "Angry Reply SF9",
+            "text": "Yeah, the Space Force Easter Special starring Jaxx Rabbit the Bunny Bounty Hunter was perfection.",
+            "tags": [
+                {
+                    "user": "player",
+                    "fame": 1
+                }
+            ],
+            "links": [
+                {
+                    "id": "8219775dd79b87ca2f9f03350672ba421d5b46d7",
+                    "label": "Back to Cool Zone",
+                    "passageId": 118
+                }
+            ]
+        },
+        {
+            "pid": 127,
+            "name": "Ignore SF9",
+            "text": "",
+            "tags": [
+                {
+                    "trigger": "end",
+                    "storyVariable": "VandeeBad"
+                }
+            ],
+            "links": [
+                {
+                    "id": "9f652f1c91d938af484f71bc78b9f5034a66066e",
+                    "label": "DarkVandee Email",
+                    "passageId": 119
+                }
+            ]
+        },
+        {
+            "pid": 128,
+            "name": "Dragon Fist P2",
+            "text": "Episode was really well written but Toy-A cannot animate for shit.",
+            "tags": [
+                {
+                    "user": "MaximumPower"
+                }
+            ],
+            "links": [
+                {
+                    "id": "b705020901d517d19e3c008c339748d7f233818b",
+                    "label": "Dragon Fist P3",
+                    "passageId": 129
+                }
+            ]
+        },
+        {
+            "pid": 129,
+            "name": "Dragon Fist P3",
+            "text": "Can't believe how much they're stretching this out. The fight ended in the manga two years ago. I want to see the Cyber Mutant Saga animated!",
+            "tags": [
+                {
+                    "user": "FunkyHippo"
+                }
+            ],
+            "links": [
+                {
+                    "id": "883044f741c7abaa98d1fe4bb43f6e12c7f6bec5",
+                    "label": "Dragon Fist P4",
+                    "passageId": 130
+                }
+            ]
+        },
+        {
+            "pid": 130,
+            "name": "Dragon Fist P4",
+            "text": "Did Faruta come back to life yet? Wake we when that happens and not a second sooner.",
+            "tags": [
+                {
+                    "user": "FarutaFan223"
+                }
+            ],
+            "links": [
+                {
+                    "id": "0402dfcb696ee2684ebd5c3ea74f029f5a3eb096",
+                    "label": "Dragon Fist P5",
+                    "passageId": 131
+                }
+            ]
+        },
+        {
+            "pid": 131,
+            "name": "Dragon Fist P5",
+            "text": "American cartoons are better than this Japanimation shit.",
+            "tags": [
+                {
+                    "user": "NedNeddnNeddy"
+                }
+            ],
+            "links": [
+                {
+                    "id": "d9920e702d1c542d0a4f3886bafcea47de821c95",
+                    "label": "Dragon Fist P6",
+                    "passageId": 132
+                }
+            ]
+        },
+        {
+            "pid": 132,
+            "name": "Dragon Fist P6",
+            "text": "Obvious troll is obvious.",
+            "tags": [
+                {
+                    "user": "MaximumPower"
+                }
+            ],
+            "links": [
+                {
+                    "id": "90da4eee2586bf8d2e8ab749abac3f2fc1e063a1",
+                    "label": "Dragon Fist P7",
+                    "passageId": 133
+                }
+            ]
+        },
+        {
+            "pid": 133,
+            "name": "Dragon Fist P7",
+            "text": "Anyone know where I can download Dragon Fist hentai?",
+            "tags": [
+                {
+                    "user": "PantsuParty"
+                }
+            ],
+            "links": [
+                {
+                    "id": "1bc418360095a24e81bc167a4b9ab74ec68c03d6",
+                    "label": "Dragon Fist P8",
+                    "passageId": 134
+                }
+            ]
+        },
+        {
+            "pid": 134,
+            "name": "Dragon Fist P8",
+            "text": "Hentai is against my Christian beliefs.",
+            "tags": [
+                {
+                    "user": "ZZJ Wukong"
+                }
+            ],
+            "links": [
+                {
+                    "id": "63faa33673a3bbfd3c3b7205d4f9188b6b413f5c",
+                    "label": "Dragon Fist P9",
+                    "passageId": 135
+                }
+            ]
+        },
+        {
+            "pid": 135,
+            "name": "Dragon Fist P9",
+            "text": "PantsuParty, you can find Dragon Fist hentai at Luna Wire.",
+            "tags": [
+                {
+                    "user": "FunkyHippo",
+                    "trigger": "end"
+                }
+            ],
+            "links": [
+                {
+                    "id": "7425edf8bd52a18080b8b47d8ecac77d6ef6f041",
+                    "label": "Luna Wire",
+                    "passageId": 6
+                },
+                {
+                    "id": "d77a3525d105aedf4ae5def73243b37c7eae09ab",
+                    "label": "Cool Zone",
+                    "passageId": 2
+                }
+            ]
+        },
+        {
+            "pid": 136,
+            "name": "Bank of Hong Kong",
+            "text": "My name is Diana. I work with the Bank of Hong Kong. I have an interesting deal of 2,000,00$ for us. We both share the funds at 50% each in a matter of weeks. Please grant me the benefit of the doubt and reply for details.",
+            "tags": [
+                {
+                  "user": "Diana"
+                }
+            ],
+            "links": [
+                {
+                    "id": "959b1d7887461227e22c0393dd709b7fd01f7da1",
+                    "label": "Email",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 137,
+            "name": "Seed Corn Starting From $129 a Bag",
+            "text": "Minimize input cost and maximize yield potential with our non-GMO seed corn.",
+            "tags": [
+                {
+                  "user": "CornKing"
+                }
+            ],
+            "links": [
+                {
+                    "id": "4c1f6712728f23545717dd42213c90c997450f00",
+                    "label": "Email",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 138,
+            "name": "Hey",
+            "text": "Melanie here, just emailing you to tell you I can't hang out this weekend. The dog is vomiting EVERYWHERE and we need to take them to the vet. He's probably fine. I think he got into the leftover bacon...",
+            "tags": [
+                {
+                  "user": "Melanie Smith"
+                }
+            ],
+            "links": [
+                {
+                    "id": "dc9a0c45a6d2e8bf7ae285dc966c5c3c4f8d8f03",
+                    "label": "Email",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 139,
+            "name": "Matches in Your Area",
+            "text": "Find singles in your area with this one weird tip! Click here to order now!",
+            "tags": [
+              {
+                "user": "Singles Match"
+              }
+            ],
+            "links": [
+                {
+                    "id": "b050a7e89734dfe0e6dc6ac3c98f35119ce85915",
+                    "label": "Singles Ad",
+                    "passageId": 140
+                }
+            ]
+        },
+        {
+            "pid": 140,
+            "name": "Singles Ad",
+            "text": "(Constant pop-ups start appearing and the player gets a virus)",
+            "tags": [
+                {
+                    "virus": "scramble"
+                }
+            ],
+            "links": [
+                {
+                    "id": "f3b9111594e159f2ddff5067b1d4922efd3f4467",
+                    "label": "Email",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 141,
+            "name": "The Forbidden Website",
+            "text": "BEGIN ACT 2",
+            "tags": [
+                {
+                    "trigger": "end"
+                }
+            ],
+            "links": []
+        },
+        {
+            "pid": 142,
+            "name": "Remember that moon game?",
+            "text": "Do y'all remember that game where you have, like, a week to stop the moon from falling? That game was freaky.",
+            "tags": [
+                {
+                    "user": "CrossButtonSquare",
+                    "trigger": "start"
+                }
+            ],
+            "links": [
+                {
+                    "id": "629af6f9375f99a81b240a6bc8d7c7490c79c4aa",
+                    "label": "Moon Game P2",
+                    "passageId": 147
+                }
+            ]
+        },
+        {
+            "pid": 143,
+            "name": "How do you beat Grab Grappler in Gonzo: Year of the Blade?",
+            "text": "I'm stuck trying to beat this large crab monster, and having serious trouble. Any tips?",
+            "tags": [
+                {
+                    "user": "the_last_samurai",
+                    "trigger": "start"
+                }
+            ],
+            "links": [
+                {
+                    "id": "a851f4841f0ebc62eddeeec01d9c36f330a3bcfb",
+                    "label": "Gonzo P2",
+                    "passageId": 144
+                }
+            ]
+        },
+        {
+            "pid": 144,
+            "name": "Gonzo P2",
+            "text": "You know how crabs sidestep? Try that.",
+            "tags": [
+                {
+                    "user": "Waveracer2099"
+                }
+            ],
+            "links": [
+                {
+                    "id": "b6135b4c0c9f4e3ac9aa2cdfb99fc9bceff010d0",
+                    "label": "Gonzo P3",
+                    "passageId": 145
+                }
+            ]
+        },
+        {
+            "pid": 145,
+            "name": "Gonzo P3",
+            "text": "Have you tried consulting a history book? I heard everything in that game is historically accurate.",
+            "tags": [
+                {
+                    "user": "StarFresh"
+                }
+            ],
+            "links": [
+                {
+                    "id": "b3c55115004db1c03fa7f42c4a6b5cdac49a6e9f",
+                    "label": "Gonzo P4",
+                    "passageId": 146
+                }
+            ]
+        },
+        {
+            "pid": 146,
+            "name": "Gonzo P4",
+            "text": "Thanks, sidestepping worked!",
+            "tags": [
+                {
+                    "user": "the_last_samurai",
+                    "trigger": "end"
+                }
+            ],
+            "links": [
+                {
+                    "id": "2f1ce57421dfa793fbd16b90b74ef7d51e234fb4",
+                    "label": "Game Blast",
+                    "passageId": 4
+                }
+            ]
+        },
+        {
+            "pid": 147,
+            "name": "Moon Game P2",
+            "text": "It was even less than a week! That game had me sooooo stressed. I would always fail on day three and just gave up eventually.",
+            "tags": [
+                {
+                    "user": "DoubleMintGum"
+                }
+            ],
+            "links": [
+                {
+                    "id": "a1ba168cb090b20e2444fd722bb1235dbec75297",
+                    "label": "Moon Game P3",
+                    "passageId": 148
+                }
+            ]
+        },
+        {
+            "pid": 148,
+            "name": "Moon Game P3",
+            "text": "You know you can travel back in time to the first day at anytime right, DoubleMintGum?",
+            "tags": [
+                {
+                    "user": "Waveracer2099"
+                }
+            ],
+            "links": [
+                {
+                    "id": "ee7ca72539bdb0e071da1453d68d59e1bb4b6475",
+                    "label": "Moon Game P4",
+                    "passageId": 149
+                }
+            ]
+        },
+        {
+            "pid": 149,
+            "name": "Moon Game P4",
+            "text": "My mind is blown.",
+            "tags": [
+                {
+                    "user": "DoubleMintGum"
+                }
+            ],
+            "links": [
+                {
+                    "id": "e2db21881e9c814da4ba07e7e2330fdf38139ce0",
+                    "label": "Moon Game P5",
+                    "passageId": 150
+                }
+            ]
+        },
+        {
+            "pid": 150,
+            "name": "Moon Game P5",
+            "text": "That game was super deep. You know it was about grief and loss and stuff?",
+            "tags": [
+                {
+                    "user": "SnowbodyKnows"
+                }
+            ],
+            "links": [
+                {
+                    "id": "5bea1347922db2aaa5f85f955ccd7d018b19f02b",
+                    "label": "Moon Game P6",
+                    "passageId": 151
+                }
+            ]
+        },
+        {
+            "pid": 151,
+            "name": "Moon Game P6",
+            "text": "Mind double blown!",
+            "tags": [
+                {
+                    "user": "DoubleMintGum",
+                    "trigger": "end"
+                }
+            ],
+            "links": [
+                {
+                    "id": "2934c0551f651c5783307eaa8adc4688a9e264eb",
+                    "label": "Game Blast",
+                    "passageId": 4
+                }
+            ]
+        },
+        {
+            "pid": 152,
+            "name": "Lunar Eclipse Tonight",
+            "text": "Get your telescopes out because tonight is a once in a lifetime skygazing opportunity! Look to the sky this evening and you'll see a blood red gleam coming from everyone's favorite lunar construct. The moon will be totally eclipsing the sun tonight. Scientists believe there's nothing to worry about regarding tonight's occurence, so feel free to look as you please!",
+            "tags": [
+                {
+                    "user": "Home-Scape-Press"
+                }
+            ],
+            "links": [
+                {
+                    "id": "766ccb5c97cfcf48ba7109c2d2b4e9f3e1c7ff4e",
+                    "label": "Home Scape",
+                    "passageId": 3
+                }
+            ]
+        }
+    ]
+}
