@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
@@ -107,7 +107,16 @@ public class ForumStory : MonoBehaviour
         timer = 0;
         var node = _nodes.First(n => n.pid == currentNode.links[0].passageID);
         CreatePost(node);
+        UpdateStats(node);
         currentNode = node;
         nextPostReady = true;
+    }
+
+    private void UpdateStats(TwineParser.StoryNode node)
+    {
+        GameController.PlayerStats.fame += node.stat.fame;
+        GameController.PlayerStats.happiness += node.stat.happiness;
+        GameController.PlayerStats.confidence += node.stat.confidence;
+        GameController.PlayerStats.productivity += node.stat.productivity;
     }
 }

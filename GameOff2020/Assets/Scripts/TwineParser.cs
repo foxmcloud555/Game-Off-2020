@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
@@ -24,12 +24,19 @@ public class TwineParser : MonoBehaviour
         foreach (var passage in passages)
         {
             var node = new StoryNode();
+            
+            //base vars
             node.pid = Int32.Parse(passage["pid"]?.ToString() ?? "-1");
             node.name = passage["name"]?.ToString();
             node.text = passage["text"]?.ToString();
-            node.username = passage["tags"][0]["user"].ToString();
+            //tags
+            node.username = passage["tags"][0]["user"]?.ToString();
+            node.trigger = passage["tags"][0]["trigger"]?.ToString() == "end" ;
+            node.storyVariable = passage["tags"][0]["storyVariable"]?.ToString();
+            
+            //links
             node.links = new List<StoryLink>();
-            var linksJSON = passage["links"].ToList();
+            var linksJSON = passage["links"]?.ToList();
             foreach (var link in linksJSON)
             {
                 var storyLink = new StoryLink();
@@ -39,19 +46,43 @@ public class TwineParser : MonoBehaviour
                 node.links.Add(storyLink);
             }
             
+            Int32.TryParse(passage["tags"][0]["productivity"]?.ToString(), out node.stat.productivity);
+            Int32.TryParse(passage["tags"][0]["fame"]?.ToString(), out node.stat.fame);
+            Int32.TryParse(passage["tags"][0]["happiness"]?.ToString(), out node.stat.happiness);
+            Int32.TryParse(passage["tags"][0]["confidence"]?.ToString(), out node.stat.confidence);
+            
             storyNodes.Add(node);
         }
 
+        Debug.Log(passages);
     }
 
     public struct StoryNode
     {
+        //base vars
         public int pid;
         public string name;
         public string text;
+        
+        //tags
         public string username;
+        public bool trigger;
+        public string storyVariable;
+        
+        //links
         public List<StoryLink> links;
-        public bool isConversationEnd;
+        
+        //stats
+        public CharacterStats stat;
+    }
+    
+    public struct CharacterStats
+    {
+        public int fame;
+        public int productivity;
+        public int confidence;
+        public string virus;
+        public int happiness;
     }
 
     public struct StoryLink
