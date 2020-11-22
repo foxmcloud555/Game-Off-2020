@@ -351,6 +351,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -424,6 +425,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -530,6 +532,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -925,7 +928,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80d59f9c981313149a569279fd2a5757, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  storyFile: {fileID: 4900000, guid: 48f6b25c4d7132b4cb922ded063ccf15, type: 3}
+  storyFile: {fileID: 4900000, guid: 59d13b1e218f33e4e889abb888c9bb5d, type: 3}
 --- !u!114 &1090382908
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -938,7 +941,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c1a8fc678639e347a652ccc2ace71e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  start: Game Blast Chat 1
+  start: Best NEXT GEN console!?
   end: []
   characterToReplyTo: snidecooper
   forumPost: {fileID: 8784043262922973277, guid: 6582ffe993f03b649ac46f9614fa61c6,
@@ -1020,6 +1023,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []

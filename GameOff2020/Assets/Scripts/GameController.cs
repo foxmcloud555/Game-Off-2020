@@ -21,4 +21,8 @@ public class GameController : MonoBehaviour
     {
         SceneManager.LoadScene(button.name);
     }
+
+    public static TwineParser.CharacterStats PlayerStats;
+    
+
 }
