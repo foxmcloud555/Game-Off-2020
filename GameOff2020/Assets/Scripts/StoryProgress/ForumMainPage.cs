@@ -12,28 +12,29 @@ public class ForumMainPage : MonoBehaviour
 
     private void OnEnable()
     {
-        HideAllPosts();
+        HideShowAllPosts(false);
     }
 
 
     public void ShowThread(GameObject post)
     {
-        HideAllPosts();
+        HideShowAllPosts(false);
         HideShowAllFrontPage(false);
         post.SetActive(true);
     }
 
-    public void HideAllPosts()
+    public void HideShowAllPosts(bool show )
     {
         foreach (var post in forumPosts)
         {
-            post.SetActive(false);
+            post.SetActive(show);
         }
     }
     
     public void HideShowAllFrontPage(bool show)
     {
         frontPageLists.SetActive(show);
+        HideShowAllPosts(false);
     }
     
 }
