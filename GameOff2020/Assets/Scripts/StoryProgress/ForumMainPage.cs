@@ -6,15 +6,34 @@ public class ForumMainPage : MonoBehaviour
 {
 
     public List<GameObject> forumPosts;
+
+    public GameObject frontPageLists;
     // Start is called before the first frame update
-    void Start()
+
+    private void OnEnable()
     {
-        
+        HideAllPosts();
     }
 
-    // Update is called once per frame
-    void Update()
+
+    public void ShowThread(GameObject post)
     {
-        
+        HideAllPosts();
+        HideShowAllFrontPage(false);
+        post.SetActive(true);
     }
+
+    public void HideAllPosts()
+    {
+        foreach (var post in forumPosts)
+        {
+            post.SetActive(false);
+        }
+    }
+    
+    public void HideShowAllFrontPage(bool show)
+    {
+        frontPageLists.SetActive(show);
+    }
+    
 }

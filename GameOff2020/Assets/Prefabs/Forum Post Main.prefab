@@ -78,7 +78,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: 'the_last_samurai
+
+'
 --- !u!114 &4307626341581689432
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -292,7 +294,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: hey
+  m_Text: 'How do you beat Grab Grappler in Gonzo: Year of the Blade?'
 --- !u!114 &5626499133814560925
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -393,7 +395,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 5467a2fe653901f4dbf3e1ae5d87edaf, type: 3}
+  m_Texture: {fileID: 2800000, guid: 29d88b29c6ed5e240a4ff3594bc97525, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
