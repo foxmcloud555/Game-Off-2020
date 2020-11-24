@@ -123,6 +123,9 @@ namespace StoryProgress
                     GameController.ScenesComplete[currentNode.pid] = true;
                     GameController.Acts.Add(new GameController.StoryAct(start, passageIDs, true));
                     nextPostReady = false;
+                    
+                    //TODO check if next post is email!
+                    
                     return;
                 }
             

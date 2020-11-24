@@ -2764,7 +2764,8 @@
             "text": "Minimize input cost and maximize yield potential with our non-GMO seed corn.",
             "tags": [
                 {
-                  "user": "CornKing"
+                  "user": "CornKing", 
+                  "email": true 
                 }
             ],
             "links": [
