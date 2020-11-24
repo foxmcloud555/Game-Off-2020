@@ -1,40 +1,42 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 
-public class ForumMainPage : MonoBehaviour
+namespace StoryProgress
 {
-
-    public List<GameObject> forumPosts;
-
-    public GameObject frontPageLists;
-    // Start is called before the first frame update
-
-    private void OnEnable()
+    public class ForumMainPage : MonoBehaviour
     {
-        HideShowAllPosts(false);
-    }
 
+        public List<GameObject> forumPosts;
 
-    public void ShowThread(GameObject post)
-    {
-        HideShowAllPosts(false);
-        HideShowAllFrontPage(false);
-        post.SetActive(true);
-    }
+        public GameObject frontPageLists;
+        // Start is called before the first frame update
 
-    public void HideShowAllPosts(bool show )
-    {
-        foreach (var post in forumPosts)
+        private void OnEnable()
         {
-            post.SetActive(show);
+            HideShowAllPosts(false);
         }
-    }
+
+
+        public void ShowThread(GameObject post)
+        {
+            HideShowAllPosts(false);
+            HideShowAllFrontPage(false);
+            post.SetActive(true);
+        }
+
+        public void HideShowAllPosts(bool show )
+        {
+            foreach (var post in forumPosts)
+            {
+                post.SetActive(show);
+            }
+        }
     
-    public void HideShowAllFrontPage(bool show)
-    {
-        frontPageLists.SetActive(show);
-        HideShowAllPosts(false);
-    }
+        public void HideShowAllFrontPage(bool show)
+        {
+            frontPageLists.SetActive(show);
+            HideShowAllPosts(false);
+        }
     
+    }
 }
