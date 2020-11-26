@@ -119,7 +119,17 @@ PrefabInstance:
     - target: {fileID: 4429209547592045286, guid: d3c2545d8a43b8240ae7129fbfe15400,
         type: 3}
       propertyPath: m_SortingOrder
-      value: -10
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4429209547592045286, guid: d3c2545d8a43b8240ae7129fbfe15400,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4429209547592045286, guid: d3c2545d8a43b8240ae7129fbfe15400,
+        type: 3}
+      propertyPath: m_DrawMode
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4429209547592045305, guid: d3c2545d8a43b8240ae7129fbfe15400,
         type: 3}
@@ -134,12 +144,12 @@ PrefabInstance:
     - target: {fileID: 4429209547592045305, guid: d3c2545d8a43b8240ae7129fbfe15400,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 60
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4429209547592045305, guid: d3c2545d8a43b8240ae7129fbfe15400,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5826831321241014782, guid: d3c2545d8a43b8240ae7129fbfe15400,
         type: 3}
