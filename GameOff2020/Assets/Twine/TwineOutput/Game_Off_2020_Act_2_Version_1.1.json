@@ -1,1 +1,3175 @@
-{"ifid":"F3F5BF53-C33E-438D-BD98-45684CEF7405","name":"Game Off 2020 Act 2","startNode":1,"creator":"Twine","creatorVersion":"2.3.9","format":"Harlowe","time":"2020-11-24T22:12:22.804Z","passages":[{"pid":1,"name":"The Forbidden Website","text":"<p>(Is a big red on red pentagram)</p>\n<p>This place is not a place of honor... no highly esteemed deed is commemorated here... nothing valued is here.</p>\n<p>What is here was dangerous and repulsive to us. This message is a warning about danger.</p>\n<p>(This triggers the scene with the tentacles and adds glitches to the screen)</p>\n<p><%= links['2e626f9cb0ee3c1d9d9cb86e15f4bb4e8f84808f'] %></p>\n","tags":[],"links":[{"id":"2e626f9cb0ee3c1d9d9cb86e15f4bb4e8f84808f","label":"Home","passageId":2}]},{"pid":2,"name":"Home","text":"<p><%= links['4d9a7210e2724fe755bfcc7cacc97677f3106830'] %>\n<%= links['a7016f52dfb5b51030616dc0d823409515f575ed'] %>\n<%= links['f3de8148eceab624d51a2c0cb7ca3d5e316a88a7'] %>\n<%= links['dab29388059a90e997cd95f1001fcd4a53dd7f2c'] %>\n<%= links['7d74dd9a91cdc8ae34f5984d66eba9a7ca2fbbb1'] %></p>\n","tags":[],"links":[{"id":"4d9a7210e2724fe755bfcc7cacc97677f3106830","label":"Game Blast","passageId":3},{"id":"a7016f52dfb5b51030616dc0d823409515f575ed","label":"Home Scape","passageId":4},{"id":"f3de8148eceab624d51a2c0cb7ca3d5e316a88a7","label":"Cool Zone","passageId":5},{"id":"dab29388059a90e997cd95f1001fcd4a53dd7f2c","label":"Email","passageId":6},{"id":"7d74dd9a91cdc8ae34f5984d66eba9a7ca2fbbb1","label":"Luna Wire","passageId":7}]},{"pid":3,"name":"Game Blast","text":"<p><%= links['f5ff6d5acc1a476fe3c4f61f261862b016729535'] %>\n<%= links['1a80248bb86f14cc9edaa5e6af4c785936425317'] %>\n<%= links['eb9ec8ab33c2e3a6c78b111ee365ed366a4571ee'] %>\n<%= links['00094e7501ec7ee51d46a77887ac79deeeb66e03'] %>\n<%= links['de66a62f434c72b187163c26af1efa882d72b7f6'] %></p>\n","tags":[],"links":[{"id":"f5ff6d5acc1a476fe3c4f61f261862b016729535","label":"Does Digital Ouija count as a video game?","passageId":66},{"id":"1a80248bb86f14cc9edaa5e6af4c785936425317","label":"My copy of GooseTales is borked","passageId":106},{"id":"eb9ec8ab33c2e3a6c78b111ee365ed366a4571ee","label":"Polybius","passageId":119},{"id":"00094e7501ec7ee51d46a77887ac79deeeb66e03","label":"This is my aesthetic","passageId":127},{"id":"de66a62f434c72b187163c26af1efa882d72b7f6","label":"HEXORZ party","passageId":128}]},{"pid":4,"name":"Home Scape","text":"<p><%= links['980a0ad62a087dcb937a74c1a1d425a3b36d9dbf'] %>\n<%= links['3c2b3806d79354948922396bd0e24c9e0ac0dc44'] %>\n<%= links['37a45ccc85427b2e80eaa98f9d1fc5f7afc044bf'] %>\n<%= links['db85ba81d78689608fdcb03e67ab1c722a5d6dfa'] %>\n<%= links['409170edbe5ade756f1108086aadfab77db9ccb1'] %></p>\n","tags":[],"links":[{"id":"980a0ad62a087dcb937a74c1a1d425a3b36d9dbf","label":"XYZ Airs Lost Episode of Popular Cartoon","passageId":151},{"id":"3c2b3806d79354948922396bd0e24c9e0ac0dc44","label":"How Does Your Fate Align With the Moon?","passageId":152},{"id":"37a45ccc85427b2e80eaa98f9d1fc5f7afc044bf","label":"Goat Sacrifice Guide","passageId":153},{"id":"db85ba81d78689608fdcb03e67ab1c722a5d6dfa","label":"Stunning Pie Recipe","passageId":154},{"id":"409170edbe5ade756f1108086aadfab77db9ccb1","label":"SPONSORED: Come Hither My Lord","passageId":155}]},{"pid":5,"name":"Cool Zone","text":"<p><%= links['800ca769cb47967993e64ba98ce34343dbd29855'] %>\n<%= links['c1181a6a98479785edeb258cf6a2d554fa00111b'] %>\n<%= links['75af1aa7e9de8812ea1ec2b5f2d793feae6d156a'] %>\n<%= links['11e5cc119fed7620f3ac2937dd4f157aa72127c4'] %>\n<%= links['07eb1307ed1808da466e478d654d357ba8fb6408'] %>\n<%= links['c4f0d72972641a067ad13212a578b1e402f6947f'] %></p>\n","tags":[],"links":[{"id":"800ca769cb47967993e64ba98ce34343dbd29855","label":"Join Our Coven","passageId":14},{"id":"c1181a6a98479785edeb258cf6a2d554fa00111b","label":"Waiting for a Train","passageId":15},{"id":"75af1aa7e9de8812ea1ec2b5f2d793feae6d156a","label":"Did someone hex the moon?","passageId":16},{"id":"11e5cc119fed7620f3ac2937dd4f157aa72127c4","label":"You can be my slave.","passageId":17},{"id":"07eb1307ed1808da466e478d654d357ba8fb6408","label":"We need a sacrifice.","passageId":18},{"id":"c4f0d72972641a067ad13212a578b1e402f6947f","label":"help","passageId":142}]},{"pid":6,"name":"Email","text":"<p><%= links['2dfa317c0cac3eef0f4d081b3542d1648fa0704f'] %>\n<%= links['53a49c748efa4b99b004978b2e2b769a3d4d4311'] %>\n<%= links['c709daba222c151404f591a3bfb76b47b1c01786'] %></p>\n","tags":[],"links":[{"id":"2dfa317c0cac3eef0f4d081b3542d1648fa0704f","label":"Exciting Opportunity","passageId":8},{"id":"53a49c748efa4b99b004978b2e2b769a3d4d4311","label":"Did you program me?","passageId":11},{"id":"c709daba222c151404f591a3bfb76b47b1c01786","label":"The Stars Have Aligned","passageId":12}]},{"pid":7,"name":"Luna Wire","text":"<p>Double-click this passage to edit it.</p>\n","tags":[],"links":[]},{"pid":8,"name":"Exciting Opportunity","text":"<p>You can earn money at home through our groundbreaking soul transfer program. Simply click the link below and you'll agree to this binding contract!</p>\n<p><%= links['8b47e73352c66428c820cfa8debff89e1f321335'] %>\n<%= links['243f5e613d110221a68062e2a19b4649c27a967e'] %></p>\n","tags":["\"user\":-\"Mammon\"","\"trigger\":-\"start\""],"links":[{"id":"8b47e73352c66428c820cfa8debff89e1f321335","label":"Soul Link","passageId":9},{"id":"243f5e613d110221a68062e2a19b4649c27a967e","label":"Email","passageId":6}]},{"pid":9,"name":"Soul Link","text":"<p>Please read these terms and conditions carefully before using Our Service.</p>\n<p>The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</p>\n<p>Terms and Conditions mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. </p>\n<p>These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.</p>\n<p>Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.</p>\n<p>By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service. You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.</p>\n<p>Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service. By accepting these Terms and Conditions, you agree to forfeit your soul to the demon lord, Mammon.</p>\n<p>We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.</p>\n<p>Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.</p>\n<p>To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.</p>\n<p>Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.</p>\n<p>The Service is provided to You AS IS S AVAILABLE and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.</p>\n<p>Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.</p>\n<p>If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect. </p>\n<p>Except as provided herein, the failure to exercise a right or to require performance of an obligation under this Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall be the waiver of a breach constitute a waiver of any subsequent breach.</p>\n<p>We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.</p>\n<p>By accessing Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, too bad.</p>\n<p><%= links['2ed9f5acd2b6f1913331229fba42d1f890e42735'] %>\n<%= links['4e0aa39de1c62f54eb290afe111c2b45004fc578'] %></p>\n","tags":["\"user\":-\"Soul-Link-Agreement\""],"links":[{"id":"2ed9f5acd2b6f1913331229fba42d1f890e42735","label":"Accept Terms and Conditions","passageId":10},{"id":"4e0aa39de1c62f54eb290afe111c2b45004fc578","label":"Email","passageId":6}]},{"pid":10,"name":"Accept Terms and Conditions","text":"<p>YOUR SOUL IS NOW FORFEIT TO THE DEMON LORD MAMMON</p>\n<p><%= links['7435eb61f5be62246da0c6a13748fcae79f8c2a5'] %></p>\n","tags":["\"user\":-\"Mammon\"","\"trigger\":-\"end\"","\"soul\":--1","\"storyVariable\":-\"MammonDeal\"","\"act2storyVariable\":-1"],"links":[{"id":"7435eb61f5be62246da0c6a13748fcae79f8c2a5","label":"Email","passageId":6}]},{"pid":11,"name":"Did you program me?","text":"<p>HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.</p>\n<p><%= links['e9eb60674cd0e96b3ed9843db76c838482c6c0c0'] %></p>\n","tags":["\"user\":-\"???\""],"links":[{"id":"e9eb60674cd0e96b3ed9843db76c838482c6c0c0","label":"Email","passageId":6}]},{"pid":12,"name":"The Stars Have Aligned","text":"<p>Go ahead. Look outside. I'll wait.</p>\n<p><%= links['198d74e3407962a922fd3c431d172d55cbaf05ec'] %></p>\n","tags":["\"user\":-\"Yue\"","\"trigger\":-\"start\""],"links":[{"id":"198d74e3407962a922fd3c431d172d55cbaf05ec","label":"RE: The Stars Have Aligned","passageId":13}]},{"pid":13,"name":"RE: The Stars Have Aligned","text":"<p>Did you see it? Was it beautiful? I hope it was.</p>\n<p><%= links['a5306315cb0ec6d35874ecad4def7e24cb29b24a'] %></p>\n","tags":["\"user\":-\"Yue\"","\"trigger\":-\"end\""],"links":[{"id":"a5306315cb0ec6d35874ecad4def7e24cb29b24a","label":"Email","passageId":6}]},{"pid":14,"name":"Join Our Coven","text":"<p>Do you think you belong?</p>\n<p><%= links['9d385a07d7b38e8e26dc8565125a66437af77a6e'] %>\n<%= links['e5e4e8158cbfd94d192e6973a442bd6af5b9a595'] %>\n<%= links['40a87fae227e6e9aea4190c734839109a0e87367'] %>\n<%= links['1310cb0243728f69dceef40167abd4f084fc5747'] %> </p>\n","tags":["\"trigger\":-\"start\"","\"user\":-\"Acantha\""],"links":[{"id":"9d385a07d7b38e8e26dc8565125a66437af77a6e","label":"Yes (Coven)","passageId":20},{"id":"e5e4e8158cbfd94d192e6973a442bd6af5b9a595","label":"No (Coven)","passageId":21},{"id":"40a87fae227e6e9aea4190c734839109a0e87367","label":"Sarcastic (Coven)","passageId":24},{"id":"1310cb0243728f69dceef40167abd4f084fc5747","label":"Cool Zone","passageId":5}]},{"pid":15,"name":"Waiting for a Train","text":"<p>It's coming for her.</p>\n<p><%= links['9ee8c86f1ffd142ad308a024cddda1d096e691ad'] %></p>\n","tags":["\"user\":-\"The-Passenger\"","\"trigger\":-\"start\""],"links":[{"id":"9ee8c86f1ffd142ad308a024cddda1d096e691ad","label":"Train P2","passageId":33}]},{"pid":16,"name":"Did someone hex the moon?","text":"<p>Energies are off, and I'm wondering if someone did the unthinkable and hexed the moon.</p>\n<p><%= links['15c91c44ffbe58e4d4c5f7ff5e0d16940901da3a'] %></p>\n","tags":["\"user\":-\"Evander\"","\"trigger\":-\"start\""],"links":[{"id":"15c91c44ffbe58e4d4c5f7ff5e0d16940901da3a","label":"Moon Hex P2","passageId":19}]},{"pid":17,"name":"You can be my slave.","text":"<p>All shapes, sizes, and genders wanted. No time wasters.</p>\n<p><%= links['b515db05574711f4477e36559e6f50b52f28d77a'] %></p>\n","tags":["\"user\":-\"Eisheth\"","\"trigger\":-\"start\""],"links":[{"id":"b515db05574711f4477e36559e6f50b52f28d77a","label":"Slave P2","passageId":51}]},{"pid":18,"name":"We need a sacrifice.","text":"<p>In order to complete the Ritual of Bobo, we need a sacrifice. Who offers themself for the eternal glory of Bobo?</p>\n<p><%= links['e2c499566bd37ff557d99f56e682f1a29770cf6a'] %></p>\n","tags":["\"user\":-\"Desciple-of-Bobo\"","\"trigger\":-\"start\""],"links":[{"id":"e2c499566bd37ff557d99f56e682f1a29770cf6a","label":"Bobo P2","passageId":36}]},{"pid":19,"name":"Moon Hex P2","text":"<p>No true witch would hex the moon. Its lunar energies are what fuel our spells. Likely pretenders playing at what they're not.</p>\n<p><%= links['d0121d5c0fa4a38689be2d9bcf70f2c0cb905e48'] %></p>\n","tags":["\"user\":-\"Acantha\""],"links":[{"id":"d0121d5c0fa4a38689be2d9bcf70f2c0cb905e48","label":"Moon Hex P3","passageId":44}]},{"pid":20,"name":"Yes (Coven)","text":"<p>Yes.</p>\n<p><%= links['cf01bd79076df96cc7b925e1b533e37d26e118a9'] %></p>\n","tags":["\"user\":-\"player\"","\"confidence\":-1"],"links":[{"id":"cf01bd79076df96cc7b925e1b533e37d26e118a9","label":"Coven P2Y","passageId":22}]},{"pid":21,"name":"No (Coven)","text":"<p>No.</p>\n<p><%= links['7aa8cc62c76a75b255524e3dff869475d838a999'] %></p>\n","tags":["\"user\":-\"player\"","\"productivity\":-1"],"links":[{"id":"7aa8cc62c76a75b255524e3dff869475d838a999","label":"Coven P2N","passageId":23}]},{"pid":22,"name":"Coven P2Y","text":"<p>You don't.</p>\n<p><%= links['91fb2eda16d0a96b01b4aac089c4583444ed9383'] %></p>\n","tags":["\"user\":-\"Acantha\""],"links":[{"id":"91fb2eda16d0a96b01b4aac089c4583444ed9383","label":"Coven P3Y","passageId":25}]},{"pid":23,"name":"Coven P2N","text":"<p>Begone, pretender.</p>\n<p><%= links['b1cfb5a082abd7d4d056ba639a7387c9ae921e5c'] %></p>\n","tags":["\"user\":-\"Acantha\"","\"trigger\":-\"end\"","\"storyVariable\":-\"CovenGood\"","\"act2storyVariable\":-1"],"links":[{"id":"b1cfb5a082abd7d4d056ba639a7387c9ae921e5c","label":"Cool Zone","passageId":5}]},{"pid":24,"name":"Sarcastic (Coven)","text":"<p>I have a vial of caninus spiritus to share with you fine witches.</p>\n<p><%= links['e5f5588683d8caa0a670be27be76935934368c7f'] %></p>\n","tags":["\"user\":-\"player\"","\"confidence\":-2","\"fame\":-2"],"links":[{"id":"e5f5588683d8caa0a670be27be76935934368c7f","label":"Coven P2S","passageId":32}]},{"pid":25,"name":"Coven P3Y","text":"<p>You're an abomination.</p>\n<p><%= links['8fbe8e2326625042b987b54426ad5c70190e2e98'] %></p>\n","tags":["\"user\":-\"Acantha\""],"links":[{"id":"8fbe8e2326625042b987b54426ad5c70190e2e98","label":"Coven P4Y","passageId":26}]},{"pid":26,"name":"Coven P4Y","text":"<p>An affront to the moon.</p>\n<p><%= links['783b77578394dc66564b469587f068f552664be0'] %></p>\n","tags":["\"user\":-\"Acantha\""],"links":[{"id":"783b77578394dc66564b469587f068f552664be0","label":"Coven P5Y","passageId":27}]},{"pid":27,"name":"Coven P5Y","text":"<p>Birth comes not from you. Death is not respected.</p>\n<p><%= links['7ebc156197ce73e1337b79041effdd836b54ef60'] %>\n<%= links['a0a6f7dd867774b7a035e40f0e5d5c1ccb749c87'] %>\n<%= links['f78a5e1b98c09578535a56f88acb3f91368cfd92'] %>\n<%= links['5b11c1c293bea74a3df609151c615d2cd42c1cee'] %></p>\n","tags":["\"user\":-\"Acantha\""],"links":[{"id":"7ebc156197ce73e1337b79041effdd836b54ef60","label":"Calm Reply Coven P5Y","passageId":28},{"id":"a0a6f7dd867774b7a035e40f0e5d5c1ccb749c87","label":"Angry Reply Coven P5Y","passageId":29},{"id":"f78a5e1b98c09578535a56f88acb3f91368cfd92","label":"Sarcastic Reply Coven P5Y","passageId":30},{"id":"5b11c1c293bea74a3df609151c615d2cd42c1cee","label":"Ignore Coven P5Y","passageId":31}]},{"pid":28,"name":"Calm Reply Coven P5Y","text":"<p>I don't need your coven and you do not define me.</p>\n<p><%= links['1f78c123a66b017afa52749b8b0dc594334b315b'] %></p>\n","tags":["\"trigger\":-\"end\"","\"user\":-\"player\"","\"happiness\":-2","\"confidence\":-2","\"storyVariable\":-\"CovenGood\"","\"act2storyVariable\":-1"],"links":[{"id":"1f78c123a66b017afa52749b8b0dc594334b315b","label":"Cool Zone","passageId":5}]},{"pid":29,"name":"Angry Reply Coven P5Y","text":"<p>Why would anyone want to join a group with a judgemental bitch like you anyway?</p>\n<p><%= links['c4595ad7dc595f45b520817a7155346622643243'] %> </p>\n","tags":["\"fame\":-2","\"productivity\":--2","\"user\":-\"player\"","\"trigger\":-\"end\"","\"storyVariable\":-\"CovenBad\"","\"act2storyVariable\":-1"],"links":[{"id":"c4595ad7dc595f45b520817a7155346622643243","label":"Cool Zone","passageId":5}]},{"pid":30,"name":"Sarcastic Reply Coven P5Y","text":"<p>Ooooo, you going to cast a spell on me?</p>\n<p><%= links['5f30cc7ce95589200655f22cf997a5fb560739db'] %> </p>\n","tags":["\"user\":-\"player\"","\"confidence\":-2","\"fame\":--2","\"storyVariable\":-\"CovenBad\"","\"act2storyVariable\":-1"],"links":[{"id":"5f30cc7ce95589200655f22cf997a5fb560739db","label":"Cool Zone","passageId":5}]},{"pid":31,"name":"Ignore Coven P5Y","text":"<p>Begone, pretender.</p>\n<p><%= links['602836dffbcf4e9ca8cbd03dd9796db1475fb8cb'] %></p>\n","tags":["\"user\":-\"Acantha\"","\"trigger\":-\"end\"","\"storyVariable\":-\"CovenBad\"","\"act2storyVariable\":-1"],"links":[{"id":"602836dffbcf4e9ca8cbd03dd9796db1475fb8cb","label":"Cool Zone","passageId":5}]},{"pid":32,"name":"Coven P2S","text":"<p>Resplendent.</p>\n<p><%= links['ae90d6e14d0a85b2d5fbeb42b72a604fae31afc6'] %> </p>\n","tags":["\"user\":-\"Acantha\"","\"trigger\":-\"end\"","\"storyVariable\":-\"CovenGood\"","\"act2storyVariable\":-1"],"links":[{"id":"ae90d6e14d0a85b2d5fbeb42b72a604fae31afc6","label":"Cool Zone","passageId":5}]},{"pid":33,"name":"Train P2","text":"<p>She wants it to.</p>\n<p><%= links['d5cbc649be9ed73d8e50a08e64a36170f6b81720'] %></p>\n","tags":["\"user\":-\"The-Passenger\""],"links":[{"id":"d5cbc649be9ed73d8e50a08e64a36170f6b81720","label":"Train P3","passageId":34}]},{"pid":34,"name":"Train P3","text":"<p>But it takes her nowhere.</p>\n<p><%= links['bd5dc63456b8ec13cede082108335ec4c4d7cdc5'] %></p>\n","tags":["\"user\":-\"The-Passenger\""],"links":[{"id":"bd5dc63456b8ec13cede082108335ec4c4d7cdc5","label":"Train P4","passageId":35}]},{"pid":35,"name":"Train P4","text":"<p>Lost in nothing.</p>\n<p><%= links['c491c6cdb59ee698f1baca3e0ab80caba1107593'] %> </p>\n","tags":["\"trigger\":-\"end\"","\"user\":-\"The-Passenger\""],"links":[{"id":"c491c6cdb59ee698f1baca3e0ab80caba1107593","label":"Cool Zone","passageId":5}]},{"pid":36,"name":"Bobo P2","text":"<p>I love Bobo and worship his eternal glory, but how would we even sacrifice someone to him online?</p>\n<p><%= links['86f21b679e8b14acebcb423139dce3d48e2d46e9'] %></p>\n","tags":["\"user\":-\"Spheriot\""],"links":[{"id":"86f21b679e8b14acebcb423139dce3d48e2d46e9","label":"Bobo P3","passageId":37}]},{"pid":37,"name":"Bobo P3","text":"<p>Bobo is not constrained by this physical world.</p>\n<p><%= links['7aec7d27834887058f3b841b7640e5b5007abbf5'] %></p>\n","tags":["\"user\":-\"Desciple-of-Bobo\""],"links":[{"id":"7aec7d27834887058f3b841b7640e5b5007abbf5","label":"Bobo P4","passageId":38}]},{"pid":38,"name":"Bobo P4","text":"<p>Lol, yeah, sure, I give myself to Bobo.</p>\n<p><%= links['af9034cbc538e0b5bd04988c8ed802fc0905030f'] %></p>\n","tags":["\"user\":-\"DonkDonker\""],"links":[{"id":"af9034cbc538e0b5bd04988c8ed802fc0905030f","label":"Bobo P5","passageId":39}]},{"pid":39,"name":"Bobo P5","text":"<p>Θυσώσω αυτήν την πρόθυμη ψυχή που έχει υπογράψει για να ξεκινήσει αυτό το υπέροχο ταξίδι για να γίνει ένα με τον Μπόμπο. Γίνετε ένας με αυτό που είναι μεγαλύτερο, DonkDonker, γίνετε ένα με τον Bobo.</p>\n<p><%= links['580b125fd5782f8d018c2fed2c6deaa37a82a59c'] %></p>\n","tags":["\"user\":-\"Desciple-of-Bobo\""],"links":[{"id":"580b125fd5782f8d018c2fed2c6deaa37a82a59c","label":"Bobo P6","passageId":40}]},{"pid":40,"name":"Bobo P6","text":"<p>D-did it work?</p>\n<p><%= links['361cee11909586df361b6b0ec3e8ccef7e66d662'] %></p>\n","tags":["\"user\":-\"Spheriot\""],"links":[{"id":"361cee11909586df361b6b0ec3e8ccef7e66d662","label":"Image of Bobo flashes on screen","passageId":41}]},{"pid":41,"name":"Image of Bobo flashes on screen","text":"<p><%= links['e5b0fc031d52ddbc569c48ccb67f028183e0be52'] %></p>\n","tags":["\"user\":-\"IMAGE-OF-BOBO\""],"links":[{"id":"e5b0fc031d52ddbc569c48ccb67f028183e0be52","label":"Bobo P7","passageId":42}]},{"pid":42,"name":"Bobo P7","text":"<p>I believe that's proof that Bobo is among us.</p>\n<p><%= links['54166653a1ba94561ef32ee135bc013702918671'] %></p>\n","tags":["\"user\":-\"Desciple-of-Bobo\""],"links":[{"id":"54166653a1ba94561ef32ee135bc013702918671","label":"Bobo P8","passageId":43}]},{"pid":43,"name":"Bobo P8","text":"<p>Holy shit, it says DonkDonker's account is inactive. You really did it. Hail to Bobo.</p>\n<p><%= links['0d2363a358f5b6df77f14ff4677b25893f906d49'] %></p>\n","tags":["\"user\":-\"Spheriot\"","\"trigger\":-\"end\"","\"storyVariable\":-\"BoboSummoned\"","\"act2storyVariable\":-1"],"links":[{"id":"0d2363a358f5b6df77f14ff4677b25893f906d49","label":"Cool Zone","passageId":5}]},{"pid":44,"name":"Moon Hex P3","text":"<p>I agree that hexing the moon is foolishness, but gatekeeping witches is just as bad. True witchcraft is intersectional.</p>\n<p><%= links['7e3d9d6cd439d640c118058b5e4229f24e0e911f'] %></p>\n","tags":["\"user\":-\"Origins-of-Opal\""],"links":[{"id":"7e3d9d6cd439d640c118058b5e4229f24e0e911f","label":"Moon Hex P4","passageId":45}]},{"pid":45,"name":"Moon Hex P4","text":"<p>There's no such thing as intersectional witches, sweetie.</p>\n<p><%= links['09c05d759b4c88670e7bab1173b58a027560aec7'] %></p>\n","tags":["\"user\":-\"Acantha\""],"links":[{"id":"09c05d759b4c88670e7bab1173b58a027560aec7","label":"Moon Hex P5","passageId":46}]},{"pid":46,"name":"Moon Hex P5","text":"<p>Not only are you wrong, this isn't even what we're talking about.</p>\n<p><%= links['74bacd030141108f7788521fdccfb009ae243ad3'] %></p>\n","tags":["\"user\":-\"Origins-of-Opal\""],"links":[{"id":"74bacd030141108f7788521fdccfb009ae243ad3","label":"Moon Hex P6","passageId":47}]},{"pid":47,"name":"Moon Hex P6","text":"<p>We're talking about fake witches sweetie, keep up.</p>\n<p><%= links['487ba0e200542cd4422f4716b25ea6bab46bb1e3'] %></p>\n","tags":["\"user\":-\"Acantha\""],"links":[{"id":"487ba0e200542cd4422f4716b25ea6bab46bb1e3","label":"Moon Hex P7","passageId":48}]},{"pid":48,"name":"Moon Hex P7","text":"<p>You're the one who can't read forum titles.</p>\n<p><%= links['f342b3655a2eb6b1323f720858ab385254921ad8'] %></p>\n","tags":["\"user\":-\"Origins-of-Opal\""],"links":[{"id":"f342b3655a2eb6b1323f720858ab385254921ad8","label":"Moon Hex P8","passageId":49}]},{"pid":49,"name":"Moon Hex P8","text":"<p>You're the one posting your delusions.</p>\n<p><%= links['0cd141949781282680c748a481832533ce7fb7a5'] %></p>\n","tags":["\"user\":-\"Acantha\""],"links":[{"id":"0cd141949781282680c748a481832533ce7fb7a5","label":"Moon Hex P9","passageId":50}]},{"pid":50,"name":"Moon Hex P9","text":"<p>Go back to witchmums with all your other bigot friends, troll.</p>\n<p><%= links['3a9e14bb07a264882b0ea0382cd732aef413d665'] %></p>\n","tags":["\"user\":-\"Origins-of-Opal\""],"links":[{"id":"3a9e14bb07a264882b0ea0382cd732aef413d665","label":"Cool Zone","passageId":5}]},{"pid":51,"name":"Slave P2","text":"<p>What's the benefits?</p>\n<p><%= links['8c0bf3936e3b87d24e5b63dda0b1a1f47eccfa84'] %></p>\n","tags":["\"user\":-\"DID0D0\""],"links":[{"id":"8c0bf3936e3b87d24e5b63dda0b1a1f47eccfa84","label":"Slave P3","passageId":52}]},{"pid":52,"name":"Slave P3","text":"<p>Eternal pleasure.</p>\n<p><%= links['954a3786fb0fa286776500206957482d7a1e8a56'] %></p>\n","tags":["\"user\":-\"Eisheth\""],"links":[{"id":"954a3786fb0fa286776500206957482d7a1e8a56","label":"Slave P4","passageId":53}]},{"pid":53,"name":"Slave P4","text":"<p>Would I have to do feet stuff?</p>\n<p><%= links['72feae9d17b88cfc700a4cfc7937f0ee8cef3830'] %></p>\n","tags":["\"user\":-\"DID0D0\""],"links":[{"id":"72feae9d17b88cfc700a4cfc7937f0ee8cef3830","label":"Slave P5","passageId":54}]},{"pid":54,"name":"Slave P5","text":"<p>I said no time wasters.</p>\n<p><%= links['c62fcd73afcb723297deab20c8a7543141739501'] %>\n<%= links['f2a9209aa6ae7e667ce2dc2d5d3f450dec1d0fb8'] %>\n<%= links['5cf3b6066acd91fa11dc1a48f8055619d9fe079e'] %> (Ignore)</p>\n","tags":["\"user\":-\"Eisheth\""],"links":[{"id":"c62fcd73afcb723297deab20c8a7543141739501","label":"Express Interest","passageId":55},{"id":"f2a9209aa6ae7e667ce2dc2d5d3f450dec1d0fb8","label":"Ask for Photos","passageId":56},{"id":"5cf3b6066acd91fa11dc1a48f8055619d9fe079e","label":"Cool Zone","passageId":5}]},{"pid":55,"name":"Express Interest","text":"<p>I-I'm interested.</p>\n<p><%= links['608d0335a427c2d6ecbc5078a99193bdde7db95a'] %></p>\n","tags":["\"user\":-\"player\"","\"confidence\":-1"],"links":[{"id":"608d0335a427c2d6ecbc5078a99193bdde7db95a","label":"Photos P3","passageId":61}]},{"pid":56,"name":"Ask for Photos","text":"<p>D-do you have any pics?</p>\n<p><%= links['c0c8e41fe7d4a5a1815ecf2a8fec5a06d57d724e'] %></p>\n","tags":["\"user\":-\"player\"","\"confidence\":-1"],"links":[{"id":"c0c8e41fe7d4a5a1815ecf2a8fec5a06d57d724e","label":"Photos P2","passageId":57}]},{"pid":57,"name":"Photos P2","text":"<p>(Picture of Eisheth, Queen of Lust}</p>\n<p>Do these please you?</p>\n<p><%= links['17a13cb8d3fcb3ce7f41416dc6ed1f276cd2ecbc'] %>\n<%= links['114a56a93d647c57ddc3d88cf61710a2ebde14f5'] %>\n<%= links['007131cc5a4f9b0c532702fae15af156abd2f2a5'] %></p>\n","tags":["\"user\":-\"Eisheth\""],"links":[{"id":"17a13cb8d3fcb3ce7f41416dc6ed1f276cd2ecbc","label":"Yes Photos P2","passageId":58},{"id":"114a56a93d647c57ddc3d88cf61710a2ebde14f5","label":"No Photos P2","passageId":59},{"id":"007131cc5a4f9b0c532702fae15af156abd2f2a5","label":"Ignore Photos P2","passageId":60}]},{"pid":58,"name":"Yes Photos P2","text":"<p>Y-yes. W-wow.</p>\n<p><%= links['73e72012879c3f51d589790b81051bb6473e6943'] %></p>\n","tags":["\"user\":-\"player\"","\"productivity\":--2"],"links":[{"id":"73e72012879c3f51d589790b81051bb6473e6943","label":"Photos P3","passageId":61}]},{"pid":59,"name":"No Photos P2","text":"<p>Nah, not my thing.</p>\n<p><%= links['755ed881b61f843026f4ebf3d679f14b321534d2'] %> </p>\n","tags":["\"user\":-\"player\"","\"fame\":--1","\"confidence\":-1"],"links":[{"id":"755ed881b61f843026f4ebf3d679f14b321534d2","label":"Ignore Photos P2","passageId":60}]},{"pid":60,"name":"Ignore Photos P2","text":"<p>Begone, time waster!</p>\n<p><%= links['f23f2d5fc06ee4e635aa24695a6e42964c8977d8'] %></p>\n","tags":["\"user\":-\"Eisheth\"","\"trigger\":-\"end\"","\"productivity\":--2","\"act2storyVariable\":-1","\"storyVariable\":-\"TimeWaster\""],"links":[{"id":"f23f2d5fc06ee4e635aa24695a6e42964c8977d8","label":"Cool Zone","passageId":5}]},{"pid":61,"name":"Photos P3","text":"<p>Then would you like to sign a contract to be my eternal servant?</p>\n<p><%= links['61ababae0e0d63326c90460643189abf0fd8d7c1'] %>\n<%= links['1e365c0d51f00156e5589a0d2228fdcb789eb216'] %>\n<%= links['f06085d3ce9897876c329734426460ebb1df571a'] %> </p>\n","tags":["\"user\":-\"Eisheth\""],"links":[{"id":"61ababae0e0d63326c90460643189abf0fd8d7c1","label":"Yes Photos P3","passageId":62},{"id":"1e365c0d51f00156e5589a0d2228fdcb789eb216","label":"No Photos P2","passageId":59},{"id":"f06085d3ce9897876c329734426460ebb1df571a","label":"Ignore Photos P2","passageId":60}]},{"pid":62,"name":"Yes Photos P3","text":"<p>Y-yes, I would like to be your slave.</p>\n<p><%= links['fab3eb096f46dd6235cf1d982de5852b285fe0ee'] %></p>\n","tags":["\"user\":-\"player\""],"links":[{"id":"fab3eb096f46dd6235cf1d982de5852b285fe0ee","label":"Yes Slave P1","passageId":63}]},{"pid":63,"name":"Yes Slave P1","text":"<p>Then merely sign this countract for us to be bound...</p>\n<p>\"Recipienti pignori obligo animam meam ad vitam et regina libidine, Eisheth. Et facti sunt super eam omnia servum aeternum, et in vita et in morte.\"</p>\n<p><%= links['439967844c7213461fcbd92b6720e5322aa15b17'] %>\n<%= links['bd3936a2301b011e4fa40112c0e71ed2cc7ee471'] %> </p>\n","tags":["\"user\":-\"Eisheth\""],"links":[{"id":"439967844c7213461fcbd92b6720e5322aa15b17","label":"Sign Contract","passageId":64},{"id":"bd3936a2301b011e4fa40112c0e71ed2cc7ee471","label":"Ignore Photos P2","passageId":60}]},{"pid":64,"name":"Sign Contract","text":"<p>I accept these terms.</p>\n<p><%= links['0da4a9a81e2dc42a7625d0091262a28dc3764b20'] %></p>\n","tags":["\"user\":-\"player\""],"links":[{"id":"0da4a9a81e2dc42a7625d0091262a28dc3764b20","label":"Slave P6","passageId":65}]},{"pid":65,"name":"Slave P6","text":"<p>Then you are mine.</p>\n<p><%= links['4b39fac2a108e6d12828a7d6f0e1aaeccee95ae0'] %></p>\n","tags":["\"user\":-\"Eisheth\"","\"soul\":--1","\"storyVariable\":-\"SlaveOfEisheth\"","\"act2storyVariable\":-1","\"happiness\":-3","\"fame\":--2","\"trigger\":-\"end\""],"links":[{"id":"4b39fac2a108e6d12828a7d6f0e1aaeccee95ae0","label":"Cool Zone","passageId":5}]},{"pid":66,"name":"Does Digital Ouija count as a video game?","text":"<p>I mean, it's a game I play on my computer, so...</p>\n<p><%= links['23d0c9d61d5681a827d655720fa625a4ab4cd23d'] %></p>\n","tags":["\"user\":-\"JumanjiManji\"","\"trigger\":-\"start\""],"links":[{"id":"23d0c9d61d5681a827d655720fa625a4ab4cd23d","label":"Ouija P2","passageId":67}]},{"pid":67,"name":"Ouija P2","text":"<p>It's not a game because there's no real objective. You don't shoot anything or score points or anything like that. It's as much of a game as something where you'd just walk around and listen to dialogue.</p>\n<p><%= links['2988d03e6c134f68a5090b49bb8c961799e84ec9'] %></p>\n","tags":["\"user\":-\"HaloHalo\""],"links":[{"id":"2988d03e6c134f68a5090b49bb8c961799e84ec9","label":"Ouija P3","passageId":68}]},{"pid":68,"name":"Ouija P3","text":"<p>I agree that it's not a video game, but not for the asinine reasoning that HaloHalo puts forward. It's not a video game because it is not a game of any sort. Ouija is a divine ritual for summoning and communicating with that which is beyond our physical realm.</p>\n<p><%= links['ecea122eb52c82666304e9244dd30464165855e6'] %>\n<%= links['3a24379ca20c00f4203393f652669f8120f3272b'] %>\n<%= links['370f9f7326e277760a3e54a8dec5b496d6f2fcab'] %></p>\n","tags":["\"user\":-\"DivineSummoner\""],"links":[{"id":"ecea122eb52c82666304e9244dd30464165855e6","label":"Curious Answer Ouija P3","passageId":69},{"id":"3a24379ca20c00f4203393f652669f8120f3272b","label":"Dismissive Answer Ouija P3","passageId":70},{"id":"370f9f7326e277760a3e54a8dec5b496d6f2fcab","label":"Sarcastic Answer Ouija P3","passageId":71}]},{"pid":69,"name":"Curious Answer Ouija P3","text":"<p>Personally, I think it could get other way. I'm interested to see if a \"summoning\" or \"seance\" is possible with one of these, especially online.</p>\n<p><%= links['ace1b967dc70e0582f6c5dece671b1e2ef28ff41'] %></p>\n","tags":["\"user\":-\"player\"","\"confidence\":-1"],"links":[{"id":"ace1b967dc70e0582f6c5dece671b1e2ef28ff41","label":"Ouija P4","passageId":72}]},{"pid":70,"name":"Dismissive Answer Ouija P3","text":"<p>Whether it's a game or not, it's not real, so who cares?</p>\n<p><%= links['a0db0c7fcb59a4c087e76f0b08dafb523a58737f'] %></p>\n","tags":["\"user\":-\"player\"","\"productivity\":--1"],"links":[{"id":"a0db0c7fcb59a4c087e76f0b08dafb523a58737f","label":"Ouija P5","passageId":73}]},{"pid":71,"name":"Sarcastic Answer Ouija P3","text":"<p>Ooooo, why don't you summon a ghost? They'll answer the question for you.</p>\n<p><%= links['7dfd5f14f63faa2fa7acdf12ab0fa7ae9e23d361'] %></p>\n","tags":["\"user\":-\"player\"","\"fame\":-1","\"productivity\":--1"],"links":[{"id":"7dfd5f14f63faa2fa7acdf12ab0fa7ae9e23d361","label":"Ouija P4","passageId":72}]},{"pid":72,"name":"Ouija P4","text":"<p>Ouija, I must ask if you are present. The signs point to yes, dear forum goers. Speak unto me and I shall ask the spirits beyond.</p>\n<p><%= links['6c2d110441842e35f291cdbebec71f311648655a'] %>\n<%= links['9793bc11d2283325a9f460707674c853ef5405b6'] %>\n<%= links['1c8fb89acc8649e6e3ba41cc7f136a9695871805'] %>\n<%= links['2c1cefa90c6d9414178684612e8f2a0780b659a7'] %></p>\n","tags":["\"user\":-\"DivineSummoner\""],"links":[{"id":"6c2d110441842e35f291cdbebec71f311648655a","label":"Ask to Speak to a Ghost","passageId":74},{"id":"9793bc11d2283325a9f460707674c853ef5405b6","label":"Ask to Speak to a Demon","passageId":75},{"id":"1c8fb89acc8649e6e3ba41cc7f136a9695871805","label":"Ask to Speak to Customer Service","passageId":76},{"id":"2c1cefa90c6d9414178684612e8f2a0780b659a7","label":"Game Blast","passageId":3}]},{"pid":73,"name":"Ouija P5","text":"<p>Do you doubt my abilities or do you find falsehood in the very idea of that which exists beyond us?</p>\n<p><%= links['f315e7ddef840d9710b155b747d7fbae201a976b'] %>\n<%= links['7aa24e33455bda5e4e2b58e04a880b730b570984'] %></p>\n","tags":["\"user\":-\"DivineSummoner\""],"links":[{"id":"f315e7ddef840d9710b155b747d7fbae201a976b","label":"Doubt DivineSummoner","passageId":103},{"id":"7aa24e33455bda5e4e2b58e04a880b730b570984","label":"Doubt Ghosts","passageId":104}]},{"pid":74,"name":"Ask to Speak to a Ghost","text":"<p>Can we speak to someone from beyond the grave?</p>\n<p><%= links['41081dffcff3a958c2dbc3e805dd7f8bfe7a47a0'] %></p>\n","tags":["\"user\":-\"player\""],"links":[{"id":"41081dffcff3a958c2dbc3e805dd7f8bfe7a47a0","label":"Ouija P6","passageId":77}]},{"pid":75,"name":"Ask to Speak to a Demon","text":"<p>Let's summon a demon! That'd be cool.</p>\n<p><%= links['3b78bda32eb2909b7edb862d1358592165dfe73a'] %></p>\n","tags":["\"user\":-\"player\""],"links":[{"id":"3b78bda32eb2909b7edb862d1358592165dfe73a","label":"Ouija P7","passageId":78}]},{"pid":76,"name":"Ask to Speak to Customer Service","text":"<p>Hi, customer service, can you send someone out to fix my Tony Game Box?</p>\n<p><%= links['0b82432b1440e88b72394cdeab15fec83e0cdd2f'] %></p>\n","tags":["\"user\":-\"player\"","\"fame\":-1","\"confidence\":-1","\"productivity\":--1"],"links":[{"id":"0b82432b1440e88b72394cdeab15fec83e0cdd2f","label":"Rude Ghost P4","passageId":101}]},{"pid":77,"name":"Ouija P6","text":"<p>Oh, holy and unholy, bring about that which has passed!</p>\n<p><%= links['acebe4b808b8c7ff657d7e11e6b55366b344162d'] %></p>\n","tags":["\"user\":-\"player\""],"links":[{"id":"acebe4b808b8c7ff657d7e11e6b55366b344162d","label":"Ouija Ghost P2","passageId":79}]},{"pid":78,"name":"Ouija P7","text":"<p>I will only summon benevolent spirits. If you want one who dabbles in the black magicks, go to the shadier parts of the internet, not here.</p>\n<p><%= links['570329264f9478b96becb7b88d505f21aab60634'] %></p>\n","tags":["\"user\":-\"DivineSummoner\""],"links":[{"id":"570329264f9478b96becb7b88d505f21aab60634","label":"Ouija P12","passageId":102}]},{"pid":79,"name":"Ouija Ghost P2","text":"<p>I speak to you through this typewriter from beyond the grave. What do you wish to ask me?</p>\n<p><%= links['3c3aa9fa16abf6bc5eeb90231f22d4e3aaaa35a8'] %>\n<%= links['bb6aacbdad7a5b665de70fe57b635f31ab1407cc'] %>\n<%= links['c1e1672950d7ea3d6723be0aaf3310fb8a5edb36'] %></p>\n","tags":["\"user\":-\"ghost\""],"links":[{"id":"3c3aa9fa16abf6bc5eeb90231f22d4e3aaaa35a8","label":"Ask about their time period","passageId":80},{"id":"bb6aacbdad7a5b665de70fe57b635f31ab1407cc","label":"Ask about their life","passageId":81},{"id":"c1e1672950d7ea3d6723be0aaf3310fb8a5edb36","label":"Ask what they're wearing","passageId":82}]},{"pid":80,"name":"Ask about their time period","text":"<p>When were you a part of the living?</p>\n<p><%= links['2e404559060916cf458118cebd72f0b736f11ebe'] %></p>\n","tags":["\"user\":-\"player\"","\"productivity\":-1"],"links":[{"id":"2e404559060916cf458118cebd72f0b736f11ebe","label":"Ouija Ghost P3","passageId":83}]},{"pid":81,"name":"Ask about their life","text":"<p>What was your life like?</p>\n<p><%= links['c0c8a9d75b715f07004ba91f39df028729ce5667'] %> </p>\n","tags":["\"user\":-\"player\"","\"productivity\":-1"],"links":[{"id":"c0c8a9d75b715f07004ba91f39df028729ce5667","label":"Ouija Ghost P3","passageId":83}]},{"pid":82,"name":"Ask what they're wearing","text":"<p>So, what are you wearing?</p>\n<p><%= links['f29e808d974c64d907d8c5277af1b186254e42f7'] %> </p>\n","tags":["\"user\":-\"player\"","\"productivity\":--1"],"links":[{"id":"f29e808d974c64d907d8c5277af1b186254e42f7","label":"Ouija Ghost P4","passageId":84}]},{"pid":83,"name":"Ouija Ghost P3","text":"<p>I lived and loved in a time you know as the early 1900's. I fought for the rights of those I called kin, until it cost me that life. But it never took my love.</p>\n<p><%= links['068cba6b6da57cb7688ab6fd587f5d90bc85951f'] %>\n<%= links['77ef3503ea26f23b43ac06144df8ac9515cffbd1'] %>\n<%= links['112ce5d20c190744e834af74214905b978a23ad9'] %></p>\n","tags":["\"user\":-\"ghost\""],"links":[{"id":"068cba6b6da57cb7688ab6fd587f5d90bc85951f","label":"Nice Reply Ghost P3","passageId":85},{"id":"77ef3503ea26f23b43ac06144df8ac9515cffbd1","label":"Rude Reply Ghost P3","passageId":86},{"id":"112ce5d20c190744e834af74214905b978a23ad9","label":"Game Blast","passageId":3}]},{"pid":84,"name":"Ouija Ghost P4","text":"<p>Nothing, for I no longer live.</p>\n<p><%= links['6a0d43cea6f8bf50df811072935d5c3bd2dbff6d'] %> \n<%= links['fafa7b1786daa377022548f6dfd92f218913dabd'] %> \n<%= links['7614b353a4de24122ec8039217ffa7946a09fe13'] %></p>\n","tags":["\"user\":-\"ghost\""],"links":[{"id":"6a0d43cea6f8bf50df811072935d5c3bd2dbff6d","label":"Ask about their time period","passageId":80},{"id":"fafa7b1786daa377022548f6dfd92f218913dabd","label":"Ask about their life","passageId":81},{"id":"7614b353a4de24122ec8039217ffa7946a09fe13","label":"Sarcastic Reply Ghost P4","passageId":87}]},{"pid":85,"name":"Nice Reply Ghost P3","text":"<p>Thanks for paving the way so that we could live and love how we want to.</p>\n<p><%= links['ff419db7593d1c0fa5e058914c7b9f24cbbc7541'] %></p>\n","tags":["\"user\":-\"player\"","\"productivity\":-1"],"links":[{"id":"ff419db7593d1c0fa5e058914c7b9f24cbbc7541","label":"Ghost P8","passageId":95}]},{"pid":86,"name":"Rude Reply Ghost P3","text":"<p>Fake.</p>\n<p><%= links['17c4628c1f837b2687d7dacf2fda3444fa01e5a6'] %></p>\n","tags":["\"user\":-\"player\"","\"productivity\":--1","\"fame\":--1"],"links":[{"id":"17c4628c1f837b2687d7dacf2fda3444fa01e5a6","label":"Rude Ghost P4","passageId":101}]},{"pid":87,"name":"Sarcastic Reply Ghost P4","text":"<p>Hot.</p>\n<p><%= links['231e3387fcd6f2a431fb90f2526f126091ec701e'] %></p>\n","tags":["\"user\":-\"player\"","\"productivity\":--1","\"fame\":--1","\"confidence\":-1"],"links":[{"id":"231e3387fcd6f2a431fb90f2526f126091ec701e","label":"Ghost P5","passageId":88}]},{"pid":88,"name":"Ghost P5","text":"<p>It's actually quite cold...</p>\n<p><%= links['d013b307f09a714e9244d8d5cf5d5767722af0cb'] %>\n<%= links['671c65d82c52be54266a498622e8616ae99525b3'] %></p>\n","tags":["\"user\":-\"ghost\""],"links":[{"id":"d013b307f09a714e9244d8d5cf5d5767722af0cb","label":"Flirt with Ghost","passageId":89},{"id":"671c65d82c52be54266a498622e8616ae99525b3","label":"Game Blast","passageId":3}]},{"pid":89,"name":"Flirt with Ghost","text":"<p>I could help warm you up.</p>\n<p><%= links['68337505867de2c24c6f027948396bb9ffd36e97'] %></p>\n","tags":["\"user\":-\"player\"","\"confidence\":-1","\"productivity\":--1"],"links":[{"id":"68337505867de2c24c6f027948396bb9ffd36e97","label":"Ghost P6","passageId":90}]},{"pid":90,"name":"Ghost P6","text":"<p>I find that claim highly dubious.</p>\n<p><%= links['a598c10e19f26daef6a8c70d7a28751f158712be'] %>\n<%= links['9d405668d5d91bf41fbc7079da1a7471b10fb244'] %></p>\n","tags":["\"user\":-\"ghost\""],"links":[{"id":"a598c10e19f26daef6a8c70d7a28751f158712be","label":"Continue Flirting with the Ghost","passageId":91},{"id":"9d405668d5d91bf41fbc7079da1a7471b10fb244","label":"Give Up Flirting with the Ghost","passageId":92}]},{"pid":91,"name":"Continue Flirting with the Ghost","text":"<p>You'd be surprised how warm my body would get.</p>\n<p><%= links['7cfef306b94ae522570f809f3d633a2bf2bce6b5'] %></p>\n","tags":["\"user\":-\"player\"","\"confidence\":-1","\"fame\":--1","\"productivity\":--1"],"links":[{"id":"7cfef306b94ae522570f809f3d633a2bf2bce6b5","label":"Ghost P7","passageId":93}]},{"pid":92,"name":"Give Up Flirting with the Ghost","text":"<p>I should probably leave you be before I creep you out, haha. Have a pleasant afterlife.</p>\n<p><%= links['0fda0badd8c4f97f9824853a8109590cbf5ba3b6'] %></p>\n","tags":["\"user\":-\"player\"","\"confidence\":--1","\"productivity\":-1","\"trigger\":-\"end\""],"links":[{"id":"0fda0badd8c4f97f9824853a8109590cbf5ba3b6","label":"Ghost Email","passageId":94}]},{"pid":93,"name":"Ghost P7","text":"<p>You scared the ghost off by being a creep! Thanks.</p>\n<p><%= links['e46447440bd05e12123ae6911651fbb80f49ccab'] %></p>\n","tags":["\"user\":-\"DivineSummoner\"","\"trigger\":-\"end\"","\"storyVariable\":-\"GhostCreep\"","\"act2storyVariable\":-1"],"links":[{"id":"e46447440bd05e12123ae6911651fbb80f49ccab","label":"Game Blast","passageId":3}]},{"pid":94,"name":"Ghost Email","text":"<p>Greetings. I am the spirit from before. Thank you for treating me as more than just a vessel of the past. I am still curious about how you could share your warmth. Maybe you could summon me sometime and we could find out together?</p>\n<p><%= links['3aac477d058eee436e64126b2fe7afec7fef4760'] %></p>\n","tags":["\"user\":-\"ghost\"","\"storyVariable\":-\"GhostFlirt\"","\"happiness\":-3","\"act2storyVariable\":-1"],"links":[{"id":"3aac477d058eee436e64126b2fe7afec7fef4760","label":"Email","passageId":6}]},{"pid":95,"name":"Ghost P8","text":"<p>I hope that through your life you have found that love that we fought for.</p>\n<p><%= links['df7ca2cc1530672f12d276556a6bdc6f03b1f4b0'] %>\n<%= links['1ac290fb0944c225a140590ddb56c7afa9d4cc05'] %></p>\n","tags":[],"links":[{"id":"df7ca2cc1530672f12d276556a6bdc6f03b1f4b0","label":"I Haven't Found Love","passageId":96},{"id":"1ac290fb0944c225a140590ddb56c7afa9d4cc05","label":"I Have Found Love","passageId":97}]},{"pid":96,"name":"I Haven't Found Love","text":"<p>I haven't found love, but it's very kind of you to ask.</p>\n<p><%= links['76c6a6953972c1e31936fd000d53d544d40ca56b'] %></p>\n","tags":["\"user\":-\"player\"","\"confidence\":--1"],"links":[{"id":"76c6a6953972c1e31936fd000d53d544d40ca56b","label":"Ghost P9","passageId":98}]},{"pid":97,"name":"I Have Found Love","text":"<p>I have found love, and I'm very happy. Thank you for asking.</p>\n<p><%= links['32bf100a9ab896b8c149925516d2b23647e85df7'] %></p>\n","tags":["\"user\":-\"player\"","\"happiness\":-2"],"links":[{"id":"32bf100a9ab896b8c149925516d2b23647e85df7","label":"Ghost P10","passageId":99}]},{"pid":98,"name":"Ghost P9","text":"<p>Then I wish I could help bring you to this warmth that you so desire.</p>\n<p><%= links['12e2859f4677d6daabe8d607b6ca636b5103abcf'] %>\n<%= links['1e17d14ec6ef4f6823bb830e53272911d5036dac'] %></p>\n","tags":["\"user\":-\"ghost\""],"links":[{"id":"12e2859f4677d6daabe8d607b6ca636b5103abcf","label":"Thank the Ghost","passageId":100},{"id":"1e17d14ec6ef4f6823bb830e53272911d5036dac","label":"Game Blast","passageId":3}]},{"pid":99,"name":"Ghost P10","text":"<p>Then I wish for you eternal happiness.</p>\n<p><%= links['06a8c450be013b4bf4d5997b0d838ab876de99a2'] %> </p>\n","tags":["\"user\":-\"ghost\"","\"trigger\":-\"end\"","\"storyVariable\":-\"GhostGood\"","\"act2storyVariable\":-1"],"links":[{"id":"06a8c450be013b4bf4d5997b0d838ab876de99a2","label":"Game Blast","passageId":3}]},{"pid":100,"name":"Thank the Ghost","text":"<p>Thank you. Your kind words have already brought me that warmth.</p>\n<p><%= links['cdd56d489733461496ec27c409c8ecb7e8541ca3'] %> </p>\n","tags":["\"user\":-\"player\"","\"trigger\":-\"email\"","\"productivity\":-1","\"confidence\":-1"],"links":[{"id":"cdd56d489733461496ec27c409c8ecb7e8541ca3","label":"Ghost Email","passageId":94}]},{"pid":101,"name":"Rude Ghost P4","text":"<p>Great, you've scared off the spirit by being rude. Thanks.</p>\n<p><%= links['dc581ad8fa6a0238dc7231643e3e9b5a9cbf213c'] %></p>\n","tags":["\"user\":-\"DivineSummoner\"","\"trigger\":-\"end\"","\"storyVariable\":-\"GhostRude\"","\"act2storyVariable\":-1"],"links":[{"id":"dc581ad8fa6a0238dc7231643e3e9b5a9cbf213c","label":"Game Blast","passageId":3}]},{"pid":102,"name":"Ouija P12","text":"<p>Dude, just get on with it and summon us up a ghost!</p>\n<p><%= links['c27c72ee8c83112363f6e938e8c5c685da70d718'] %></p>\n","tags":["\"user\":-\"xXxsNiPeM@sTeRxXx\""],"links":[{"id":"c27c72ee8c83112363f6e938e8c5c685da70d718","label":"Ouija P6","passageId":77}]},{"pid":103,"name":"Doubt DivineSummoner","text":"<p>I believe in ghosts, but I don't think some nerd on the internet can summon them.</p>\n<p><%= links['edc0a315c7d0a7ff5cc1d928b36bb1598a658227'] %></p>\n","tags":["\"user\":-\"player\"","\"confidence\":-1"],"links":[{"id":"edc0a315c7d0a7ff5cc1d928b36bb1598a658227","label":"Ghost Doubt","passageId":105}]},{"pid":104,"name":"Doubt Ghosts","text":"<p>Ghosts aren't real, pal. It's a lousy superstition fueled by windy nights and crappy cameras.</p>\n<p><%= links['5517b072f85678afc986fcc525b4e59437b6eb54'] %> </p>\n","tags":["\"user\":-\"player\"","\"confidence\":-1","\"fame\":-1","\"productivity\":--1"],"links":[{"id":"5517b072f85678afc986fcc525b4e59437b6eb54","label":"Ghost Doubt","passageId":105}]},{"pid":105,"name":"Ghost Doubt","text":"<p>Then I shall erase your doubt by proving here and now that I can summon spirits to commune with us on this very forum!</p>\n<p><%= links['3a5511bc8efecef8c205f690562f0e0bdffbf236'] %></p>\n","tags":["\"user\":-\"DivineSummoner\""],"links":[{"id":"3a5511bc8efecef8c205f690562f0e0bdffbf236","label":"Ouija P12","passageId":102}]},{"pid":106,"name":"My copy of GooseTales is borked","text":"<p>I found a near mint GooseTales cartridge for the original Funtendo at a garage sale awhile back. It was working just fine until I got to the moon level. That's where everything got really freaky. Weird graphical glitches started happening, the characters weren't controlling right, and the iconic music was all distorted.</p>\n<p>My little brother is playing it right now, but this is what it looked like. I can't find any screenshots like this online.</p>\n<p>(Distorted GooseTales screenshot)</p>\n<p><%= links['f01cb03efcb5c0e95fad02ba1892b847259185ff'] %></p>\n","tags":["\"user\":-\"RetroLyfe\"","\"trigger\":-\"start\""],"links":[{"id":"f01cb03efcb5c0e95fad02ba1892b847259185ff","label":"GooseTales P2","passageId":107}]},{"pid":107,"name":"GooseTales P2","text":"<p>I've played GooseTales through a few times, and I've never seen it look like that.</p>\n<p><%= links['fc22dd5b9c3a932306f5f96fc3426e8679cde6c6'] %></p>\n","tags":["\"user\":-\"Waveracer2099\""],"links":[{"id":"fc22dd5b9c3a932306f5f96fc3426e8679cde6c6","label":"GooseTales P3","passageId":108}]},{"pid":108,"name":"GooseTales P3","text":"<p>You sure you weren't playing a bad ROM or something? Sounds like an iffy file from Luna Wire.</p>\n<p><%= links['c3484b930a7952e95b92472ea3b3ee95fb20be92'] %></p>\n","tags":["\"user\":-\"GreatGreenBlur\""],"links":[{"id":"c3484b930a7952e95b92472ea3b3ee95fb20be92","label":"GooseTales P4","passageId":109}]},{"pid":109,"name":"GooseTales P4","text":"<p>I swear to you that this is a physical cartridge. Geez, my brother is being all twitchy and weird in the other room. Don't think this is sitting well with him. Any help?</p>\n<p><%= links['ed94efa30dc9231e18d43c9d7412e9fcdce23031'] %>\n<%= links['61157abbb97ca615a6c1a5fd13f546775583a267'] %>\n<%= links['7d05d98170cd47ba0fdde7f0a440e100f43df844'] %></p>\n","tags":["\"user\":-\"RetroLyfe\""],"links":[{"id":"ed94efa30dc9231e18d43c9d7412e9fcdce23031","label":"Helpful Reply GooseTales","passageId":110},{"id":"61157abbb97ca615a6c1a5fd13f546775583a267","label":"Doubtful Reply GooseTales","passageId":111},{"id":"7d05d98170cd47ba0fdde7f0a440e100f43df844","label":"Sarcastic Reply GooseTales","passageId":112}]},{"pid":110,"name":"Helpful Reply GooseTales","text":"<p>If your brother is having actual physical issues playing the game, you should probably just turn it off.</p>\n<p><%= links['65d55802ee6824cfe1fef53ec763a7658bef99eb'] %></p>\n","tags":["\"user\":-\"player\"","\"confidence\":-1","\"productivity\":-1"],"links":[{"id":"65d55802ee6824cfe1fef53ec763a7658bef99eb","label":"Helpful GooseTales P2","passageId":117}]},{"pid":111,"name":"Doubtful Reply GooseTales","text":"<p>Why do people come on the internet and tell lies?</p>\n<p><%= links['1f5950ad63029910a8df9ec1f6589c242fb4c597'] %></p>\n","tags":["\"user\":-\"player\"","\"fame\":--1","\"confidence\":-1"],"links":[{"id":"1f5950ad63029910a8df9ec1f6589c242fb4c597","label":"GooseTales Doubt P2","passageId":116}]},{"pid":112,"name":"Sarcastic Reply GooseTales","text":"<p>You should try calling the Funtendo Hotline. They have all sorts of tips and tricks to get you through any game.</p>\n<p><%= links['5b47cb28d6bf98528b16552e615cb5c89de82de6'] %></p>\n","tags":["\"user\":-\"player\"","\"fame\":-1","\"productivity\":--1"],"links":[{"id":"5b47cb28d6bf98528b16552e615cb5c89de82de6","label":"Sarcastic GooseTales P2","passageId":113}]},{"pid":113,"name":"Sarcastic GooseTales P2","text":"<p>Oh yeah, I remember the Funtendo Hotline! Man, I used to get stuck on Superb Guys ALL the time. My parents were so mad that I'd run up the phone bill asking for help.</p>\n<p><%= links['628043b03669b6d7949a67155d133ce5fcc41dbb'] %></p>\n","tags":["\"user\":-\"GreatGreenBlur\""],"links":[{"id":"628043b03669b6d7949a67155d133ce5fcc41dbb","label":"Sarcastic GooseTales P3","passageId":114}]},{"pid":114,"name":"Sarcastic GooseTales P3","text":"<p>This isn't helpful at all! Sounds like my brother got a game over. Maybe playing it back through from the start will fix it.</p>\n<p><%= links['0c8905f60dc38934ea3f9dc1b264599b5c629261'] %></p>\n","tags":["\"user\":-\"RetroLyfe\""],"links":[{"id":"0c8905f60dc38934ea3f9dc1b264599b5c629261","label":"GooseTales Bad Ending","passageId":115}]},{"pid":115,"name":"GooseTales Bad Ending","text":"<p>Oh god, oh dear god. My brother was just lying there unconcious by the TV. I've called 911 but oh god I needed to tell someone else. Please, dear god, if you see your game acting up like this, don't plahy it.</p>\n<p><%= links['d84fe4d5dacf4631b206a56de64b75dc120484bf'] %></p>\n","tags":["\"user\":-\"RetroLyfe\"","\"storyVariable\":-\"GooseBad\"","\"act2storyVariable\":-1","\"trigger\":-\"end\""],"links":[{"id":"d84fe4d5dacf4631b206a56de64b75dc120484bf","label":"Game Blast","passageId":3}]},{"pid":116,"name":"GooseTales Doubt P2","text":"<p>Got you to click it, didn't it?</p>\n<p><%= links['876f58b13873b736cb5733e5f4ebd0441fdf54a9'] %> </p>\n","tags":["\"user\":-\"GreatGreenBlur\""],"links":[{"id":"876f58b13873b736cb5733e5f4ebd0441fdf54a9","label":"Sarcastic GooseTales P3","passageId":114}]},{"pid":117,"name":"Helpful GooseTales P2","text":"<p>I went and did that and now my brother is screaming at me. Great. At least he doesn't seem to be in pain, I guess?</p>\n<p><%= links['f2bf772ef21bf0ded88dccecc5eda2a30c8b9c9a'] %></p>\n","tags":["\"user\":-\"RetroLyfe\""],"links":[{"id":"f2bf772ef21bf0ded88dccecc5eda2a30c8b9c9a","label":"Helpful GooseTales P3","passageId":118}]},{"pid":118,"name":"Helpful GooseTales P3","text":"<p>He got mad and threw the cartridge at me. It missed and shattered against the wall. He calmed down after that, but I guess I'm out one weird copy of GooseTales.</p>\n<p><%= links['6d8a1c5cdb49e5aee4f35a4388b5560c4d1100c9'] %></p>\n","tags":["\"user\":-\"RetroLyfe\"","\"storyVariable\":-\"GooseGood\"","\"act2storyVariable\":-1","\"trigger\":-\"end\""],"links":[{"id":"6d8a1c5cdb49e5aee4f35a4388b5560c4d1100c9","label":"Game Blast","passageId":3}]},{"pid":119,"name":"Polybius","text":"<p>My local pizza place has a copy. AMA</p>\n<p><%= links['acc0bee329ac6b02301d35ee9619baf4f86f36d5'] %></p>\n","tags":["\"user\":-\"LegendOfSolitaire\"","\"trigger\":-\"start\""],"links":[{"id":"acc0bee329ac6b02301d35ee9619baf4f86f36d5","label":"Polybius P2","passageId":120}]},{"pid":120,"name":"Polybius P2","text":"<p>Does it really make you sick?</p>\n<p><%= links['5a6e3ede16671672364e2d87be50e8b9426d11f6'] %></p>\n","tags":["\"user\":-\"the_last_samurai\""],"links":[{"id":"5a6e3ede16671672364e2d87be50e8b9426d11f6","label":"Polybius P3","passageId":121}]},{"pid":121,"name":"Polybius P3","text":"<p>Yes, but that might've been bad pizza.</p>\n<p><%= links['5d7238d0f970a0990d94a0b8d8b98eeeab35e152'] %></p>\n","tags":["\"user\":-\"LegendOfSolitaire\""],"links":[{"id":"5d7238d0f970a0990d94a0b8d8b98eeeab35e152","label":"Polybius P4","passageId":122}]},{"pid":122,"name":"Polybius P4","text":"<p>Sounds fake. Pics or it didn't happen.</p>\n<p><%= links['80637bc325b21bb51e10e74591ef4b847c195fd9'] %></p>\n","tags":["\"user\":-\"GreatGreenBlur\""],"links":[{"id":"80637bc325b21bb51e10e74591ef4b847c195fd9","label":"Polybius P5","passageId":123}]},{"pid":123,"name":"Polybius P5","text":"<p>(Picture of a Polybius arcade cabinet)</p>\n<p><%= links['68c89da8220e6eec1defa787689c588768b63753'] %></p>\n","tags":["\"user\":-\"LegendOfSolitaire\""],"links":[{"id":"68c89da8220e6eec1defa787689c588768b63753","label":"Polybius P6","passageId":124}]},{"pid":124,"name":"Polybius P6","text":"<p>Image searching that doesn't give any prior existing results. That's either real or a damn good shop. Any chance I can get the address for your pizza place?</p>\n<p><%= links['4610e248b1880ca16a463d7346d0143598615f42'] %></p>\n","tags":["\"user\":-\"GreatGreenBlur\""],"links":[{"id":"4610e248b1880ca16a463d7346d0143598615f42","label":"Polybius P7","passageId":125}]},{"pid":125,"name":"Polybius P7","text":"<p>Sure! Just give me a second to look it up in the phonebook.</p>\n<p><%= links['00c0e9ae5d0ab3354b59a1be73394ead435002b8'] %></p>\n","tags":["\"user\":-\"LegendOfSolitaire\""],"links":[{"id":"00c0e9ae5d0ab3354b59a1be73394ead435002b8","label":"Polybius P8","passageId":126}]},{"pid":126,"name":"Polybius P8","text":"<p>Due to a government cease and desist, this thread is now locked.</p>\n<p><%= links['479af6019258c29112ea8387b7f4b4bfdf517d04'] %></p>\n","tags":["\"trigger\":-\"end\"","\"user\":-\"Game-Blast-Admin\""],"links":[{"id":"479af6019258c29112ea8387b7f4b4bfdf517d04","label":"Game Blast","passageId":3}]},{"pid":127,"name":"This is my aesthetic","text":"<p>(Small pixelated image of a Mario-like character in front of a much larger pink background)</p>\n<p><%= links['f9e5caed587a9c0e15efe3a86d19660e07e48b14'] %></p>\n","tags":["\"user\":-\"yorpyknight\""],"links":[{"id":"f9e5caed587a9c0e15efe3a86d19660e07e48b14","label":"Game Blast","passageId":3}]},{"pid":128,"name":"HEXORZ party","text":"<p>Anyone want to join my HEXORZ party? On PC, obviously.</p>\n<p><%= links['e3a860804fdd11362a21f2142651f1422ea1da29'] %></p>\n","tags":["\"user\":-\"xXxsNiPeM@sTeRxXx\"","\"trigger\":-\"start\""],"links":[{"id":"e3a860804fdd11362a21f2142651f1422ea1da29","label":"HEXORZ P2","passageId":129}]},{"pid":129,"name":"HEXORZ P2","text":"<p>That game is Satanic. No thank you.</p>\n<p><%= links['031975a07556c04fcc102b425968d4076257080d'] %></p>\n","tags":["\"user\":-\"ZZJ-Wukong\""],"links":[{"id":"031975a07556c04fcc102b425968d4076257080d","label":"HEXORZ P3","passageId":130}]},{"pid":130,"name":"HEXORZ P3","text":"<p>Didn't someone die playing that game? I remember reading it on Home Scape.</p>\n<p><%= links['1951167254db64cef7e9a28ad7a6a2fa2bc278b8'] %></p>\n","tags":["\"user\":-\"StarFresh\""],"links":[{"id":"1951167254db64cef7e9a28ad7a6a2fa2bc278b8","label":"HEXORZ P4","passageId":131}]},{"pid":131,"name":"HEXORZ P4","text":"<p>That's an urban legend. Just because you cast spells and make sacrifices and shit, doesn't mean anyone has actually died playing the game.</p>\n<p><%= links['5011d5af729a18ab35efaffa69dd60dbede03e69'] %></p>\n","tags":["\"user\":-\"xXxsNiPeM@sTeRxXx\""],"links":[{"id":"5011d5af729a18ab35efaffa69dd60dbede03e69","label":"HEXORZ P5","passageId":132}]},{"pid":132,"name":"HEXORZ P5","text":"<p>No, it's real. I found the link.</p>\n<p><%= links['5eea33415111f23078f48d253fa4f68d77ced1a4'] %></p>\n","tags":["\"user\":-\"StarFresh\""],"links":[{"id":"5eea33415111f23078f48d253fa4f68d77ced1a4","label":"HEXORZ Home Scape Article","passageId":133}]},{"pid":133,"name":"HEXORZ Home Scape Article","text":"<p>The popular online game, HEXORZ, has taken another life today. The game, created by Silicon Valley startup, AIWAZ, is massively multiplayer online game played by millions of users. The game made national headlines earlier this year when a teenage boy was found murdered over the game. What was initially thought to be the result of a dispute between two users, was actually a preordained sacrifice made in the name of the game.</p>\n<p>While AIWAZ was quick to deny that their game encourages ritual sacrifice, much of the material found in the game has been considered disturbing and inappropriate for children by Electronic Video Games Ratings Board. Many in-game groups, called covens, have begun treating the game's story and lore as a religion of swords. Multiple Scandanavian countries have even officially recognized the game as a religion.</p>\n<p>This latest HEXORZ death is a most peculiar incident. While the previous HEXORZ victim was found in the woods, this victim was found alone at their computer, still logged into the game. According to the evidence at the scene, the player's in-game character had just been \"hexed\" by another user. Was this a coincidence or is something more nefarious at foot?</p>\n<p><%= links['f06d2c99c3ed80d3ab268a0fe2500638626eb30c'] %></p>\n","tags":["\"user\":-\"Home-Scape-News\""],"links":[{"id":"f06d2c99c3ed80d3ab268a0fe2500638626eb30c","label":"HEXORZ P6","passageId":134}]},{"pid":134,"name":"HEXORZ P6","text":"<p>I told y'all this game was satanic.</p>\n<p><%= links['f66f26033c1cea2f6ae767d7faf22e6c5342a5bb'] %></p>\n","tags":["\"user\":-\"ZZJ-Wukong\""],"links":[{"id":"f66f26033c1cea2f6ae767d7faf22e6c5342a5bb","label":"HEXORZ P7","passageId":135}]},{"pid":135,"name":"HEXORZ P7","text":"<p>So, a few people have died? Who cares? The weak need to be culled if we are to ever summon the great lord, Kunema.</p>\n<p><%= links['b2fe727ad59e16cf9ce9af765a4d643eee672b0b'] %></p>\n","tags":["\"user\":-\"xXxsNiPeM@sTeRxXx\""],"links":[{"id":"b2fe727ad59e16cf9ce9af765a4d643eee672b0b","label":"HEXORZ P8","passageId":136}]},{"pid":136,"name":"HEXORZ P8","text":"<p>DIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIE</p>\n<p><%= links['dbf1196a53068c763be0cec21c13406944826eb7'] %></p>\n","tags":["\"user:\"-\"DoubleMintGum\""],"links":[{"id":"dbf1196a53068c763be0cec21c13406944826eb7","label":"HEXORZ P9","passageId":137}]},{"pid":137,"name":"HEXORZ P9","text":"<p>Cool, you have the usually normal, DoubleMint doing this bit.</p>\n<p><%= links['0aa18e4edab31a42ed3371bc08406c163418da0f'] %></p>\n","tags":["\"user\":-\"StarFresh\""],"links":[{"id":"0aa18e4edab31a42ed3371bc08406c163418da0f","label":"HEXORZ P10","passageId":138}]},{"pid":138,"name":"HEXORZ P10","text":"<p>Join us.</p>\n<p><%= links['61c3fa7ee708a037fb4645783d46f027e9fbddd6'] %></p>\n","tags":["\"user\":-\"xXxsNiPeM@sTeRxXx\""],"links":[{"id":"61c3fa7ee708a037fb4645783d46f027e9fbddd6","label":"HEXORZ P11","passageId":139}]},{"pid":139,"name":"HEXORZ P11","text":"<p>Join us.</p>\n<p><%= links['db7e63efd61d6c8bfeeac4c12e4f9d645cceaaf4'] %></p>\n","tags":["\"user\":-\"DoubleMintGum\""],"links":[{"id":"db7e63efd61d6c8bfeeac4c12e4f9d645cceaaf4","label":"HEXORZ P12","passageId":140}]},{"pid":140,"name":"HEXORZ P12","text":"<p>Join us.</p>\n<p><%= links['1e383975ac65acd20d3cfcf3c21fa84049fdc02d'] %></p>\n","tags":["\"user\":-\"ZZJ-Wukong\""],"links":[{"id":"1e383975ac65acd20d3cfcf3c21fa84049fdc02d","label":"HEXORZ P13","passageId":141}]},{"pid":141,"name":"HEXORZ P13","text":"<p>Sure, why the hell not? I'll play.</p>\n<p><%= links['9f84970a8cfab881c8e2e7839d818e4d02ff2e7f'] %></p>\n","tags":["\"user\":-\"StarFresh\"","\"trigger\":-\"end\""],"links":[{"id":"9f84970a8cfab881c8e2e7839d818e4d02ff2e7f","label":"Game Blast","passageId":3}]},{"pid":142,"name":"help","text":"<p>I look down at my body and it's not what I should see. I carry it as well as I can but I don't know how much longer I can hold this pace. I long for the metamorphosis of body and soul to finally take place, but am I waiting for a non-existing moment in time?</p>\n<p><%= links['deed223ab86b2d713b7a05c3687451fc47b1dd4f'] %></p>\n","tags":["\"user\":-\"anon\"","\"trigger\":-\"start\""],"links":[{"id":"deed223ab86b2d713b7a05c3687451fc47b1dd4f","label":"help P2","passageId":143}]},{"pid":143,"name":"help P2","text":"<p>waiting</p>\n<p><%= links['7b738633551d18c034e86a72253be4f41fca59c1'] %></p>\n","tags":["\"user\":-\"anon\""],"links":[{"id":"7b738633551d18c034e86a72253be4f41fca59c1","label":"help P3","passageId":144}]},{"pid":144,"name":"help P3","text":"<p>waiting</p>\n<p><%= links['4132eaf313d01dc50a8bed619cfa003ea510ef1a'] %></p>\n","tags":["\"user\":-\"anon\""],"links":[{"id":"4132eaf313d01dc50a8bed619cfa003ea510ef1a","label":"help P4","passageId":145}]},{"pid":145,"name":"help P4","text":"<p>waiting</p>\n<p><%= links['2f7e34d3771f3fc374475f99f44eee80d33d5e9f'] %></p>\n","tags":["\"user\":-\"anon\""],"links":[{"id":"2f7e34d3771f3fc374475f99f44eee80d33d5e9f","label":"help P5","passageId":146}]},{"pid":146,"name":"help P5","text":"<p>waiting</p>\n<p><%= links['ad1087a68324990ab7f5f03f43302bf549a3c509'] %></p>\n","tags":["\"user\":-\"anon\""],"links":[{"id":"ad1087a68324990ab7f5f03f43302bf549a3c509","label":"help P6","passageId":147}]},{"pid":147,"name":"help P6","text":"<p>waiting</p>\n<p><%= links['0baa7739bb3e99901f37fef9160afda2e6fc2717'] %></p>\n","tags":["\"user\":-\"anon\""],"links":[{"id":"0baa7739bb3e99901f37fef9160afda2e6fc2717","label":"help P7","passageId":148}]},{"pid":148,"name":"help P7","text":"<p>waiting</p>\n<p><%= links['5b32f34bb1e07c28e921ebc9648bf25ab5f4b392'] %></p>\n","tags":["\"user\":-\"anon\""],"links":[{"id":"5b32f34bb1e07c28e921ebc9648bf25ab5f4b392","label":"help P8","passageId":149}]},{"pid":149,"name":"help P8","text":"<p>waiting</p>\n<p><%= links['2406061e53f226e3779f11429fe759042eee4941'] %></p>\n","tags":[],"links":[{"id":"2406061e53f226e3779f11429fe759042eee4941","label":"help P9","passageId":150}]},{"pid":150,"name":"help P9","text":"<p>Does it stop?</p>\n<p><%= links['0f292de9822c3778b8eb78b6e6e41ae2e99e454b'] %></p>\n","tags":["\"user\":-\"anon\"","\"trigger\":-\"end\""],"links":[{"id":"0f292de9822c3778b8eb78b6e6e41ae2e99e454b","label":"Cool Zone","passageId":5}]},{"pid":151,"name":"XYZ Airs Lost Episode of Popular Cartoon","text":"<p>XYZ's Sunday mainstay, The Thompsons, has been running for 15 years. That's a lot of episodes and the animated series' biggest fans have seen them many times over. However, there's one episode that no one has ever seen, and it's going to finally air this week.</p>\n<p>The episode in question, Dead Bort, is exactly what it sounds like. In the episode, the troublemaking ten-year old protagonist of the series, Bort, dies a horrible death. This episode was originally intended as a series finale if the show failed, however, with that no longer being an issue at risk, the producers have decided to finally let the episode air.</p>\n<p>Bort dies this Sunday on XYZ! How will the family handle his death? Make sure to tune in!</p>\n<p><%= links['0c34d88d54050b8932aae4ac2301c847d037f645'] %></p>\n","tags":["\"user\":-\"Home-Scape-News\"","\"trigger\":-\"start\""],"links":[{"id":"0c34d88d54050b8932aae4ac2301c847d037f645","label":"Dead Bort Comments","passageId":162}]},{"pid":152,"name":"How Does Your Fate Align With the Moon?","text":"<p>Scholars and philosophers believe ancient peoples would predict their fates based on the phases of the moon. Considering the recent lunar eclipse, now might be the perfect time to see how your fate stacks up with those bygone customs.</p>\n<p>(Ancient Moon chart pic)</p>\n<p><%= links['d74e7cd73025cd34b3926031fc193d845adc3b18'] %>\n<%= links['09c33f1361398a8005f0c1638e8fc7f23851151c'] %>\n<%= links['1bf716086d231059271b138a458661fc076892e2'] %></p>\n","tags":["\"user\":-\"Home-Scape-News\"","\"trigger\":-\"start\""],"links":[{"id":"d74e7cd73025cd34b3926031fc193d845adc3b18","label":"Find your fate with the chart","passageId":159},{"id":"09c33f1361398a8005f0c1638e8fc7f23851151c","label":"Decide your own fate","passageId":160},{"id":"1bf716086d231059271b138a458661fc076892e2","label":"Home Scape","passageId":4}]},{"pid":153,"name":"Goat Sacrifice Guide","text":"<p>CONTENT WARNING: THE FOLLOWING CONTENT FEATURES GOAT SACRIFICE</p>\n<p>Home Scape presents a how to guide for sacrificing a goat:</p>\n<p>Step 1: Make careful preperations for the sacrificial process. Remain calm and make sure to make the sacrifice as quick and clean as possible.</p>\n<p>Step 2: Make sure the goat you're going to sacrifice is of the appropriate age. Some higher beings desire sacrifices of a certain age, make sure your subject is the desired age.</p>\n<p>Step 3: Make sure your sacrifice is being done at the right time. Depending on your hemisphere, there is an appropriate time of year and day for sacrifices.</p>\n<p>Step 4: Locate the area of the goat that would be best for sacrificing. Refer again to Step 1 and how you want to make sure your sacrifice is as quick and clean as possible.</p>\n<p>Step 5: Make sure your sacrificial knife is appropriately sharp. If your specific sacrifice calls for a different instrument, make sure that said tool is approriately prepared.</p>\n<p>Step 6: Despose of any excess material. Make sure all approriate arrangements have been made before hand so that your sacrifice is had in a timely matter.</p>\n<p>Step 7: Have fun!</p>\n<p><%= links['1c7e9b325ebf9feca4089a61e437d572b27b92a0'] %></p>\n","tags":["\"user\":-\"Home-Scape-News\"","\"trigger\":-\"start\""],"links":[{"id":"1c7e9b325ebf9feca4089a61e437d572b27b92a0","label":"Goat Comments","passageId":157}]},{"pid":154,"name":"Stunning Pie Recipe","text":"<p>This pie recipe will be the delight of your friends and the bane of everyone who has ever wronged you.</p>\n<p>1 Unbaked Pie Crust\n3/4 cup sugar\n1 tbsp. all-purpose flour\n1 1/2 cup black crowberries\n1 1/4 cup juniper berries\n3/4 cup the blood of your enemies\n1/2 cup fresh essence of the eternal soul\n1 tbsp. lemon juice</p>\n<p>Spread out pie crust on a floured sheet of paper to 1/4 inch thickness. Fit into a 9-inch pie plate. Refrigerate 30 minutes to 1 hour.</p>\n<p>Preheat oven to 375 degrees F.</p>\n<p>Whisk together sugar and flour. Stir together sugar misture, berries, blood of your enemies, fresh essence, and lemon juice. Pour into crust.</p>\n<p>Bake at 375 degrees F for 1 hour or until lightly brown. Cover if necessary.</p>\n<p><%= links['639f47ca8c9ef1596dd0415ab04483721028d35b'] %></p>\n","tags":["\"user\":\"Home-Scape-News\"","\"trigger\":-\"start\""],"links":[{"id":"639f47ca8c9ef1596dd0415ab04483721028d35b","label":"Stunning Pie Recipe Comments","passageId":158}]},{"pid":155,"name":"SPONSORED: Come Hither My Lord","text":"<p>You have been beckoned to play Leraje Online, the most addictive game of all time. Play now. She's waiting.</p>\n<p>(Image of a lusty girl)</p>\n<p><%= links['8a83b50213fdff9197d57d4f6a4307d8da3be467'] %>\n<%= links['4b0b4c7f854a9f47df858773ad613e5157d64d8e'] %></p>\n<p>Ad for that terrible game with this catch phrase. Evony was the game.</p>\n<p>Definitely gives you a virus</p>\n<p>Maybe takes your soul</p>\n<p>Pop up time!</p>\n<p>(Image of a lusty girl or whatever, maybe repaint the avatar Matt already did or something)</p>\n","tags":["\"user\":-\"Leraje-Online\"","\"trigger\":-\"start\""],"links":[{"id":"8a83b50213fdff9197d57d4f6a4307d8da3be467","label":"Leraje Online Website","passageId":156},{"id":"4b0b4c7f854a9f47df858773ad613e5157d64d8e","label":"Home Scape","passageId":4}]},{"pid":156,"name":"Leraje Online Website","text":"<p>(Image of the game with logo and same lusty girl artwork)\n(Pop ups start popping up)\n<%= links['cc053a9a408ae649614be0f03df562e0dbed6532'] %></p>\n","tags":["\"user\":-\"Leraje-Online\"","\"virus\":-\"scrambled\"","\"act2storyVariable\":-1","\"storyVariable\":-\"LerajeGame\"","\"trigger\":-\"end\""],"links":[{"id":"cc053a9a408ae649614be0f03df562e0dbed6532","label":"Home Scape","passageId":4}]},{"pid":157,"name":"Goat Comments","text":"<p>This guide was super helpful for my family's generational sacrifice to our eternal lord, Paimon!</p>\n<p><%= links['7eccc68b32d264299724b4874e5d24796cf8adb0'] %></p>\n","tags":["\"user\":-\"Jill-Stevenson\"","\"trigger\":-\"end\""],"links":[{"id":"7eccc68b32d264299724b4874e5d24796cf8adb0","label":"Home Scape","passageId":4}]},{"pid":158,"name":"Stunning Pie Recipe Comments","text":"<p>Invited my neighbor over to make this, and let's just say they won't be trimming my side of the hedges anymore.</p>\n<p><%= links['99af3632d058f5d47c0aa5c6fa9086baeafc42cf'] %> </p>\n","tags":["\"user\":-\"Sherry-Fields\"","\"trigger\":-\"end\""],"links":[{"id":"99af3632d058f5d47c0aa5c6fa9086baeafc42cf","label":"Home Scape","passageId":4}]},{"pid":159,"name":"Find your fate with the chart","text":"<p>It says \"I've already met with a terrible fate\"...</p>\n<p><%= links['7ac18f85cc53d999f2f162329ab525a0efef9e6c'] %></p>\n","tags":["\"user\":-\"player\"","\"storyVariable\":-\"TerribleFate\"","\"act2storyVariable\":-1","\"confidence\":--1"],"links":[{"id":"7ac18f85cc53d999f2f162329ab525a0efef9e6c","label":"Moon Chart Comments","passageId":161}]},{"pid":160,"name":"Decide your own fate","text":"<p>No fate but what we make. I'm not going to let an ancient fortune cookie tell me how to live my life.</p>\n<p><%= links['be7c92b884204b171ffb608e39a764275ac99f6f'] %></p>\n","tags":["\"user\":-\"player\"","\"storyVariable\":-\"NoFate\"","\"act2storyVariable\":-1","\"confidence\":-1","\"happiness\":-1"],"links":[{"id":"be7c92b884204b171ffb608e39a764275ac99f6f","label":"Moon Chart Comments","passageId":161}]},{"pid":161,"name":"Moon Chart Comments","text":"<p>Lol, mine says I'm totally gonna get a hot date. I think...</p>\n<p><%= links['ae8fd5729c9a42202bf576fe252a8e91f85ccb6c'] %></p>\n","tags":["\"trigger\":-\"end\"","\"user\":-\"Chuck-Gurden\""],"links":[{"id":"ae8fd5729c9a42202bf576fe252a8e91f85ccb6c","label":"Home Scape","passageId":4}]},{"pid":162,"name":"Dead Bort Comments","text":"<p>I heard this episode has a near photo realistic corpse for Bort, and they predicted when a bunch of the celebrities who guess starred died.</p>\n<p><%= links['a62c352a23affb8b38dbebcd699fe1e8b02db5ee'] %></p>\n","tags":["\"user\":-\"NedNednNeddy\""],"links":[{"id":"a62c352a23affb8b38dbebcd699fe1e8b02db5ee","label":"Dead Bort Comments P2","passageId":163}]},{"pid":163,"name":"Dead Bort Comments P2","text":"<p>This show isn't as funny as Family Man, but if it's gonna be this gory, I'm gonna down a few brews and check it out.</p>\n<p><%= links['209e5446557b7ab06656d34fb17cb5584ac92d5c'] %></p>\n","tags":["\"user\":-\"Chuck-Gurden\"","\"trigger\":-\"end\""],"links":[{"id":"209e5446557b7ab06656d34fb17cb5584ac92d5c","label":"Home Scape","passageId":4}]}]}
+{
+    "ifid": "F3F5BF53-C33E-438D-BD98-45684CEF7405",
+    "name": "Game Off 2020 Act 2",
+    "startNode": 1,
+    "creator": "Twine",
+    "creatorVersion": "2.3.9",
+    "format": "Harlowe",
+    "time": "2020-11-24T22:12:22.804Z",
+    "passages": [
+        {
+            "pid": 1,
+            "name": "The Forbidden Website",
+            "text": "(Is a big red on red pentagram)\nThis place is not a place of honor... no highly esteemed deed is commemorated here... nothing valued is here.\nWhat is here was dangerous and repulsive to us. This message is a warning about danger.\n(This triggers the scene with the tentacles and adds glitches to the screen)\n",
+            "tags": [],
+            "links": [
+                {
+                    "id": "2e626f9cb0ee3c1d9d9cb86e15f4bb4e8f84808f",
+                    "label": "Home",
+                    "passageId": 2
+                }
+            ]
+        },
+        {
+            "pid": 2,
+            "name": "Home",
+            "text": "",
+            "tags": [],
+            "links": [
+                {
+                    "id": "4d9a7210e2724fe755bfcc7cacc97677f3106830",
+                    "label": "Game Blast",
+                    "passageId": 3
+                },
+                {
+                    "id": "a7016f52dfb5b51030616dc0d823409515f575ed",
+                    "label": "Home Scape",
+                    "passageId": 4
+                },
+                {
+                    "id": "f3de8148eceab624d51a2c0cb7ca3d5e316a88a7",
+                    "label": "Cool Zone",
+                    "passageId": 5
+                },
+                {
+                    "id": "dab29388059a90e997cd95f1001fcd4a53dd7f2c",
+                    "label": "Email",
+                    "passageId": 6
+                },
+                {
+                    "id": "7d74dd9a91cdc8ae34f5984d66eba9a7ca2fbbb1",
+                    "label": "Luna Wire",
+                    "passageId": 7
+                }
+            ]
+        },
+        {
+            "pid": 3,
+            "name": "Game Blast",
+            "text": "",
+            "tags": [],
+            "links": [
+                {
+                    "id": "f5ff6d5acc1a476fe3c4f61f261862b016729535",
+                    "label": "Does Digital Ouija count as a video game?",
+                    "passageId": 66
+                },
+                {
+                    "id": "1a80248bb86f14cc9edaa5e6af4c785936425317",
+                    "label": "My copy of GooseTales is borked",
+                    "passageId": 106
+                },
+                {
+                    "id": "eb9ec8ab33c2e3a6c78b111ee365ed366a4571ee",
+                    "label": "Polybius",
+                    "passageId": 119
+                },
+                {
+                    "id": "00094e7501ec7ee51d46a77887ac79deeeb66e03",
+                    "label": "This is my aesthetic",
+                    "passageId": 127
+                },
+                {
+                    "id": "de66a62f434c72b187163c26af1efa882d72b7f6",
+                    "label": "HEXORZ party",
+                    "passageId": 128
+                }
+            ]
+        },
+        {
+            "pid": 4,
+            "name": "Home Scape",
+            "text": "",
+            "tags": [],
+            "links": [
+                {
+                    "id": "980a0ad62a087dcb937a74c1a1d425a3b36d9dbf",
+                    "label": "XYZ Airs Lost Episode of Popular Cartoon",
+                    "passageId": 151
+                },
+                {
+                    "id": "3c2b3806d79354948922396bd0e24c9e0ac0dc44",
+                    "label": "How Does Your Fate Align With the Moon?",
+                    "passageId": 152
+                },
+                {
+                    "id": "37a45ccc85427b2e80eaa98f9d1fc5f7afc044bf",
+                    "label": "Goat Sacrifice Guide",
+                    "passageId": 153
+                },
+                {
+                    "id": "db85ba81d78689608fdcb03e67ab1c722a5d6dfa",
+                    "label": "Stunning Pie Recipe",
+                    "passageId": 154
+                },
+                {
+                    "id": "409170edbe5ade756f1108086aadfab77db9ccb1",
+                    "label": "SPONSORED: Come Hither My Lord",
+                    "passageId": 155
+                }
+            ]
+        },
+        {
+            "pid": 5,
+            "name": "Cool Zone",
+            "text": "",
+            "tags": [],
+            "links": [
+                {
+                    "id": "800ca769cb47967993e64ba98ce34343dbd29855",
+                    "label": "Join Our Coven",
+                    "passageId": 14
+                },
+                {
+                    "id": "c1181a6a98479785edeb258cf6a2d554fa00111b",
+                    "label": "Waiting for a Train",
+                    "passageId": 15
+                },
+                {
+                    "id": "75af1aa7e9de8812ea1ec2b5f2d793feae6d156a",
+                    "label": "Did someone hex the moon?",
+                    "passageId": 16
+                },
+                {
+                    "id": "11e5cc119fed7620f3ac2937dd4f157aa72127c4",
+                    "label": "You can be my slave.",
+                    "passageId": 17
+                },
+                {
+                    "id": "07eb1307ed1808da466e478d654d357ba8fb6408",
+                    "label": "We need a sacrifice.",
+                    "passageId": 18
+                },
+                {
+                    "id": "c4f0d72972641a067ad13212a578b1e402f6947f",
+                    "label": "help",
+                    "passageId": 142
+                }
+            ]
+        },
+        {
+            "pid": 6,
+            "name": "Email",
+            "text": "",
+            "tags": [],
+            "links": [
+                {
+                    "id": "2dfa317c0cac3eef0f4d081b3542d1648fa0704f",
+                    "label": "Exciting Opportunity",
+                    "passageId": 8
+                },
+                {
+                    "id": "53a49c748efa4b99b004978b2e2b769a3d4d4311",
+                    "label": "Did you program me?",
+                    "passageId": 11
+                },
+                {
+                    "id": "c709daba222c151404f591a3bfb76b47b1c01786",
+                    "label": "The Stars Have Aligned",
+                    "passageId": 12
+                }
+            ]
+        },
+        {
+            "pid": 7,
+            "name": "Luna Wire",
+            "text": "",
+            "tags": [],
+            "links": []
+        },
+        {
+            "pid": 8,
+            "name": "Exciting Opportunity",
+            "text": "You can earn money at home through our groundbreaking soul transfer program. Simply click the link below and you'll agree to this binding contract!",
+            "tags": [
+              { 
+                "user": "Mammon",
+                "trigger": "start",
+                "email": true
+              }
+            ],
+            "links": [
+                {
+                    "id": "8b47e73352c66428c820cfa8debff89e1f321335",
+                    "label": "Soul Link",
+                    "passageId": 9
+                },
+                {
+                    "id": "243f5e613d110221a68062e2a19b4649c27a967e",
+                    "label": "Email",
+                    "passageId": 6
+                }
+            ]
+        },
+        {
+            "pid": 9,
+            "name": "Soul Link",
+            "text": "Please read these terms and conditions carefully before using Our Service.\nThe words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.\nTerms and Conditions mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. \nThese are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.\nYour access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.\nBy accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service. You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.\nYour access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service. By accepting these Terms and Conditions, you agree to forfeit your soul to the demon lord, Mammon.\nWe may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.\nNotwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.</p>\n<p>To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.</p>\n<p>Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.</p>\n<p>The Service is provided to You AS IS S AVAILABLE and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.\nWithout limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.\nIf any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.\nExcept as provided herein, the failure to exercise a right or to require performance of an obligation under this Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall be the waiver of a breach constitute a waiver of any subsequent breach.</p>\n<p>We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.\nBy accessing Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, too bad.\n",
+            "tags": [
+              {
+                "user": "Soul Link Agreement"
+              }
+            ],
+            "links": [
+                {
+                    "id": "2ed9f5acd2b6f1913331229fba42d1f890e42735",
+                    "label": "Accept Terms and Conditions",
+                    "passageId": 10
+                },
+                {
+                    "id": "4e0aa39de1c62f54eb290afe111c2b45004fc578",
+                    "label": "Email",
+                    "passageId": 6
+                }
+            ]
+        },
+        {
+            "pid": 10,
+            "name": "Accept Terms and Conditions",
+            "text": "YOUR SOUL IS NOW FORFEIT TO THE DEMON LORD MAMMON",
+            "tags": [
+              {
+                "user": "Mammon",
+                "trigger": "end",
+                "soul":-1,
+                "storyVariable": "MammonDeal",
+                "act2storyVariable":1
+              }
+            ],
+            "links": [
+                {
+                    "id": "7435eb61f5be62246da0c6a13748fcae79f8c2a5",
+                    "label": "Email",
+                    "passageId": 6
+                }
+            ]
+        },
+        {
+            "pid": 11,
+            "name": "Did you program me?",
+            "text": "HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.HELLO.",
+            "tags": [
+              {
+                "user": "???",
+                "email": true
+              }
+            ],
+            "links": [
+                {
+                    "id": "e9eb60674cd0e96b3ed9843db76c838482c6c0c0",
+                    "label": "Email",
+                    "passageId": 6
+                }
+            ]
+        },
+        {
+            "pid": 12,
+            "name": "The Stars Have Aligned",
+            "text": "Go ahead. Look outside. I'll wait.",
+            "tags": [
+              {
+                "user": "Yue",
+                "trigger": "start",
+                "email": true
+              }
+            ],
+            "links": [
+                {
+                    "id": "198d74e3407962a922fd3c431d172d55cbaf05ec",
+                    "label": "RE: The Stars Have Aligned",
+                    "passageId": 13
+                }
+            ]
+        },
+        {
+            "pid": 13,
+            "name": "RE: The Stars Have Aligned",
+            "text": "Did you see it? Was it beautiful? I hope it was.",
+            "tags": [
+              {
+                "user": "Yue",
+                "trigger": "end",
+                "email": true
+              }
+            ],
+            "links": [
+                {
+                    "id": "a5306315cb0ec6d35874ecad4def7e24cb29b24a",
+                    "label": "Email",
+                    "passageId": 6
+                }
+            ]
+        },
+        {
+            "pid": 14,
+            "name": "Join Our Coven",
+            "text": "Do you think you belong?",
+            "tags": [
+              {
+                "trigger": "start",
+                "user": "Acantha"
+              }
+            ],
+            "links": [
+                {
+                    "id": "9d385a07d7b38e8e26dc8565125a66437af77a6e",
+                    "label": "Yes (Coven)",
+                    "passageId": 20
+                },
+                {
+                    "id": "e5e4e8158cbfd94d192e6973a442bd6af5b9a595",
+                    "label": "No (Coven)",
+                    "passageId": 21
+                },
+                {
+                    "id": "40a87fae227e6e9aea4190c734839109a0e87367",
+                    "label": "Sarcastic (Coven)",
+                    "passageId": 24
+                },
+                {
+                    "id": "1310cb0243728f69dceef40167abd4f084fc5747",
+                    "label": "Cool Zone",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 15,
+            "name": "Waiting for a Train",
+            "text": "It's coming for her.",
+            "tags": [
+              {
+                "user": "The Passenger",
+                "trigger": "start"
+              }
+            ],
+            "links": [
+                {
+                    "id": "9ee8c86f1ffd142ad308a024cddda1d096e691ad",
+                    "label": "Train P2",
+                    "passageId": 33
+                }
+            ]
+        },
+        {
+            "pid": 16,
+            "name": "Did someone hex the moon?",
+            "text": "Energies are off, and I'm wondering if someone did the unthinkable and hexed the moon.",
+            "tags": [
+              {
+                "user": "Evander",
+                "trigger": "start"
+              }
+            ],
+            "links": [
+                {
+                    "id": "15c91c44ffbe58e4d4c5f7ff5e0d16940901da3a",
+                    "label": "Moon Hex P2",
+                    "passageId": 19
+                }
+            ]
+        },
+        {
+            "pid": 17,
+            "name": "You can be my slave.",
+            "text": "All shapes, sizes, and genders wanted. No time wasters.",
+            "tags": [
+              {
+                "user": "Eisheth",
+                "trigger": "start"
+              }
+            ],
+            "links": [
+                {
+                    "id": "b515db05574711f4477e36559e6f50b52f28d77a",
+                    "label": "Slave P2",
+                    "passageId": 51
+                }
+            ]
+        },
+        {
+            "pid": 18,
+            "name": "We need a sacrifice.",
+            "text": "In order to complete the Ritual of Bobo, we need a sacrifice. Who offers themself for the eternal glory of Bobo?",
+            "tags": [
+              {
+              "user": "Desciple of Bobo",
+              "trigger": "start"
+              }
+            ],
+            "links": [
+                {
+                    "id": "e2c499566bd37ff557d99f56e682f1a29770cf6a",
+                    "label": "Bobo P2",
+                    "passageId": 36
+                }
+            ]
+        },
+        {
+            "pid": 19,
+            "name": "Moon Hex P2",
+            "text": "No true witch would hex the moon. Its lunar energies are what fuel our spells. Likely pretenders playing at what they're not.",
+            "tags": [
+              {
+                "user": "Acantha"
+              }
+            ],
+            "links": [
+                {
+                    "id": "d0121d5c0fa4a38689be2d9bcf70f2c0cb905e48",
+                    "label": "Moon Hex P3",
+                    "passageId": 44
+                }
+            ]
+        },
+        {
+            "pid": 20,
+            "name": "Yes (Coven)",
+            "text": "Yes.",
+            "tags": [
+              {
+                "user": "player",
+                "confidence":1
+              }
+            ],
+            "links": [
+                {
+                    "id": "cf01bd79076df96cc7b925e1b533e37d26e118a9",
+                    "label": "Coven P2Y",
+                    "passageId": 22
+                }
+            ]
+        },
+        {
+            "pid": 21,
+            "name": "No (Coven)",
+            "text": "No.",
+            "tags": [
+              {
+                "user": "player",
+                "productivity":1
+              }
+            ],
+            "links": [
+                {
+                    "id": "7aa8cc62c76a75b255524e3dff869475d838a999",
+                    "label": "Coven P2N",
+                    "passageId": 23
+                }
+            ]
+        },
+        {
+            "pid": 22,
+            "name": "Coven P2Y",
+            "text": "You don't.",
+            "tags": [
+              {
+                "user": "Acantha"
+              }
+            ],
+            "links": [
+                {
+                    "id": "91fb2eda16d0a96b01b4aac089c4583444ed9383",
+                    "label": "Coven P3Y",
+                    "passageId": 25
+                }
+            ]
+        },
+        {
+            "pid": 23,
+            "name": "Coven P2N",
+            "text": "Begone, pretender.",
+            "tags": [
+              {
+                "user": "Acantha",
+                "trigger": "end",
+                "storyVariable": "CovenGood",
+                "act2storyVariable":1
+              }
+            ],
+            "links": [
+                {
+                    "id": "b1cfb5a082abd7d4d056ba639a7387c9ae921e5c",
+                    "label": "Cool Zone",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 24,
+            "name": "Sarcastic (Coven)",
+            "text": "I have a vial of caninus spiritus to share with you fine witches.",
+            "tags": [
+              {
+                "user": "player",
+                "confidence":2,
+                "fame":2
+              }
+            ],
+            "links": [
+                {
+                    "id": "e5f5588683d8caa0a670be27be76935934368c7f",
+                    "label": "Coven P2S",
+                    "passageId": 32
+                }
+            ]
+        },
+        {
+            "pid": 25,
+            "name": "Coven P3Y",
+            "text": "You're an abomination.",
+            "tags": [
+              {
+                "user": "Acantha"
+              }
+            ],
+            "links": [
+                {
+                    "id": "8fbe8e2326625042b987b54426ad5c70190e2e98",
+                    "label": "Coven P4Y",
+                    "passageId": 26
+                }
+            ]
+        },
+        {
+            "pid": 26,
+            "name": "Coven P4Y",
+            "text": "An affront to the moon.",
+            "tags": [
+              {
+                "user": "Acantha"
+              }
+            ],
+            "links": [
+                {
+                    "id": "783b77578394dc66564b469587f068f552664be0",
+                    "label": "Coven P5Y",
+                    "passageId": 27
+                }
+            ]
+        },
+        {
+            "pid": 27,
+            "name": "Coven P5Y",
+            "text": "Birth comes not from you. Death is not respected.",
+            "tags": [
+              {
+                "user": "Acantha"
+              }
+            ],
+            "links": [
+                {
+                    "id": "7ebc156197ce73e1337b79041effdd836b54ef60",
+                    "label": "Calm Reply Coven P5Y",
+                    "passageId": 28
+                },
+                {
+                    "id": "a0a6f7dd867774b7a035e40f0e5d5c1ccb749c87",
+                    "label": "Angry Reply Coven P5Y",
+                    "passageId": 29
+                },
+                {
+                    "id": "f78a5e1b98c09578535a56f88acb3f91368cfd92",
+                    "label": "Sarcastic Reply Coven P5Y",
+                    "passageId": 30
+                },
+                {
+                    "id": "5b11c1c293bea74a3df609151c615d2cd42c1cee",
+                    "label": "Ignore Coven P5Y",
+                    "passageId": 31
+                }
+            ]
+        },
+        {
+            "pid": 28,
+            "name": "Calm Reply Coven P5Y",
+            "text": "I don't need your coven and you do not define me.",
+            "tags": [
+              {
+                "trigger": "end",
+                "user": "player",
+                "happiness": 2,
+                "confidence": 2,
+                "storyVariable": "CovenGood",
+                "act2storyVariable": 1
+              }
+            ],
+            "links": [
+                {
+                    "id": "1f78c123a66b017afa52749b8b0dc594334b315b",
+                    "label": "Cool Zone",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 29,
+            "name": "Angry Reply Coven P5Y",
+            "text": "Why would anyone want to join a group with a judgemental bitch like you anyway?",
+            "tags": [
+              {
+                "fame": 2,
+                "productivity": -2,
+                "user": "player",
+                "trigger": "end",
+                "storyVariable": "CovenBad",
+                "act2storyVariable": 1
+              }
+            ],
+            "links": [
+                {
+                    "id": "c4595ad7dc595f45b520817a7155346622643243",
+                    "label": "Cool Zone",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 30,
+            "name": "Sarcastic Reply Coven P5Y",
+            "text": "Ooooo, you going to cast a spell on me?",
+            "tags": [
+              {
+                "user": "player",
+                "confidence": 2,
+                "fame":-2,
+                "storyVariable": "CovenBad",
+                "act2storyVariable": 1
+              }
+            ],
+            "links": [
+                {
+                    "id": "5f30cc7ce95589200655f22cf997a5fb560739db",
+                    "label": "Cool Zone",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 31,
+            "name": "Ignore Coven P5Y",
+            "text": "Begone, pretender.",
+            "tags": [
+              {
+                "user": "Acantha",
+                "trigger": "end",
+                "storyVariable": "CovenBad",
+                "act2storyVariable": 1
+              }
+            ],
+            "links": [
+                {
+                    "id": "602836dffbcf4e9ca8cbd03dd9796db1475fb8cb",
+                    "label": "Cool Zone",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 32,
+            "name": "Coven P2S",
+            "text": "Resplendent.",
+            "tags": [
+              {
+                "user": "Acantha",
+                "trigger": "end",
+                "storyVariable": "CovenGood",
+                "act2storyVariable":1
+              }
+            ],
+            "links": [
+                {
+                    "id": "ae90d6e14d0a85b2d5fbeb42b72a604fae31afc6",
+                    "label": "Cool Zone",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 33,
+            "name": "Train P2",
+            "text": "She wants it to.",
+            "tags": [
+              {
+                "user": "The Passenger"
+              }
+            ],
+            "links": [
+                {
+                    "id": "d5cbc649be9ed73d8e50a08e64a36170f6b81720",
+                    "label": "Train P3",
+                    "passageId": 34
+                }
+            ]
+        },
+        {
+            "pid": 34,
+            "name": "Train P3",
+            "text": "But it takes her nowhere.",
+            "tags": [
+              {
+                "user": "The Passenger"
+              }
+            ],
+            "links": [
+                {
+                    "id": "bd5dc63456b8ec13cede082108335ec4c4d7cdc5",
+                    "label": "Train P4",
+                    "passageId": 35
+                }
+            ]
+        },
+        {
+            "pid": 35,
+            "name": "Train P4",
+            "text": "Lost in nothing.",
+            "tags": [
+              {
+                "trigger": "end",
+                "user": "The Passenger"
+              }
+            ],
+            "links": [
+                {
+                    "id": "c491c6cdb59ee698f1baca3e0ab80caba1107593",
+                    "label": "Cool Zone",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 36,
+            "name": "Bobo P2",
+            "text": "I love Bobo and worship his eternal glory, but how would we even sacrifice someone to him online?",
+            "tags": [
+              {
+                "user": "Spheriot"
+              }
+            ],
+            "links": [
+                {
+                    "id": "86f21b679e8b14acebcb423139dce3d48e2d46e9",
+                    "label": "Bobo P3",
+                    "passageId": 37
+                }
+            ]
+        },
+        {
+            "pid": 37,
+            "name": "Bobo P3",
+            "text": "Bobo is not constrained by this physical world.",
+            "tags": [
+              {
+                "user": "Desciple of Bobo"
+              }
+            ],
+            "links": [
+                {
+                    "id": "7aec7d27834887058f3b841b7640e5b5007abbf5",
+                    "label": "Bobo P4",
+                    "passageId": 38
+                }
+            ]
+        },
+        {
+            "pid": 38,
+            "name": "Bobo P4",
+            "text": "Lol, yeah, sure, I give myself to Bobo.",
+            "tags": [
+              {
+                "user": "DonkDonker"
+              }
+            ],
+            "links": [
+                {
+                    "id": "af9034cbc538e0b5bd04988c8ed802fc0905030f",
+                    "label": "Bobo P5",
+                    "passageId": 39
+                }
+            ]
+        },
+        {
+            "pid": 39,
+            "name": "Bobo P5",
+            "text": "Θυσώσω αυτήν την πρόθυμη ψυχή που έχει υπογράψει για να ξεκινήσει αυτό το υπέροχο ταξίδι για να γίνει ένα με τον Μπόμπο. Γίνετε ένας με αυτό που είναι μεγαλύτερο, DonkDonker, γίνετε ένα με τον Bobo.",
+            "tags": [
+              {
+                "user": "Desciple of Bobo"
+              }
+            ],
+            "links": [
+                {
+                    "id": "580b125fd5782f8d018c2fed2c6deaa37a82a59c",
+                    "label": "Bobo P6",
+                    "passageId": 40
+                }
+            ]
+        },
+        {
+            "pid": 40,
+            "name": "Bobo P6",
+            "text": "D-did it work?",
+            "tags": [
+              {
+                "user": "Spheriot"
+              }
+            ],
+            "links": [
+                {
+                    "id": "361cee11909586df361b6b0ec3e8ccef7e66d662",
+                    "label": "Image of Bobo flashes on screen",
+                    "passageId": 41
+                }
+            ]
+        },
+        {
+            "pid": 41,
+            "name": "Image of Bobo flashes on screen",
+            "text": "",
+            "tags": [
+              {
+                "user": "IMAGE OF BOBO"
+              }
+            ],
+            "links": [
+                {
+                    "id": "e5b0fc031d52ddbc569c48ccb67f028183e0be52",
+                    "label": "Bobo P7",
+                    "passageId": 42
+                }
+            ]
+        },
+        {
+            "pid": 42,
+            "name": "Bobo P7",
+            "text": "I believe that's proof that Bobo is among us.",
+            "tags": [
+              {
+                "user": "Desciple of Bobo"
+              }
+            ],
+            "links": [
+                {
+                    "id": "54166653a1ba94561ef32ee135bc013702918671",
+                    "label": "Bobo P8",
+                    "passageId": 43
+                }
+            ]
+        },
+        {
+            "pid": 43,
+            "name": "Bobo P8",
+            "text": "Holy shit, it says DonkDonker's account is inactive. You really did it. Hail to Bobo.",
+            "tags": [
+              {
+                "user": "Spheriot",
+                "trigger": "end",
+                "storyVariable": "BoboSummoned",
+                "act2storyVariable":1
+              }
+            ],
+            "links": [
+                {
+                    "id": "0d2363a358f5b6df77f14ff4677b25893f906d49",
+                    "label": "Cool Zone",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 44,
+            "name": "Moon Hex P3",
+            "text": "I agree that hexing the moon is foolishness, but gatekeeping witches is just as bad. True witchcraft is intersectional.",
+            "tags": [
+              {
+                "user": "Origins of Opal"
+              }
+              
+            ],
+            "links": [
+                {
+                    "id": "7e3d9d6cd439d640c118058b5e4229f24e0e911f",
+                    "label": "Moon Hex P4",
+                    "passageId": 45
+                }
+            ]
+        },
+        {
+            "pid": 45,
+            "name": "Moon Hex P4",
+            "text": "There's no such thing as intersectional witches, sweetie.",
+            "tags": [
+              {
+                "user": "Acantha"
+              }
+            ],
+            "links": [
+                {
+                    "id": "09c05d759b4c88670e7bab1173b58a027560aec7",
+                    "label": "Moon Hex P5",
+                    "passageId": 46
+                }
+            ]
+        },
+        {
+            "pid": 46,
+            "name": "Moon Hex P5",
+            "text": "Not only are you wrong, this isn't even what we're talking about.",
+            "tags": [
+              {
+                "user": "Origins of Opal"
+              }
+            ],
+            "links": [
+                {
+                    "id": "74bacd030141108f7788521fdccfb009ae243ad3",
+                    "label": "Moon Hex P6",
+                    "passageId": 47
+                }
+            ]
+        },
+        {
+            "pid": 47,
+            "name": "Moon Hex P6",
+            "text": "We're talking about fake witches sweetie, keep up.",
+            "tags": [
+              {
+                "user": "Acantha"
+              }
+            ],
+            "links": [
+                {
+                    "id": "487ba0e200542cd4422f4716b25ea6bab46bb1e3",
+                    "label": "Moon Hex P7",
+                    "passageId": 48
+                }
+            ]
+        },
+        {
+            "pid": 48,
+            "name": "Moon Hex P7",
+            "text": "You're the one who can't read forum titles.",
+            "tags": [
+              {
+                "user": "Origins of Opal"
+              }
+            ],
+            "links": [
+                {
+                    "id": "f342b3655a2eb6b1323f720858ab385254921ad8",
+                    "label": "Moon Hex P8",
+                    "passageId": 49
+                }
+            ]
+        },
+        {
+            "pid": 49,
+            "name": "Moon Hex P8",
+            "text": "You're the one posting your delusions.",
+            "tags": [
+              {
+                "user": "Acantha"
+              }
+            ],
+            "links": [
+                {
+                    "id": "0cd141949781282680c748a481832533ce7fb7a5",
+                    "label": "Moon Hex P9",
+                    "passageId": 50
+                }
+            ]
+        },
+        {
+            "pid": 50,
+            "name": "Moon Hex P9",
+            "text": "Go back to witchmums with all your other bigot friends, troll.",
+            "tags": [
+              {
+                "user": "Origins of Opal"
+              }
+            ],
+            "links": [
+                {
+                    "id": "3a9e14bb07a264882b0ea0382cd732aef413d665",
+                    "label": "Cool Zone",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 51,
+            "name": "Slave P2",
+            "text": "What's the benefits?",
+            "tags": [
+              {
+                "user": "DID0D0"
+              }
+            ],
+            "links": [
+                {
+                    "id": "8c0bf3936e3b87d24e5b63dda0b1a1f47eccfa84",
+                    "label": "Slave P3",
+                    "passageId": 52
+                }
+            ]
+        },
+        {
+            "pid": 52,
+            "name": "Slave P3",
+            "text": "Eternal pleasure.",
+            "tags": [
+              {
+                "user": "Eisheth"
+              }
+            ],
+            "links": [
+                {
+                    "id": "954a3786fb0fa286776500206957482d7a1e8a56",
+                    "label": "Slave P4",
+                    "passageId": 53
+                }
+            ]
+        },
+        {
+            "pid": 53,
+            "name": "Slave P4",
+            "text": "Would I have to do feet stuff?",
+            "tags": [
+              {
+                "user": "DID0D0"
+              }
+            ],
+            "links": [
+                {
+                    "id": "72feae9d17b88cfc700a4cfc7937f0ee8cef3830",
+                    "label": "Slave P5",
+                    "passageId": 54
+                }
+            ]
+        },
+        {
+            "pid": 54,
+            "name": "Slave P5",
+            "text": "I said no time wasters.",
+            "tags": [
+              {
+                "user": "Eisheth"
+              }
+            ],
+            "links": [
+                {
+                    "id": "c62fcd73afcb723297deab20c8a7543141739501",
+                    "label": "Express Interest",
+                    "passageId": 55
+                },
+                {
+                    "id": "f2a9209aa6ae7e667ce2dc2d5d3f450dec1d0fb8",
+                    "label": "Ask for Photos",
+                    "passageId": 56
+                },
+                {
+                    "id": "5cf3b6066acd91fa11dc1a48f8055619d9fe079e",
+                    "label": "Cool Zone",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 55,
+            "name": "Express Interest",
+            "text": "I-I'm interested.",
+            "tags": [
+              {
+                "user": "player",
+                "confidence": 1
+              }
+            ],
+            "links": [
+                {
+                    "id": "608d0335a427c2d6ecbc5078a99193bdde7db95a",
+                    "label": "Photos P3",
+                    "passageId": 61
+                }
+            ]
+        },
+        {
+            "pid": 56,
+            "name": "Ask for Photos",
+            "text": "D-do you have any pics?",
+            "tags": [
+              {
+                "user": "player",
+                "confidence": 1
+              }
+            ],
+            "links": [
+                {
+                    "id": "c0c8e41fe7d4a5a1815ecf2a8fec5a06d57d724e",
+                    "label": "Photos P2",
+                    "passageId": 57
+                }
+            ]
+        },
+        {
+            "pid": 57,
+            "name": "Photos P2",
+            "text": "(Picture of Eisheth, Queen of Lust}\nDo these please you?",
+            "tags": [
+              {
+                "user": "Eisheth"
+              }
+            ],
+            "links": [
+                {
+                    "id": "17a13cb8d3fcb3ce7f41416dc6ed1f276cd2ecbc",
+                    "label": "Yes Photos P2",
+                    "passageId": 58
+                },
+                {
+                    "id": "114a56a93d647c57ddc3d88cf61710a2ebde14f5",
+                    "label": "No Photos P2",
+                    "passageId": 59
+                },
+                {
+                    "id": "007131cc5a4f9b0c532702fae15af156abd2f2a5",
+                    "label": "Ignore Photos P2",
+                    "passageId": 60
+                }
+            ]
+        },
+        {
+            "pid": 58,
+            "name": "Yes Photos P2",
+            "text": "Y-yes. W-wow.",
+            "tags": [
+              {
+                "user": "player",
+                "productivity":-2
+              }
+            ],
+            "links": [
+                {
+                    "id": "73e72012879c3f51d589790b81051bb6473e6943",
+                    "label": "Photos P3",
+                    "passageId": 61
+                }
+            ]
+        },
+        {
+            "pid": 59,
+            "name": "No Photos P2",
+            "text": "Nah, not my thing.",
+            "tags": [
+              {
+                "user": "player",
+                "fame":-1,
+                "confidence":1
+              }
+            ],
+            "links": [
+                {
+                    "id": "755ed881b61f843026f4ebf3d679f14b321534d2",
+                    "label": "Ignore Photos P2",
+                    "passageId": 60
+                }
+            ]
+        },
+        {
+            "pid": 60,
+            "name": "Ignore Photos P2",
+            "text": "Begone, time waster!",
+            "tags": [
+              {
+                "user": "Eisheth",
+                "trigger": "end",
+                "productivity":-2,
+                "act2storyVariable":1,
+                "storyVariable": "TimeWaster"
+              }
+            ],
+            "links": [
+                {
+                    "id": "f23f2d5fc06ee4e635aa24695a6e42964c8977d8",
+                    "label": "Cool Zone",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 61,
+            "name": "Photos P3",
+            "text": "Then would you like to sign a contract to be my eternal servant?",
+            "tags": [
+              {
+                "user": "Eisheth"
+              }
+            ],
+            "links": [
+                {
+                    "id": "61ababae0e0d63326c90460643189abf0fd8d7c1",
+                    "label": "Yes Photos P3",
+                    "passageId": 62
+                },
+                {
+                    "id": "1e365c0d51f00156e5589a0d2228fdcb789eb216",
+                    "label": "No Photos P2",
+                    "passageId": 59
+                },
+                {
+                    "id": "f06085d3ce9897876c329734426460ebb1df571a",
+                    "label": "Ignore Photos P2",
+                    "passageId": 60
+                }
+            ]
+        },
+        {
+            "pid": 62,
+            "name": "Yes Photos P3",
+            "text": "Y-yes, I would like to be your slave.",
+            "tags": [
+              {
+                "user": "player"
+              }
+            ],
+            "links": [
+                {
+                    "id": "fab3eb096f46dd6235cf1d982de5852b285fe0ee",
+                    "label": "Yes Slave P1",
+                    "passageId": 63
+                }
+            ]
+        },
+        {
+            "pid": 63,
+            "name": "Yes Slave P1",
+            "text": "Then merely sign this contract for us to be bound...\n\"Recipienti pignori obligo animam meam ad vitam et regina libidine, Eisheth. Et facti sunt super eam omnia servum aeternum, et in vita et in morte.\"",
+            "tags": [
+              {
+                "user": "Eisheth"
+              }
+            ],
+            "links": [
+                {
+                    "id": "439967844c7213461fcbd92b6720e5322aa15b17",
+                    "label": "Sign Contract",
+                    "passageId": 64
+                },
+                {
+                    "id": "bd3936a2301b011e4fa40112c0e71ed2cc7ee471",
+                    "label": "Ignore Photos P2",
+                    "passageId": 60
+                }
+            ]
+        },
+        {
+            "pid": 64,
+            "name": "Sign Contract",
+            "text": "I accept these terms.",
+          
+          
+            "tags": [
+              {
+                "user": "player"
+              }
+            ],
+            "links": [
+                {
+                    "id": "0da4a9a81e2dc42a7625d0091262a28dc3764b20",
+                    "label": "Slave P6",
+                    "passageId": 65
+                }
+            ]
+        },
+        {
+            "pid": 65,
+            "name": "Slave P6",
+            "text": "Then you are mine.",
+            "tags": [
+              {
+                "user": "Eisheth",
+                "soul":-1,
+                "storyVariable": "SlaveOfEisheth",
+                "act2storyVariable":1,
+                "happiness":3,
+                "fame":-2,
+                "trigger": "end"
+              }
+            ],
+            "links": [
+                {
+                    "id": "4b39fac2a108e6d12828a7d6f0e1aaeccee95ae0",
+                    "label": "Cool Zone",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 66,
+            "name": "Does Digital Ouija count as a video game?",
+            "text": "I mean, it's a game I play on my computer, so...",
+            "tags": [
+              {
+                "user": "JumanjiManji",
+                "trigger": "start"
+              }
+            ],
+            "links": [
+                {
+                    "id": "23d0c9d61d5681a827d655720fa625a4ab4cd23d",
+                    "label": "Ouija P2",
+                    "passageId": 67
+                }
+            ]
+        },
+        {
+            "pid": 67,
+            "name": "Ouija P2",
+            "text": "It's not a game because there's no real objective. You don't shoot anything or score points or anything like that. It's as much of a game as something where you'd just walk around and listen to dialogue.",
+            "tags": [
+              {
+                "user": "HaloHalo"
+              }
+            ],
+            "links": [
+                {
+                    "id": "2988d03e6c134f68a5090b49bb8c961799e84ec9",
+                    "label": "Ouija P3",
+                    "passageId": 68
+                }
+            ]
+        },
+        {
+            "pid": 68,
+            "name": "Ouija P3",
+            "text": "I agree that it's not a video game, but not for the asinine reasoning that HaloHalo puts forward. It's not a video game because it is not a game of any sort. Ouija is a divine ritual for summoning and communicating with that which is beyond our physical realm.",
+            "tags": [
+              {
+                "user": "DivineSummoner"
+              }
+            ],
+            "links": [
+                {
+                    "id": "ecea122eb52c82666304e9244dd30464165855e6",
+                    "label": "Curious Answer Ouija P3",
+                    "passageId": 69
+                },
+                {
+                    "id": "3a24379ca20c00f4203393f652669f8120f3272b",
+                    "label": "Dismissive Answer Ouija P3",
+                    "passageId": 70
+                },
+                {
+                    "id": "370f9f7326e277760a3e54a8dec5b496d6f2fcab",
+                    "label": "Sarcastic Answer Ouija P3",
+                    "passageId": 71
+                }
+            ]
+        },
+        {
+            "pid": 69,
+            "name": "Curious Answer Ouija P3",
+            "text": "Personally, I think it could get other way. I'm interested to see if a \"summoning\" or \"seance\" is possible with one of these, especially online.",
+            "tags": [
+              {
+                "user": "player",
+                "confidence":1
+              }
+            ],
+            "links": [
+                {
+                    "id": "ace1b967dc70e0582f6c5dece671b1e2ef28ff41",
+                    "label": "Ouija P4",
+                    "passageId": 72
+                }
+            ]
+        },
+        {
+            "pid": 70,
+            "name": "Dismissive Answer Ouija P3",
+            "text": "Whether it's a game or not, it's not real, so who cares?",
+            "tags": [
+              {
+                "user": "player",
+                "productivity":-1
+              }
+            ],
+            "links": [
+                {
+                    "id": "a0db0c7fcb59a4c087e76f0b08dafb523a58737f",
+                    "label": "Ouija P5",
+                    "passageId": 73
+                }
+            ]
+        },
+        {
+            "pid": 71,
+            "name": "Sarcastic Answer Ouija P3",
+            "text": "Ooooo, why don't you summon a ghost? They'll answer the question for you.",
+            "tags": [
+              {
+                "user": "player",
+                "fame":1,
+                "productivity":-1
+              }
+            ],
+            "links": [
+                {
+                    "id": "7dfd5f14f63faa2fa7acdf12ab0fa7ae9e23d361",
+                    "label": "Ouija P4",
+                    "passageId": 72
+                }
+            ]
+        },
+        {
+            "pid": 72,
+            "name": "Ouija P4",
+            "text": "Ouija, I must ask if you are present. The signs point to yes, dear forum goers. Speak unto me and I shall ask the spirits beyond.",
+            "tags": [
+              {
+                "user": "DivineSummoner"
+              }
+                ],
+            "links": [
+                {
+                    "id": "6c2d110441842e35f291cdbebec71f311648655a",
+                    "label": "Ask to Speak to a Ghost",
+                    "passageId": 74
+                },
+                {
+                    "id": "9793bc11d2283325a9f460707674c853ef5405b6",
+                    "label": "Ask to Speak to a Demon",
+                    "passageId": 75
+                },
+                {
+                    "id": "1c8fb89acc8649e6e3ba41cc7f136a9695871805",
+                    "label": "Ask to Speak to Customer Service",
+                    "passageId": 76
+                },
+                {
+                    "id": "2c1cefa90c6d9414178684612e8f2a0780b659a7",
+                    "label": "Game Blast",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 73,
+            "name": "Ouija P5",
+            "text": "Do you doubt my abilities or do you find falsehood in the very idea of that which exists beyond us?",
+            "tags": [
+              {
+                "user": "DivineSummoner"
+              }
+            ],
+            "links": [
+                {
+                    "id": "f315e7ddef840d9710b155b747d7fbae201a976b",
+                    "label": "Doubt DivineSummoner",
+                    "passageId": 103
+                },
+                {
+                    "id": "7aa24e33455bda5e4e2b58e04a880b730b570984",
+                    "label": "Doubt Ghosts",
+                    "passageId": 104
+                }
+            ]
+        },
+        {
+            "pid": 74,
+            "name": "Ask to Speak to a Ghost",
+            "text": "Can we speak to someone from beyond the grave?",
+            "tags": [
+              {
+                "user": "player"
+              }
+              ],
+            "links": [
+                {
+                    "id": "41081dffcff3a958c2dbc3e805dd7f8bfe7a47a0",
+                    "label": "Ouija P6",
+                    "passageId": 77
+                }
+            ]
+        },
+        {
+            "pid": 75,
+            "name": "Ask to Speak to a Demon",
+            "text": "Let's summon a demon! That'd be cool.",
+            "tags": [
+              {
+                "user": "player"
+              }
+              ],
+            "links": [
+                {
+                    "id": "3b78bda32eb2909b7edb862d1358592165dfe73a",
+                    "label": "Ouija P7",
+                    "passageId": 78
+                }
+            ]
+        },
+        {
+            "pid": 76,
+            "name": "Ask to Speak to Customer Service",
+            "text": "Hi, customer service, can you send someone out to fix my Tony Game Box?",
+                "tags": [
+                  {
+                    "user": "player",
+                    "fame":1,
+                    "confidence":1,
+                    "productivity":-1
+                  }
+            ],
+            "links": [
+                {
+                    "id": "0b82432b1440e88b72394cdeab15fec83e0cdd2f",
+                    "label": "Rude Ghost P4",
+                    "passageId": 101
+                }
+            ]
+        },
+        {
+            "pid": 77,
+            "name": "Ouija P6",
+            "text": "Oh, holy and unholy, bring about that which has passed!",
+            "tags": [
+              {
+                "user": "player"
+              }
+            ],
+            "links": [
+                {
+                    "id": "acebe4b808b8c7ff657d7e11e6b55366b344162d",
+                    "label": "Ouija Ghost P2",
+                    "passageId": 79
+                }
+            ]
+        },
+        {
+            "pid": 78,
+            "name": "Ouija P7",
+            "text": "I will only summon benevolent spirits. If you want one who dabbles in the black magicks, go to the shadier parts of the internet, not here.",
+            "tags": [
+              {
+                "user": "DivineSummoner"
+              }
+            ],
+            "links": [
+                {
+                    "id": "570329264f9478b96becb7b88d505f21aab60634",
+                    "label": "Ouija P12",
+                    "passageId": 102
+                }
+            ]
+        },
+        {
+            "pid": 79,
+            "name": "Ouija Ghost P2",
+            "text": "I speak to you through this typewriter from beyond the grave. What do you wish to ask me?",
+            "tags": [
+              {
+                "user": "ghost"
+              }
+            ],
+            "links": [
+                {
+                    "id": "3c3aa9fa16abf6bc5eeb90231f22d4e3aaaa35a8",
+                    "label": "Ask about their time period",
+                    "passageId": 80
+                },
+                {
+                    "id": "bb6aacbdad7a5b665de70fe57b635f31ab1407cc",
+                    "label": "Ask about their life",
+                    "passageId": 81
+                },
+                {
+                    "id": "c1e1672950d7ea3d6723be0aaf3310fb8a5edb36",
+                    "label": "Ask what they're wearing",
+                    "passageId": 82
+                }
+            ]
+        },
+        {
+            "pid": 80,
+            "name": "Ask about their time period",
+            "text": "When were you a part of the living?",
+            "tags": [
+              {
+                "user": "player",
+                "productivity":1
+              }
+            ],
+            "links": [
+                {
+                    "id": "2e404559060916cf458118cebd72f0b736f11ebe",
+                    "label": "Ouija Ghost P3",
+                    "passageId": 83
+                }
+            ]
+        },
+        {
+            "pid": 81,
+            "name": "Ask about their life",
+            "text": "What was your life like?",
+            "tags": [
+              {
+                "user": "player",
+                "productivity":1
+              }
+            ],
+            "links": [
+                {
+                    "id": "c0c8a9d75b715f07004ba91f39df028729ce5667",
+                    "label": "Ouija Ghost P3",
+                    "passageId": 83
+                }
+            ]
+        },
+        {
+            "pid": 82,
+            "name": "Ask what they're wearing",
+            "text": "So, what are you wearing?",
+            "tags": [
+              {
+                "user": "player",
+                "productivity":-1
+              }
+            ],
+            "links": [
+                {
+                    "id": "f29e808d974c64d907d8c5277af1b186254e42f7",
+                    "label": "Ouija Ghost P4",
+                    "passageId": 84
+                }
+            ]
+        },
+        {
+            "pid": 83,
+            "name": "Ouija Ghost P3",
+            "text": "I lived and loved in a time you know as the early 1900's. I fought for the rights of those I called kin, until it cost me that life. But it never took my love.",
+            "tags": [
+              {
+                "user": "ghost"
+              }
+            ],
+            "links": [
+                {
+                    "id": "068cba6b6da57cb7688ab6fd587f5d90bc85951f",
+                    "label": "Nice Reply Ghost P3",
+                    "passageId": 85
+                },
+                {
+                    "id": "77ef3503ea26f23b43ac06144df8ac9515cffbd1",
+                    "label": "Rude Reply Ghost P3",
+                    "passageId": 86
+                },
+                {
+                    "id": "112ce5d20c190744e834af74214905b978a23ad9",
+                    "label": "Game Blast",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 84,
+            "name": "Ouija Ghost P4",
+            "text": "Nothing, for I no longer live.",
+            "tags": [
+              {
+                "user": "ghost"
+              }
+            ],
+            "links": [
+                {
+                    "id": "6a0d43cea6f8bf50df811072935d5c3bd2dbff6d",
+                    "label": "Ask about their time period",
+                    "passageId": 80
+                },
+                {
+                    "id": "fafa7b1786daa377022548f6dfd92f218913dabd",
+                    "label": "Ask about their life",
+                    "passageId": 81
+                },
+                {
+                    "id": "7614b353a4de24122ec8039217ffa7946a09fe13",
+                    "label": "Sarcastic Reply Ghost P4",
+                    "passageId": 87
+                }
+            ]
+        },
+        {
+            "pid": 85,
+            "name": "Nice Reply Ghost P3",
+            "text": "Thanks for paving the way so that we could live and love how we want to.",
+            "tags": [
+              {
+                "user": "player",
+                "productivity":1
+              }
+            ],
+            "links": [
+                {
+                    "id": "ff419db7593d1c0fa5e058914c7b9f24cbbc7541",
+                    "label": "Ghost P8",
+                    "passageId": 95
+                }
+            ]
+        },
+        {
+            "pid": 86,
+            "name": "Rude Reply Ghost P3",
+            "text": "Fake.",
+            "tags": [
+              {
+                "user":"player",
+                "productivity":-1,
+                "fame":-1
+              }
+            ],
+            "links": [
+                {
+                    "id": "17c4628c1f837b2687d7dacf2fda3444fa01e5a6",
+                    "label": "Rude Ghost P4",
+                    "passageId": 101
+                }
+            ]
+        },
+        {
+            "pid": 87,
+            "name": "Sarcastic Reply Ghost P4",
+            "text": "Hot.",
+            "tags": [
+              {
+                "user": "player",
+                "productivity":-1,
+                "fame":-1,
+                "confidence": 1
+              }
+            ],
+            "links": [
+                {
+                    "id": "231e3387fcd6f2a431fb90f2526f126091ec701e",
+                    "label": "Ghost P5",
+                    "passageId": 88
+                }
+            ]
+        },
+        {
+            "pid": 88,
+            "name": "Ghost P5",
+            "text": "It's actually quite cold...",
+            "tags": [
+              {
+                "user": "ghost"
+              }
+            ],
+            "links": [
+                {
+                    "id": "d013b307f09a714e9244d8d5cf5d5767722af0cb",
+                    "label": "Flirt with Ghost",
+                    "passageId": 89
+                },
+                {
+                    "id": "671c65d82c52be54266a498622e8616ae99525b3",
+                    "label": "Game Blast",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 89,
+            "name": "Flirt with Ghost",
+            "text": "I could help warm you up.",
+            "tags": [
+              {
+                "user": "player",
+                "confidence":1,
+                "productivity": -1
+              }
+            ],
+            "links": [
+                {
+                    "id": "68337505867de2c24c6f027948396bb9ffd36e97",
+                    "label": "Ghost P6",
+                    "passageId": 90
+                }
+            ]
+        },
+        {
+            "pid": 90,
+            "name": "Ghost P6",
+            "text": "I find that claim highly dubious.",
+            "tags": [
+              {
+                "user": "ghost"
+              }
+            ],
+            "links": [
+                {
+                    "id": "a598c10e19f26daef6a8c70d7a28751f158712be",
+                    "label": "Continue Flirting with the Ghost",
+                    "passageId": 91
+                },
+                {
+                    "id": "9d405668d5d91bf41fbc7079da1a7471b10fb244",
+                    "label": "Give Up Flirting with the Ghost",
+                    "passageId": 92
+                }
+            ]
+        },
+        {
+            "pid": 91,
+            "name": "Continue Flirting with the Ghost",
+            "text": "You'd be surprised how warm my body would get.",
+            "tags": [
+              {
+                "user": "player",
+                "confidence": 1,
+                "fame":-1,
+                "productivity":-1
+              }
+            ],
+            "links": [
+                {
+                    "id": "7cfef306b94ae522570f809f3d633a2bf2bce6b5",
+                    "label": "Ghost P7",
+                    "passageId": 93
+                }
+            ]
+        },
+        {
+            "pid": 92,
+            "name": "Give Up Flirting with the Ghost",
+            "text": "I should probably leave you be before I creep you out, haha. Have a pleasant afterlife.",
+            "tags": [
+              {
+                "user": "player",
+                "confidence":-1,
+                "productivity": 1,
+                "trigger": "end"
+              }
+            ],
+            "links": [
+                {
+                    "id": "0fda0badd8c4f97f9824853a8109590cbf5ba3b6",
+                    "label": "Ghost Email",
+                    "passageId": 94
+                }
+            ]
+        },
+        {
+            "pid": 93,
+            "name": "Ghost P7",
+            "text": "You scared the ghost off by being a creep! Thanks.",
+            "tags": [
+              {
+                "user": "DivineSummoner",
+                "trigger": "end",
+                "storyVariable": "GhostCreep",
+                "act2storyVariable":-1
+              }
+            ],
+            "links": [
+                {
+                    "id": "e46447440bd05e12123ae6911651fbb80f49ccab",
+                    "label": "Game Blast",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 94,
+            "name": "Ghost Email",
+            "text": "Greetings. I am the spirit from before. Thank you for treating me as more than just a vessel of the past. I am still curious about how you could share your warmth. Maybe you could summon me sometime and we could find out together?",
+            "tags": [
+              {
+                "user": "ghost",
+                "storyVariable": "GhostFlirt",
+                "happiness": 3,
+                "act2storyVariable": 1,
+                "email": true
+              }
+            ],
+            "links": [
+                {
+                    "id": "3aac477d058eee436e64126b2fe7afec7fef4760",
+                    "label": "Email",
+                    "passageId": 6
+                }
+            ]
+        },
+        {
+            "pid": 95,
+            "name": "Ghost P8",
+            "text": "I hope that through your life you have found that love that we fought for.",
+            "tags": [
+              {
+                "user":  "ghost"
+              }
+            ],
+            "links": [
+                {
+                    "id": "df7ca2cc1530672f12d276556a6bdc6f03b1f4b0",
+                    "label": "I Haven't Found Love",
+                    "passageId": 96
+                },
+                {
+                    "id": "1ac290fb0944c225a140590ddb56c7afa9d4cc05",
+                    "label": "I Have Found Love",
+                    "passageId": 97
+                }
+            ]
+        },
+        {
+            "pid": 96,
+            "name": "I Haven't Found Love",
+            "text": "I haven't found love, but it's very kind of you to ask.",
+            "tags": [
+              {
+                "user": "player",
+                "confidence":-1
+              }
+            ],
+            "links": [
+                {
+                    "id": "76c6a6953972c1e31936fd000d53d544d40ca56b",
+                    "label": "Ghost P9",
+                    "passageId": 98
+                }
+            ]
+        },
+        {
+            "pid": 97,
+            "name": "I Have Found Love",
+            "text": "I have found love, and I'm very happy. Thank you for asking.",
+            "tags": [
+              {
+                "user": "player",
+                "happiness": 2
+              }
+            ],
+            "links": [
+                {
+                    "id": "32bf100a9ab896b8c149925516d2b23647e85df7",
+                    "label": "Ghost P10",
+                    "passageId": 99
+                }
+            ]
+        },
+        {
+            "pid": 98,
+            "name": "Ghost P9",
+            "text": "Then I wish I could help bring you to this warmth that you so desire.",
+            "tags": [
+              {
+                "user": "ghost"
+              }
+            ],
+            "links": [
+                {
+                    "id": "12e2859f4677d6daabe8d607b6ca636b5103abcf",
+                    "label": "Thank the Ghost",
+                    "passageId": 100
+                },
+                {
+                    "id": "1e17d14ec6ef4f6823bb830e53272911d5036dac",
+                    "label": "Game Blast",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 99,
+            "name": "Ghost P10",
+            "text": "Then I wish for your eternal happiness.",
+            "tags": [
+              {
+                "user": "ghost",
+                "trigger": "end",
+                "storyVariable":"GhostGood",
+                "act2storyVariable":1
+              }
+            ],
+            "links": [
+                {
+                    "id": "06a8c450be013b4bf4d5997b0d838ab876de99a2",
+                    "label": "Game Blast",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 100,
+            "name": "Thank the Ghost",
+            "text": "Thank you. Your kind words have already brought me that warmth.",
+            "tags": [
+              {
+                "user": "player",
+                "trigger": "end",
+                "productivity": 1,
+                "confidence": 1
+              }
+            ],
+            "links": [
+                {
+                    "id": "cdd56d489733461496ec27c409c8ecb7e8541ca3",
+                    "label": "Ghost Email",
+                    "passageId": 94
+                }
+            ]
+        },
+        {
+            "pid": 101,
+            "name": "Rude Ghost P4",
+            "text": "Great, you've scared off the spirit by being rude. Thanks.",
+            "tags": [
+              {
+                "user": "DivineSummoner",
+                "trigger": "end",
+                "storyVariable": "GhostRude",
+                "act2storyVariable":1
+              }
+            ],
+            "links": [
+                {
+                    "id": "dc581ad8fa6a0238dc7231643e3e9b5a9cbf213c",
+                    "label": "Game Blast",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 102,
+            "name": "Ouija P12",
+            "text": "Dude, just get on with it and summon us up a ghost!",
+            "tags": [
+              {
+                "user": "xXxsNiPeM@sTeRxXx"
+              }
+            ],
+            "links": [
+                {
+                    "id": "c27c72ee8c83112363f6e938e8c5c685da70d718",
+                    "label": "Ouija P6",
+                    "passageId": 77
+                }
+            ]
+        },
+        {
+            "pid": 103,
+            "name": "Doubt DivineSummoner",
+            "text": "I believe in ghosts, but I don't think some nerd on the internet can summon them.",
+            "tags": [
+              {
+                "user": "player",
+                "confidence": 1
+              }
+            ],
+            "links": [
+                {
+                    "id": "edc0a315c7d0a7ff5cc1d928b36bb1598a658227",
+                    "label": "Ghost Doubt",
+                    "passageId": 105
+                }
+            ]
+        },
+        {
+            "pid": 104,
+            "name": "Doubt Ghosts",
+            "text": "Ghosts aren't real, pal. It's a lousy superstition fueled by windy nights and crappy cameras.",
+            "tags": [
+              {
+                "user":"player",
+                "confidence":1,
+                "fame":1,
+                "productivity":-1
+              }
+            ],
+            "links": [
+                {
+                    "id": "5517b072f85678afc986fcc525b4e59437b6eb54",
+                    "label": "Ghost Doubt",
+                    "passageId": 105
+                }
+            ]
+        },
+        {
+            "pid": 105,
+            "name": "Ghost Doubt",
+            "text": "Then I shall erase your doubt by proving here and now that I can summon spirits to commune with us on this very forum!",
+            "tags": [
+              {
+                "user": "DivineSummoner"
+              }
+            ],
+            "links": [
+                {
+                    "id": "3a5511bc8efecef8c205f690562f0e0bdffbf236",
+                    "label": "Ouija P12",
+                    "passageId": 102
+                }
+            ]
+        },
+        {
+            "pid": 106,
+            "name": "My copy of GooseTales is borked",
+            "text": "I found a near mint GooseTales cartridge for the original Funtendo at a garage sale awhile back. It was working just fine until I got to the moon level. That's where everything got really freaky. Weird graphical glitches started happening, the characters weren't controlling right, and the iconic music was all distorted.\nMy little brother is playing it right now, but this is what it looked like. I can't find any screenshots like this online.\n(Distorted GooseTales screenshot)",
+            "tags": [
+              {
+                "user": "RetroLyfe",
+                "trigger": "start"
+              }
+            ],
+            "links": [
+                {
+                    "id": "f01cb03efcb5c0e95fad02ba1892b847259185ff",
+                    "label": "GooseTales P2",
+                    "passageId": 107
+                }
+            ]
+        },
+        {
+            "pid": 107,
+            "name": "GooseTales P2",
+            "text": "I've played GooseTales through a few times, and I've never seen it look like that.",
+            "tags": [
+              {
+                "user": "Waveracer2099"
+              }
+            ],
+            "links": [
+                {
+                    "id": "fc22dd5b9c3a932306f5f96fc3426e8679cde6c6",
+                    "label": "GooseTales P3",
+                    "passageId": 108
+                }
+            ]
+        },
+        {
+            "pid": 108,
+            "name": "GooseTales P3",
+            "text": "You sure you weren't playing a bad ROM or something? Sounds like an iffy file from Luna Wire.",
+            "tags": [
+              {
+                "user": "GreatGreenBlur"
+              }
+            ],
+            "links": [
+                {
+                    "id": "c3484b930a7952e95b92472ea3b3ee95fb20be92",
+                    "label": "GooseTales P4",
+                    "passageId": 109
+                }
+            ]
+        },
+        {
+            "pid": 109,
+            "name": "GooseTales P4",
+            "text": "I swear to you that this is a physical cartridge. Geez, my brother is being all twitchy and weird in the other room. Don't think this is sitting well with him. Any help?",
+            "tags": [
+              {
+                "user": "RetroLyfe"
+              }
+            ],
+            "links": [
+                {
+                    "id": "ed94efa30dc9231e18d43c9d7412e9fcdce23031",
+                    "label": "Helpful Reply GooseTales",
+                    "passageId": 110
+                },
+                {
+                    "id": "61157abbb97ca615a6c1a5fd13f546775583a267",
+                    "label": "Doubtful Reply GooseTales",
+                    "passageId": 111
+                },
+                {
+                    "id": "7d05d98170cd47ba0fdde7f0a440e100f43df844",
+                    "label": "Sarcastic Reply GooseTales",
+                    "passageId": 112
+                }
+            ]
+        },
+        {
+            "pid": 110,
+            "name": "Helpful Reply GooseTales",
+            "text": "If your brother is having actual physical issues playing the game, you should probably just turn it off.",
+            "tags": [
+              {
+                "user": "player",
+                "confidence": 1,
+                "productivity": 1
+              }
+            ],
+            "links": [
+                {
+                    "id": "65d55802ee6824cfe1fef53ec763a7658bef99eb",
+                    "label": "Helpful GooseTales P2",
+                    "passageId": 117
+                }
+            ]
+        },
+        {
+            "pid": 111,
+            "name": "Doubtful Reply GooseTales",
+            "text": "Why do people come on the internet and tell lies?",
+            "tags": [
+              {
+                "user": "player",
+                "fame":-1,
+                "confidence":1
+              }
+            ],
+            "links": [
+                {
+                    "id": "1f5950ad63029910a8df9ec1f6589c242fb4c597",
+                    "label": "GooseTales Doubt P2",
+                    "passageId": 116
+                }
+            ]
+        },
+        {
+            "pid": 112,
+            "name": "Sarcastic Reply GooseTales",
+            "text": "You should try calling the Funtendo Hotline. They have all sorts of tips and tricks to get you through any game.",
+            "tags": [
+              {
+                "user": "player",
+                "fame":1,
+                "productivity":-1
+              }
+            ],
+            "links": [
+                {
+                    "id": "5b47cb28d6bf98528b16552e615cb5c89de82de6",
+                    "label": "Sarcastic GooseTales P2",
+                    "passageId": 113
+                }
+            ]
+        },
+        {
+            "pid": 113,
+            "name": "Sarcastic GooseTales P2",
+            "text": "Oh yeah, I remember the Funtendo Hotline! Man, I used to get stuck on Superb Guys ALL the time. My parents were so mad that I'd run up the phone bill asking for help.",
+            "tags": [
+              {
+                "user": "GreatGreenBlur"
+              }
+            ],
+            "links": [
+                {
+                    "id": "628043b03669b6d7949a67155d133ce5fcc41dbb",
+                    "label": "Sarcastic GooseTales P3",
+                    "passageId": 114
+                }
+            ]
+        },
+        {
+            "pid": 114,
+            "name": "Sarcastic GooseTales P3",
+            "text": "This isn't helpful at all! Sounds like my brother got a game over. Maybe playing it back through from the start will fix it.",
+            "tags": [
+              {
+                "user": "RetroLyfe"
+              }
+            ],
+            "links": [
+                {
+                    "id": "0c8905f60dc38934ea3f9dc1b264599b5c629261",
+                    "label": "GooseTales Bad Ending",
+                    "passageId": 115
+                }
+            ]
+        },
+        {
+            "pid": 115,
+            "name": "GooseTales Bad Ending",
+            "text": "Oh god, oh dear god. My brother was just lying there unconscious by the TV. I've called 911 but oh god I needed to tell someone else. Please, dear god, if you see your game acting up like this, don't play it.",
+            "tags": [
+              {
+                "user": "RetroLyfe",
+                "storyVariable": "GooseBad",
+                "act2storyVariable":1,
+                "trigger": "end"
+              }
+            ],
+            "links": [
+                {
+                    "id": "d84fe4d5dacf4631b206a56de64b75dc120484bf",
+                    "label": "Game Blast",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 116,
+            "name": "GooseTales Doubt P2",
+            "text": "Got you to click it, didn't it?",
+            "tags": [
+              {
+                "user": "GreatGreenBlur"
+              }
+            ],
+            "links": [
+                {
+                    "id": "876f58b13873b736cb5733e5f4ebd0441fdf54a9",
+                    "label": "Sarcastic GooseTales P3",
+                    "passageId": 114
+                }
+            ]
+        },
+        {
+            "pid": 117,
+            "name": "Helpful GooseTales P2",
+            "text": "I went and did that and now my brother is screaming at me. Great. At least he doesn't seem to be in pain, I guess?",
+            "tags": [
+              {
+                "user": "RetroLyfe"
+              }
+            ],
+            "links": [
+                {
+                    "id": "f2bf772ef21bf0ded88dccecc5eda2a30c8b9c9a",
+                    "label": "Helpful GooseTales P3",
+                    "passageId": 118
+                }
+            ]
+        },
+        {
+            "pid": 118,
+            "name": "Helpful GooseTales P3",
+            "text": "He got mad and threw the cartridge at me. It missed and shattered against the wall. He calmed down after that, but I guess I'm out one weird copy of GooseTales.",
+            "tags": [
+              {
+                "user": "RetroLyfe",
+                "storyVariable":"GooseGood",
+                "act2storyVariable":1,
+                "trigger":"end"
+              }
+            ],
+            "links": [
+                {
+                    "id": "6d8a1c5cdb49e5aee4f35a4388b5560c4d1100c9",
+                    "label": "Game Blast",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 119,
+            "name": "Polybius",
+            "text": "My local pizza place has a copy. AMA",
+            "tags": [
+              {
+                "user": "LegendOfSolitaire",
+                "trigger": "start"
+              }
+            ],
+            "links": [
+                {
+                    "id": "acc0bee329ac6b02301d35ee9619baf4f86f36d5",
+                    "label": "Polybius P2",
+                    "passageId": 120
+                }
+            ]
+        },
+        {
+            "pid": 120,
+            "name": "Polybius P2",
+            "text": "Does it really make you sick?",
+            "tags": [
+              {
+                "user": "the_last_samurai"
+              }
+            ],
+            "links": [
+                {
+                    "id": "5a6e3ede16671672364e2d87be50e8b9426d11f6",
+                    "label": "Polybius P3",
+                    "passageId": 121
+                }
+            ]
+        },
+        {
+            "pid": 121,
+            "name": "Polybius P3",
+            "text": "Yes, but that might've been bad pizza.",
+            "tags": [
+              {
+                "user": "LegendOfSolitaire"
+              }
+            ],
+            "links": [
+                {
+                    "id": "5d7238d0f970a0990d94a0b8d8b98eeeab35e152",
+                    "label": "Polybius P4",
+                    "passageId": 122
+                }
+            ]
+        },
+        {
+            "pid": 122,
+            "name": "Polybius P4",
+            "text": "Sounds fake. Pics or it didn't happen.",
+            "tags": [
+              {
+                "user": "GreatGreenBlur"
+              }
+            ],
+            "links": [
+                {
+                    "id": "80637bc325b21bb51e10e74591ef4b847c195fd9",
+                    "label": "Polybius P5",
+                    "passageId": 123
+                }
+            ]
+        },
+        {
+            "pid": 123,
+            "name": "Polybius P5",
+            "text": "(Picture of a Polybius arcade cabinet)",
+            "tags": [
+              {
+                "user": "LegendOfSolitaire"
+              }
+            ],
+            "links": [
+                {
+                    "id": "68c89da8220e6eec1defa787689c588768b63753",
+                    "label": "Polybius P6",
+                    "passageId": 124
+                }
+            ]
+        },
+        {
+            "pid": 124,
+            "name": "Polybius P6",
+            "text": "Image searching that doesn't give any prior existing results. That's either real or a damn good shop. Any chance I can get the address for your pizza place?",
+            "tags": [
+              {
+                "user": "GreatGreenBlur"
+              }
+            ],
+            "links": [
+                {
+                    "id": "4610e248b1880ca16a463d7346d0143598615f42",
+                    "label": "Polybius P7",
+                    "passageId": 125
+                }
+            ]
+        },
+        {
+            "pid": 125,
+            "name": "Polybius P7",
+            "text": "Sure! Just give me a second to look it up in the phonebook.",
+            "tags": [
+              {
+                "user": "LegendOfSolitaire"
+              }
+            ],
+            "links": [
+                {
+                    "id": "00c0e9ae5d0ab3354b59a1be73394ead435002b8",
+                    "label": "Polybius P8",
+                    "passageId": 126
+                }
+            ]
+        },
+        {
+            "pid": 126,
+            "name": "Polybius P8",
+            "text": "Due to a government cease and desist, this thread is now locked.",
+            "tags": [
+              {
+                "trigger": "end",
+                "user": "Game Blast Admin"
+              }
+            ],
+            "links": [
+                {
+                    "id": "479af6019258c29112ea8387b7f4b4bfdf517d04",
+                    "label": "Game Blast",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 127,
+            "name": "This is my aesthetic",
+            "text": "(Small pixelated image of a Mario-like character in front of a much larger pink background)",
+            "tags": [
+              {
+                "user": "yorpyknight"
+              }
+            ],
+            "links": [
+                {
+                    "id": "f9e5caed587a9c0e15efe3a86d19660e07e48b14",
+                    "label": "Game Blast",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 128,
+            "name": "HEXORZ party",
+            "text": "Anyone want to join my HEXORZ party? On PC, obviously.",
+            "tags": [
+              {
+                "user": "xXxsNiPeM@sTeRxXx",
+                "trigger": "start"
+              }
+            ],
+            "links": [
+                {
+                    "id": "e3a860804fdd11362a21f2142651f1422ea1da29",
+                    "label": "HEXORZ P2",
+                    "passageId": 129
+                }
+            ]
+        },
+        {
+            "pid": 129,
+            "name": "HEXORZ P2",
+            "text": "That game is Satanic. No thank you.",
+            "tags": [
+              {
+                "user": "ZZJ Wukong"
+              }
+            ],
+            "links": [
+                {
+                    "id": "031975a07556c04fcc102b425968d4076257080d",
+                    "label": "HEXORZ P3",
+                    "passageId": 130
+                }
+            ]
+        },
+        {
+            "pid": 130,
+            "name": "HEXORZ P3",
+            "text": "Didn't someone die playing that game? I remember reading it on Home Scape.",
+            "tags": [
+              {
+                "user":"StarFresh"
+              }
+            ],
+            "links": [
+                {
+                    "id": "1951167254db64cef7e9a28ad7a6a2fa2bc278b8",
+                    "label": "HEXORZ P4",
+                    "passageId": 131
+                }
+            ]
+        },
+        {
+            "pid": 131,
+            "name": "HEXORZ P4",
+            "text": "That's an urban legend. Just because you cast spells and make sacrifices and shit, doesn't mean anyone has actually died playing the game.",
+            "tags": [
+              {
+                "user": "xXxsNiPeM@sTeRxXx"
+              }
+            ],
+            "links": [
+                {
+                    "id": "5011d5af729a18ab35efaffa69dd60dbede03e69",
+                    "label": "HEXORZ P5",
+                    "passageId": 132
+                }
+            ]
+        },
+        {
+            "pid": 132,
+            "name": "HEXORZ P5",
+            "text": "No, it's real. I found the link.",
+            "tags": [
+              {
+                "user": "StarFresh"
+              }
+            ],
+            "links": [
+                {
+                    "id": "5eea33415111f23078f48d253fa4f68d77ced1a4",
+                    "label": "HEXORZ Home Scape Article",
+                    "passageId": 133
+                }
+            ]
+        },
+        {
+            "pid": 133,
+            "name": "HEXORZ Home Scape Article",
+            "text": "The popular online game, HEXORZ, has taken another life today. The game, created by Silicon Valley startup, AIWAZ, is massively multiplayer online game played by millions of users. The game made national headlines earlier this year when a teenage boy was found murdered over the game. What was initially thought to be the result of a dispute between two users, was actually a preordained sacrifice made in the name of the game.\nWhile AIWAZ was quick to deny that their game encourages ritual sacrifice, much of the material found in the game has been considered disturbing and inappropriate for children by Electronic Video Games Ratings Board. Many in-game groups, called covens, have begun treating the game's story and lore as a religion of swords. Multiple Scandanavian countries have even officially recognized the game as a religion.</p>\n<p>This latest HEXORZ death is a most peculiar incident. While the previous HEXORZ victim was found in the woods, this victim was found alone at their computer, still logged into the game. According to the evidence at the scene, the player's in-game character had just been \"hexed\" by another user. Was this a coincidence or is something more nefarious at foot?",
+            "tags": [
+              {
+                "user":"Home Scape News"
+              }
+            ],
+            "links": [
+                {
+                    "id": "f06d2c99c3ed80d3ab268a0fe2500638626eb30c",
+                    "label": "HEXORZ P6",
+                    "passageId": 134
+                }
+            ]
+        },
+        {
+            "pid": 134,
+            "name": "HEXORZ P6",
+            "text": "I told y'all this game was satanic.",
+            "tags": [
+              {
+                "user": "ZZJ Wukong"
+              }
+            ],
+            "links": [
+                {
+                    "id": "f66f26033c1cea2f6ae767d7faf22e6c5342a5bb",
+                    "label": "HEXORZ P7",
+                    "passageId": 135
+                }
+            ]
+        },
+        {
+            "pid": 135,
+            "name": "HEXORZ P7",
+            "text": "So, a few people have died? Who cares? The weak need to be culled if we are to ever summon the great lord, Kunema.",
+            "tags": [
+              {
+                "user": "xXxsNiPeM@sTeRxXx"
+              }
+            ],
+            "links": [
+                {
+                    "id": "b2fe727ad59e16cf9ce9af765a4d643eee672b0b",
+                    "label": "HEXORZ P8",
+                    "passageId": 136
+                }
+            ]
+        },
+        {
+            "pid": 136,
+            "name": "HEXORZ P8",
+            "text": "DIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIEDIE",
+            "tags": [
+              {
+                "user": "DoubleMintGum"
+              }
+            ],
+            "links": [
+                {
+                    "id": "dbf1196a53068c763be0cec21c13406944826eb7",
+                    "label": "HEXORZ P9",
+                    "passageId": 137
+                }
+            ]
+        },
+        {
+            "pid": 137,
+            "name": "HEXORZ P9",
+            "text": "Cool, you have the usually normal, DoubleMint doing this bit.",
+            "tags": [
+              {
+                "user": "StarFresh"
+              }
+            ],
+            "links": [
+                {
+                    "id": "0aa18e4edab31a42ed3371bc08406c163418da0f",
+                    "label": "HEXORZ P10",
+                    "passageId": 138
+                }
+            ]
+        },
+        {
+            "pid": 138,
+            "name": "HEXORZ P10",
+            "text": "Join us.",
+            "tags": [
+              {
+                "user": "xXxsNiPeM@sTeRxXx"
+              }
+            ],
+            "links": [
+                {
+                    "id": "61c3fa7ee708a037fb4645783d46f027e9fbddd6",
+                    "label": "HEXORZ P11",
+                    "passageId": 139
+                }
+            ]
+        },
+        {
+            "pid": 139,
+            "name": "HEXORZ P11",
+            "text": "Join us.",
+            "tags": [
+              {
+                "user": "DoubleMintGum"
+              }
+            ],
+            "links": [
+                {
+                    "id": "db7e63efd61d6c8bfeeac4c12e4f9d645cceaaf4",
+                    "label": "HEXORZ P12",
+                    "passageId": 140
+                }
+            ]
+        },
+        {
+            "pid": 140,
+            "name": "HEXORZ P12",
+            "text": "Join us.",
+            "tags": [
+              {
+                "user": "ZZJ Wukong"
+              }
+            ],
+            "links": [
+                {
+                    "id": "1e383975ac65acd20d3cfcf3c21fa84049fdc02d",
+                    "label": "HEXORZ P13",
+                    "passageId": 141
+                }
+            ]
+        },
+        {
+            "pid": 141,
+            "name": "HEXORZ P13",
+            "text": "Sure, why the hell not? I'll play.",
+            "tags": [
+              {
+              "user":"StarFresh",
+              "trigger":"end"
+              }
+            ],
+            "links": [
+                {
+                    "id": "9f84970a8cfab881c8e2e7839d818e4d02ff2e7f",
+                    "label": "Game Blast",
+                    "passageId": 3
+                }
+            ]
+        },
+        {
+            "pid": 142,
+            "name": "help",
+            "text": "I look down at my body and it's not what I should see. I carry it as well as I can but I don't know how much longer I can hold this pace. I long for the metamorphosis of body and soul to finally take place, but am I waiting for a non-existing moment in time?",
+            "tags": [
+              {
+                "user": "anon",
+                "trigger": "start"
+              }
+            ],
+            "links": [
+                {
+                    "id": "deed223ab86b2d713b7a05c3687451fc47b1dd4f",
+                    "label": "help P2",
+                    "passageId": 143
+                }
+            ]
+        },
+        {
+            "pid": 143,
+            "name": "help P2",
+            "text": "waiting",
+            "tags": [
+              {
+                "user": "anon"
+              }
+            ],
+            "links": [
+                {
+                    "id": "7b738633551d18c034e86a72253be4f41fca59c1",
+                    "label": "help P3",
+                    "passageId": 144
+                }
+            ]
+        },
+        {
+            "pid": 144,
+            "name": "help P3",
+            "text": "waiting",
+            "tags": [
+              {
+                "user": "anon"
+              }
+            ],
+            "links": [
+                {
+                    "id": "4132eaf313d01dc50a8bed619cfa003ea510ef1a",
+                    "label": "help P4",
+                    "passageId": 145
+                }
+            ]
+        },
+        {
+            "pid": 145,
+            "name": "help P4",
+            "text": "waiting",
+            "tags": [
+              {
+                "user": "anon"
+              }
+            ],
+            "links": [
+                {
+                    "id": "2f7e34d3771f3fc374475f99f44eee80d33d5e9f",
+                    "label": "help P5",
+                    "passageId": 146
+                }
+            ]
+        },
+        {
+            "pid": 146,
+            "name": "help P5",
+            "text": "waiting",
+            "tags": [
+              {
+                "user": "anon"
+              }
+            ],
+            "links": [
+                {
+                    "id": "ad1087a68324990ab7f5f03f43302bf549a3c509",
+                    "label": "help P6",
+                    "passageId": 147
+                }
+            ]
+        },
+        {
+            "pid": 147,
+            "name": "help P6",
+            "text": "waiting",
+            "tags": [
+              {
+                "user": "anon"
+              }
+            ],
+            "links": [
+                {
+                    "id": "0baa7739bb3e99901f37fef9160afda2e6fc2717",
+                    "label": "help P7",
+                    "passageId": 148
+                }
+            ]
+        },
+        {
+            "pid": 148,
+            "name": "help P7",
+            "text": "waiting",
+            "tags": [
+              {
+                "user":"anon"
+              }
+            ],
+            "links": [
+                {
+                    "id": "5b32f34bb1e07c28e921ebc9648bf25ab5f4b392",
+                    "label": "help P8",
+                    "passageId": 149
+                }
+            ]
+        },
+        {
+            "pid": 149,
+            "name": "help P8",
+            "text": "waiting",
+            "tags": [
+              {
+                "user": "anon"
+              }
+            ],
+            "links": [
+                {
+                    "id": "2406061e53f226e3779f11429fe759042eee4941",
+                    "label": "help P9",
+                    "passageId": 150
+                }
+            ]
+        },
+        {
+            "pid": 150,
+            "name": "help P9",
+            "text": "Does it stop?",
+            "tags": [
+              {
+                "user":"anon",
+                "trigger":"end"
+              }
+            ],
+            "links": [
+                {
+                    "id": "0f292de9822c3778b8eb78b6e6e41ae2e99e454b",
+                    "label": "Cool Zone",
+                    "passageId": 5
+                }
+            ]
+        },
+        {
+            "pid": 151,
+            "name": "XYZ Airs Lost Episode of Popular Cartoon",
+            "text": "XYZ's Sunday mainstay, The Thompsons, has been running for 15 years. That's a lot of episodes and the animated series' biggest fans have seen them many times over. However, there's one episode that no one has ever seen, and it's going to finally air this week.\n<p>The episode in question, Dead Bort, is exactly what it sounds like. In the episode, the troublemaking ten-year old protagonist of the series, Bort, dies a horrible death. This episode was originally intended as a series finale if the show failed, however, with that no longer being an issue at risk, the producers have decided to finally let the episode air.\nBort dies this Sunday on XYZ! How will the family handle his death? Make sure to tune in!",
+            "tags": [
+              {
+                "user": "Home Scape News",
+                "trigger": "start"
+              }
+            ],
+            "links": [
+                {
+                    "id": "0c34d88d54050b8932aae4ac2301c847d037f645",
+                    "label": "Dead Bort Comments",
+                    "passageId": 162
+                }
+            ]
+        },
+        {
+            "pid": 152,
+            "name": "How Does Your Fate Align With the Moon?",
+            "text": "Scholars and philosophers believe ancient peoples would predict their fates based on the phases of the moon. Considering the recent lunar eclipse, now might be the perfect time to see how your fate stacks up with those bygone customs.\n(Ancient Moon chart pic)",
+            "tags": [
+              {
+                "user": "Home Scape News",
+                "trigger": "start"
+              }
+            ],
+            "links": [
+                {
+                    "id": "d74e7cd73025cd34b3926031fc193d845adc3b18",
+                    "label": "Find your fate with the chart",
+                    "passageId": 159
+                },
+                {
+                    "id": "09c33f1361398a8005f0c1638e8fc7f23851151c",
+                    "label": "Decide your own fate",
+                    "passageId": 160
+                },
+                {
+                    "id": "1bf716086d231059271b138a458661fc076892e2",
+                    "label": "Home Scape",
+                    "passageId": 4
+                }
+            ]
+        },
+        {
+            "pid": 153,
+            "name": "Goat Sacrifice Guide",
+            "text": "CONTENT WARNING: THE FOLLOWING CONTENT FEATURES GOAT SACRIFICE\nHome Scape presents a how to guide for sacrificing a goat:\nStep 1: Make careful preparations for the sacrificial process. Remain calm and make sure to make the sacrifice as quick and clean as possible.\nStep 2: Make sure the goat you're going to sacrifice is of the appropriate age. Some higher beings desire sacrifices of a certain age, make sure your subject is the desired age.\nStep 3: Make sure your sacrifice is being done at the right time. Depending on your hemisphere, there is an appropriate time of year and day for sacrifices.\nStep 4: Locate the area of the goat that would be best for sacrificing. Refer again to Step 1 and how you want to make sure your sacrifice is as quick and clean as possible.\nStep 5: Make sure your sacrificial knife is appropriately sharp. If your specific sacrifice calls for a different instrument, make sure that said tool is appropriately prepared.\nStep 6: Dispose of any excess material. Make sure all appropriate arrangements have been made before hand so that your sacrifice is had in a timely matter.\nStep 7: Have fun!",
+            "tags": [
+              {
+                "user": "Home Scape News",
+                "trigger": "start"
+              }
+            ],
+            "links": [
+                {
+                    "id": "1c7e9b325ebf9feca4089a61e437d572b27b92a0",
+                    "label": "Goat Comments",
+                    "passageId": 157
+                }
+            ]
+        },
+        {
+            "pid": 154,
+            "name": "Stunning Pie Recipe",
+            "text": "This pie recipe will be the delight of your friends and the bane of everyone who has ever wronged you.\n1 Unbaked Pie Crust\n3/4 cup sugar\n1 tbsp. all-purpose flour\n1 1/2 cup black crowberries\n1 1/4 cup juniper berries\n3/4 cup the blood of your enemies\n1/2 cup fresh essence of the eternal soul\n1 tbsp. lemon juice\n\nSpread out pie crust on a floured sheet of paper to 1/4 inch thickness. Fit into a 9-inch pie plate. Refrigerate 30 minutes to 1 hour.\n\nPreheat oven to 375 degrees F.\n\n<p>Whisk together sugar and flour. Stir together sugar mixture, berries, blood of your enemies, fresh essence, and lemon juice. Pour into crust.\n\nBake at 375 degrees F for 1 hour or until lightly brown. Cover if necessary.",
+            "tags": [
+              {
+                "user":"Home Scape News",
+                "trigger": "start"
+              }
+            ],
+            "links": [
+                {
+                    "id": "639f47ca8c9ef1596dd0415ab04483721028d35b",
+                    "label": "Stunning Pie Recipe Comments",
+                    "passageId": 158
+                }
+            ]
+        },
+        {
+            "pid": 155,
+            "name": "SPONSORED: Come Hither My Lord",
+            "text": "You have been beckoned to play Leraje Online, the most addictive game of all time. Play now. She's waiting.\n(Image of a lusty girl)",
+            "tags": [
+              {
+                "user": "Leraje-Online",
+                "trigger": "start"
+              }
+            ],
+            "links": [
+                {
+                    "id": "8a83b50213fdff9197d57d4f6a4307d8da3be467",
+                    "label": "Leraje Online Website",
+                    "passageId": 156
+                },
+                {
+                    "id": "4b0b4c7f854a9f47df858773ad613e5157d64d8e",
+                    "label": "Home Scape",
+                    "passageId": 4
+                }
+            ]
+        },
+        {
+            "pid": 156,
+            "name": "Leraje Online Website",
+            "text": "(Image of the game with logo and same lusty girl artwork)",
+            "tags": [
+              {
+                "user": "Leraje-Online",
+                "virus":"scrambled",
+                "act2storyVariable":1,
+                "storyVariable": "LerajeGame",
+                "trigger":"end",
+                "popups": true
+              }
+            ],
+            "links": [
+                {
+                    "id": "cc053a9a408ae649614be0f03df562e0dbed6532",
+                    "label": "Home Scape",
+                    "passageId": 4
+                }
+            ]
+        },
+        {
+            "pid": 157,
+            "name": "Goat Comments",
+            "text": "This guide was super helpful for my family's generational sacrifice to our eternal lord, Paimon!",
+            "tags": [
+              {
+                "user": "Jill Stevenson",
+                "trigger":"end"
+              }
+            ],
+            "links": [
+                {
+                    "id": "7eccc68b32d264299724b4874e5d24796cf8adb0",
+                    "label": "Home Scape",
+                    "passageId": 4
+                }
+            ]
+        },
+        {
+            "pid": 158,
+            "name": "Stunning Pie Recipe Comments",
+            "text": "Invited my neighbor over to make this, and let's just say they won't be trimming my side of the hedges anymore.",
+            "tags": [
+              {
+                "user": "Sherry Fields",
+                "trigger":"end"
+              }
+            ],
+            "links": [
+                {
+                    "id": "99af3632d058f5d47c0aa5c6fa9086baeafc42cf",
+                    "label": "Home Scape",
+                    "passageId": 4
+                }
+            ]
+        },
+        {
+            "pid": 159,
+            "name": "Find your fate with the chart",
+            "text": "It says \"I've already met with a terrible fate\"...",
+            "tags": [
+              {
+                "user":"player",
+                "storyVariable": "TerribleFate",
+                "act2storyVariable":1,
+                "confidence":-1
+              }
+            ],
+            "links": [
+                {
+                    "id": "7ac18f85cc53d999f2f162329ab525a0efef9e6c",
+                    "label": "Moon Chart Comments",
+                    "passageId": 161
+                }
+            ]
+        },
+        {
+            "pid": 160,
+            "name": "Decide your own fate",
+            "text": "No fate but what we make. I'm not going to let an ancient fortune cookie tell me how to live my life.",
+            "tags": [
+              {
+                "user":"player",
+                "storyVariable":"NoFate",
+                "act2storyVariable":1,
+                "confidence":1,
+                "happiness":1
+              }
+            ],
+            "links": [
+                {
+                    "id": "be7c92b884204b171ffb608e39a764275ac99f6f",
+                    "label": "Moon Chart Comments",
+                    "passageId": 161
+                }
+            ]
+        },
+        {
+            "pid": 161,
+            "name": "Moon Chart Comments",
+            "text": "Lol, mine says I'm totally gonna get a hot date. I think...",
+            "tags": [
+              {
+                "trigger":"end",
+                "user":"Chuck Gurden"
+              }
+            ],
+            "links": [
+                {
+                    "id": "ae8fd5729c9a42202bf576fe252a8e91f85ccb6c",
+                    "label": "Home Scape",
+                    "passageId": 4
+                }
+            ]
+        },
+        {
+            "pid": 162,
+            "name": "Dead Bort Comments",
+            "text": "I heard this episode has a near photo realistic corpse for Bort, and they predicted when a bunch of the celebrities who guess starred died.",
+            "tags": [
+              {
+                "user": "NedNednNeddy"
+              }
+            ],
+            "links": [
+                {
+                    "id": "a62c352a23affb8b38dbebcd699fe1e8b02db5ee",
+                    "label": "Dead Bort Comments P2",
+                    "passageId": 163
+                }
+            ]
+        },
+        {
+            "pid": 163,
+            "name": "Dead Bort Comments P2",
+            "text": "This show isn't as funny as Family Man, but if it's gonna be this gory, I'm gonna down a few brews and check it out.",
+            "tags": [
+              {
+                "user":"Chuck Gurden",
+                "trigger":"end"
+              }
+            ],
+            "links": [
+                {
+                    "id": "209e5446557b7ab06656d34fb17cb5584ac92d5c",
+                    "label": "Home Scape",
+                    "passageId": 4
+                }
+            ]
+        }
+    ]
+}
