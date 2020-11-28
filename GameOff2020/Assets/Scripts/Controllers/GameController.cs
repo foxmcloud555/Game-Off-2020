@@ -67,10 +67,13 @@ namespace Controllers
         {
             EmailsBehaviour.ConstructListOfEmails();
             
-            foreach (var node in Act1Nodes)
-            {
-                EmailsBehaviour.CreateEmail(node);
-            }
+            //foreach (var node in Act1Nodes)
+            //{
+            //    if (node.email)
+            //    {
+            //        EmailsBehaviour.CreateEmail(node);
+            //    }
+            //}
         }
 
         public struct StoryAct
