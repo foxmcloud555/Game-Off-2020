@@ -403,7 +403,8 @@
             "text": "Hey, sorry about Snide Cooper. He's always like this. Sometimes he goes too far and we get a reprieve from him for a week after the mods drop the banhammer. He sent me this weird link, though. Have you seen anything like this?",
             "tags": [
                 {
-                    "user": "Waveracer2099"
+                    "user": "Waveracer2099",
+                    "email": true
                 }
             ],
             "links": [
@@ -664,7 +665,7 @@
         {
             "pid": 29,
             "name": "Ignore GB2",
-            "text": "(Upon ending your conversation with them, SnideCooper emails you, as your email is available as part of your public profile)",
+            "text": "Looks like I win ANOTHER debate.",
             "tags": [
                 {
                     "user": "player",
@@ -687,7 +688,8 @@
             "text": "I can't believe you ran off from our conversation like a coward. Proof that you KNOW the Tony Game Box 3 is the superior game console. Go here if you want to experience a REAL console:",
             "tags": [
                 {
-                    "user": "SnideCooper"
+                    "user": "SnideCooper",
+                    "email": true
                 }
             ],
             "links": [
@@ -779,7 +781,8 @@
             "text": "I can't believe you got me banned! If it wasn't for your Funtendo whining, I wouldn't have lost my posting privileges. This is so stupid. I hope you got banned too. If you did, I guess you can keep posting here:",
             "tags": [
                 {
-                    "user": "SnideCooper"
+                    "user": "SnideCooper",
+                    "email": true
                 }
             ],
             "links": [
@@ -889,7 +892,7 @@
         {
             "pid": 40,
             "name": "Tafelspitz Brote Recipe",
-            "text": "For Tafelspitz:4 lb. roast 2 lb. beef marrow bones3 large carrots3 moderately sized turnips1 celery stalk1 large red onion2 bayleaves10 peppercorns5 juniper berriesDash of salt1/4 cup chives8 oz. sour cream4 tbsp. fresh horseradish1 cup whipping creamFor Brote:42g fresh yeast (42g),2 tbsp. salt2 tbsp. sugar760ml buttermilk1 lb. flour200g soy seedsChop all tafelspitz ingredients and place in a large saucer.Boil for 2 hours and let sit.Dissolve brote ingredients together and mix. Fill into pan and bake for 1 hour.Open the baked brote once cooled and place tafelspitz in accordingly.",
+            "text": "For Tafelspitz:\n4 lb. roast \n2 lb. beef marrow bones\n3 large carrots\n3 moderately sized turnips\n1 celery stalk\n1 large red onion\n2 bayleaves\n10 peppercorns\n5 juniper berries\nDash of salt\n1/4 cup chives\n8 oz. sour cream\n4 tbsp. fresh horseradish\n1 cup whipping cream\n\nFor Brote:\n42g fresh yeast (42g)\n2 tbsp. salt\n2 tbsp. sugar\n760ml buttermilk\n1 lb. flour\n200g soy seeds\nChop all tafelspitz ingredients and place in a large saucer.\n\nBoil for 2 hours and let sit.\n\nDissolve brote ingredients together and mix. \n\nFill into pan and bake for 1 hour. Open the baked brote once cooled and place tafelspitz in accordingly.",
             "tags": [
                 {
                     "productivity": 1
@@ -949,7 +952,7 @@
         {
             "pid": 43,
             "name": "Try to Go Back to Home Scape",
-            "text": "(The player attempts to go back to Home Scape, but the player is bombarded by pop ups and must close them out. Once they are all closed, the player can return to Home Scape but now have a virus)",
+            "text": "ERROR",
             "tags": [
                 {
                     "virus": "scramble",
@@ -957,7 +960,8 @@
                     "productivity": -1,
                     "happiness": -1,
                     "trigger": "end",
-                    "storyVariable":"HouseholdIncomeNO"
+                    "storyVariable":"HouseholdIncomeNO",
+                    "popups": true
                 }
             ],
             "links": [
@@ -974,7 +978,8 @@
             "text": "Now you can work from home and earn a regular constant income with $1300 a day! Click here to get started:",
             "tags": [
                 {
-                    "user": "Household-Income-Association"
+                    "user": "Household-Income-Association",
+                    "email": true
                 }
             ],
             "links": [
@@ -1044,7 +1049,8 @@
             "text": "You have qualified for a FREE psychic reading. Beware, for what you find may not be for the faint of heart. Click through now if you're ready for revelations beyond your mortal comprehension:",
             "tags": [
                 {
-                    "user": "Online-Psychics-United"
+                    "user": "Online-Psychics-United",
+                    "email": true
                 }
             ],
             "links": [
@@ -1058,7 +1064,7 @@
         {
             "pid": 49,
             "name": "PINNED: Cool Zone Rules",
-            "text": "Rule 1: No Flame Wars. Y'all remember how we lost 4Spot because things got out of hand and someone called the feds on another user.Rule 2: No reposts. Stop stealing each other's content. Only steal content that has not yet been posted here.Rule 3: Keep NSFW to the NSFW boards. Seriously, if you need the password, DM the admin.Rule 4: Do not DDOS! DDOS attacks on other sites are fine, but don't DDOS Cool Zone.Rule 5: Be cool.",
+            "text": "Rule 1: No Flame Wars. Y'all remember how we lost 4Spot because things got out of hand and someone called the feds on another user.\n\nRule 2: No reposts. Stop stealing each other's content. Only steal content that has not yet been posted here.\n\nRule 3: Keep NSFW to the NSFW boards. Seriously, if you need the password, DM the admin.\n\nRule 4: Do not DDOS! DDOS attacks on other sites are fine, but don't DDOS Cool Zone.\n\nRule 5: Be cool.",
             "tags": [
                 {
                     "user": "Cool Zone Admin"
@@ -1201,7 +1207,7 @@
         {
             "pid": 57,
             "name": "The Latest Space Force Movie SUCKED",
-            "text": "Lucas George has clearly lost it at this point. I grew up with the original three Space Force movies, like all true fans did, and I can't believe he's spat on the legacy of those movies.>Queen Azalea gets bored and dies>Skyhopper kills his best friend Jars cause evil>45 minutes watching a filibuster>need to read three books to understand opening crawl>only explains half the mysteries>effects not as good as Ring Lords>$6 a ticket",
+            "text": "Lucas George has clearly lost it at this point. I grew up with the original three Space Force movies, like all true fans did, and I can't believe he's spat on the legacy of those movies.\n>Queen Azalea gets bored and dies\n>Skyhopper kills his best friend Jars cause evil\n>45 minutes watching a filibuster\n>need to read three books to understand opening crawl>only explains half the mysteries\n>effects not as good as Ring Lords\n>$6 a ticket",
             "tags": [
                 {
                     "user": "DarkVandee",
@@ -1362,7 +1368,8 @@
             "text": "Here's a website for gatorh80rs like you!",
             "tags": [
                 {
-                    "user": "DID0D0"
+                    "user": "DID0D0",
+                    "email": true
                 }
             ],
             "links": [
@@ -2355,7 +2362,7 @@
         {
             "pid": 116,
             "name": "Reply SF6",
-            "text": "\"Space Force is a film for 12 year olds.\" - Lucas George Link: ",
+            "text": "\"Space Force is a film for 12 year olds.\" - Lucas George \n\nLink: ",
             "tags": [
                 {
                     "user": "player",
@@ -2374,7 +2381,7 @@
         {
             "pid": 117,
             "name": "Lucas George Tells All",
-            "text": "In Anaheim, CA, the year's largest gathering of geeks, nerds, and fans of a good time at the movies took place. Space Force Fest 5 brought together this collection of enthusiasts to celebrate the latest release in the Space Force series. We sat down to speak with the one and only, Lucas George, creator of the Space Force Saga.Home Scape: Thanks for taking time out of your busy schedule to sit with us, Luke. Can we call you Luke?Lucas George: You shouldn't.Home Scape: Alright, Luke! First question, what do you have to say to fans who think these new Space Force movies aren't as good as the originals?Lucas George: I think they can be safely ignored.Home Scape: Ignored? Your most loyal fans?Lucas George: Space Force is a film for 12 year olds. Those are my most loyal fans, not sweaty 30-year olds whose only bathing soap is an unopened bottle of Jars Bath Bubbles.Home Scape: Some people would say that the most recent films are too political for children. What do you have to say to that?Lucas George: I think politics have been too childish for adults.Home Scape: Before you go, can I ask you about the rumored sequel trilogy to the original Space Force trilogy? Any plans on making those?Lucas George: Why would I tell you that?Home Scape: Thanks, Luke!",
+            "text": "In Anaheim, CA, the year's largest gathering of geeks, nerds, and fans of a good time at the movies took place. Space Force Fest 5 brought together this collection of enthusiasts to celebrate the latest release in the Space Force series. We sat down to speak with the one and only, Lucas George, creator of the Space Force Saga.\n\nHome Scape: Thanks for taking time out of your busy schedule to sit with us, Luke. Can we call you Luke?\n\nLucas George: You shouldn't.\n\nHome Scape: Alright, Luke! First question, what do you have to say to fans who think these new Space Force movies aren't as good as the originals?\n\nLucas George: I think they can be safely ignored.\n\nHome Scape: Ignored? Your most loyal fans?\n\nLucas George: Space Force is a film for 12 year olds. Those are my most loyal fans, not sweaty 30-year olds whose only bathing soap is an unopened bottle of Jars Bath Bubbles.\n\nHome Scape: Some people would say that the most recent films are too political for children. What do you have to say to that?\n\nLucas George: I think politics have been too childish for adults.\n\nHome Scape: Before you go, can I ask you about the rumored sequel trilogy to the original Space Force trilogy? Any plans on making those?\n\nLucas George: Why would I tell you that?\n\nHome Scape: Thanks, Luke!",
             "tags": [
                 {
                     "user": "Home-Scape-Press"
@@ -2414,7 +2421,8 @@
             "text": "I can't believe someone who supposedly likes Space Force can be so wrong on everything about it. Read this to get the REAL story on Space Force: ",
             "tags": [
                 {
-                    "user": "DarkVandee"
+                    "user": "DarkVandee",
+                    "email": true
                 }
             ],
             "links": [
@@ -2747,7 +2755,8 @@
             "text": "My name is Diana. I work with the Bank of Hong Kong. I have an interesting deal of 2,000,00$ for us. We both share the funds at 50% each in a matter of weeks. Please grant me the benefit of the doubt and reply for details.",
             "tags": [
                 {
-                  "user": "Diana"
+                  "user": "Diana",
+                    "email": true
                 }
             ],
             "links": [
@@ -2782,7 +2791,8 @@
             "text": "Melanie here, just emailing you to tell you I can't hang out this weekend. The dog is vomiting EVERYWHERE and we need to take them to the vet. He's probably fine. I think he got into the leftover bacon...",
             "tags": [
                 {
-                  "user": "Melanie Smith"
+                  "user": "Melanie Smith",
+                    "email": true
                 }
             ],
             "links": [
@@ -2799,7 +2809,8 @@
             "text": "Find singles in your area with this one weird tip! Click here to order now!",
             "tags": [
               {
-                "user": "Singles Match"
+                "user": "Singles Match",
+                  "email": true
               }
             ],
             "links": [
@@ -2813,10 +2824,11 @@
         {
             "pid": 140,
             "name": "Singles Ad",
-            "text": "(Constant pop-ups start appearing and the player gets a virus)",
+            "text": "Hot singles want to meet!",
             "tags": [
                 {
-                    "virus": "scramble"
+                    "virus": "scramble",
+                    "popups": true
                 }
             ],
             "links": [

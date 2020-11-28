@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using StoryProgress.Emails;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -37,6 +38,8 @@ namespace Controllers
                 {
                     ScenesComplete.Add(scene.pid, false);
                 }
+                
+                InitEmails();
         
                 firstSetup = false;
             }
@@ -58,6 +61,16 @@ namespace Controllers
         private void BeginGame()
         {
             
+        }
+
+        private void InitEmails()
+        {
+            EmailsBehaviour.ConstructListOfEmails();
+            
+            foreach (var node in Act1Nodes)
+            {
+                EmailsBehaviour.CreateEmail(node);
+            }
         }
 
         public struct StoryAct
