@@ -1,0 +1,851 @@
+{
+    "ifid": "2CCE7BEF-25B1-4C05-BEC9-9CE8C4D83B3E",
+    "name": "Game Off 2020 Act 3",
+    "startNode": 1,
+    "creator": "Twine",
+    "creatorVersion": "2.3.9",
+    "format": "Harlowe",
+    "time": "2020-11-28T15:53:17.581Z",
+    "passages": [
+        {
+            "pid": 1,
+            "name": "AFTERLIFE",
+            "text": "WELCOME TO AFTERLIFE THE HOTTEST PAGE ON THE WEB",
+            "tags": [],
+            "links": [
+                {
+                    "id": "e5383fd1c9e7d91a8d81fce6d93753ddc519efe6",
+                    "label": "Currently Playing",
+                    "passageId": 2
+                },
+                {
+                    "id": "229b34376c09e61334274b5b1bd71951be1fbfe8",
+                    "label": "Repairs Needed",
+                    "passageId": 3
+                },
+                {
+                    "id": "fd2afcf34c47fe2f7ebca4b25d220bacc109d6a9",
+                    "label": "Scammed from Home",
+                    "passageId": 4
+                },
+                {
+                    "id": "d9922288e781cd98246da84d185520fd92389dd5",
+                    "label": "Passing Finance",
+                    "passageId": 5
+                },
+                {
+                    "id": "155dd89861cdafae42a353479d937b279c4338ad",
+                    "label": "Fortunes Told",
+                    "passageId": 6
+                },
+                {
+                    "id": "e7f53390205e8877e58b3a58bee1319ee35cec8d",
+                    "label": "Unexpected Cleanser",
+                    "passageId": 7
+                },
+                {
+                    "id": "60712d799376c6ce8cdf238baa1e7efef323b612",
+                    "label": "Moonlit Feast",
+                    "passageId": 8
+                },
+                {
+                    "id": "e38e127865a3253273ed8e09f16c977f29e36029",
+                    "label": "Wow, Nature",
+                    "passageId": 9
+                },
+                {
+                    "id": "faeeb09bfdd2c66555f59a6640b2a92f8a0fff91",
+                    "label": "Oh, Nature, Not Nature",
+                    "passageId": 10
+                },
+                {
+                    "id": "4c34ebf62d1e8620c41b2d3c4bf0e5f7d31a2daa",
+                    "label": "Now Playing",
+                    "passageId": 11
+                },
+                {
+                    "id": "6e7bfbd7252d143b7e23c116d04f7a74e9465fbf",
+                    "label": "It Belongs to the Fans",
+                    "passageId": 12
+                },
+                {
+                    "id": "5b41e701ee30c913575b3df2cb2fbb1d757ba325",
+                    "label": "A Soul Rests in Good Spirits",
+                    "passageId": 13
+                },
+                {
+                    "id": "bdc4e0d6da87b285a83e9b24c8bf9bf3323f91f6",
+                    "label": "A Soul is Haunted by the Present",
+                    "passageId": 14
+                },
+                {
+                    "id": "b15f2c97198ef580c0b4ad7dec1b6c7b7d4d4117",
+                    "label": "A Soul Finds Love Again",
+                    "passageId": 15
+                },
+                {
+                    "id": "3f887dfa821ccd3ea0ac91d2cead90c23fceaf4f",
+                    "label": "A Summoning of Nothingness",
+                    "passageId": 16
+                },
+                {
+                    "id": "29452c493db61f56c6f4d3ad238b38d3240f6396",
+                    "label": "GooseTales, Boo Hoo",
+                    "passageId": 17
+                },
+                {
+                    "id": "81c8b367282d8436868875346197899cd6c8b865",
+                    "label": "Video Game Crash",
+                    "passageId": 18
+                },
+                {
+                    "id": "ce2661e3bd5e6b11398708246a3bf5cae6322274",
+                    "label": "The Moon Knows No Hate",
+                    "passageId": 19
+                },
+                {
+                    "id": "eae780e6a658e75567dda8668c1968aa9a81a840",
+                    "label": "Silence is a Curse",
+                    "passageId": 20
+                },
+                {
+                    "id": "aaa1aec7e2c960caaa095c344329b53d200eb4d5",
+                    "label": "That One",
+                    "passageId": 21
+                },
+                {
+                    "id": "c9bfd2178941b5da3899133d5f26da4d3c0de5c0",
+                    "label": "Creep Leak",
+                    "passageId": 22
+                },
+                {
+                    "id": "b70c3c76897c0ddd55de8564d9392308cbb45445",
+                    "label": "Live to Serve",
+                    "passageId": 23
+                },
+                {
+                    "id": "196e84192f331b7b14aa5cf56245581fe57d9bae",
+                    "label": "Serve to Death",
+                    "passageId": 24
+                },
+                {
+                    "id": "a233441d1f91775d1233fbb8430a24cd01f1ac83",
+                    "label": "Demon War",
+                    "passageId": 25
+                },
+                {
+                    "id": "7937ced7441ec1d0a03ed59a4884ba437d92f42a",
+                    "label": "A Game You'll Never Stop Playing",
+                    "passageId": 26
+                },
+                {
+                    "id": "e34ded9be3fc200ad0dce4dd783a3ff1aeb7920a",
+                    "label": "The Internet is a Terrible Fate",
+                    "passageId": 27
+                },
+                {
+                    "id": "3cca58fb9eaa0b8e554f8d5b724911c2291e3f5d",
+                    "label": "No Fates, No Masters",
+                    "passageId": 28
+                },
+                {
+                    "id": "5ea226095f7c35aa23fe79322fa2275fa411a26c",
+                    "label": "A Nice Time on the Internet",
+                    "passageId": 29
+                },
+                {
+                    "id": "22455571b449c0394a51c7fbfbd564ba0b615a3f",
+                    "label": "An Awful Time on the Internet",
+                    "passageId": 30
+                },
+                {
+                    "id": "4ecf98e37899171cdedce2957bcea799a5bf3ecb",
+                    "label": "Believe in Yourself",
+                    "passageId": 31
+                },
+                {
+                    "id": "06a94be8ad79553503836e774b2fb5a7ac59c560",
+                    "label": "Ye of Little Faith",
+                    "passageId": 32
+                },
+                {
+                    "id": "7f59099370a238e327c0746f38a64442165bd1fc",
+                    "label": "You're Pretty Popular",
+                    "passageId": 33
+                },
+                {
+                    "id": "a3ecf64cb3652d84501aa76aa6df87efae797e91",
+                    "label": "Internet Pariah",
+                    "passageId": 34
+                },
+                {
+                    "id": "d812b7222b0b2c221987db65e6ce74e275526cc7",
+                    "label": "Better Stuff to Do",
+                    "passageId": 35
+                },
+                {
+                    "id": "e2e6ce12926477db747e59737b2da4e36b4c2210",
+                    "label": "Waste Your Life Away",
+                    "passageId": 36
+                },
+                {
+                    "id": "44f0395e59c15e66d7f061c76e3fb824c4066e78",
+                    "label": "Soul for Sale or Trade",
+                    "passageId": 37
+                },
+                {
+                    "id": "ca9dea1670b8bd4574776800dcde861f4e5d1d79",
+                    "label": "FINAL",
+                    "passageId": 38
+                }
+            ]
+        },
+        {
+            "pid": 2,
+            "name": "Currently Playing",
+            "text": "It's a suburban family's basement. The computer's off. Lights are dim. A glow comes from the palms of a teenage boy. A moustachioed carpenter hops around on a screen. The boy smiles and is reminded of the existance of joy.",
+            "tags": [
+                {
+                    "trigger": "ending",
+                "endVariable": "SnideGood"
+                }
+            ],
+            "links": [
+                {
+                    "id": "6656098a50cd42225facf53834698df51f960004",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 3,
+            "name": "Repairs Needed",
+            "text": "It's a suburban family's basement. The computer has been left on a game forum. Arguments and insults spawn on the screen. Flourescent lights hum and flicker. Fuzz and static play on a TV. The box normally used for play has failed. A teenage boy is filled with tears and anger. All the time in the world, but not a minute can be spent doing what he wants. Arguments and insults spawn on the screen...",
+            "tags": [
+                {
+                "endVariable": "SnideBad",
+                "trigger": "ending"
+                }
+            ],
+            "links": [
+                {
+                    "id": "78e0aa053364b218e935db1e8a2c61a75fdbc12d",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 4,
+            "name": "Scammed from Home",
+            "text": "Money had been saved. A short lifetime's worth. All in one place. More was to be added. All from home, with a simple work program. The money saved left instead. A banking scam most insideous. A click of the mouse most careless.",
+            "tags": [
+                {
+                "trigger":"ending",
+                "endVariable": "HouseholdIncomeYES"
+                }
+                        ],
+            "links": [
+                {
+                    "id": "d8956f6d6420df2503b2719cb6885681128c652f",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 5,
+            "name": "Passing Finance",
+            "text": "An opportunity presented itself. A profitable opportunity. The opportunity was soundly ignored. Could it have brought untold wealth? A relaxing life away beyond toiling for those with more? No one will ever know. The opportunity was ignore, and so too this chapter of life.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "HouseholdIncomeNO"
+                }
+            ],
+            "links": [
+                {
+                    "id": "c16d1069a60e0e18e044804792399e4b463da9d7",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 6,
+            "name": "Fortunes Told",
+            "text": "A window opened. One was tempted to glance through it. The future became the present became the past. Never were they told which was when. Instead living through those moments in time, not knowing when. Day or night. Tomorrow or yesterday. The moon shone through it all.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "PsychicReading"
+                }
+            ],
+            "links": [
+                {
+                    "id": "d23bcc5922958bbce1475ea87303c3598318ec88",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 7,
+            "name": "Unexpected Cleanser",
+            "text": "Condiments were made for the feast. Not of the mind. Not of the soul. But simply the food that fuels the mortal body. Instead, the sauce of the barbecue was used to bring cleansing. Cleansing not of the mind. Cleansing not of the soul. Simply cleansing of the body. Sales of these sauces soared beyond merchant's capacity.",
+            "tags": [
+                {
+                    "trigger": "ending",
+                "endVariable": "BBQGood"
+                }
+            ],
+            "links": [
+                {
+                    "id": "a20385503c1f3f8e572958caf67472ce108c3498",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 8,
+            "name": "Moonlit Feast",
+            "text": "Condiments were made for the feast. Not of the mind. Not of the soul. But simply the food that fuels the mortal body. Instead, the sauce of the barbecue was used to bring cleansing. Cleansing not of the mind. Cleansing not of the soul. Simply cleansing of the body. A man glistened in sauce. He thought he was clean. Condiments were made for the feast. Thus the animals feasted under the moon. The man glistened no more.",
+            "tags": [
+                {
+                "endVariable": "BBQBad",
+                "trigger": "ending"
+                }
+            ],
+            "links": [
+                {
+                    "id": "9c8e3918b9df8db8f7cd5a9a39505900989e6657",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 9,
+            "name": "Wow, Nature",
+            "text": "There is a beautiful creature. A creature more beautiful than most. Maybe more beautiful than all. A powerful jaw. Rugged skin. Long but not tall. The creature rules the swamps. It merely wants to be. To have a nice time. This beautiful creature. The beautiful alligator. Alligators are great.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "AlligatorGood"
+                }
+            ],
+            "links": [
+                {
+                    "id": "821119a1b6bea59b97e79dd403d73061c3857bae",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 10,
+            "name": "Oh, Nature, Not Nature",
+            "text": "There is a misunderstood creature. A creature more misunderstood than most. Maybe more misunderstood than all. A powerful jaw. Rugged skin. Long but not tall. The creature rules the swamps. It merely wants to be. To have a nice time. The people of the world do not want this. They want the creature to cease to exist. The people destroy this creature. The ecosystem falls out of balance. All because the people misunderstood the creature. The misunderstood alligator. Why would anyone hate alligators?",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "AlligatorBad"
+                }
+            ],
+            "links": [
+                {
+                    "id": "eceee8fb270c6cacc8cee4d97489defd1d2988af",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 11,
+            "name": "Now Playing",
+            "text": "A dark auditorium is filled with a small crowd. A projector flickers on. The silver screen flares to life. Several minutes pass and a feature begins. A man has been here before. Many times. Most of which for one series of films. Today he tries something new. Away from his computer. Away from his anger. A meet cute. A moonlit kiss. Jokes aplenty. The man cracks a smile. He remembers. Movies are his joy.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "VandeeGood"
+                }
+            ],
+            "links": [
+                {
+                    "id": "6929dfa7e2ed787070b7265197db5fd6f30f6e9c",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 12,
+            "name": "It Belongs to the Fans",
+            "text": "Obsession takes hold. Entitlement runs through him. Once he respected this creator. The creator of a universe. Now, he needs to stop the creator. Take back the movies he loves. Glass shatters on a ranch. Windows broken. Rooms vandalized. Is this the end of a universe?",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "VandeeBad"
+                }
+            ],
+            "links": []
+        },
+        {
+            "pid": 13,
+            "name": "A Soul Rests in Good Spirits",
+            "text": "A spirit was summoned. The spirit saw the world that they fought for. Did the world live up that life? The spirit was unsure. People spoke. The spirit listened. What the spirit found was encouraging. The spirit returned to the life thereafter with contentment.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "GhostGood"
+                }
+            ],
+            "links": [
+                {
+                    "id": "cc8521bb506b5405e8ee98e3dd3697d1cc0205a3",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 14,
+            "name": "A Soul is Haunted by the Present",
+            "text": "A spirit was summoned. The spirit saw the world that they fought for. Did the world live up that life? The spirit was unsure. People spoke. The spirit listened. What the spirit found was horrifying. The spirit returned to the life thereafter haunted by this experience.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "GhostCreep"
+                }
+            ],
+            "links": []
+        },
+        {
+            "pid": 15,
+            "name": "A Soul Finds Love Again",
+            "text": "A spirit was summoned. The spirit saw the world that they fought for. Did the world live up that life? The spirit was unsure. People spoke. The spirit listened. What the spirit found was romance. The spirit stayed in this world. Whatever and wherever it actually was.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "GhostFlirt"
+                }
+            ],
+            "links": [
+                {
+                    "id": "9386768f52158db0479a4378f7470c0730494204",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 16,
+            "name": "A Summoning of Nothingness",
+            "text": "A spirit was never summoned. The summoner was mocked for what they could do. The world did not want the summoner's gifts.The summoner gave up on the dream. Never again did they summon a spirit, a demon, or even a pet. Connections were never made. Stories were never told. The realms were less connected as a result.",
+            "tags": [
+                {
+                "endVariable": "GhostRude",
+                "trigger": "ending"
+                }
+            ],
+            "links": [
+                {
+                    "id": "fa19ec1e0324b6480a52d1e1c30647f6ed5b8232",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 17,
+            "name": "GooseTales, Boo Hoo",
+            "text": "A child lies in a hospital bed. Moments ago the child sat at home. A TV was buzzing. A game was being played. A game that did not end well. The child's brother waits by a bed. Anger and sorrow overcome them. Neither will ever play a video game again.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "GooseBad"
+                }
+            ],
+            "links": [
+                {
+                    "id": "1a745951e6de21c6f4f380bfd4a010198fb48474",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 18,
+            "name": "Video Game Crash",
+            "text": "A cartridge contained both a game and a curse. Bought for the game. Destroyed for the curse. Other cursed cartridges were found. Like dominos, they fell. One by one, found and destroyed. What remains burried in the desert.",
+            "tags": [
+                {
+                "trigger": "GooseGood",
+                "endVariable": "ending"
+                }
+            ],
+            "links": [
+                {
+                    "id": "f032f06c902dc2f86d1febee0654c9b15644ea24",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 19,
+            "name": "The Moon Knows No Hate",
+            "text": "A pretender witch ran a coven. The pretender called others that very name. One stood up to this supposed witch. More and more followed. The coven ran the pretender out. Her voice was loud but solo. She cursed the moon. The moon that had shined on all. Not just the ones she had accepted.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "CovenBad"
+                }
+            ],
+            "links": [
+                {
+                    "id": "54e23e1c13b78a4f62f4ebab6a61d6763347328e",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 20,
+            "name": "Silence is a Curse",
+            "text": "A pretender witch ran a coven. The pretender called others that very name. No one stood up to this supposed witch. More and more stayed silent. The coven's powers weakened but they pretender thought they grew. Her voice was loud but solo. She tried to curse all she deemed unworthy. The moon did not respond. But neither did her coven.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "CovenBad"
+                }
+            ],
+            "links": [
+                {
+                    "id": "cee1b7f26630ecf171252b0be7c8d03895844480",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 21,
+            "name": "That One",
+            "text": "The lesser demon Bobo had been summoned. Sleepy towns haunted by nightmares. Fear swept the children. Ignorance plagued the adults. Love twisted into hate. Life did not become death. Life became something worse. Bobo had been summoned.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "BoboSummoned"
+                }
+            ],
+            "links": [
+                {
+                    "id": "8363bfa4d1632ddaceac38c55a275ae2ec165aad",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 22,
+            "name": "Creep Leak",
+            "text": "Creepy people infest the internet. Mostly men. Stealing the precious time of others. Eisheth, Queen of Lust, had her time stolen. She would take much more than time from these thieves. She found their lives. She found where they live. She spread this information. She spread it to the world. Every time waster she could find. All known to the world.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "TimeWaster"
+                }
+            ],
+            "links": [
+                {
+                    "id": "c40ea17a0c9ac1a2e7ccfedd34867636e2098971",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 23,
+            "name": "Live to Serve",
+            "text": "A beneficial agreement made. The Queen of Lust found a servant. They served in menial tasks. They served in sensual tasks. They served in bloody tasks. They served in romantic tasks. They served and they were fulfilled.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "SlaveOfEisheth"
+                }
+            ],
+            "links": [
+                {
+                    "id": "1baf510e8e8c5e53116151ea9e998ddf68b9287d",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 24,
+            "name": "Serve to Death",
+            "text": "A one-sided agreement made. The Prince of Greed found a servant. They served in menial tasks. They served in painful tasks. They served in bloody tasks. They served in hateful tasks. They served and they were miserable.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "MammonDeal"
+                }
+            ],
+            "links": [
+                {
+                    "id": "a4f5cea12005a96384b9fa0984b53142b8271696",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 25,
+            "name": "Demon War",
+            "text": "Two agreements were made. One to the Queen of Lust. One to the Prince of Greed. Both were offered the same thing. They warred for this soul. They killed for this soul. They became something else for this soul. They were consumed by this soul. They warred and they were lost.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "MammonEisheth"
+                }
+            ],
+            "links": [
+                {
+                    "id": "9de716a11fcdadfa6de053a8e110cd828ba0c1f4",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 26,
+            "name": "A Game You'll Never Stop Playing",
+            "text": "A lord came hither. Tempted by lust. Trapped by addiction. A click here. A transaction there. Endless building. Endless warring. Little reward. The lord was not a lord. The lord was a fool. A life lost. Lost to a game. A game with no winner.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "LerajeGame"
+                }
+            ],
+            "links": [
+                {
+                    "id": "573033c9cdbefbce4b2a8d461afd57e6ceae6bf2",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 27,
+            "name": "The Internet is a Terrible Fate",
+            "text": "A fate is told. A terrible fate. An unclear fate. The fate was both a lie and a truth. The fate was not the future. The fate was what was happening. What had happened. This is the fate. Here is the fate. The time spent in this place.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "TerribleFate"
+                }
+            ],
+            "links": [
+                {
+                    "id": "4dba8d029d4159d6d3d7ef7d18aa54af7889d110",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 28,
+            "name": "No Fates, No Masters",
+            "text": "No fate is told. Not a fortunate fate. Nor one unfortunate. unclear fate. Fate is defined by the individual. The fate was what was happening. What had happened. This is the fate. Here is the fate. The time spent in this place.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "NoFate"
+                }
+            ],
+            "links": [
+                {
+                    "id": "8762614154dd8e3b5552e1a92c8fc97a37544d35",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 29,
+            "name": "A Nice Time on the Internet",
+            "text": "Happiness has been spread upon this place. In the face of hate. In the face of ignorance. In the face of everything. Help was given. Jokes were made. Laughs were had. Joy overcame sorrow.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "PositiveHappiness"
+                }
+            ],
+            "links": [
+                {
+                    "id": "93e5bdf535ff1506fa5b3f0693670d2e6ec71851",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 30,
+            "name": "An Awful Time on the Internet",
+            "text": "Happiness has left this place. In the face of hate. In the face of ignorance. In the face of everything. Arguments were had. Insults were made. Screaming was had. Sorrow overcame joy.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "NegativeHappiness"
+                }            ],
+            "links": [
+                {
+                    "id": "260c12479e8a4c08c9128bb76caaa8f11c6d4219",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 31,
+            "name": "Believe in Yourself",
+            "text": "Someone truly believed in themself. They brought that confidence with them everywhere. It rubbed off on some. It was the bane of others. Sometimes it looked like foolishness. Other times it was an attractive swagger. Always it went with them.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "PositiveConfidence"
+                }
+            ],
+            "links": [
+                {
+                    "id": "df327101c9758403a202f7d039648e6ea1913f8c",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 32,
+            "name": "Ye of Little Faith",
+            "text": "Someone didn't believe in themself. They lacked any sort of confidence. It showed. It rubbed off on some. It was the bane of others. Sometimes it looked like foolishness. Other times it was an attractive nervousness. Always it went with them.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "NegativeConfidence"
+                }
+            ],
+            "links": [
+                {
+                    "id": "8aee14f9dbc6224521d66776da887c205f26e58f",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 33,
+            "name": "You're Pretty Popular",
+            "text": "A well-liked person posted. Witty retorts. Informative answers. Content that went viral. They were internet famous. It amounted to nothing. No book deals. Not a guest spot on television. Endoresments, money, and jobs did not come. But everyone knew their name.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "PositiveFame"
+                }
+            ],
+            "links": [
+                {
+                    "id": "7232e723bdca5e6376f92d9b1adca45911283539",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 34,
+            "name": "Internet Pariah",
+            "text": "A despised person posted. Droll retorts. Uninformative answers. Content that went nowhere. They were infamous. It amounted to nothing. No book deals. Not a guest spot on television. Endoresments, money, and jobs did not come. But everyone knew their name.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "NegativeFame"
+                }
+            ],
+            "links": [
+                {
+                    "id": "8fd01dd44810eebc28838b26d861a320aaff09e1",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 35,
+            "name": "Better Stuff to Do",
+            "text": "An adequate amount of time spent. Healthy breaks from screen time. A productive life. Not getting drawn into the abyss. Not taking the bait. An impossible task for some. So little wasted. Maybe too little.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "PositiveProductivity"
+                }
+            ],
+            "links": [
+                {
+                    "id": "05826a0144d558291fefdcbc726efec5fa41435a",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 36,
+            "name": "Waste Your Life Away",
+            "text": "Way too much time spent online. Eyes never leaving the screen. A unproductive life. Getting drawn into the abyss. Taking the bait. Doubling down on every bad behavior. So much wasted. Maybe too much.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "NegativeProductivity"
+                }
+            ],
+            "links": [
+                {
+                    "id": "f380c4f6b193d8267e05d046d6f6e9bae1630af5",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 37,
+            "name": "Soul for Sale or Trade",
+            "text": "A soul sold like common currency. A soul completely unvalued. A soul made all the more worthless by giving it away. Can something be sold if it has no worth? A question that must have been answered by one with no soul.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "SoldSoul"
+                }
+            ],
+            "links": [
+                {
+                    "id": "6955c10c8f1113c1413021de2352365749079bfb",
+                    "label": "AFTERLIFE",
+                    "passageId": 1
+                }
+            ]
+        },
+        {
+            "pid": 38,
+            "name": "FINAL",
+            "text": "This is a chronicle of your deeds in this place. Good, bad, whatever considered inbetween. Take them with you to the next world. It's who you are. It doesn't have to be who you will be. Logging off.",
+            "tags": [
+                {
+                "trigger": "ending",
+                "endVariable": "Final"
+                }
+            ],
+            "links": []
+        }
+    ]
+}
