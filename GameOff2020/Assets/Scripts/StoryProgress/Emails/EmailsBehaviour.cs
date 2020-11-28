@@ -8,43 +8,65 @@ namespace StoryProgress.Emails
     public class EmailsBehaviour : MonoBehaviour
     {
 
-        //prefab
-        public string Sender;
-        public string Title;
-    
-
         public static List<EmailStruct> storyEmails;
+        public Transform emailParent;
 
-        public Texture2D[] emailIcons;
+        public GameObject emailPrefab;
+
+        public static void ConstructListOfEmails()
+        {
+            storyEmails = new List<EmailStruct>();
+        }
     
         // Start is called before the first frame update
         void Start()
         {
             foreach (var email in storyEmails)
             {
-            
+                var emailObject = Instantiate(emailPrefab, emailParent, false);
+                emailObject.transform.localScale = Vector3.one;
+                var emailData = emailObject.GetComponent<Email>();
+                emailData.PopulateEmail(email);
             }
         }
 
-        void CreateEmail()
+        public static  void CreateEmail(TwineParser.StoryNode node)
         {
-        
+            var virusStatus = MessageStatus.Unread;
+            if (node.stat.virus != null)
+            {
+                virusStatus = MessageStatus.Glitched;
+            }
+            EmailStruct email = new EmailStruct(node.username, node.name, virusStatus, node.text);
+            storyEmails.Add(email);
         }
 
-
     }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
     public struct EmailStruct
     {
         public string Sender;
         public string Title;
         public MessageStatus Status;
+        public string BodyText;
 
-        public EmailStruct(string sender, string title, MessageStatus status)
+        public EmailStruct(string sender, string title, MessageStatus status, string bodyText)
         {
             Sender = sender;
             Title = title;
             Status = status;
+            BodyText = bodyText;
         }
     }
     

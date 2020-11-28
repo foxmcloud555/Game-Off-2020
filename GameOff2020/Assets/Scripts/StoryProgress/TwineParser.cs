@@ -30,7 +30,7 @@ public class TwineParser : MonoBehaviour
             node.name = passage["name"]?.ToString();
             node.text = passage["text"]?.ToString();
             //tags
-            node.username = passage["tags"][0]["user"]?.ToString();
+            node.username = passage["tags"][0]["user"]?.ToString() ?? "anon";
             node.trigger = passage["tags"][0]["trigger"]?.ToString();
             node.storyVariable = passage["tags"][0]["storyVariable"]?.ToString();
             
