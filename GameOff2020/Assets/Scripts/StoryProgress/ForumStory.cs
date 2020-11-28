@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using Controllers;
+using StoryProgress.Emails;
 using UnityEngine;
 using UnityEngine.Serialization;
 using UnityEngine.UI;
@@ -123,6 +124,7 @@ namespace StoryProgress
                     GameController.ScenesComplete[currentNode.pid] = true;
                     GameController.Acts.Add(new GameController.StoryAct(start, passageIDs, true));
                     nextPostReady = false;
+                    SendEmailIfNecessary(currentNode);
                     
                     //TODO check if next post is email!
                     
@@ -152,6 +154,16 @@ namespace StoryProgress
             currentNode = node;
             nextPostReady = true;
             UpdateStoryVariables(currentNode);
+        }
+
+        private void SendEmailIfNecessary(TwineParser.StoryNode node)
+        {
+            if (node.links.Count == 1)
+            {
+                var link = node.links[0];
+                node = _nodes.Find(n => n.pid == link.passageID);
+                EmailsBehaviour.CreateEmail(node);
+            }
         }
 
         private void UpdateStats(TwineParser.StoryNode node)

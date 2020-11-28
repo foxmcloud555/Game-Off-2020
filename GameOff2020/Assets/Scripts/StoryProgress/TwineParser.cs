@@ -33,6 +33,7 @@ public class TwineParser : MonoBehaviour
             node.username = passage["tags"][0]["user"]?.ToString() ?? "anon";
             node.trigger = passage["tags"][0]["trigger"]?.ToString();
             node.storyVariable = passage["tags"][0]["storyVariable"]?.ToString();
+            node.email = passage["tags"][0]["email"]?.Type == JTokenType.Boolean;
             
             //links
             node.links = new List<StoryLink>();
@@ -68,6 +69,7 @@ public class TwineParser : MonoBehaviour
         public string username;
         public string trigger;
         public string storyVariable;
+        public bool email;
         
         //links
         public List<StoryLink> links;

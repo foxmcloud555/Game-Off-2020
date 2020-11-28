@@ -15,18 +15,21 @@ namespace StoryProgress.Emails
 
         public static void ConstructListOfEmails()
         {
+            Debug.Log("initialising emails");
             storyEmails = new List<EmailStruct>();
         }
     
         // Start is called before the first frame update
         void Start()
         {
+            int emailsCount = 0;
             foreach (var email in storyEmails)
             {
                 var emailObject = Instantiate(emailPrefab, emailParent, false);
                 emailObject.transform.localScale = Vector3.one;
                 var emailData = emailObject.GetComponent<Email>();
-                emailData.PopulateEmail(email);
+                emailData.PopulateEmail(email, emailsCount);
+                emailsCount++;
             }
         }
 
@@ -60,6 +63,7 @@ namespace StoryProgress.Emails
         public string Title;
         public MessageStatus Status;
         public string BodyText;
+        
 
         public EmailStruct(string sender, string title, MessageStatus status, string bodyText)
         {
@@ -67,6 +71,11 @@ namespace StoryProgress.Emails
             Title = title;
             Status = status;
             BodyText = bodyText;
+        }
+
+        public void SetStatus(MessageStatus status)
+        {
+            Status = status;
         }
     }
     

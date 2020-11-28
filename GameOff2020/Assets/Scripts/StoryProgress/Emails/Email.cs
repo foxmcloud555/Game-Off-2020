@@ -7,7 +7,8 @@ using UnityEngine.UI;
 public class Email : MonoBehaviour
 {
 
-    public SpriteRenderer icon;
+    public int listID;
+    public Image icon;
     public Text sender;
     public Text title;
     public Text bodyText;
@@ -18,7 +19,7 @@ public class Email : MonoBehaviour
 
     private bool isOpen;
 
-    private void OnMouseDown()
+    public void ClickEmail()
     {
         animator.enabled = false;
         
@@ -32,10 +33,12 @@ public class Email : MonoBehaviour
         }
         
         icon.sprite = emailIcons[(int) status];
+        EmailsBehaviour.storyEmails[listID] = new EmailStruct(sender.text, title.text, MessageStatus.Read, bodyText.text);
     }
 
-    public void PopulateEmail(EmailStruct data)
+    public void PopulateEmail(EmailStruct data, int id)
     {
+        listID = id;
         status = data.Status;
         icon.sprite = emailIcons[(int) status];
         sender.text = data.Sender;
