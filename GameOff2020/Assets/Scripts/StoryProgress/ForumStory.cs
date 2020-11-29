@@ -30,15 +30,17 @@ namespace StoryProgress
         private bool nextPostReady = true;
         private GameObject currentReply;
         private List<int> passageIDs;
+        private Dictionary<int, bool> scenesComplete;
 
         public void Start()
         {
+            SetAct();
             passageIDs = new List<int>();
-            _nodes = GameController.Act1Nodes;
             parser = GameObject.Find("Browser").GetComponent<TwineParser>();
             parser.parseJSON(GameController.CurrentAct);
+            _nodes = parser.storyNodes;
             var startNode = _nodes.Find(n => n.name == start);
-            GameController.ScenesCompleteAct1.TryGetValue(startNode.pid, out var post);
+            scenesComplete.TryGetValue(startNode.pid, out var post);
             if (post)
             {
                 AutomaticallyCreatePosts();
@@ -49,6 +51,23 @@ namespace StoryProgress
                 CreatePost(startNode);
             }
             
+        }
+
+        private void SetAct()
+        {
+            switch (GameController.CurrentAct)
+            {
+                case 1:
+                    scenesComplete = GameController.ScenesCompleteAct1;
+                    break;
+                case 2:
+                    scenesComplete = GameController.ScenesCompleteAct2;
+                    break;
+                case 3:
+                   // _nodes = GameController.Act3Nodes;
+                break;
+            }
+
         }
 
         private void AutomaticallyCreatePosts()
@@ -120,31 +139,32 @@ namespace StoryProgress
         private void FirstTimeUpdate()
         {
             timer += 0.01;
-            if ((timer > 10 && nextPostReady) || autoPost)
+            if ((!(timer > 10) || !nextPostReady) && !autoPost) return;
+            if (currentNode.trigger == "end")
             {
-                if (currentNode.trigger == "end")
+                if (scenesComplete.ContainsKey(currentNode.pid))
                 {
-                    GameController.ScenesCompleteAct1[currentNode.pid] = true;
-                    GameController.Acts.Add(new GameController.StoryAct(start, passageIDs, true));
-                    nextPostReady = false;
-                    SendEmailIfNecessary(currentNode);
-                    
-                    //TODO check if next post is email!
-                    
-                    return;
-                }
-            
-                //if (!String.Equals(currentNode.username, characterToReplyTo, StringComparison.CurrentCultureIgnoreCase))
-                if (currentNode.links.Count < 2)
-                {
-                    ProgressConvo(); 
-                }
-                else
-                {
-                    nextPostReady = false;
-                    CreateReply();
+                    scenesComplete[currentNode.pid] = true;
                 }
 
+                GameController.Acts.Add(new GameController.StoryAct(start, passageIDs, true));
+                nextPostReady = false;
+                SendEmailIfNecessary(currentNode);
+                    
+                //TODO check if next post is email!
+                    
+                return;
+            }
+            
+            //if (!String.Equals(currentNode.username, characterToReplyTo, StringComparison.CurrentCultureIgnoreCase))
+            if (currentNode.links == null || currentNode.links.Count < 2)
+            {
+                ProgressConvo(); 
+            }
+            else
+            {
+                nextPostReady = false;
+                CreateReply();
             }
         }
         

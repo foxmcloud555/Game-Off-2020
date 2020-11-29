@@ -141,6 +141,36 @@ PrefabInstance:
       propertyPath: m_Name
       value: top_search_bar
       objectReference: {fileID: 0}
+    - target: {fileID: 4429209546124620923, guid: d3c2545d8a43b8240ae7129fbfe15400,
+        type: 3}
+      propertyPath: m_Colors.m_DisabledColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4429209546124620923, guid: d3c2545d8a43b8240ae7129fbfe15400,
+        type: 3}
+      propertyPath: m_Colors.m_DisabledColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4429209546124620923, guid: d3c2545d8a43b8240ae7129fbfe15400,
+        type: 3}
+      propertyPath: m_Colors.m_DisabledColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4429209546124620923, guid: d3c2545d8a43b8240ae7129fbfe15400,
+        type: 3}
+      propertyPath: m_Colors.m_DisabledColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4429209546124620923, guid: d3c2545d8a43b8240ae7129fbfe15400,
+        type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4429209546124620925, guid: d3c2545d8a43b8240ae7129fbfe15400,
+        type: 3}
+      propertyPath: m_Name
+      value: urlBar
+      objectReference: {fileID: 0}
     - target: {fileID: 4429209546527055748, guid: d3c2545d8a43b8240ae7129fbfe15400,
         type: 3}
       propertyPath: m_FillCenter

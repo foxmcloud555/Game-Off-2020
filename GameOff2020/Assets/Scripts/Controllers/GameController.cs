@@ -3,20 +3,20 @@ using System.Linq;
 using StoryProgress.Emails;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 namespace Controllers
 {
     public class GameController : MonoBehaviour
     {
 
-        public static int CurrentAct = 1;
+        public static int CurrentAct = 2;
         public static TwineParser.CharacterStats PlayerStats;
         public static List<string> StoryVariables;
         public static Dictionary<int, bool> ScenesCompleteAct1;
         public static Dictionary<int, bool> ScenesCompleteAct2;
         public static List<TwineParser.StoryNode> Act1Nodes;
         public static List<TwineParser.StoryNode> Act2Nodes;
-
 
         private readonly int[] _startingEmails =  {136, 137, 138, 139};
         private int[] _actTwoEmails = {8, 11, 12};
@@ -69,10 +69,13 @@ namespace Controllers
                 //BeginGame();
         }
 
-        // Update is called once per frame
-        void Update()
+        private void Start()
         {
-        
+            var urlBar = GameObject.Find("urlBar");
+            if (!urlBar) return;
+            string sitename = SceneManager.GetActiveScene().name.ToLower();
+            sitename = sitename.Replace(' ', '-');
+            urlBar.GetComponent<InputField>().text = $"www.{sitename}.com";
         }
 
         public void LoadScene(GameObject button)
@@ -112,6 +115,8 @@ namespace Controllers
                 Completed = completed;
             }
         }
+        
+        
 
     
     

@@ -66,8 +66,6 @@ public class TwineParser : MonoBehaviour
 
             storyNodes.Add(node);
         }
-
-        Debug.Log(passages);
     }
 
     public struct StoryNode

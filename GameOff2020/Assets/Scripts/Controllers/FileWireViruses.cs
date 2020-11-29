@@ -16,7 +16,6 @@ public class FileWireViruses : MonoBehaviour
    //Start is called before the first frame update
    void Start()
    {
-       texts = new List<Text>();
        originalStrings = new List<string>();
    }
 
@@ -63,6 +62,11 @@ public class FileWireViruses : MonoBehaviour
 
    private void ScrambleStrings(List<Text> textComponents)
    {
+       texts = new List<Text>();
+       if (originalStrings == null)
+       {
+           originalStrings = new List<string>();
+       }
        foreach (var textComponent in textComponents)
        {
            texts.Add(textComponent);
