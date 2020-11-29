@@ -11,7 +11,7 @@ namespace Controllers
     public class GameController : MonoBehaviour
     {
 
-        public static int CurrentAct = 1;
+        public static int CurrentAct = 2;
         public static TwineParser.CharacterStats PlayerStats;
         public static List<string> StoryVariables;
         public static Dictionary<int, bool> ScenesCompleteAct1;
@@ -76,7 +76,7 @@ namespace Controllers
             if (!urlBar) return;
             string sitename = SceneManager.GetActiveScene().name.ToLower();
             sitename = sitename.Replace(' ', '\0');
-            var siteNameParts = sitename.Split(new string[] { "Act" }, StringSplitOptions.None);
+            var siteNameParts = sitename.Split(new string[] { "act" }, StringSplitOptions.None);
             sitename = siteNameParts[0];
             urlBar.GetComponent<InputField>().text = $"www.{sitename}.com";
         }

@@ -14,6 +14,7 @@ namespace StoryProgress
 
         private void OnEnable()
         {
+            threads = transform.Find("Threads").gameObject;
             HideShowAllPosts(false);
         }
 
