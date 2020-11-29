@@ -83,7 +83,13 @@ namespace Controllers
 
         public void LoadScene(GameObject button)
         {
-            SceneManager.LoadScene(button.name);
+            var sceneToLoad = button.name;
+            if (CurrentAct != 1 && !sceneToLoad.Contains("E-Mail") && !sceneToLoad.Contains("Home"))
+            {
+                sceneToLoad = $"{sceneToLoad} Act {CurrentAct}";
+            }
+            
+            SceneManager.LoadScene(sceneToLoad);
         }
 
 
