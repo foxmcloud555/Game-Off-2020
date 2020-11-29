@@ -202,7 +202,7 @@
         },
         {
             "pid": 2,
-            "name": "Currently Playing",
+            "name": "Game On",
             "text": "It's a suburban family's basement. The computer's off. Lights are dim. A glow comes from the palms of a teenage boy. A moustachioed carpenter hops around on a screen. The boy smiles and is reminded of the existance of joy.",
             "tags": [
                 {
@@ -212,9 +212,7 @@
             ],
             "links": [
                 {
-                    "id": "6656098a50cd42225facf53834698df51f960004",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
+                    
                 }
             ]
         },
@@ -229,11 +227,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "78e0aa053364b218e935db1e8a2c61a75fdbc12d",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+               
             ]
         },
         {
@@ -247,11 +241,7 @@
                 }
                         ],
             "links": [
-                {
-                    "id": "d8956f6d6420df2503b2719cb6885681128c652f",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+              
             ]
         },
         {
@@ -265,11 +255,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "c16d1069a60e0e18e044804792399e4b463da9d7",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+              
             ]
         },
         {
@@ -283,11 +269,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "d23bcc5922958bbce1475ea87303c3598318ec88",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+             
             ]
         },
         {
@@ -301,11 +283,8 @@
                 }
             ],
             "links": [
-                {
-                    "id": "a20385503c1f3f8e572958caf67472ce108c3498",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+              
+                
             ]
         },
         {
@@ -319,11 +298,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "9c8e3918b9df8db8f7cd5a9a39505900989e6657",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+               
             ]
         },
         {
@@ -337,11 +312,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "821119a1b6bea59b97e79dd403d73061c3857bae",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+               
             ]
         },
         {
@@ -355,11 +326,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "eceee8fb270c6cacc8cee4d97489defd1d2988af",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+                
             ]
         },
         {
@@ -373,11 +340,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "6929dfa7e2ed787070b7265197db5fd6f30f6e9c",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+               
             ]
         },
         {
@@ -403,11 +366,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "cc8521bb506b5405e8ee98e3dd3697d1cc0205a3",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+               
             ]
         },
         {
@@ -433,11 +392,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "9386768f52158db0479a4378f7470c0730494204",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+                
             ]
         },
         {
@@ -451,11 +406,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "fa19ec1e0324b6480a52d1e1c30647f6ed5b8232",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+            
             ]
         },
         {
@@ -469,11 +420,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "1a745951e6de21c6f4f380bfd4a010198fb48474",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+              
             ]
         },
         {
@@ -482,16 +429,12 @@
             "text": "A cartridge contained both a game and a curse. Bought for the game. Destroyed for the curse. Other cursed cartridges were found. Like dominos, they fell. One by one, found and destroyed. What remains burried in the desert.",
             "tags": [
                 {
-                "trigger": "GooseGood",
-                "endVariable": "ending"
+                "trigger": "ending",
+                "endVariable": "GooseGood"
                 }
             ],
             "links": [
-                {
-                    "id": "f032f06c902dc2f86d1febee0654c9b15644ea24",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+                
             ]
         },
         {
@@ -505,11 +448,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "54e23e1c13b78a4f62f4ebab6a61d6763347328e",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+            
             ]
         },
         {
@@ -523,11 +462,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "cee1b7f26630ecf171252b0be7c8d03895844480",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+              
             ]
         },
         {
@@ -541,11 +476,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "8363bfa4d1632ddaceac38c55a275ae2ec165aad",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+                
             ]
         },
         {
@@ -559,11 +490,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "c40ea17a0c9ac1a2e7ccfedd34867636e2098971",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+                
             ]
         },
         {
@@ -577,11 +504,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "1baf510e8e8c5e53116151ea9e998ddf68b9287d",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+               
             ]
         },
         {
@@ -595,11 +518,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "a4f5cea12005a96384b9fa0984b53142b8271696",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+               
             ]
         },
         {
@@ -613,11 +532,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "9de716a11fcdadfa6de053a8e110cd828ba0c1f4",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+               
             ]
         },
         {
@@ -631,11 +546,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "573033c9cdbefbce4b2a8d461afd57e6ceae6bf2",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+                
             ]
         },
         {
@@ -649,11 +560,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "4dba8d029d4159d6d3d7ef7d18aa54af7889d110",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+                
             ]
         },
         {
@@ -667,11 +574,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "8762614154dd8e3b5552e1a92c8fc97a37544d35",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+               
             ]
         },
         {
@@ -685,11 +588,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "93e5bdf535ff1506fa5b3f0693670d2e6ec71851",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+                
             ]
         },
         {
@@ -702,11 +601,7 @@
                 "endVariable": "NegativeHappiness"
                 }            ],
             "links": [
-                {
-                    "id": "260c12479e8a4c08c9128bb76caaa8f11c6d4219",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+                
             ]
         },
         {
@@ -720,11 +615,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "df327101c9758403a202f7d039648e6ea1913f8c",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+               
             ]
         },
         {
@@ -738,11 +629,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "8aee14f9dbc6224521d66776da887c205f26e58f",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+              
             ]
         },
         {
@@ -756,11 +643,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "7232e723bdca5e6376f92d9b1adca45911283539",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+              
             ]
         },
         {
@@ -774,11 +657,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "8fd01dd44810eebc28838b26d861a320aaff09e1",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+               
             ]
         },
         {
@@ -792,11 +671,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "05826a0144d558291fefdcbc726efec5fa41435a",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+                
             ]
         },
         {
@@ -810,11 +685,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "f380c4f6b193d8267e05d046d6f6e9bae1630af5",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+               
             ]
         },
         {
@@ -828,11 +699,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "6955c10c8f1113c1413021de2352365749079bfb",
-                    "label": "AFTERLIFE",
-                    "passageId": 1
-                }
+                
             ]
         },
         {
