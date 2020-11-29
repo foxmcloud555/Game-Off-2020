@@ -515,7 +515,7 @@
         {
             "pid": 22,
             "name": "SnideCooper's Reply GB7",
-            "text": "Superb Guys wasn't even as good a Wack Wallaby.",
+            "text": "Superb Guys wasn't even as good as Wack Wallaby.",
             "tags": [
                 {
                     "user": "SnideCooper"
@@ -803,7 +803,8 @@
             "tags": [
                 {
                     "user": "Home-Scape-Press",
-                    "trigger": "start"
+                    "trigger": "start",
+                    "image": "sandwich"
                 }
             ],
             "links": [
@@ -821,7 +822,13 @@
                     "id": "d1a600c2aa703e97087ade527f379dc1a03f94a7",
                     "label": "Home Scape",
                     "passageId": 3
-                }
+                },
+            {
+                "id": "72c90ca0ac027862137738a1c4edbe45c6d554bb",
+                "label": "Clickable Foot Powder Ad",
+                "passageId": 46
+            }
+
             ]
         },
         {
@@ -831,7 +838,8 @@
             "tags": [
                 {
                     "trigger": "start",
-                    "user": "Home-Scape-Press"
+                    "user": "Home-Scape-Press",
+                    "image": "splitz"
                 }
             ],
             "links": [
@@ -839,11 +847,6 @@
                     "id": "e3a902eade1aeb94faf031612e7f205b92ebca17",
                     "label": "Celebrity Power Couple Calls it Quits Comments",
                     "passageId": 45
-                },
-                {
-                    "id": "72c90ca0ac027862137738a1c4edbe45c6d554bb",
-                    "label": "Clickable Foot Powder Ad",
-                    "passageId": 46
                 }
 
             ]
@@ -855,7 +858,8 @@
             "tags": [
                 {
                     "user": "Online-Psychics-United",
-                    "trigger": "start"
+                    "trigger": "start",
+                    "image": "psychic"
                 }
             ],
             "links": [
@@ -1000,7 +1004,8 @@
             "text": "Get your feet fresh with new LANCE Foot Powder. Women will be swimming at your feet! BUY NOW!",
             "tags": [
                 {
-                  "user": "LANCE Foot Power"
+                  "user": "LANCE Foot Power",
+                  "image": "footpowder"
                 }
             ],
             "links": [
@@ -1159,11 +1164,12 @@
         {
             "pid": 55,
             "name": "This map shows which states it's legal to own an alligator",
-            "text": "(Map of US depicting where you can own alligators)>tfw you live in Nebraska",
+            "text": ">tfw you live in Nebraska",
             "tags": [
                 {
                     "user": "DonkDonker",
-                    "trigger": "start"
+                    "trigger": "start",
+                    "image": "usa_alligator"
                 }
             ],
             "links": [
@@ -1221,11 +1227,12 @@
         {
             "pid": 58,
             "name": "Dragon Fist X Episode 142 Discussion",
-            "text": "Part 33 of the epic battle with Fridge. Could not believe Wukong already used his Soul Blast and it DIDN'T WORK! Anyway, find the Luna Wire link for the episode below:",
+            "text": "Part 33 of the epic battle with Fridge. Could not believe Wukong already used his Soul Blast and it DIDN'T WORK! Anyway, DM me for the Luna Wire link to the episode.",
             "tags": [
                 {
                     "trigger": "start",
-                    "user": "ZZJ Wukong"
+                    "user": "ZZJ Wukong",
+                    "image": "dragonfistx"
                 }
             ],
             "links": [
@@ -1884,7 +1891,7 @@
         {
             "pid": 94,
             "name": "Alligator P2",
-            "text": "Mississippi Gator Gang rise up",
+            "text": "Louisiana Gator Gang rise up",
             "tags": [
                 {
                     "user": "HaloHalo"
@@ -1969,10 +1976,11 @@
         {
             "pid": 99,
             "name": "Alligator P7",
-            "text": "Lol, yeah, they're my babies (PICTURE OF THREE ALLIGATORS HERE)",
+            "text": "Lol, yeah, they're my babies",
             "tags": [
                 {
-                    "user": "FunPackage"
+                    "user": "FunPackage",
+                    "image": "3_alligators"
                 }
             ],
             "links": [
@@ -1996,10 +2004,11 @@
         {
             "pid": 100,
             "name": "Nice Alligator P2",
-            "text": "(Cute alligator GIF)",
+            "text": "",
             "tags": [
                 {
-                    "user": "DID0D0"
+                    "user": "DID0D0",
+                    "image": "alligatorgif"
                 }
             ],
             "links": [
@@ -2013,7 +2022,7 @@
         {
             "pid": 101,
             "name": "Nice Alligator P3",
-            "text": "(Another alligator pic)",
+            "text": ">*^,^,^~~~",
             "tags": [
                 {
                     "user": "FunPackage",
@@ -2312,7 +2321,7 @@
         {
             "pid": 116,
             "name": "Reply SF6",
-            "text": "\"Space Force is a film for 12 year olds.\" - Lucas George \n\nLink: ",
+            "text": "\"Space Force is a film for 12 year olds.\" - Lucas George",
             "tags": [
                 {
                     "user": "player",
@@ -2331,10 +2340,10 @@
         {
             "pid": 117,
             "name": "Lucas George Tells All",
-            "text": "In Anaheim, CA, the year's largest gathering of geeks, nerds, and fans of a good time at the movies took place. Space Force Fest 5 brought together this collection of enthusiasts to celebrate the latest release in the Space Force series. We sat down to speak with the one and only, Lucas George, creator of the Space Force Saga.\n\nHome Scape: Thanks for taking time out of your busy schedule to sit with us, Luke. Can we call you Luke?\n\nLucas George: You shouldn't.\n\nHome Scape: Alright, Luke! First question, what do you have to say to fans who think these new Space Force movies aren't as good as the originals?\n\nLucas George: I think they can be safely ignored.\n\nHome Scape: Ignored? Your most loyal fans?\n\nLucas George: Space Force is a film for 12 year olds. Those are my most loyal fans, not sweaty 30-year olds whose only bathing soap is an unopened bottle of Jars Bath Bubbles.\n\nHome Scape: Some people would say that the most recent films are too political for children. What do you have to say to that?\n\nLucas George: I think politics have been too childish for adults.\n\nHome Scape: Before you go, can I ask you about the rumored sequel trilogy to the original Space Force trilogy? Any plans on making those?\n\nLucas George: Why would I tell you that?\n\nHome Scape: Thanks, Luke!",
+            "text": "Source: Home Scape \n\"In Anaheim, CA, the year's largest gathering of geeks, nerds, and fans of a good time at the movies took place. Space Force Fest 5 brought together this collection of enthusiasts to celebrate the latest release in the Space Force series. We sat down to speak with the one and only, Lucas George, creator of the Space Force Saga.\n\nHome Scape: Thanks for taking time out of your busy schedule to sit with us, Luke. Can we call you Luke?\n\nLucas George: You shouldn't.\n\nHome Scape: Alright, Luke! First question, what do you have to say to fans who think these new Space Force movies aren't as good as the originals?\n\nLucas George: I think they can be safely ignored.\n\nHome Scape: Ignored? Your most loyal fans?\n\nLucas George: Space Force is a film for 12 year olds. Those are my most loyal fans, not sweaty 30-year olds whose only bathing soap is an unopened bottle of Jars Bath Bubbles.\n\nHome Scape: Some people would say that the most recent films are too political for children. What do you have to say to that?\n\nLucas George: I think politics have been too childish for adults.\n\nHome Scape: Before you go, can I ask you about the rumored sequel trilogy to the original Space Force trilogy? Any plans on making those?\n\nLucas George: Why would I tell you that?\n\nHome Scape: Thanks, Luke!\"",
             "tags": [
                 {
-                    "user": "Home-Scape-Press"
+                    "user": "player"
                 }
             ],
             "links": [
@@ -2684,16 +2693,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "7425edf8bd52a18080b8b47d8ecac77d6ef6f041",
-                    "label": "Luna Wire",
-                    "passageId": 6
-                },
-                {
-                    "id": "d77a3525d105aedf4ae5def73243b37c7eae09ab",
-                    "label": "Cool Zone",
-                    "passageId": 2
-                }
+           
             ]
         },
         {
@@ -2970,7 +2970,8 @@
             "text": "Get your telescopes out because tonight is a once in a lifetime skygazing opportunity! Look to the sky this evening and you'll see a blood red gleam coming from everyone's favorite lunar construct. The moon will be totally eclipsing the sun tonight. Scientists believe there's nothing to worry about regarding tonight's occurence, so feel free to look as you please!",
             "tags": [
                 {
-                    "user": "Home-Scape-Press"
+                    "user": "Home-Scape-Press",
+                    "image": "moon"
                 }
             ],
             "links": [{}   
