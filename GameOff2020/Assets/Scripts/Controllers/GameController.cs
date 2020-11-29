@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using StoryProgress.Emails;
 using UnityEngine;
@@ -10,7 +11,7 @@ namespace Controllers
     public class GameController : MonoBehaviour
     {
 
-        public static int CurrentAct = 2;
+        public static int CurrentAct = 1;
         public static TwineParser.CharacterStats PlayerStats;
         public static List<string> StoryVariables;
         public static Dictionary<int, bool> ScenesCompleteAct1;
@@ -74,7 +75,9 @@ namespace Controllers
             var urlBar = GameObject.Find("urlBar");
             if (!urlBar) return;
             string sitename = SceneManager.GetActiveScene().name.ToLower();
-            sitename = sitename.Replace(' ', '-');
+            sitename = sitename.Replace(' ', '\0');
+            var siteNameParts = sitename.Split(new string[] { "Act" }, StringSplitOptions.None);
+            sitename = siteNameParts[0];
             urlBar.GetComponent<InputField>().text = $"www.{sitename}.com";
         }
 
@@ -100,6 +103,12 @@ namespace Controllers
                     EmailsBehaviour.CreateEmail(node);
                 }
             }
+        }
+
+
+        public void ShowObject(GameObject objectToShow)
+        {
+            objectToShow.SetActive(!objectToShow.activeInHierarchy);
         }
 
         public struct StoryAct

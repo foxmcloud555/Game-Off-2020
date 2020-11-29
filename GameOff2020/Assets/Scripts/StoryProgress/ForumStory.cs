@@ -84,11 +84,22 @@ namespace StoryProgress
         public void CreatePost(TwineParser.StoryNode node)
         {
             var post = Instantiate(forumPost, forumBoard.transform);
-            var text = post.transform.GetChild(1).GetComponent<Text>();
-            text.text = node.text;
+            
             var avatar = post.GetComponentInChildren<RawImage>();
-            avatar.texture = avatars.FirstOrDefault(a => String.Equals(a.name, node.username, StringComparison.CurrentCultureIgnoreCase));
-            avatar.GetComponentInChildren<Text>().text = node.username;
+            if (avatar)
+            {
+                var text = post.transform.GetChild(1).GetComponent<Text>();
+                text.text = node.text;
+                avatar.texture = avatars.FirstOrDefault(a => String.Equals(a.name, node.username, StringComparison.CurrentCultureIgnoreCase));
+                avatar.GetComponentInChildren<Text>().text = node.username;
+            }
+            else
+            {
+                post.transform.GetChild(0).GetComponent<Text>().text = node.name;
+                post.transform.GetChild(1).GetComponent<Text>().text = node.username; 
+                post.transform.GetChild(2).GetComponent<Text>().text = node.text;
+            }
+            
             passageIDs.Add(currentNode.pid);
         }
     
@@ -157,7 +168,7 @@ namespace StoryProgress
             }
             
             //if (!String.Equals(currentNode.username, characterToReplyTo, StringComparison.CurrentCultureIgnoreCase))
-            if (currentNode.links == null || currentNode.links.Count < 2)
+            if (currentNode.links.Count < 2)
             {
                 ProgressConvo(); 
             }

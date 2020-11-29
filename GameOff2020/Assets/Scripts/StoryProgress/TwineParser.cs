@@ -42,7 +42,11 @@ public class TwineParser : MonoBehaviour
             node.links = new List<StoryLink>();
             var linksJSON = passage["links"]?.ToList();
 
-            var stringy = linksJSON.ToString();
+            if (node.pid == 152)
+            {
+                Debug.Log("guhh");
+            }
+            
             if (!linksJSON.Any() || linksJSON[0].ToString() == "{}" )
             {
                 node.trigger = "end";

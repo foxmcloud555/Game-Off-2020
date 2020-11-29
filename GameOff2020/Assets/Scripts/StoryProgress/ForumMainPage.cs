@@ -7,6 +7,7 @@ namespace StoryProgress
     {
 
         public List<GameObject> forumPosts;
+        public GameObject threads;
 
         public GameObject frontPageLists;
         // Start is called before the first frame update
@@ -26,9 +27,9 @@ namespace StoryProgress
 
         public void HideShowAllPosts(bool show )
         {
-            foreach (var post in forumPosts)
+            foreach (Transform post in threads.transform)
             {
-                post.SetActive(show);
+                post.gameObject.SetActive(show);
             }
         }
     
