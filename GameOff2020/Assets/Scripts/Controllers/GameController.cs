@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using StoryProgress.Emails;
 using UnityEngine;
@@ -74,13 +75,21 @@ namespace Controllers
             var urlBar = GameObject.Find("urlBar");
             if (!urlBar) return;
             string sitename = SceneManager.GetActiveScene().name.ToLower();
-            sitename = sitename.Replace(' ', '-');
+            sitename = sitename.Replace(' ', '\0');
+            var siteNameParts = sitename.Split(new string[] { "act" }, StringSplitOptions.None);
+            sitename = siteNameParts[0];
             urlBar.GetComponent<InputField>().text = $"www.{sitename}.com";
         }
 
         public void LoadScene(GameObject button)
         {
-            SceneManager.LoadScene(button.name);
+            var sceneToLoad = button.name;
+            if (CurrentAct != 1 && !sceneToLoad.Contains("E-Mail") && !sceneToLoad.Contains("Home") && !sceneToLoad.Contains("Lunar Wire"))
+            {
+                sceneToLoad = $"{sceneToLoad} Act {CurrentAct}";
+            }
+            
+            SceneManager.LoadScene(sceneToLoad);
         }
 
 
@@ -100,6 +109,12 @@ namespace Controllers
                     EmailsBehaviour.CreateEmail(node);
                 }
             }
+        }
+
+
+        public void ShowObject(GameObject objectToShow)
+        {
+            objectToShow.SetActive(!objectToShow.activeInHierarchy);
         }
 
         public struct StoryAct
