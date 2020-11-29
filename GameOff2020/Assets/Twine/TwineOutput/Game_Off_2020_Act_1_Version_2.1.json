@@ -844,12 +844,8 @@
                     "id": "72c90ca0ac027862137738a1c4edbe45c6d554bb",
                     "label": "Clickable Foot Powder Ad",
                     "passageId": 46
-                },
-                {
-                    "id": "155fa3cf84411dca724ecdebde23273a6cfc15ca",
-                    "label": "Home Scape",
-                    "passageId": 3
                 }
+
             ]
         },
         {
@@ -867,11 +863,6 @@
                     "id": "e380dc0ea7fc41fa884dca060f89b79e2da87a87",
                     "label": "SPECIAL LIMITED TIME OFFER",
                     "passageId": 47
-                },
-                {
-                    "id": "78e578d2807e6e72cba1c314bc83f5b6974fea1f",
-                    "label": "Home Scape",
-                    "passageId": 3
                 }
             ]
         },
@@ -902,11 +893,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "ce566273d4e1cfe77283ff79a301119081bc7d3c",
-                    "label": "Home Scape",
-                    "passageId": 3
-                }
+        
             ]
         },
         {
@@ -968,11 +955,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "a5a3bdb7eb76842a618485531641f0aa65fc63cc",
-                    "label": "Home Scape",
-                    "passageId": 3
-                }
+           
             ]
         },
         {
@@ -1021,11 +1004,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "8ce953c8f8e5e067d7cf0cb3ec13ddcffe342841",
-                    "label": "Home Scape",
-                    "passageId": 3
-                }
+              
             ]
         },
         {
@@ -1568,11 +1547,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "e60c9e48f528b6971da08c230bb38ae879c9b5ed",
-                    "label": "Home Scape",
-                    "passageId": 3
-                },
+          
                 {
                     "id": "ce4aa538a15a98f88903bb443794b15d3726f00c",
                     "label": "Work From Home Link",
@@ -1607,11 +1582,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "1231d57a810a0ff3f03bfb3631ec662210aafa7c",
-                    "label": "Home Scape",
-                    "passageId": 3
-                },
+            
                 {
                     "id": "b76ab239f0531d431b73a8a50deb1f5c34b0b1f8",
                     "label": "Work From Home Link",
@@ -1784,9 +1755,7 @@
             ],
             "links": [
                 {
-                    "id": "e2a4ee54fb784d0a862995ad60850aeda3a6f000",
-                    "label": "Cool Zone",
-                    "passageId": 2
+                  
                 }
             ]
         },
@@ -1865,11 +1834,6 @@
                     "id": "12fa27d8c1ddfcb3506dc3f456e723cd572dba6e",
                     "label": "Sarcastic Reply BBQ1",
                     "passageId": 54
-                },
-                {
-                    "id": "d3302ebb21b1f58f7c81d1a8f4b8c5eac943d527",
-                    "label": "Cool Zone",
-                    "passageId": 2
                 }
             ]
         },
@@ -1918,11 +1882,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "8d57c7a900b61f685a1a9e94577a49cc3b6b5eff",
-                    "label": "Cool Zone",
-                    "passageId": 2
-                }
+               
             ]
         },
         {
@@ -2034,11 +1994,6 @@
                     "id": "244978b0ed4b3d0974a733a57c1eb93e7e5258ad",
                     "label": "Sarcastic Reply GTR",
                     "passageId": 62
-                },
-                {
-                    "id": "14695ba293a2e2c1d31f19483423df27020ab1b2",
-                    "label": "Cool Zone",
-                    "passageId": 2
                 }
             ]
         },
@@ -2073,11 +2028,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "0ef8a1fb3036fb32b74299b1e81b6f769ad69424",
-                    "label": "Cool Zone",
-                    "passageId": 2
-                }
+             
             ]
         },
         {
@@ -2586,11 +2537,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "8219775dd79b87ca2f9f03350672ba421d5b46d7",
-                    "label": "Back to Cool Zone",
-                    "passageId": 118
-                }
+              
             ]
         },
         {
@@ -2837,11 +2784,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "f3b9111594e159f2ddff5067b1d4922efd3f4467",
-                    "label": "Email",
-                    "passageId": 5
-                }
+             
             ]
         },
         {
@@ -3022,11 +2965,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "2934c0551f651c5783307eaa8adc4688a9e264eb",
-                    "label": "Game Blast",
-                    "passageId": 4
-                }
+            
             ]
         },
         {
@@ -3039,11 +2978,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "766ccb5c97cfcf48ba7109c2d2b4e9f3e1c7ff4e",
-                    "label": "Home Scape",
-                    "passageId": 3
-                }
+         
             ]
         }
     ]
