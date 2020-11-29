@@ -1229,11 +1229,7 @@
                 }
             ],
             "links": [
-                {
-                    "id": "0144953830da2bd1299c7c552e47505c3bf836dc",
-                    "label": "Luna Wire",
-                    "passageId": 6
-                },
+            
                 {
                     "id": "fb7b75e3959acf216698b7e9654d1e15bcdaf1bd",
                     "label": "Dragon Fist P2",
