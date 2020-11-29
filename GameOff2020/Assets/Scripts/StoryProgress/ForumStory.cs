@@ -134,7 +134,8 @@ namespace StoryProgress
                     return;
                 }
             
-                if (!String.Equals(currentNode.username, characterToReplyTo, StringComparison.CurrentCultureIgnoreCase))
+                //if (!String.Equals(currentNode.username, characterToReplyTo, StringComparison.CurrentCultureIgnoreCase))
+                if (currentNode.links.Count < 2)
                 {
                     ProgressConvo(); 
                 }
