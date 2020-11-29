@@ -10,14 +10,14 @@ using UnityEngine;
 
 public class TwineParser : MonoBehaviour
 {
-    public TextAsset storyFile;
+    public TextAsset[] storyFiles;
 
     public List<StoryNode> storyNodes;
 
-    public void parseJSON()
+    public void parseJSON(int actNumber)
     {
         storyNodes = new List<StoryNode>();
-        JObject o1 = JObject.Parse(storyFile.ToString());
+        JObject o1 = JObject.Parse(storyFiles[actNumber - 1].ToString());
 
         var passages = o1["passages"];
 
@@ -30,14 +30,23 @@ public class TwineParser : MonoBehaviour
             node.name = passage["name"]?.ToString();
             node.text = passage["text"]?.ToString();
             //tags
-            node.username = passage["tags"][0]["user"]?.ToString() ?? "anon";
-            node.trigger = passage["tags"][0]["trigger"]?.ToString();
-            node.storyVariable = passage["tags"][0]["storyVariable"]?.ToString();
-            node.email = passage["tags"][0]["email"]?.Type == JTokenType.Boolean;
-            
+            if (passage["tags"].Any())
+            {
+                node.username = passage["tags"][0]["user"]?.ToString() ?? "anon";
+                node.trigger = passage["tags"][0]["trigger"]?.ToString();
+                node.storyVariable = passage["tags"][0]["storyVariable"]?.ToString();
+                node.email = passage["tags"][0]["email"]?.Type == JTokenType.Boolean;
+            }
+
             //links
             node.links = new List<StoryLink>();
             var linksJSON = passage["links"]?.ToList();
+
+            var stringy = linksJSON.ToString();
+            if (!linksJSON.Any() || linksJSON[0].ToString() == "{}" )
+            {
+                node.trigger = "end";
+            }
             foreach (var link in linksJSON)
             {
                 var storyLink = new StoryLink();
@@ -46,12 +55,15 @@ public class TwineParser : MonoBehaviour
                 storyLink.passageID = Int32.Parse(link["passageId"]?.ToString() ?? "-1");
                 node.links.Add(storyLink);
             }
-            
-            Int32.TryParse(passage["tags"][0]["productivity"]?.ToString(), out node.stat.productivity);
-            Int32.TryParse(passage["tags"][0]["fame"]?.ToString(), out node.stat.fame);
-            Int32.TryParse(passage["tags"][0]["happiness"]?.ToString(), out node.stat.happiness);
-            Int32.TryParse(passage["tags"][0]["confidence"]?.ToString(), out node.stat.confidence);
-            
+
+            if (passage["tags"].Any())
+            {
+                Int32.TryParse(passage["tags"][0]["productivity"]?.ToString(), out node.stat.productivity);
+                Int32.TryParse(passage["tags"][0]["fame"]?.ToString(), out node.stat.fame);
+                Int32.TryParse(passage["tags"][0]["happiness"]?.ToString(), out node.stat.happiness);
+                Int32.TryParse(passage["tags"][0]["confidence"]?.ToString(), out node.stat.confidence);
+            }
+
             storyNodes.Add(node);
         }
 

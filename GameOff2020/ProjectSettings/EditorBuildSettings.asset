@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Game Blast.unity
     guid: a199a2b5f4306fe48b3f52261d89bf5e
   - enabled: 1
-    path: Assets/Scenes/File Wire.unity
+    path: Assets/Scenes/Lunar Wire.unity
     guid: 7acef7ab8a79ee34696cb131cf5eadb0
   - enabled: 1
     path: Assets/Scenes/E-Mail.unity

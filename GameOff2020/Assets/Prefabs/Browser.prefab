@@ -60,7 +60,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 10
   m_TargetDisplay: 0
 --- !u!114 &8984773260332076274
 MonoBehaviour:
@@ -125,7 +125,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80d59f9c981313149a569279fd2a5757, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  storyFile: {fileID: 4900000, guid: 59d13b1e218f33e4e889abb888c9bb5d, type: 3}
+  storyFiles:
+  - {fileID: 4900000, guid: 59d13b1e218f33e4e889abb888c9bb5d, type: 3}
+  - {fileID: 4900000, guid: e4de97d9d55aadc4883328c2f2ba4197, type: 3}
+  - {fileID: 4900000, guid: 7b4512ed7812f9f4ca475c39870b58ba, type: 3}
 --- !u!1001 &4763906662515330315
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -216,7 +219,7 @@ PrefabInstance:
     - target: {fileID: 4429209547592045286, guid: d3c2545d8a43b8240ae7129fbfe15400,
         type: 3}
       propertyPath: m_SortingOrder
-      value: 2
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 4429209547592045286, guid: d3c2545d8a43b8240ae7129fbfe15400,
         type: 3}

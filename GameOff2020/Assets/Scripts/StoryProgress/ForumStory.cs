@@ -20,6 +20,8 @@ namespace StoryProgress
         public GameObject forumBoard;
         public GameObject replyButton;
 
+        public TwineParser parser;
+
         [Header("User Avatars")] public Texture2D[] avatars;
 
         private double timer = 0;
@@ -33,10 +35,11 @@ namespace StoryProgress
         {
             passageIDs = new List<int>();
             _nodes = GameController.Act1Nodes;
-            var twine = GetComponent<TwineParser>();
-            twine.parseJSON();
+            parser = GameObject.Find("Browser").GetComponent<TwineParser>();
+            parser.parseJSON(GameController.CurrentAct);
             var startNode = _nodes.Find(n => n.name == start);
-            if (GameController.ScenesComplete[startNode.pid])
+            GameController.ScenesCompleteAct1.TryGetValue(startNode.pid, out var post);
+            if (post)
             {
                 AutomaticallyCreatePosts();
             }
@@ -121,7 +124,7 @@ namespace StoryProgress
             {
                 if (currentNode.trigger == "end")
                 {
-                    GameController.ScenesComplete[currentNode.pid] = true;
+                    GameController.ScenesCompleteAct1[currentNode.pid] = true;
                     GameController.Acts.Add(new GameController.StoryAct(start, passageIDs, true));
                     nextPostReady = false;
                     SendEmailIfNecessary(currentNode);
