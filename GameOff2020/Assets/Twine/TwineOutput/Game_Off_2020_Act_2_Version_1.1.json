@@ -610,7 +610,8 @@
                 "confidence": 2,
                 "fame":-2,
                 "storyVariable": "CovenBad",
-                "act2storyVariable": 1
+                "act2storyVariable": 1,
+                "trigger": "end"
               }
             ],
             "links": [
