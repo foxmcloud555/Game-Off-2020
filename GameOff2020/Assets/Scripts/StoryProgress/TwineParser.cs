@@ -38,6 +38,7 @@ public class TwineParser : MonoBehaviour
                 node.storyVariable = passage["tags"][0]["storyVariable"]?.ToString();
                 node.email = passage["tags"][0]["email"]?.Type == JTokenType.Boolean;
                 node.scene = passage["tags"][0]["scene"]?.ToString();
+                node.image = passage["tags"][0]["image"]?.ToString();
             }
 
             //links
@@ -87,6 +88,7 @@ public class TwineParser : MonoBehaviour
         public string storyVariable;
         public bool email;
         public string scene;
+        public string image;
         
         //links
         public List<StoryLink> links;

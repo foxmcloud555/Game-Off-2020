@@ -20,12 +20,22 @@ namespace StoryProgress
         public GameObject forumBoard;
         public GameObject replyButton;
 
+        //local stats
+        private List<string> localStoryVariables;
+        private int fame;
+        private int happiness;
+        private int productivity;
+        private int confidence;
+
         public TwineParser parser;
 
         private Texture2D[] avatars;
 
+        private bool complete;
+
         private double timer = 0;
         private TwineParser.StoryNode currentNode;
+        private TwineParser.StoryNode startNode;
         private List<TwineParser.StoryNode> _nodes;
         private bool nextPostReady = true;
         private GameObject currentReply;
@@ -34,16 +44,18 @@ namespace StoryProgress
 
         public void Start()
         {
+            localStoryVariables = new List<string>();
             avatars = Resources.LoadAll<Texture2D>("avatars");
             SetAct();
             passageIDs = new List<int>();
             parser = GameObject.Find("Browser").GetComponent<TwineParser>();
             parser.parseJSON(GameController.CurrentAct);
             _nodes = parser.storyNodes;
-            var startNode = _nodes.Find(n => n.name == start);
+            startNode = _nodes.Find(n => n.name == start);
             scenesComplete.TryGetValue(startNode.pid, out var post);
             if (post)
             {
+                complete = true;
                 AutomaticallyCreatePosts();
             }
             else
@@ -100,8 +112,15 @@ namespace StoryProgress
                 post.transform.GetChild(1).GetComponent<Text>().text = node.username; 
                 post.transform.GetChild(2).GetComponent<Text>().text = node.text;
             }
+
+            var image = post.transform.Find("ForumImage");
+            if (image && node.image != null)
+            {
+                image.GetComponent<Image>().sprite = Resources.Load<Sprite>($"images/{node.image}");
+                image.gameObject.SetActive(true);
+            }
             
-            passageIDs.Add(currentNode.pid);
+            passageIDs.Add(node.pid);
         }
     
         public void CreateReply()
@@ -130,9 +149,10 @@ namespace StoryProgress
             if (currentReply)
                 Destroy(currentReply);
             CreatePost(currentNode);
-            UpdateStoryVariables(currentNode);
+            
             timer = 0;
-
+            UpdateStoryVariables(currentNode);
+            
         }
 
         private void EndScene(TwineParser.StoryNode node)
@@ -150,23 +170,27 @@ namespace StoryProgress
 
         private void FirstTimeUpdate()
         {
+            if (complete) return;
             timer += 0.01;
             if ((!(timer > 10) || !nextPostReady) && !autoPost) return;
-            
             if (currentNode.trigger == "end")
             {
-                if (scenesComplete.ContainsKey(currentNode.pid))
-                {
-                    scenesComplete[currentNode.pid] = true;
-                }
-
+                if (scenesComplete.ContainsKey(startNode.pid) && scenesComplete[startNode.pid])
+                    return;
+                
                 GameController.Acts.Add(new GameController.StoryAct(start, passageIDs, true));
                 nextPostReady = false;
                 SendEmailIfNecessary(currentNode);
-                GameController.CheckEmails();
-                    
-                //TODO check if next post is email!
-                    
+                
+                if (scenesComplete.ContainsKey(startNode.pid))
+                {
+                    scenesComplete[startNode.pid] = true;
+
+                    FinaliseStoryDetails();
+                }
+                
+                
+
                 return;
             }
             
@@ -198,29 +222,50 @@ namespace StoryProgress
         {
             if (node.links.Count == 1)
             {
-                var link = node.links[0];
-                node = _nodes.Find(n => n.pid == link.passageID);
-                EmailsBehaviour.CreateEmail(node);
-                var audioPlayer = gameObject.AddComponent<AudioSource>();
-                audioPlayer.clip = Resources.Load<AudioClip>("email/e-mail");
-                audioPlayer.Play();
+                var emailPossible = _nodes.Find(n => n.pid == node.links[0].passageID);
+                if (emailPossible.email)
+                {
+                    var link = node.links[0];
+                    node = _nodes.Find(n => n.pid == link.passageID);
+                    EmailsBehaviour.CreateEmail(node);
+                    var audioPlayer = gameObject.AddComponent<AudioSource>();
+                    audioPlayer.clip = Resources.Load<AudioClip>("email/e-mail");
+                    audioPlayer.Play();
+                }
             }
         }
 
         private void UpdateStats(TwineParser.StoryNode node)
         {
-            GameController.PlayerStats.fame += node.stat.fame;
-            GameController.PlayerStats.happiness += node.stat.happiness;
-            GameController.PlayerStats.confidence += node.stat.confidence;
-            GameController.PlayerStats.productivity += node.stat.productivity;
+            //GameController.PlayerStats.fame += node.stat.fame;
+            //GameController.PlayerStats.happiness += node.stat.happiness;
+            //GameController.PlayerStats.confidence += node.stat.confidence;
+            //GameController.PlayerStats.productivity += node.stat.productivity;
+            fame += node.stat.fame;
+            happiness += node.stat.happiness;
+            confidence += node.stat.confidence;
+            productivity += node.stat.productivity;
+            
+            
         }
 
         private void UpdateStoryVariables(TwineParser.StoryNode node)
         {
             if (node.storyVariable != null)
             {
-                GameController.StoryVariables.Add(node.storyVariable);
+                localStoryVariables.Add(node.storyVariable);
+                
             }
+        }
+
+        private void FinaliseStoryDetails()
+        {
+            GameController.PlayerStats.fame += fame;
+            GameController.PlayerStats.happiness += happiness;
+            GameController.PlayerStats.confidence += confidence;
+            GameController.PlayerStats.productivity += productivity;
+            
+            GameController.StoryVariables.AddRange(localStoryVariables);
         }
     }
 }

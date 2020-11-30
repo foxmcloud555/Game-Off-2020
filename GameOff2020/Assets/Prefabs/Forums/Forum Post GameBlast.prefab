@@ -13,12 +13,12 @@ GameObject:
   - component: {fileID: 6170493318414830983}
   - component: {fileID: 4435991062701719315}
   m_Layer: 5
-  m_Name: Image
+  m_Name: ForumImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &4768482352589039904
 RectTransform:
   m_ObjectHideFlags: 0
@@ -33,10 +33,10 @@ RectTransform:
   m_Father: {fileID: 8784043262922973602}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 256.23804, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 328.11902, y: -357}
+  m_SizeDelta: {x: 256.23804, y: 256}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5260983203389096457
 CanvasRenderer:
@@ -266,7 +266,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "reasonable response\n\nepic forum \n\nhi"
+  m_Text: 'reasonable response
+
+'
 --- !u!1 &8784043261940446133
 GameObject:
   m_ObjectHideFlags: 0
@@ -303,7 +305,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 244.00487, y: -135.66501}
+  m_AnchoredPosition: {x: 221, y: -90}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 1.9063281, y: 0.36548185}
 --- !u!222 &8784043261940446136
@@ -469,7 +471,7 @@ MonoBehaviour:
     m_Left: 200
     m_Right: 20
     m_Top: 50
-    m_Bottom: 50
+    m_Bottom: 91
   m_ChildAlignment: 0
   m_Spacing: 40
   m_ChildForceExpandWidth: 0
