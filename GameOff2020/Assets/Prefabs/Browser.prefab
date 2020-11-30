@@ -242,12 +242,12 @@ PrefabInstance:
     - target: {fileID: 4429209546571499086, guid: d3c2545d8a43b8240ae7129fbfe15400,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: HideShowAllFrontPage
+      value: ResetScene
       objectReference: {fileID: 0}
     - target: {fileID: 4429209546571499086, guid: d3c2545d8a43b8240ae7129fbfe15400,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 6
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4429209546571499086, guid: d3c2545d8a43b8240ae7129fbfe15400,
         type: 3}
@@ -264,6 +264,11 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 4429209546571499086, guid: d3c2545d8a43b8240ae7129fbfe15400,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 9223229223315325960}
     - target: {fileID: 4429209547540912465, guid: d3c2545d8a43b8240ae7129fbfe15400,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
