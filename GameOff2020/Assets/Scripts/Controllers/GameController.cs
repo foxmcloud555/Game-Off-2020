@@ -88,7 +88,7 @@ namespace Controllers
         public void LoadScene(GameObject button)
         {
             var sceneToLoad = button.name;
-            if (CurrentAct != 1 && !sceneToLoad.Contains("E-Mail") && !sceneToLoad.Contains("Home") && !sceneToLoad.Contains("Lunar Wire"))
+            if (CurrentAct != 1 && !sceneToLoad.Contains("E-Mail") && sceneToLoad != "Home" && !sceneToLoad.Contains("Lunar Wire"))
             {
                 sceneToLoad = $"{sceneToLoad} Act {CurrentAct}";
             }

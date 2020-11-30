@@ -172,7 +172,7 @@ namespace StoryProgress
         {
             if (complete) return;
             timer += 0.01;
-            if ((!(timer > 10) || !nextPostReady) && !autoPost) return;
+            
             if (currentNode.trigger == "end")
             {
                 if (scenesComplete.ContainsKey(startNode.pid) && scenesComplete[startNode.pid])
@@ -193,7 +193,7 @@ namespace StoryProgress
 
                 return;
             }
-            
+            if ((!(timer > 10) || !nextPostReady) && !autoPost) return;
             //if (!String.Equals(currentNode.username, characterToReplyTo, StringComparison.CurrentCultureIgnoreCase))
             if (currentNode.links.Count < 2)
             {
