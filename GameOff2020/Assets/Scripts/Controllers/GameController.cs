@@ -11,29 +11,32 @@ namespace Controllers
     public class GameController : MonoBehaviour
     {
 
-        public static int CurrentAct = 2;
+        public static int CurrentAct = 1;
         public static TwineParser.CharacterStats PlayerStats;
         public static List<string> StoryVariables;
         public static Dictionary<int, bool> ScenesCompleteAct1;
         public static Dictionary<int, bool> ScenesCompleteAct2;
         public static List<TwineParser.StoryNode> Act1Nodes;
         public static List<TwineParser.StoryNode> Act2Nodes;
+        //first time the game is run?
+        private static bool firstSetup = true;
+        
+        //this list contains acts already encountered in the story
+        //to autocomplete forum posts if already played
+        public static List<StoryAct> Acts;
+        
+        
+        public Sprite emailAlertIcon;
 
         private readonly int[] _startingEmails =  {136, 137, 138, 139};
         private int[] _actTwoEmails = {8, 11, 12};
 
-        //this list contains acts already encountered in the story
-        //to autocomplete forum posts if already played
-        public static List<StoryAct> Acts;
-
-        //first time the game is run?
-        private static bool firstSetup = true;
-
-
+        //private GameObject emailIcon;
+        
+                        
         // Start is called before the first frame update
         void Awake()
         {
-
             if (firstSetup)
             {
                 Acts = new List<StoryAct>();
@@ -67,6 +70,7 @@ namespace Controllers
         
                 firstSetup = false;
             }
+            CheckEmails();
                 //BeginGame();
         }
 
@@ -97,6 +101,8 @@ namespace Controllers
         {
             CurrentAct = act;
         }
+        
+        
 
         private void InitEmails()
         {
@@ -108,6 +114,17 @@ namespace Controllers
                 {
                     EmailsBehaviour.CreateEmail(node);
                 }
+            }
+        }
+
+        public static void CheckEmails()
+        {
+            var emailIcon = GameObject.Find("E-Mail");
+            
+            bool unread = EmailsBehaviour.storyEmails.Exists(e => e.Status == MessageStatus.Unread);
+            if (emailIcon && unread)
+            {
+                emailIcon.GetComponent<Image>().sprite = Resources.Load<Sprite>("email/email_alart");
             }
         }
 

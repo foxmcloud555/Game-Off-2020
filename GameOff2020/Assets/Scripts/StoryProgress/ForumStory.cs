@@ -22,7 +22,7 @@ namespace StoryProgress
 
         public TwineParser parser;
 
-        [Header("User Avatars")] public Texture2D[] avatars;
+        private Texture2D[] avatars;
 
         private double timer = 0;
         private TwineParser.StoryNode currentNode;
@@ -34,6 +34,7 @@ namespace StoryProgress
 
         public void Start()
         {
+            avatars = Resources.LoadAll<Texture2D>("avatars");
             SetAct();
             passageIDs = new List<int>();
             parser = GameObject.Find("Browser").GetComponent<TwineParser>();
@@ -151,6 +152,7 @@ namespace StoryProgress
         {
             timer += 0.01;
             if ((!(timer > 10) || !nextPostReady) && !autoPost) return;
+            
             if (currentNode.trigger == "end")
             {
                 if (scenesComplete.ContainsKey(currentNode.pid))
@@ -161,6 +163,7 @@ namespace StoryProgress
                 GameController.Acts.Add(new GameController.StoryAct(start, passageIDs, true));
                 nextPostReady = false;
                 SendEmailIfNecessary(currentNode);
+                GameController.CheckEmails();
                     
                 //TODO check if next post is email!
                     
@@ -198,6 +201,9 @@ namespace StoryProgress
                 var link = node.links[0];
                 node = _nodes.Find(n => n.pid == link.passageID);
                 EmailsBehaviour.CreateEmail(node);
+                var audioPlayer = gameObject.AddComponent<AudioSource>();
+                audioPlayer.clip = Resources.Load<AudioClip>("email/e-mail");
+                audioPlayer.Play();
             }
         }
 
