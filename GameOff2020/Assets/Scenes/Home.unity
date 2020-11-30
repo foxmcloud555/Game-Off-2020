@@ -2217,7 +2217,7 @@ GameObject:
   - component: {fileID: 2015713448}
   - component: {fileID: 2015713447}
   m_Layer: 5
-  m_Name: HomeScape
+  m_Name: Home Scape
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
