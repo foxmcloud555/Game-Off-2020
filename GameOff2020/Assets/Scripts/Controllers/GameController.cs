@@ -128,6 +128,11 @@ namespace Controllers
             }
         }
 
+        public void ResetScene()
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
+
 
         public void ShowObject(GameObject objectToShow)
         {

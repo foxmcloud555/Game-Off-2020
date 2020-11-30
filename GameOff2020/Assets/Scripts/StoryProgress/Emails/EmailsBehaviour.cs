@@ -40,7 +40,7 @@ namespace StoryProgress.Emails
             {
                 virusStatus = MessageStatus.Glitched;
             }
-            EmailStruct email = new EmailStruct(node.username, node.name, virusStatus, node.text);
+            EmailStruct email = new EmailStruct(node.username, node.name, virusStatus, node.text, node.scene);
             storyEmails.Add(email);
         }
 
@@ -63,14 +63,16 @@ namespace StoryProgress.Emails
         public string Title;
         public MessageStatus Status;
         public string BodyText;
+        public string ExternalLink;
         
 
-        public EmailStruct(string sender, string title, MessageStatus status, string bodyText)
+        public EmailStruct(string sender, string title, MessageStatus status, string bodyText, string externalLink)
         {
             Sender = sender;
             Title = title;
             Status = status;
             BodyText = bodyText;
+            ExternalLink = externalLink;
         }
 
         public void SetStatus(MessageStatus status)

@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Home Scape.unity
     guid: 6961f3d89793f154b88f790775416217
+  - enabled: 1
+    path: Assets/Scenes/TheForbiddenWebsite.unity
+    guid: c607372a41b37d34fa40fa282eebdd1c
   m_configObjects: {}
