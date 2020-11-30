@@ -29,7 +29,7 @@ namespace Controllers
         public Sprite emailAlertIcon;
 
         private readonly int[] _startingEmails =  {136, 137, 138, 139};
-        private int[] _actTwoEmails = {8, 11, 12};
+        public  static int[] _actTwoEmails = {8, 11, 12};
 
         //private GameObject emailIcon;
         
