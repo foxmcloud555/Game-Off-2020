@@ -718,6 +718,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tentacles
       objectReference: {fileID: 0}
+    - target: {fileID: 1617756173986996995, guid: cf90c367a88ca6e46a97e0a03f263076,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2317160779207823632, guid: cf90c367a88ca6e46a97e0a03f263076,
         type: 3}
       propertyPath: m_LocalPosition.x
