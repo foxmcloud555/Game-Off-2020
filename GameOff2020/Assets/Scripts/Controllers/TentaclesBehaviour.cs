@@ -22,7 +22,7 @@ public class TentaclesBehaviour : MonoBehaviour
 
     private IEnumerator LoadHomeAgain()
     {
-        yield return new WaitForSeconds(15);
+        yield return new WaitForSeconds(9);
         tentaclesPlayed = true;
         SceneManager.LoadScene("Home");
     }
