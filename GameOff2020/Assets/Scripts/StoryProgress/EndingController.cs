@@ -20,7 +20,7 @@ namespace StoryProgress
         void Start()
         {
             //svs = new List<string> {"HouseholdIncomeYES", "PsychicReading", "AlligatorGood"};
-            GameController.StoryVariables = svs;
+            //GameController.StoryVariables = svs;
             parser = GameObject.Find("Browser").GetComponent<TwineParser>();
             parser.parseJSON(3);
             _nodes = parser.storyNodes;

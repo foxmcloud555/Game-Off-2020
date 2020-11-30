@@ -20,6 +20,7 @@ namespace Controllers
         public static List<TwineParser.StoryNode> Act2Nodes;
         //first time the game is run?
         private static bool firstSetup = true;
+        public static bool gameEnd;
         
         //this list contains acts already encountered in the story
         //to autocomplete forum posts if already played
@@ -78,7 +79,7 @@ namespace Controllers
         {
             if (StoryVariables.Count > 4 && CurrentAct == 2 && TentaclesBehaviour.tentaclesPlayed)
             {
-                LoadFinalScene();
+                gameEnd = true;
             }
         }
 
@@ -100,6 +101,11 @@ namespace Controllers
 
         public void LoadScene(GameObject button)
         {
+            if (gameEnd)
+            {
+                LoadFinalScene();
+                return;
+            }
             var sceneToLoad = button.name;
             if (CurrentAct != 1 && !sceneToLoad.Contains("E-Mail") && sceneToLoad != "Home" && !sceneToLoad.Contains("Lunar Wire"))
             {
