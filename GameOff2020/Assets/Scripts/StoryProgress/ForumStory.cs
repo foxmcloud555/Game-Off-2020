@@ -251,7 +251,7 @@ namespace StoryProgress
 
         private void UpdateStoryVariables(TwineParser.StoryNode node)
         {
-            if (node.storyVariable != null)
+            if (node.storyVariable != null && !GameController.StoryVariables.Contains(node.storyVariable))
             {
                 localStoryVariables.Add(node.storyVariable);
                 
@@ -264,6 +264,7 @@ namespace StoryProgress
             GameController.PlayerStats.happiness += happiness;
             GameController.PlayerStats.confidence += confidence;
             GameController.PlayerStats.productivity += productivity;
+            
             
             GameController.StoryVariables.AddRange(localStoryVariables);
         }

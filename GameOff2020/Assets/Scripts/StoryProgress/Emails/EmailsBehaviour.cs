@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using System.Runtime.Remoting.Channels;
+﻿using System.Collections.Generic;
 using UnityEngine;
 
 namespace StoryProgress.Emails
