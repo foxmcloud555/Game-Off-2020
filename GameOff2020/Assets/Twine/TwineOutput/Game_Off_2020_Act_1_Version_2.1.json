@@ -674,7 +674,7 @@
             "text": "Looks like I win ANOTHER debate.",
             "tags": [
                 {
-                    "user": "player",
+                    "user": "SnideCooper",
                     "productivity": 1,
                     "trigger": "end",
                     "storyVariable":"SnideBad"
