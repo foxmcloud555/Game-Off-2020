@@ -17,6 +17,7 @@ public class TwineParser : MonoBehaviour
     public void parseJSON(int actNumber)
     {
         storyNodes = new List<StoryNode>();
+        if (storyFiles.Length  == 0) return;
         JObject o1 = JObject.Parse(storyFiles[actNumber - 1].ToString());
 
         var passages = o1["passages"];

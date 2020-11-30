@@ -862,6 +862,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0bf5439c0981fcd40bb666dd1d4d7dbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  emailAlertIcon: {fileID: 0}
 --- !u!114 &713705151
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -874,7 +875,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80d59f9c981313149a569279fd2a5757, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  storyFiles: []
+  storyFiles:
+  - {fileID: 4900000, guid: 59d13b1e218f33e4e889abb888c9bb5d, type: 3}
+  - {fileID: 4900000, guid: e4de97d9d55aadc4883328c2f2ba4197, type: 3}
+  - {fileID: 4900000, guid: 81eff59e14822a54c8afb6193a26c89f, type: 3}
 --- !u!82 &713705152
 AudioSource:
   m_ObjectHideFlags: 0
