@@ -11,7 +11,7 @@ namespace Controllers
     public class GameController : MonoBehaviour
     {
 
-        public static int CurrentAct = 2;
+        public static int CurrentAct = 1;
         public static TwineParser.CharacterStats PlayerStats;
         public static List<string> StoryVariables;
         public static Dictionary<int, bool> ScenesCompleteAct1;

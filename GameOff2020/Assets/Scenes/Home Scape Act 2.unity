@@ -564,7 +564,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c1a8fc678639e347a652ccc2ace71e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  start: Austrian PM Grilled
+  start: Goat Sacrifice Guide
   characterToReplyTo: 
   autoPost: 1
   forumPost: {fileID: 7723224634681871145, guid: 207cb285620a878478cfc241b4e123c7,
@@ -1112,7 +1112,7 @@ PrefabInstance:
     - target: {fileID: 3799099400207359471, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
       propertyPath: m_Name
-      value: Eliminate Foot Odor Now (SPONSORED)
+      value: Stunning Pie Recipe
       objectReference: {fileID: 0}
     - target: {fileID: 4817579799126711744, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
@@ -1122,12 +1122,12 @@ PrefabInstance:
     - target: {fileID: 6138858780680479064, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
       propertyPath: m_Text
-      value: Try this one weird trick!
+      value: A dessert to die for!
       objectReference: {fileID: 0}
     - target: {fileID: 6319692844012363023, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
       propertyPath: m_Text
-      value: Eliminate Foot Odor Now (SPONSORED)
+      value: Stunning Pie Recipe
       objectReference: {fileID: 0}
     - target: {fileID: 8564100300039899975, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
@@ -1670,17 +1670,17 @@ PrefabInstance:
     - target: {fileID: 3799099400207359471, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
       propertyPath: m_Name
-      value: Celebrity Power Couple Calls it Quits
+      value: XYZ Airs Lost Episode of Popular Cartoon
       objectReference: {fileID: 0}
     - target: {fileID: 6138858780680479064, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
       propertyPath: m_Text
-      value: Which celebs are splitsville?
+      value: Shocking cartoon secrets revealed!
       objectReference: {fileID: 0}
     - target: {fileID: 6319692844012363023, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
       propertyPath: m_Text
-      value: Celebrity Power Couple Calls it Quits
+      value: XYZ Airs Lost Episode of Popular Cartoon
       objectReference: {fileID: 0}
     - target: {fileID: 8564100300039899975, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
@@ -2270,7 +2270,7 @@ GameObject:
   - component: {fileID: 907191389}
   - component: {fileID: 907191388}
   m_Layer: 5
-  m_Name: Find Online Psychics (SPONSORED)
+  m_Name: 'SPONSORED: Come Hither My Lord'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2935,7 +2935,7 @@ PrefabInstance:
     - target: {fileID: 3799099400207359471, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
       propertyPath: m_Name
-      value: Austrian PM Grilled
+      value: Goat Sacrifice Guide
       objectReference: {fileID: 0}
     - target: {fileID: 4817579799126711744, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
@@ -2945,12 +2945,12 @@ PrefabInstance:
     - target: {fileID: 6138858780680479064, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
       propertyPath: m_Text
-      value: Things are heating up in Europe.
+      value: The perfect how to guide for the season!
       objectReference: {fileID: 0}
     - target: {fileID: 6319692844012363023, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
       propertyPath: m_Text
-      value: Austrian PM Grilled
+      value: Goat Sacrifice Guide
       objectReference: {fileID: 0}
     - target: {fileID: 8564100300039899975, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
@@ -3346,7 +3346,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c1a8fc678639e347a652ccc2ace71e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  start: Find Online Psychics (SPONSORED)
+  start: Come Hither My Lord (SPONSORED)
   characterToReplyTo: 
   autoPost: 1
   forumPost: {fileID: 7723224634681871145, guid: 207cb285620a878478cfc241b4e123c7,
@@ -3639,7 +3639,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c1a8fc678639e347a652ccc2ace71e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  start: Celebrity Power Couple Calls it Quits
+  start: XYZ Airs Lost Episode of Popular Cartoon
   characterToReplyTo: 
   autoPost: 1
   forumPost: {fileID: 7723224634681871145, guid: 207cb285620a878478cfc241b4e123c7,
@@ -4087,7 +4087,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c1a8fc678639e347a652ccc2ace71e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  start: Eliminate Foot Odor Now (SPONSORED)
+  start: Stunning Pie Recipe
   characterToReplyTo: 
   autoPost: 1
   forumPost: {fileID: 7723224634681871145, guid: 207cb285620a878478cfc241b4e123c7,
@@ -4322,7 +4322,17 @@ PrefabInstance:
     - target: {fileID: 3799099400207359471, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
       propertyPath: m_Name
-      value: Lunar Eclipse Tonight
+      value: How Does Your Fate Align With the Moon?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6138858780680479064, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
+        type: 3}
+      propertyPath: m_Text
+      value: The moon shines on all.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6319692844012363023, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
+        type: 3}
+      propertyPath: m_Text
+      value: How Does Your Fate Align With the Moon?
       objectReference: {fileID: 0}
     - target: {fileID: 8564100300039899975, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
@@ -4441,7 +4451,7 @@ GameObject:
   - component: {fileID: 1594374716}
   - component: {fileID: 1594374715}
   m_Layer: 5
-  m_Name: Celebrity Power Couple Calls it Quits
+  m_Name: XYZ Airs Lost Episode of Popular Cartoon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4840,17 +4850,17 @@ PrefabInstance:
     - target: {fileID: 3799099400207359471, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
       propertyPath: m_Name
-      value: Find Online Psychics (SPONSORED)
+      value: 'SPONSORED: Come Hither My Lord'
       objectReference: {fileID: 0}
     - target: {fileID: 6138858780680479064, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
       propertyPath: m_Text
-      value: What does your future hold?
+      value: Play the hottest game ever.
       objectReference: {fileID: 0}
     - target: {fileID: 6319692844012363023, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
       propertyPath: m_Text
-      value: Find Online Psychics (SPONSORED)
+      value: Come Hither My Lord (SPONSORED)
       objectReference: {fileID: 0}
     - target: {fileID: 8564100300039899975, guid: 10fe8cd34f487b845ac6b011b86d8bb6,
         type: 3}
@@ -5000,7 +5010,7 @@ GameObject:
   - component: {fileID: 1776903009}
   - component: {fileID: 1776903008}
   m_Layer: 5
-  m_Name: Austrian PM Grilled
+  m_Name: Goat Sacrifice Guide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5568,7 +5578,7 @@ GameObject:
   - component: {fileID: 1977720830}
   - component: {fileID: 1977720829}
   m_Layer: 5
-  m_Name: Eliminate Foot Odor Now (SPONSORED)
+  m_Name: Stunning Pie Recipe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7200,9 +7210,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c1a8fc678639e347a652ccc2ace71e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  start: Lunar Eclipse Tonight
-  characterToReplyTo: snidecooper
-  autoPost: 0
+  start: How Does Your Fate Align With the Moon?
+  characterToReplyTo: 
+  autoPost: 1
   forumPost: {fileID: 7723224634681871145, guid: 207cb285620a878478cfc241b4e123c7,
     type: 3}
   forumReply: {fileID: 6390952960725660329, guid: 45bbbf2c3e8758e4bac5a9dfe91b1714,
@@ -7322,7 +7332,7 @@ GameObject:
   - component: {fileID: 4629757181180685894}
   - component: {fileID: 4629757181180685893}
   m_Layer: 5
-  m_Name: Lunar Eclipse Tonight
+  m_Name: How Does Your Fate Align With the Moon?
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -2827,11 +2827,6 @@
                     "id": "d74e7cd73025cd34b3926031fc193d845adc3b18",
                     "label": "Find your fate with the chart",
                     "passageId": 159
-                },
-                {
-                    "id": "09c33f1361398a8005f0c1638e8fc7f23851151c",
-                    "label": "Decide your own fate",
-                    "passageId": 160
                 }
             ]
         },
@@ -2857,7 +2852,7 @@
         {
             "pid": 154,
             "name": "Stunning Pie Recipe",
-            "text": "This pie recipe will be the delight of your friends and the bane of everyone who has ever wronged you.\n1 Unbaked Pie Crust\n3/4 cup sugar\n1 tbsp. all-purpose flour\n1 1/2 cup black crowberries\n1 1/4 cup juniper berries\n3/4 cup the blood of your enemies\n1/2 cup fresh essence of the eternal soul\n1 tbsp. lemon juice\n\nSpread out pie crust on a floured sheet of paper to 1/4 inch thickness. Fit into a 9-inch pie plate. Refrigerate 30 minutes to 1 hour.\n\nPreheat oven to 375 degrees F.\n\n<p>Whisk together sugar and flour. Stir together sugar mixture, berries, blood of your enemies, fresh essence, and lemon juice. Pour into crust.\n\nBake at 375 degrees F for 1 hour or until lightly brown. Cover if necessary.",
+            "text": "This pie recipe will be the delight of your friends and the bane of everyone who has ever wronged you.\n1 Unbaked Pie Crust\n3/4 cup sugar\n1 tbsp. all-purpose flour\n1 1/2 cup black crowberries\n1 1/4 cup juniper berries\n3/4 cup the blood of your enemies\n1/2 cup fresh essence of the eternal soul\n1 tbsp. lemon juice\n\nSpread out pie crust on a floured sheet of paper to 1/4 inch thickness. Fit into a 9-inch pie plate. Refrigerate 30 minutes to 1 hour.\n\nPreheat oven to 375 degrees F.\n\nWhisk together sugar and flour. Stir together sugar mixture, berries, blood of your enemies, fresh essence, and lemon juice. Pour into crust.\n\nBake at 375 degrees F for 1 hour or until lightly brown. Cover if necessary.",
             "tags": [
               {
                 "user":"Home Scape News",
@@ -2874,8 +2869,8 @@
         },
         {
             "pid": 155,
-            "name": "SPONSORED: Come Hither My Lord",
-            "text": "You have been beckoned to play Leraje Online, the most addictive game of all time. Play now. She's waiting.\n(Image of a lusty girl)",
+            "name": "Come Hither My Lord (SPONSORED)",
+            "text": "You have been beckoned to play Leraje Online, the most addictive game of all time. Play now. She's waiting.",
             "tags": [
               {
                 "user": "Leraje-Online",
@@ -2893,7 +2888,7 @@
         },
         {
             "pid": 156,
-            "name": "Leraje Online Website",
+            "name": "Play Now",
             "text": "",
             "tags": [
               {
@@ -2940,7 +2935,7 @@
         },
         {
             "pid": 159,
-            "name": "Find your fate with the chart",
+            "name": "Moon Chart Comments",
             "text": "It says \"I've already met with a terrible fate\"...",
             "tags": [
               {
@@ -2981,7 +2976,7 @@
         },
         {
             "pid": 161,
-            "name": "Moon Chart Comments",
+            "name": "Moon Chart Comments 2",
             "text": "Lol, mine says I'm totally gonna get a hot date. I think...",
             "tags": [
               {
@@ -3012,7 +3007,7 @@
         },
         {
             "pid": 163,
-            "name": "Dead Bort Comments P2",
+            "name": "Dead Bort Comments 2",
             "text": "This show isn't as funny as Family Man, but if it's gonna be this gory, I'm gonna down a few brews and check it out.",
             "tags": [
               {
