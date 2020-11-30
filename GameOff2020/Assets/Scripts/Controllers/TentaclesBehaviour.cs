@@ -9,6 +9,7 @@ public class TentaclesBehaviour : MonoBehaviour
     public GameObject background;
     public GameObject tentacles;
 
+    public static bool tentaclesPlayed;
 
     public void ActivateTentacles()
     {
@@ -22,6 +23,7 @@ public class TentaclesBehaviour : MonoBehaviour
     private IEnumerator LoadHomeAgain()
     {
         yield return new WaitForSeconds(15);
+        tentaclesPlayed = true;
         SceneManager.LoadScene("Home");
     }
 }

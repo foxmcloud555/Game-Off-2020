@@ -294,6 +294,12 @@ Transform:
   m_Father: {fileID: 887503943}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &612536472 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1617756173986996995, guid: cf90c367a88ca6e46a97e0a03f263076,
+    type: 3}
+  m_PrefabInstance: {fileID: 1903131235}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &698061906
 GameObject:
   m_ObjectHideFlags: 0
@@ -911,9 +917,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 11db61d949f9ee5468e94cd5946946ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  browser: {fileID: 0}
-  background: {fileID: 0}
-  tentacles: {fileID: 0}
+  browser: {fileID: 8984773259580706606}
+  background: {fileID: 887503939}
+  tentacles: {fileID: 612536472}
 --- !u!1 &4765316112071741093
 GameObject:
   m_ObjectHideFlags: 0

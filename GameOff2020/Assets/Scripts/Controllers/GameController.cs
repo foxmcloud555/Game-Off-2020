@@ -74,6 +74,19 @@ namespace Controllers
                 //BeginGame();
         }
 
+        private void Update()
+        {
+            if (StoryVariables.Count > 4 && CurrentAct == 2 && TentaclesBehaviour.tentaclesPlayed)
+            {
+                LoadFinalScene();
+            }
+        }
+
+        private void LoadFinalScene()
+        {
+                SceneManager.LoadScene("AFTERLIFE");
+        }
+
         private void Start()
         {
             var urlBar = GameObject.Find("urlBar");
