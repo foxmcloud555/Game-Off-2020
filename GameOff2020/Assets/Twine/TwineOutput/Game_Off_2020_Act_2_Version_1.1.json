@@ -306,17 +306,17 @@
             "links": [
                 {
                     "id": "9d385a07d7b38e8e26dc8565125a66437af77a6e",
-                    "label": "Yes (Coven)",
+                    "label": "Yes",
                     "passageId": 20
                 },
                 {
                     "id": "e5e4e8158cbfd94d192e6973a442bd6af5b9a595",
-                    "label": "No (Coven)",
+                    "label": "No",
                     "passageId": 21
                 },
                 {
                     "id": "40a87fae227e6e9aea4190c734839109a0e87367",
-                    "label": "Sarcastic (Coven)",
+                    "label": "Sarcastic",
                     "passageId": 24
                 }
             ]
@@ -412,7 +412,7 @@
         },
         {
             "pid": 20,
-            "name": "Yes (Coven)",
+            "name": "Yes",
             "text": "Yes.",
             "tags": [
               {
@@ -430,7 +430,7 @@
         },
         {
             "pid": 21,
-            "name": "No (Coven)",
+            "name": "No",
             "text": "No.",
             "tags": [
               {
@@ -481,7 +481,7 @@
         },
         {
             "pid": 24,
-            "name": "Sarcastic (Coven)",
+            "name": "Sarcastic Reply",
             "text": "I have a vial of caninus spiritus to share with you fine witches.",
             "tags": [
               {
@@ -544,29 +544,29 @@
             "links": [
                 {
                     "id": "7ebc156197ce73e1337b79041effdd836b54ef60",
-                    "label": "Calm Reply Coven P5Y",
+                    "label": "Calm Reply",
                     "passageId": 28
                 },
                 {
                     "id": "a0a6f7dd867774b7a035e40f0e5d5c1ccb749c87",
-                    "label": "Angry Reply Coven P5Y",
+                    "label": "Angry Reply",
                     "passageId": 29
                 },
                 {
                     "id": "f78a5e1b98c09578535a56f88acb3f91368cfd92",
-                    "label": "Sarcastic Reply Coven P5Y",
+                    "label": "Sarcastic Reply",
                     "passageId": 30
                 },
                 {
                     "id": "5b11c1c293bea74a3df609151c615d2cd42c1cee",
-                    "label": "Ignore Coven P5Y",
+                    "label": "Ignore",
                     "passageId": 31
                 }
             ]
         },
         {
             "pid": 28,
-            "name": "Calm Reply Coven P5Y",
+            "name": "Calm Reply",
             "text": "I don't need your coven and you do not define me.",
             "tags": [
               {
@@ -584,7 +584,7 @@
         },
         {
             "pid": 29,
-            "name": "Angry Reply Coven P5Y",
+            "name": "Angry Reply",
             "text": "Why would anyone want to join a group with a judgemental bitch like you anyway?",
             "tags": [
               {
@@ -602,7 +602,7 @@
         },
         {
             "pid": 30,
-            "name": "Sarcastic Reply Coven P5Y",
+            "name": "Sarcastic Reply",
             "text": "Ooooo, you going to cast a spell on me?",
             "tags": [
               {
@@ -619,7 +619,7 @@
         },
         {
             "pid": 31,
-            "name": "Ignore Coven P5Y",
+            "name": "Ignore",
             "text": "Begone, pretender.",
             "tags": [
               {
@@ -1071,24 +1071,24 @@
             "links": [
                 {
                     "id": "17a13cb8d3fcb3ce7f41416dc6ed1f276cd2ecbc",
-                    "label": "Yes Photos P2",
+                    "label": "Yes",
                     "passageId": 58
                 },
                 {
                     "id": "114a56a93d647c57ddc3d88cf61710a2ebde14f5",
-                    "label": "No Photos P2",
+                    "label": "No",
                     "passageId": 59
                 },
                 {
                     "id": "007131cc5a4f9b0c532702fae15af156abd2f2a5",
-                    "label": "Ignore Photos P2",
+                    "label": "Ignore",
                     "passageId": 60
                 }
             ]
         },
         {
             "pid": 58,
-            "name": "Yes Photos P2",
+            "name": "Yes",
             "text": "Y-yes. W-wow.",
             "tags": [
               {
@@ -1106,7 +1106,7 @@
         },
         {
             "pid": 59,
-            "name": "No Photos P2",
+            "name": "No",
             "text": "Nah, not my thing.",
             "tags": [
               {
@@ -1125,7 +1125,7 @@
         },
         {
             "pid": 60,
-            "name": "Ignore Photos P2",
+            "name": "Ignore",
             "text": "Begone, time waster!",
             "tags": [
               {
@@ -1152,24 +1152,24 @@
             "links": [
                 {
                     "id": "61ababae0e0d63326c90460643189abf0fd8d7c1",
-                    "label": "Yes Photos P3",
+                    "label": "Yes",
                     "passageId": 62
                 },
                 {
                     "id": "1e365c0d51f00156e5589a0d2228fdcb789eb216",
-                    "label": "No Photos P2",
+                    "label": "No",
                     "passageId": 59
                 },
                 {
                     "id": "f06085d3ce9897876c329734426460ebb1df571a",
-                    "label": "Ignore Photos P2",
+                    "label": "Ignore",
                     "passageId": 60
                 }
             ]
         },
         {
             "pid": 62,
-            "name": "Yes Photos P3",
+            "name": "Yes",
             "text": "Y-yes, I would like to be your slave.",
             "tags": [
               {
@@ -1201,7 +1201,7 @@
                 },
                 {
                     "id": "bd3936a2301b011e4fa40112c0e71ed2cc7ee471",
-                    "label": "Ignore Photos P2",
+                    "label": "Ignore",
                     "passageId": 60
                 }
             ]
@@ -1291,24 +1291,24 @@
             "links": [
                 {
                     "id": "ecea122eb52c82666304e9244dd30464165855e6",
-                    "label": "Curious Answer Ouija P3",
+                    "label": "Curious Answer",
                     "passageId": 69
                 },
                 {
                     "id": "3a24379ca20c00f4203393f652669f8120f3272b",
-                    "label": "Dismissive Answer Ouija P3",
+                    "label": "Dismissive Answer",
                     "passageId": 70
                 },
                 {
                     "id": "370f9f7326e277760a3e54a8dec5b496d6f2fcab",
-                    "label": "Sarcastic Answer Ouija P3",
+                    "label": "Sarcastic Answer",
                     "passageId": 71
                 }
             ]
         },
         {
             "pid": 69,
-            "name": "Curious Answer Ouija P3",
+            "name": "Curious Reply",
             "text": "Personally, I think it could get other way. I'm interested to see if a \"summoning\" or \"seance\" is possible with one of these, especially online.",
             "tags": [
               {
@@ -1326,7 +1326,7 @@
         },
         {
             "pid": 70,
-            "name": "Dismissive Answer Ouija P3",
+            "name": "Dismissive Reply",
             "text": "Whether it's a game or not, it's not real, so who cares?",
             "tags": [
               {
@@ -1344,7 +1344,7 @@
         },
         {
             "pid": 71,
-            "name": "Sarcastic Answer Ouija P3",
+            "name": "Sarcastic Reply",
             "text": "Ooooo, why don't you summon a ghost? They'll answer the question for you.",
             "tags": [
               {
@@ -1591,12 +1591,12 @@
             "links": [
                 {
                     "id": "068cba6b6da57cb7688ab6fd587f5d90bc85951f",
-                    "label": "Nice Reply Ghost P3",
+                    "label": "Nice Reply",
                     "passageId": 85
                 },
                 {
                     "id": "77ef3503ea26f23b43ac06144df8ac9515cffbd1",
-                    "label": "Rude Reply Ghost P3",
+                    "label": "Rude Reply",
                     "passageId": 86
                 }
             ]
@@ -1623,14 +1623,14 @@
                 },
                 {
                     "id": "7614b353a4de24122ec8039217ffa7946a09fe13",
-                    "label": "Sarcastic Reply Ghost P4",
+                    "label": "Sarcastic Reply",
                     "passageId": 87
                 }
             ]
         },
         {
             "pid": 85,
-            "name": "Nice Reply Ghost P3",
+            "name": "Nice Reply",
             "text": "Thanks for paving the way so that we could live and love how we want to.",
             "tags": [
               {
@@ -1648,7 +1648,7 @@
         },
         {
             "pid": 86,
-            "name": "Rude Reply Ghost P3",
+            "name": "Rude Reply",
             "text": "Fake.",
             "tags": [
               {
@@ -1667,7 +1667,7 @@
         },
         {
             "pid": 87,
-            "name": "Sarcastic Reply Ghost P4",
+            "name": "Sarcastic Reply",
             "text": "Hot.",
             "tags": [
               {
@@ -1801,7 +1801,7 @@
         },
         {
             "pid": 94,
-            "name": "Ghost Email",
+            "name": "Hello.",
             "text": "Greetings. I am the spirit from before. Thank you for treating me as more than just a vessel of the past. I am still curious about how you could share your warmth. Maybe you could summon me sometime and we could find out together?",
             "tags": [
               {
@@ -2080,24 +2080,24 @@
             "links": [
                 {
                     "id": "ed94efa30dc9231e18d43c9d7412e9fcdce23031",
-                    "label": "Helpful Reply GooseTales",
+                    "label": "Helpful Reply",
                     "passageId": 110
                 },
                 {
                     "id": "61157abbb97ca615a6c1a5fd13f546775583a267",
-                    "label": "Doubtful Reply GooseTales",
+                    "label": "Doubtful Reply",
                     "passageId": 111
                 },
                 {
                     "id": "7d05d98170cd47ba0fdde7f0a440e100f43df844",
-                    "label": "Sarcastic Reply GooseTales",
+                    "label": "Sarcastic Reply",
                     "passageId": 112
                 }
             ]
         },
         {
             "pid": 110,
-            "name": "Helpful Reply GooseTales",
+            "name": "Helpful Reply",
             "text": "If your brother is having actual physical issues playing the game, you should probably just turn it off.",
             "tags": [
               {
@@ -2116,7 +2116,7 @@
         },
         {
             "pid": 111,
-            "name": "Doubtful Reply GooseTales",
+            "name": "Doubtful Reply",
             "text": "Why do people come on the internet and tell lies?",
             "tags": [
               {
@@ -2135,7 +2135,7 @@
         },
         {
             "pid": 112,
-            "name": "Sarcastic Reply GooseTales",
+            "name": "Sarcastic Reply",
             "text": "You should try calling the Funtendo Hotline. They have all sorts of tips and tricks to get you through any game.",
             "tags": [
               {
@@ -2199,11 +2199,7 @@
               }
             ],
             "links": [
-                {
-                    "id": "d84fe4d5dacf4631b206a56de64b75dc120484bf",
-                    "label": "Game Blast",
-                    "passageId": 3
-                }
+              
             ]
         },
         {

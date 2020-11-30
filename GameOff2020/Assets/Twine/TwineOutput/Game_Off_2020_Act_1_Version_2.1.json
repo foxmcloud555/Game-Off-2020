@@ -216,29 +216,29 @@
             "links": [
                 {
                     "id": "bb8a84f4d0b0334b218371c9e7357b2b1dd41861",
-                    "label": "Calm Reply GB1",
+                    "label": "Calm Reply",
                     "passageId": 9
                 },
                 {
                     "id": "d96119bb9cdfdd1fd7f917af57d5ea2777ce2680",
-                    "label": "Angry Reply GB1",
+                    "label": "Angry Reply",
                     "passageId": 10
                 },
                 {
                     "id": "b2262f2f92f4ed44df95314c71e165a4d265fd77",
-                    "label": "Sarcastic Reply GB1",
+                    "label": "Sarcastic Reply",
                     "passageId": 11
                 },
                 {
                     "id": "865da7261f7adde5817141d7de834a8833f24fe2",
-                    "label": "Ignore GB1",
+                    "label": "Ignore",
                     "passageId": 12
                 }
             ]
         },
         {
             "pid": 9,
-            "name": "Calm Reply GB1",
+            "name": "Calm Reply",
             "text": "I respect SnideCooper's opinion, but I personally prefer the entertainment and value you get with the Funtendo Y!",
             "tags": [
                 {
@@ -256,7 +256,7 @@
         },
         {
             "pid": 10,
-            "name": "Angry Reply GB1",
+            "name": "Angry Reply",
             "text": "Well, the original, maybe, but the newest model, Tony Play Box 3 has next to no games. Phaze and Knick 2 are not worth $599.99, let alone their own $60 price tag.",
             "tags": [
                 {
@@ -275,7 +275,7 @@
         },
         {
             "pid": 11,
-            "name": "Sarcastic Reply GB1",
+            "name": "Sarcastic Reply",
             "text": "I also like to pay $600 for a paper weight.",
             "tags": [
                 {
@@ -295,7 +295,7 @@
         },
         {
             "pid": 12,
-            "name": "Ignore GB1",
+            "name": "Ignore",
             "text": "I think the Tony Game Box 3 and the Funtendo Y both have their merits! The Tony Game Box 3 has the potential for high definition gaming and media experiences that we just haven't seen before, but the Funtendo Y is bursting at the seams with creativity. I think it's worth grabbing either, OP, or even both consoles if you're working a second job, lol.",
             "tags": [
                 {
@@ -325,29 +325,29 @@
             "links": [
                 {
                     "id": "617833db148f8e613332f0d7fcfe9ab108f87b89",
-                    "label": "Calm Reply GB2",
+                    "label": "Calm Reply",
                     "passageId": 14
                 },
                 {
                     "id": "96fc70a731b17a20ea6831890d43d82c44791c7a",
-                    "label": "Angry Reply GB2",
+                    "label": "Angry Reply",
                     "passageId": 15
                 },
                 {
                     "id": "277f0f187d2a9a120cc3773cd31afd0a0e16a496",
-                    "label": "Sarcastic Reply GB2",
+                    "label": "Sarcastic Reply",
                     "passageId": 16
                 },
                 {
                     "id": "51a7b715e33e0056a800c5165c89ed8ecbc11d95",
-                    "label": "Ignore GB1",
+                    "label": "Ignore",
                     "passageId": 12
                 }
             ]
         },
         {
             "pid": 14,
-            "name": "Calm Reply GB2",
+            "name": "Calm Reply",
             "text": "Haha, we prefer Funtendo Fans or Fantendos. Okay, no, that second one is pretty bad.",
             "tags": [
                 {
@@ -365,7 +365,7 @@
         },
         {
             "pid": 15,
-            "name": "Angry Reply GB2",
+            "name": "Angry Reply",
             "text": "I'm only saying that because I like to play games that aren't shit.",
             "tags": [
                 {
@@ -384,7 +384,7 @@
         },
         {
             "pid": 16,
-            "name": "Sarcastic Reply GB2",
+            "name": "Sarcastic Reply",
             "text": "I'm the drone, yet you're the one producing an automated response.",
             "tags": [
                 {
@@ -404,7 +404,7 @@
         },
         {
             "pid": 17,
-            "name": "Waveracer2099's Email",
+            "name": "Hey, Waveracer2099 here",
             "text": "Hey, sorry about Snide Cooper. He's always like this. Sometimes he goes too far and we get a reprieve from him for a week after the mods drop the banhammer. He sent me this weird link, though. Have you seen anything like this?",
             "tags": [
                 {
@@ -433,24 +433,24 @@
             "links": [
                 {
                     "id": "50515968aeed576e885222a73b619ce1939355fa",
-                    "label": "Angry/Sarcastic Reply GB3",
+                    "label": "Sarcastic Reply",
                     "passageId": 19
                 },
                 {
                     "id": "c4287816ce980d3a3849359e302f15c624307d67",
-                    "label": "Calm Reply GB3",
+                    "label": "Calm Reply",
                     "passageId": 20
                 },
                 {
                     "id": "a0a5177b5cea0406a4b4ea1e31e78c8a08bdadbc",
-                    "label": "Ignore GB1",
+                    "label": "Ignore",
                     "passageId": 12
                 }
             ]
         },
         {
             "pid": 19,
-            "name": "Angry/Sarcastic Reply GB3",
+            "name": "Sarcastic Reply",
             "text": "Yeah, a low IQ.",
             "tags": [
                 {
@@ -470,7 +470,7 @@
         },
         {
             "pid": 20,
-            "name": "Calm Reply GB3",
+            "name": "Calm Reply",
             "text": "Have you tried New Superb Guys Universe? It's genuinely really good and I think you might like it!",
             "tags": [
                 {
@@ -497,22 +497,22 @@
             "links": [
                 {
                     "id": "bd97bc5ca0ae17a4a2db0a7a6eef6c32907d5602",
-                    "label": "Calm Reply GB4",
+                    "label": "Calm Reply",
                     "passageId": 23
                 },
                 {
                     "id": "60581c0001f4424ecdfc363ad0dc754c797d1dae",
-                    "label": "Angry Reply GB4",
+                    "label": "Angry Reply",
                     "passageId": 24
                 },
                 {
                     "id": "b5dc437ea11d6644e7cd62312811f94e40139c6d",
-                    "label": "Sarcastic Reply GB4",
+                    "label": "Sarcastic Reply",
                     "passageId": 25
                 },
                 {
                     "id": "6a5bd36364102f1750ce822394dd4921c32720c6",
-                    "label": "Ignore GB1",
+                    "label": "Ignore",
                     "passageId": 12
                 }
             ]
@@ -529,24 +529,24 @@
             "links": [
                 {
                     "id": "4ab8d3743586c5fa9fb93b5988f7336a0a9f640c",
-                    "label": "Calm Reply GB7",
+                    "label": "Calm Reply",
                     "passageId": 31
                 },
                 {
                     "id": "6c7f760368de7a184d0834a08cae150c4db32d58",
-                    "label": "Angry/Sarcastic Reply GB7",
+                    "label": "Angry Reply",
                     "passageId": 32
                 },
                 {
                     "id": "b7b1cdba09eb71f8026caffab49f4de2a892997a",
-                    "label": "Ignore GB2",
+                    "label": "Ignore",
                     "passageId": 29
                 }
             ]
         },
         {
             "pid": 23,
-            "name": "Calm Reply GB4",
+            "name": "Calm Reply",
             "text": "Brain Bug and Funtendogs were HUGE on the Funtendo GS! Not to mention the slightly more obscure hits like Fire Heart Pep Squad and Father III.",
             "tags": [
                 {
@@ -565,7 +565,7 @@
         },
         {
             "pid": 24,
-            "name": "Angry Reply GB4",
+            "name": "Angry Reply",
             "text": "I see you are COMPLETELY ignoring the Funtendo GS.",
             "tags": [
                 {
@@ -584,7 +584,7 @@
         },
         {
             "pid": 25,
-            "name": "Sarcastic Reply GB4",
+            "name": "Sarcastic Reply",
             "text": "You don't really need to make eight new IP's a month when you have actually good ones to begin with.",
             "tags": [
                 {
@@ -613,24 +613,24 @@
             "links": [
                 {
                     "id": "edc7ffef6de2ae13ddeb950f6a2876b93b2d7fec",
-                    "label": "Calm Reply GB5",
+                    "label": "Calm Reply",
                     "passageId": 27
                 },
                 {
                     "id": "49eb6029b25c7e2c9293ee08432c17c714a55aeb",
-                    "label": "Angry/Sarcastic Reply GB5",
+                    "label": "Angry Reply",
                     "passageId": 28
                 },
                 {
                     "id": "ed4fd8a43db9f1638276b9ecbab17e97b02dbb78",
-                    "label": "Ignore GB2",
+                    "label": "Ignore",
                     "passageId": 29
                 }
             ]
         },
         {
             "pid": 27,
-            "name": "Calm Reply GB5",
+            "name": "Calm Reply",
             "text": "If your sister ever wants to play Superb Guys with me, my Friend Code is 5346 8050 4311!",
             "tags": [
                 {
@@ -651,7 +651,7 @@
         },
         {
             "pid": 28,
-            "name": "Angry/Sarcastic Reply GB5",
+            "name": "Angry Reply",
             "text": "Surprised you're related to someone whose brain isn't cancer. Figured it was genetic.",
             "tags": [
                 {
@@ -670,7 +670,7 @@
         },
         {
             "pid": 29,
-            "name": "Ignore GB2",
+            "name": "Ignore",
             "text": "Looks like I win ANOTHER debate.",
             "tags": [
                 {
@@ -709,7 +709,7 @@
         },
         {
             "pid": 31,
-            "name": "Calm Reply GB7",
+            "name": "Calm Reply",
             "text": "How is Wack Wallaby these days?",
             "tags": [
                 {
@@ -727,7 +727,7 @@
         },
         {
             "pid": 32,
-            "name": "Angry/Sarcastic Reply GB7",
+            "name": "Angry Reply",
             "text": "Why don't you go wack your wallaby?",
             "tags": [
                 {
@@ -784,7 +784,7 @@
         },
         {
             "pid": 35,
-            "name": "SnideCooper's Email Banned Alt",
+            "name": "Thanks, jerk",
             "text": "I can't believe you got me banned! If it wasn't for your Funtendo whining, I wouldn't have lost my posting privileges. This is so stupid. I hope you got banned too. If you did, I guess you can keep posting here:",
             "tags": [
                 {
@@ -1096,7 +1096,7 @@
         },
         {
             "pid": 52,
-            "name": "Nice Reply BBQ1",
+            "name": "Nice Reply",
             "text": "Never thought of this. I'll keep it in mind when I'm in a sticky situation.",
             "tags": [
                 {
@@ -1116,7 +1116,7 @@
         },
         {
             "pid": 53,
-            "name": "Mean Reply BBQ1",
+            "name": "Mean Reply",
             "text": "You don't go on many dates, do you, OP?",
             "tags": [
                 {
@@ -1136,7 +1136,7 @@
         },
         {
             "pid": 54,
-            "name": "Sarcastic Reply BBQ1",
+            "name": "Sarcastic Reply",
             "text": "I know who I'm having over for Memorial Day.",
             "tags": [
                 {
@@ -1198,23 +1198,18 @@
             "links": [
                 {
                     "id": "3eb0547b27adf8813ea7465e44fae8bfdea40fee",
-                    "label": "Calm Reply SF1",
+                    "label": "Calm Reply",
                     "passageId": 66
                 },
                 {
                     "id": "bbc2c417acf321dac27d7cc5dd15be6d5d183cd6",
-                    "label": "Angry Reply SF1",
+                    "label": "Angry Reply",
                     "passageId": 67
                 },
                 {
                     "id": "518ced37c49c8a8ec82ffef8ba6b13e04ae5bbd7",
-                    "label": "Sarcastic Reply SF1",
+                    "label": "Sarcastic Reply",
                     "passageId": 68
-                },
-                {
-                    "id": "5fbc784a7ab283501f84c9782e6f4b8c47681e5f",
-                    "label": "Cool Zone",
-                    "passageId": 2
                 }
             ]
         },
@@ -1257,7 +1252,7 @@
         },
         {
             "pid": 60,
-            "name": "Nice Reply GTR",
+            "name": "Nice Reply",
             "text": "I love alligators.",
             "tags": [
                 {
@@ -1274,7 +1269,7 @@
         },
         {
             "pid": 61,
-            "name": "Mean Reply GTR",
+            "name": "Mean Reply",
             "text": "I hate alligators.",
             "tags": [
                 {
@@ -1291,7 +1286,7 @@
         },
         {
             "pid": 62,
-            "name": "Sarcastic Reply GTR",
+            "name": "Sarcastic Reply",
             "text": "Alligators? moar liek alli lator",
             "tags": [
                 {
@@ -1342,7 +1337,7 @@
         },
         {
             "pid": 65,
-            "name": "gatorh80r email",
+            "name": "Click if you HATE alligators",
             "text": "Here's a website for gatorh80rs like you!",
             "tags": [
                 {
@@ -1361,7 +1356,7 @@
         },
         {
             "pid": 66,
-            "name": "Calm Reply SF1",
+            "name": "Calm Reply",
             "text": "I think what all of us fans need to accept is that these new movies are for a younger generation. I'm pretty sure lots of kids enjoy them!",
             "tags": [
                 {
@@ -1379,7 +1374,7 @@
         },
         {
             "pid": 67,
-            "name": "Angry Reply SF1",
+            "name": "Angry Reply",
             "text": "Wow, you call yourself a \"true fan\", but there are SO MANY mistakes in your post. First off, Queen Azalea's death represented the death of The Federal Democracy. It's basic symbolism. The same goes for Jars, that's Skyhopper turning his back to his past and become Dark Vande (Which you've misspelled in your username because of course you have).And I'm sorry, but if you didn't get the filibuster scene, then you just lack basic cinematic literacy. Guess there weren't enough explosions in that part for you (Only the one at the end). That whole portion of the movie is the key to the ENTIRE saga, including the originals!",
             "tags": [
                 {
@@ -1398,7 +1393,7 @@
         },
         {
             "pid": 68,
-            "name": "Sarcastic Reply SF1",
+            "name": "Sarcastic Reply",
             "text": "I also like to spend my free time whining about children's movies.",
             "tags": [
                 {
@@ -1427,29 +1422,24 @@
             "links": [
                 {
                     "id": "56048d7bf18d1ae59a0cc16968ec24a7cd9c568a",
-                    "label": "Calm Reply SF2",
+                    "label": "Calm Reply",
                     "passageId": 70
                 },
                 {
                     "id": "05f669e1fc778e5480affc05a621c94a0150975d",
-                    "label": "Angry Reply SF2",
+                    "label": "Angry Reply",
                     "passageId": 71
                 },
                 {
                     "id": "94b851476eab183f6ddef1d9566ee51462cb77d7",
-                    "label": "Sarcastic Reply SF2",
+                    "label": "Sarcastic Reply",
                     "passageId": 72
-                },
-                {
-                    "id": "a9b0137fcd838706de05460d5b958624c5aff66f",
-                    "label": "Cool Zone",
-                    "passageId": 2
                 }
             ]
         },
         {
             "pid": 70,
-            "name": "Calm Reply SF2",
+            "name": "Calm Reply",
             "text": "It's okay to like stuff for kids! I'm a big Funtendo fan, and I'm glad they still make their stuff with kids in mind.",
             "tags": [
                 {
@@ -1468,7 +1458,7 @@
         },
         {
             "pid": 71,
-            "name": "Angry Reply SF2",
+            "name": "Angry Reply",
             "text": "I like them, but they're baby movies for babies.",
             "tags": [
                 {
@@ -1486,7 +1476,7 @@
         },
         {
             "pid": 72,
-            "name": "Sarcastic Reply SF2",
+            "name": "Sarcastic Reply",
             "text": "Same-tier of sprawling epic as the sagas of Care Hares and My Miniature Equine.",
             "tags": [
                 {
@@ -1514,23 +1504,18 @@
             "links": [
                 {
                     "id": "dfddfcb630a3f694e0eb4ed3b4ab5c66e9609091",
-                    "label": "Calm Reply SF3",
+                    "label": "Calm Reply",
                     "passageId": 120
                 },
                 {
                     "id": "9c132b8fe2a567ab05d043dd5157a36c170948f9",
-                    "label": "Angry Reply SF3",
+                    "label": "Angry Reply",
                     "passageId": 121
                 },
                 {
                     "id": "8e30e64c1425c7852df661053bb8a82c5b85d2c8",
-                    "label": "Sarcastic Reply SF3",
+                    "label": "Sarcastic Reply",
                     "passageId": 122
-                },
-                {
-                    "id": "93592a5c53484ab56464663a72503673730c62a5",
-                    "label": "Cool Zone",
-                    "passageId": 2
                 }
             ]
         },
@@ -1819,17 +1804,17 @@
             "links": [
                 {
                     "id": "d0ca776dbbf4ebb93375e809f869528a8a605425",
-                    "label": "Nice Reply BBQ1",
+                    "label": "Nice Reply",
                     "passageId": 52
                 },
                 {
                     "id": "eaac770e2de61dd6494138942d1c524fa4303912",
-                    "label": "Mean Reply BBQ1",
+                    "label": "Mean Reply",
                     "passageId": 53
                 },
                 {
                     "id": "12fa27d8c1ddfcb3506dc3f456e723cd572dba6e",
-                    "label": "Sarcastic Reply BBQ1",
+                    "label": "Sarcastic Reply",
                     "passageId": 54
                 }
             ]
@@ -1980,17 +1965,17 @@
             "links": [
                 {
                     "id": "72a8c0f74a24d425fd2bcba27fb5d38d6e0ff9a9",
-                    "label": "Nice Reply GTR",
+                    "label": "Nice Reply",
                     "passageId": 60
                 },
                 {
                     "id": "6ddc2af6894f4e240a824b4715d9cf36b9ab6167",
-                    "label": "Mean Reply GTR",
+                    "label": "Mean Reply",
                     "passageId": 61
                 },
                 {
                     "id": "244978b0ed4b3d0974a733a57c1eb93e7e5258ad",
-                    "label": "Sarcastic Reply GTR",
+                    "label": "Sarcastic Reply",
                     "passageId": 62
                 }
             ]
@@ -2113,29 +2098,24 @@
             "links": [
                 {
                     "id": "02af5a3130138a7bb9d9ee4482e775d622d0fd50",
-                    "label": "Calm Reply SF4",
+                    "label": "Calm Reply",
                     "passageId": 107
                 },
                 {
                     "id": "68b1ff59f8f31ba5c5706514eefd6a1075ee9c70",
-                    "label": "Angry Reply SF6",
+                    "label": "Angry Reply",
                     "passageId": 110
                 },
                 {
                     "id": "2c3562fad01937fc6635dd2b87b891bb36883374",
-                    "label": "Sarcastic Reply SF6",
+                    "label": "Sarcastic Reply",
                     "passageId": 111
-                },
-                {
-                    "id": "0509d0a657d827ed5f6ec21fabb2e2c831b88395",
-                    "label": "Cool Zone",
-                    "passageId": 2
                 }
             ]
         },
         {
             "pid": 107,
-            "name": "Calm Reply SF4",
+            "name": "Calm Reply",
             "text": "Maybe you should log off for a bit?",
             "tags": [
                 {
@@ -2163,29 +2143,29 @@
             "links": [
                 {
                     "id": "77a6362ce0df6ae8024e4431b1142b21f62b4596",
-                    "label": "Calm Reply SF6",
+                    "label": "Calm Reply",
                     "passageId": 109
                 },
                 {
                     "id": "1abef346960c3886d0ebd4e977f258caed4bb2b7",
-                    "label": "Angry Reply SF6",
+                    "label": "Angry Reply",
                     "passageId": 110
                 },
                 {
                     "id": "2e461f5b36f404cfab636accaab359ea40eb71ef",
-                    "label": "Sarcastic Reply SF6",
+                    "label": "Sarcastic Reply",
                     "passageId": 111
                 },
                 {
                     "id": "80d9e759d707cdf2dbc5b13b7987d92e921fc615",
-                    "label": "Ignore SF6",
+                    "label": "Ignore",
                     "passageId": 112
                 }
             ]
         },
         {
             "pid": 109,
-            "name": "Calm Reply SF6",
+            "name": "Calm Reply",
             "text": "I'm going to end this here, but if you really want to talk about The Space Force Saga, you should really grow up a bit and learn to have actual conversations.",
             "tags": [
                 {
@@ -2206,7 +2186,7 @@
         },
         {
             "pid": 110,
-            "name": "Angry Reply SF6",
+            "name": "Angry Reply",
             "text": "Yeah, I'll piss off when you realize you're too much of a dumbass to understand a bunch of kids movies.",
             "tags": [
                 {
@@ -2224,7 +2204,7 @@
         },
         {
             "pid": 111,
-            "name": "Sarcastic Reply SF6",
+            "name": "Sarcastic Reply",
             "text": "Yeah, I can feel the brain cells slipping by the second.",
             "tags": [
                 {
@@ -2242,7 +2222,7 @@
         },
         {
             "pid": 112,
-            "name": "Ignore SF6",
+            "name": "Ignore",
             "text": "That's what I thought piss wanker.",
             "tags": [
                 {
@@ -2314,7 +2294,7 @@
         },
         {
             "pid": 116,
-            "name": "Reply SF6",
+            "name": "Reply",
             "text": "\"Space Force is a film for 12 year olds.\" - Lucas George",
             "tags": [
                 {
@@ -2333,7 +2313,7 @@
         },
         {
             "pid": 117,
-            "name": "Lucas George Tells All",
+            "name": "Reply",
             "text": "Source: Home Scape \n\"In Anaheim, CA, the year's largest gathering of geeks, nerds, and fans of a good time at the movies took place. Space Force Fest 5 brought together this collection of enthusiasts to celebrate the latest release in the Space Force series. We sat down to speak with the one and only, Lucas George, creator of the Space Force Saga.\n\nHome Scape: Thanks for taking time out of your busy schedule to sit with us, Luke. Can we call you Luke?\n\nLucas George: You shouldn't.\n\nHome Scape: Alright, Luke! First question, what do you have to say to fans who think these new Space Force movies aren't as good as the originals?\n\nLucas George: I think they can be safely ignored.\n\nHome Scape: Ignored? Your most loyal fans?\n\nLucas George: Space Force is a film for 12 year olds. Those are my most loyal fans, not sweaty 30-year olds whose only bathing soap is an unopened bottle of Jars Bath Bubbles.\n\nHome Scape: Some people would say that the most recent films are too political for children. What do you have to say to that?\n\nLucas George: I think politics have been too childish for adults.\n\nHome Scape: Before you go, can I ask you about the rumored sequel trilogy to the original Space Force trilogy? Any plans on making those?\n\nLucas George: Why would I tell you that?\n\nHome Scape: Thanks, Luke!\"",
             "tags": [
                 {
@@ -2350,7 +2330,7 @@
         },
         {
             "pid": 118,
-            "name": "Back to Cool Zone",
+            "name": "Reply",
             "text": "I see you've suddenly gone silent.",
             "tags": [
                 {
@@ -2370,7 +2350,7 @@
         },
         {
             "pid": 119,
-            "name": "DarkVandee Email",
+            "name": "Fake fan",
             "text": "I can't believe someone who supposedly likes Space Force can be so wrong on everything about it. Read this to get the REAL story on Space Force: ",
             "tags": [
                 {
@@ -2389,7 +2369,7 @@
         },
         {
             "pid": 120,
-            "name": "Calm Reply SF3",
+            "name": "Calm Reply",
             "text": "There's a lot of stuff in the Space Force series that's contradicted by whatever came out next. That one is an easy hand wave as \"They built it together in spirit. Paella working from the legacy of her mother.\"",
             "tags": [
                 {
@@ -2407,7 +2387,7 @@
         },
         {
             "pid": 121,
-            "name": "Angry Reply SF3",
+            "name": "Angry Reply",
             "text": "That was in a video game! Video games aren't canon.",
             "tags": [
                 {
@@ -2425,7 +2405,7 @@
         },
         {
             "pid": 122,
-            "name": "Sarcastic Reply SF3",
+            "name": "Sarcastic Reply",
             "text": "How can all those explosions cause sound if they're in space?",
             "tags": [
                 {
@@ -2454,29 +2434,29 @@
             "links": [
                 {
                     "id": "a2f32f7147813690c1268b4b8dd5733bb359c17e",
-                    "label": "Calm Reply SF6",
+                    "label": "Calm Reply",
                     "passageId": 109
                 },
                 {
                     "id": "764a94c7f887497f68324ea7a11145ddd5446d36",
-                    "label": "Angry Reply SF8",
+                    "label": "Angry Reply",
                     "passageId": 124
                 },
                 {
                     "id": "0d6a881fef6a3251c67e96e9a909fb58bf7b2da0",
-                    "label": "Sarcastic Reply SF6",
+                    "label": "Sarcastic Reply",
                     "passageId": 111
                 },
                 {
                     "id": "dc3c3af6833fdf88f5ce73154d8f5f8d93b62b63",
-                    "label": "Ignore SF6",
+                    "label": "Ignore",
                     "passageId": 112
                 }
             ]
         },
         {
             "pid": 124,
-            "name": "Angry Reply SF8",
+            "name": "Angry Reply",
             "text": "And it's dumbasses like you who think that resurrecting Supreme Lord Cheev is the pinnacle of storytelling that are ruining the Space Force Extended Universe.",
             "tags": [
                 {
@@ -2505,29 +2485,29 @@
             "links": [
                 {
                     "id": "565f43ad9b58d63558a548517bb9d94658f2223a",
-                    "label": "Calm Reply SF6",
+                    "label": "Calm Reply",
                     "passageId": 109
                 },
                 {
                     "id": "3f1761cea502d9b1d47757cc90f84ed63b5095ff",
-                    "label": "Angry Reply SF9",
+                    "label": "Angry Reply",
                     "passageId": 126
                 },
                 {
                     "id": "169bcff5dc3060ef48d935bf4c7db275104204b7",
-                    "label": "Sarcastic Reply SF6",
+                    "label": "Sarcastic Reply",
                     "passageId": 111
                 },
                 {
                     "id": "f1ef034f5ed8bb14dcbbf1515dabe4199d2a486b",
-                    "label": "Ignore SF9",
+                    "label": "Ignore",
                     "passageId": 127
                 }
             ]
         },
         {
             "pid": 126,
-            "name": "Angry Reply SF9",
+            "name": "Angry Reply",
             "text": "Yeah, the Space Force Easter Special starring Jaxx Rabbit the Bunny Bounty Hunter was perfection.",
             "tags": [
                 {
@@ -2541,7 +2521,7 @@
         },
         {
             "pid": 127,
-            "name": "Ignore SF9",
+            "name": "Ignore",
             "text": "",
             "tags": [
                 {
