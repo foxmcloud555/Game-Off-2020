@@ -23,7 +23,10 @@ namespace StoryProgress.Emails
         void Start()
         {
             int emailsCount = 0;
-            foreach (var email in storyEmails)
+            List<EmailStruct> reverse = storyEmails;
+            reverse.Reverse();
+            
+            foreach (var email in reverse)
             {
                 var emailObject = Instantiate(emailPrefab, emailParent, false);
                 emailObject.transform.localScale = Vector3.one;
