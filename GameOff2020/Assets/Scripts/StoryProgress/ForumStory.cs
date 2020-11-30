@@ -22,7 +22,7 @@ namespace StoryProgress
 
         public TwineParser parser;
 
-        [Header("User Avatars")] public Texture2D[] avatars;
+        private Texture2D[] avatars;
 
         private double timer = 0;
         private TwineParser.StoryNode currentNode;
@@ -34,6 +34,7 @@ namespace StoryProgress
 
         public void Start()
         {
+            avatars = Resources.LoadAll<Texture2D>("avatars");
             SetAct();
             passageIDs = new List<int>();
             parser = GameObject.Find("Browser").GetComponent<TwineParser>();
@@ -84,11 +85,22 @@ namespace StoryProgress
         public void CreatePost(TwineParser.StoryNode node)
         {
             var post = Instantiate(forumPost, forumBoard.transform);
-            var text = post.transform.GetChild(1).GetComponent<Text>();
-            text.text = node.text;
+            
             var avatar = post.GetComponentInChildren<RawImage>();
-            avatar.texture = avatars.FirstOrDefault(a => String.Equals(a.name, node.username, StringComparison.CurrentCultureIgnoreCase));
-            avatar.GetComponentInChildren<Text>().text = node.username;
+            if (avatar)
+            {
+                var text = post.transform.GetChild(1).GetComponent<Text>();
+                text.text = node.text;
+                avatar.texture = avatars.FirstOrDefault(a => String.Equals(a.name, node.username, StringComparison.CurrentCultureIgnoreCase));
+                avatar.GetComponentInChildren<Text>().text = node.username;
+            }
+            else
+            {
+                post.transform.GetChild(0).GetComponent<Text>().text = node.name;
+                post.transform.GetChild(1).GetComponent<Text>().text = node.username; 
+                post.transform.GetChild(2).GetComponent<Text>().text = node.text;
+            }
+            
             passageIDs.Add(currentNode.pid);
         }
     
@@ -140,6 +152,7 @@ namespace StoryProgress
         {
             timer += 0.01;
             if ((!(timer > 10) || !nextPostReady) && !autoPost) return;
+            
             if (currentNode.trigger == "end")
             {
                 if (scenesComplete.ContainsKey(currentNode.pid))
@@ -150,6 +163,7 @@ namespace StoryProgress
                 GameController.Acts.Add(new GameController.StoryAct(start, passageIDs, true));
                 nextPostReady = false;
                 SendEmailIfNecessary(currentNode);
+                GameController.CheckEmails();
                     
                 //TODO check if next post is email!
                     
@@ -157,7 +171,7 @@ namespace StoryProgress
             }
             
             //if (!String.Equals(currentNode.username, characterToReplyTo, StringComparison.CurrentCultureIgnoreCase))
-            if (currentNode.links == null || currentNode.links.Count < 2)
+            if (currentNode.links.Count < 2)
             {
                 ProgressConvo(); 
             }
@@ -187,6 +201,9 @@ namespace StoryProgress
                 var link = node.links[0];
                 node = _nodes.Find(n => n.pid == link.passageID);
                 EmailsBehaviour.CreateEmail(node);
+                var audioPlayer = gameObject.AddComponent<AudioSource>();
+                audioPlayer.clip = Resources.Load<AudioClip>("email/e-mail");
+                audioPlayer.Play();
             }
         }
 

@@ -17,6 +17,7 @@ public class TwineParser : MonoBehaviour
     public void parseJSON(int actNumber)
     {
         storyNodes = new List<StoryNode>();
+        if (storyFiles.Length  == 0) return;
         JObject o1 = JObject.Parse(storyFiles[actNumber - 1].ToString());
 
         var passages = o1["passages"];
@@ -42,7 +43,11 @@ public class TwineParser : MonoBehaviour
             node.links = new List<StoryLink>();
             var linksJSON = passage["links"]?.ToList();
 
-            var stringy = linksJSON.ToString();
+            if (node.pid == 152)
+            {
+                Debug.Log("guhh");
+            }
+            
             if (!linksJSON.Any() || linksJSON[0].ToString() == "{}" )
             {
                 node.trigger = "end";

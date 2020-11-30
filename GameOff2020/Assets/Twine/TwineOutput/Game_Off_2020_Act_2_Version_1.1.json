@@ -10,7 +10,7 @@
         {
             "pid": 1,
             "name": "The Forbidden Website",
-            "text": "(Is a big red on red pentagram)\nThis place is not a place of honor... no highly esteemed deed is commemorated here... nothing valued is here.\nWhat is here was dangerous and repulsive to us. This message is a warning about danger.\n(This triggers the scene with the tentacles and adds glitches to the screen)\n",
+            "text": "This place is not a place of honor... no highly esteemed deed is commemorated here... nothing valued is here.\nWhat is here was dangerous and repulsive to us. This message is a warning about danger.\n",
             "tags": [],
             "links": [
                 {
@@ -788,7 +788,8 @@
             "text": "",
             "tags": [
               {
-                "user": "IMAGE OF BOBO"
+                "user": "BOBO",
+                "image": "Bobo"
               }
             ],
             "links": [
@@ -1063,7 +1064,8 @@
             "text": "(Picture of Eisheth, Queen of Lust}\nDo these please you?",
             "tags": [
               {
-                "user": "Eisheth"
+                "user": "Eisheth",
+                "image": "demonlady"
               }
             ],
             "links": [
@@ -2016,11 +2018,12 @@
         {
             "pid": 106,
             "name": "My copy of GooseTales is borked",
-            "text": "I found a near mint GooseTales cartridge for the original Funtendo at a garage sale awhile back. It was working just fine until I got to the moon level. That's where everything got really freaky. Weird graphical glitches started happening, the characters weren't controlling right, and the iconic music was all distorted.\nMy little brother is playing it right now, but this is what it looked like. I can't find any screenshots like this online.\n(Distorted GooseTales screenshot)",
+            "text": "I found a near mint GooseTales cartridge for the original Funtendo at a garage sale awhile back. It was working just fine until I got to the moon level. That's where everything got really freaky. Weird graphical glitches started happening, the characters weren't controlling right, and the iconic music was all distorted.\nMy little brother is playing it right now, but this is what it looked like. I can't find any screenshots like this online.\n",
             "tags": [
               {
                 "user": "RetroLyfe",
-                "trigger": "start"
+                "trigger": "start",
+                "image": "GooseTales"
               }
             ],
             "links": [
@@ -2325,10 +2328,11 @@
         {
             "pid": 123,
             "name": "Polybius P5",
-            "text": "(Picture of a Polybius arcade cabinet)",
+            "text": "",
             "tags": [
               {
-                "user": "LegendOfSolitaire"
+                "user": "LegendOfSolitaire",
+                "image": "polybius"
               }
             ],
             "links": [
@@ -2390,10 +2394,11 @@
         {
             "pid": 127,
             "name": "This is my aesthetic",
-            "text": "(Small pixelated image of a Mario-like character in front of a much larger pink background)",
+            "text": "",
             "tags": [
               {
-                "user": "yorpyknight"
+                "user": "yorpyknight",
+                "image": "aesthetic"
               }
             ],
             "links": [
@@ -2472,7 +2477,7 @@
         {
             "pid": 132,
             "name": "HEXORZ P5",
-            "text": "No, it's real. I found the link.",
+            "text": "No, it's real. I found the link. I'll copy and paste it here.",
             "tags": [
               {
                 "user": "StarFresh"
@@ -2488,11 +2493,11 @@
         },
         {
             "pid": 133,
-            "name": "HEXORZ Home Scape Article",
-            "text": "The popular online game, HEXORZ, has taken another life today. The game, created by Silicon Valley startup, AIWAZ, is massively multiplayer online game played by millions of users. The game made national headlines earlier this year when a teenage boy was found murdered over the game. What was initially thought to be the result of a dispute between two users, was actually a preordained sacrifice made in the name of the game.\nWhile AIWAZ was quick to deny that their game encourages ritual sacrifice, much of the material found in the game has been considered disturbing and inappropriate for children by Electronic Video Games Ratings Board. Many in-game groups, called covens, have begun treating the game's story and lore as a religion of swords. Multiple Scandanavian countries have even officially recognized the game as a religion.</p>\n<p>This latest HEXORZ death is a most peculiar incident. While the previous HEXORZ victim was found in the woods, this victim was found alone at their computer, still logged into the game. According to the evidence at the scene, the player's in-game character had just been \"hexed\" by another user. Was this a coincidence or is something more nefarious at foot?",
+            "name": "StarFresh",
+            "text": "\"The popular online game, HEXORZ, has taken another life today. The game, created by Silicon Valley startup, AIWAZ, is massively multiplayer online game played by millions of users. The game made national headlines earlier this year when a teenage boy was found murdered over the game. What was initially thought to be the result of a dispute between two users, was actually a preordained sacrifice made in the name of the game.\nWhile AIWAZ was quick to deny that their game encourages ritual sacrifice, much of the material found in the game has been considered disturbing and inappropriate for children by Electronic Video Games Ratings Board. Many in-game groups, called covens, have begun treating the game's story and lore as a religion of swords. Multiple Scandanavian countries have even officially recognized the game as a religion.\nThis latest HEXORZ death is a most peculiar incident. While the previous HEXORZ victim was found in the woods, this victim was found alone at their computer, still logged into the game. According to the evidence at the scene, the player's in-game character had just been \"hexed\" by another user. Was this a coincidence or is something more nefarious at foot?\"",
             "tags": [
               {
-                "user":"Home Scape News"
+                "user":"StarFresh"
               }
             ],
             "links": [
@@ -2794,7 +2799,8 @@
             "tags": [
               {
                 "user": "Home Scape News",
-                "trigger": "start"
+                "trigger": "start",
+                "image": "bort"
               }
             ],
             "links": [
@@ -2812,7 +2818,8 @@
             "tags": [
               {
                 "user": "Home Scape News",
-                "trigger": "start"
+                "trigger": "start",
+                "image":"moon_tablet"
               }
             ],
             "links": [
@@ -2835,7 +2842,8 @@
             "tags": [
               {
                 "user": "Home Scape News",
-                "trigger": "start"
+                "trigger": "start",
+                "image": "goat"
               }
             ],
             "links": [
@@ -2871,7 +2879,8 @@
             "tags": [
               {
                 "user": "Leraje-Online",
-                "trigger": "start"
+                "trigger": "start",
+                "image": "leraje1"
               }
             ],
             "links": [
@@ -2885,9 +2894,10 @@
         {
             "pid": 156,
             "name": "Leraje Online Website",
-            "text": "(Image of the game with logo and same lusty girl artwork)",
+            "text": "",
             "tags": [
               {
+                "image": "leraje2",
                 "user": "Leraje-Online",
                 "virus":"scrambled",
                 "act2storyVariable":1,

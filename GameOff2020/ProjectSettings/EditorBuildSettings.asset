@@ -17,4 +17,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/E-Mail.unity
     guid: d176c433651c1064793f9269aafcf571
+  - enabled: 1
+    path: Assets/Scenes/Cool Zone Act 2.unity
+    guid: a8b458fbef54a9e45a7f447a89e3ad55
+  - enabled: 1
+    path: Assets/Scenes/Cool Zone.unity
+    guid: 56857862081c9ce43a963f0d733bfe58
+  - enabled: 1
+    path: Assets/Scenes/Game Blast Act 2.unity
+    guid: ebd0975850c39d64198ed4275690f7d2
+  - enabled: 1
+    path: Assets/Scenes/Home Scape.unity
+    guid: 6961f3d89793f154b88f790775416217
   m_configObjects: {}
