@@ -193,7 +193,7 @@ namespace StoryProgress
 
                 return;
             }
-            if ((!(timer > 10) || !nextPostReady) && !autoPost) return;
+            if ((!(timer > 1) || !nextPostReady) && !autoPost) return;
             //if (!String.Equals(currentNode.username, characterToReplyTo, StringComparison.CurrentCultureIgnoreCase))
             if (currentNode.links.Count < 2)
             {
