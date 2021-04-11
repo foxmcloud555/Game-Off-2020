@@ -791,7 +791,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 2
-  m_Size: {x: 17.814102, y: 11.19}
+  m_Size: {x: 50, y: 50}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -845,10 +845,10 @@ RectTransform:
   m_Father: {fileID: 887503943}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -334.90002, y: 84.399994}
-  m_SizeDelta: {x: -677.84, y: -281.79}
+  m_AnchorMin: {x: 0, y: 0.90000004}
+  m_AnchorMax: {x: 0, y: 0.90000004}
+  m_AnchoredPosition: {x: 65.099976, y: -95.600006}
+  m_SizeDelta: {x: 122.15997, y: 168.20999}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2147445417
 MonoBehaviour:
@@ -865,7 +865,6 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -1253,6 +1252,11 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7759638370336858140, guid: 29b577cef410250449c6050816c88946,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7759638370921492835, guid: 29b577cef410250449c6050816c88946,
         type: 3}
       propertyPath: m_SizeDelta.y
@@ -1271,6 +1275,31 @@ PrefabInstance:
     - target: {fileID: 7759638371195044419, guid: 29b577cef410250449c6050816c88946,
         type: 3}
       propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7759638371195044419, guid: 29b577cef410250449c6050816c88946,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7759638371195044419, guid: 29b577cef410250449c6050816c88946,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7759638371195044419, guid: 29b577cef410250449c6050816c88946,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7759638371195044419, guid: 29b577cef410250449c6050816c88946,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7759638371195044419, guid: 29b577cef410250449c6050816c88946,
+        type: 3}
+      propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
